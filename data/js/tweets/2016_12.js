@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 25 20:26:12 +0000 2016",
+		"id": 813118670423593000,
+		"id_str": "813118670423592960",
+		"text": "RT @SirWilliamD: I give you Old Father Christmas c.1652 as depicted in John Taylor's pamphlet 'The Vindication of Christmas' printed the fo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SirWilliamD",
+					"name": "Sir William Davenant",
+					"id": 350341283,
+					"id_str": "350341283",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer living in Crete. Interests in mind, consciousness, reasoning, belief. Tweeting philosophy of mind, cog sci, Greece, links, & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5624,
+			"friends_count": 1411,
+			"listed_count": 416,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 8066,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1403808589",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 25 09:14:09 +0000 2016",
+			"id": 812949543788675100,
+			"id_str": "812949543788675072",
+			"text": "I give you Old Father Christmas c.1652 as depicted in John Taylor's pamphlet 'The Vindication of Christmas' printed… https://t.co/zCHUVunBtc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zCHUVunBtc",
+						"expanded_url": "https://twitter.com/i/web/status/812949543788675072",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 350341283,
+				"id_str": "350341283",
+				"name": "Sir William Davenant",
+				"screen_name": "SirWilliamD",
+				"location": "Westminster Abbey",
+				"description": "Reborne in modern times I tweet from beyond the grave. Mention not the nose! Late of old London... Tweeting in a private capacity &c. &c.",
+				"url": "https://t.co/uYfI2CRqEd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uYfI2CRqEd",
+								"expanded_url": "http://spenserians.cath.vt.edu/BiographyRecord.php?action=GET&bioid=33268",
+								"display_url": "spenserians.cath.vt.edu/BiographyRecor…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10476,
+				"friends_count": 854,
+				"listed_count": 324,
+				"created_at": "Sun Aug 07 16:24:22 +0000 2011",
+				"favourites_count": 24207,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24787,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/306653941/Dukes_theatre.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/306653941/Dukes_theatre.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699533878298595328/heqzawYU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699533878298595328/heqzawYU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350341283/1452753977",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 25 16:42:49 +0000 2016",
+		"id": 813062453701595100,
+		"id_str": "813062453701595136",
+		"text": "RT @aflashbak: Death of the Sun, Moon and Stars Falling by Cristoforo de Predis, (1440-1486) via Stephen Ellcock https://t.co/wxQCh9MY2r",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aflashbak",
+					"name": "Flashbak.com",
+					"id": 2509793780,
+					"id_str": "2509793780",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 813060984952815600,
+					"id_str": "813060984952815616",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/C0iSqHTXgAAtBnz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0iSqHTXgAAtBnz.jpg",
+					"url": "https://t.co/wxQCh9MY2r",
+					"display_url": "pic.twitter.com/wxQCh9MY2r",
+					"expanded_url": "https://twitter.com/aflashbak/status/813060993471442944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 736,
+							"h": 548,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 548,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 813060993471443000,
+					"source_status_id_str": "813060993471442944",
+					"source_user_id": 2509793780,
+					"source_user_id_str": "2509793780"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 813060984952815600,
+					"id_str": "813060984952815616",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/C0iSqHTXgAAtBnz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0iSqHTXgAAtBnz.jpg",
+					"url": "https://t.co/wxQCh9MY2r",
+					"display_url": "pic.twitter.com/wxQCh9MY2r",
+					"expanded_url": "https://twitter.com/aflashbak/status/813060993471442944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 736,
+							"h": 548,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 548,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 813060993471443000,
+					"source_status_id_str": "813060993471442944",
+					"source_user_id": 2509793780,
+					"source_user_id_str": "2509793780"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer living in Crete. Interests in mind, consciousness, reasoning, belief. Tweeting philosophy of mind, cog sci, Greece, links, & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5624,
+			"friends_count": 1411,
+			"listed_count": 416,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 8066,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1403808589",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 25 16:37:01 +0000 2016",
+			"id": 813060993471443000,
+			"id_str": "813060993471442944",
+			"text": "Death of the Sun, Moon and Stars Falling by Cristoforo de Predis, (1440-1486) via Stephen Ellcock https://t.co/wxQCh9MY2r",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 813060984952815600,
+						"id_str": "813060984952815616",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/C0iSqHTXgAAtBnz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0iSqHTXgAAtBnz.jpg",
+						"url": "https://t.co/wxQCh9MY2r",
+						"display_url": "pic.twitter.com/wxQCh9MY2r",
+						"expanded_url": "https://twitter.com/aflashbak/status/813060993471442944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 736,
+								"h": 548,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 506,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 736,
+								"h": 548,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 813060984952815600,
+						"id_str": "813060984952815616",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/C0iSqHTXgAAtBnz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0iSqHTXgAAtBnz.jpg",
+						"url": "https://t.co/wxQCh9MY2r",
+						"display_url": "pic.twitter.com/wxQCh9MY2r",
+						"expanded_url": "https://twitter.com/aflashbak/status/813060993471442944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 736,
+								"h": 548,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 506,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 736,
+								"h": 548,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2509793780,
+				"id_str": "2509793780",
+				"name": "Flashbak.com",
+				"screen_name": "aflashbak",
+				"location": "",
+				"description": "EVERYTHING OLD IS NEW AGAIN - people, life and culture from 20th Century history and beyond",
+				"url": "http://t.co/QklwQCeZ1f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QklwQCeZ1f",
+								"expanded_url": "http://www.flashbak.com",
+								"display_url": "flashbak.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10430,
+				"friends_count": 336,
+				"listed_count": 232,
+				"created_at": "Tue May 20 09:04:29 +0000 2014",
+				"favourites_count": 1790,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17360,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/708241605061386240/7d8dFMW0.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/708241605061386240/7d8dFMW0.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/807194132993208320/6QEWG_OJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/807194132993208320/6QEWG_OJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2509793780/1457693066",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 24 22:53:18 +0000 2016",
 		"id": 812793301208354800,
 		"id_str": "812793301208354817",
