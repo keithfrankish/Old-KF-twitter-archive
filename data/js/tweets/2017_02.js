@@ -1,6 +1,1808 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 24 22:05:36 +0000 2017",
+		"id": 835249342739017700,
+		"id_str": "835249342739017731",
+		"text": "RT @TheEconomist: Once, British students competed for a limited number of spaces. Now, universities are fighting to enrol them https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheEconomist",
+					"name": "The Economist",
+					"id": 5988062,
+					"id_str": "5988062",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer living in Crete. Interests in mind, consciousness, reasoning, belief. Tweeting philosophy of mind, cog sci, Greece, links, & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5798,
+			"friends_count": 1445,
+			"listed_count": 420,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 8935,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1403808589",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 24 21:41:19 +0000 2017",
+			"id": 835243232980320300,
+			"id_str": "835243232980320260",
+			"text": "Once, British students competed for a limited number of spaces. Now, universities are fighting to enrol them https://t.co/EvoJmnQxxt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EvoJmnQxxt",
+						"expanded_url": "http://econ.st/2kUHhJD",
+						"display_url": "econ.st/2kUHhJD",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5988062,
+				"id_str": "5988062",
+				"name": "The Economist",
+				"screen_name": "TheEconomist",
+				"location": "London",
+				"description": "News and analysis with a global perspective.  Subscribe here: https://t.co/owztJzwlmm",
+				"url": "https://t.co/pN0OAmG4SP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pN0OAmG4SP",
+								"expanded_url": "http://www.economist.com",
+								"display_url": "economist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/owztJzwlmm",
+								"expanded_url": "http://econ.st/2eqtp7o",
+								"display_url": "econ.st/2eqtp7o",
+								"indices": [
+									62,
+									85
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18711907,
+				"friends_count": 158,
+				"listed_count": 107486,
+				"created_at": "Sat May 12 13:04:50 +0000 2007",
+				"favourites_count": 292,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 98487,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "DFDFDF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/845392952/963b46728d3607fe369457e527b9d62e.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/845392952/963b46728d3607fe369457e527b9d62e.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/461499742950678528/2JnpHjUo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/461499742950678528/2JnpHjUo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5988062/1487850243",
+				"profile_link_color": "313331",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "2C2E2D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 136,
+			"favorite_count": 137,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 24 21:42:18 +0000 2017",
+		"id": 835243480968462300,
+		"id_str": "835243480968462337",
+		"text": "@matthaig1 You can officially say it when you're officially forbidden from saying it, so, yes, it's getting there.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "matthaig1",
+					"name": "Matt Haig",
+					"id": 35270579,
+					"id_str": "35270579",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 835242300825555000,
+		"in_reply_to_status_id_str": "835242300825554954",
+		"in_reply_to_user_id": 35270579,
+		"in_reply_to_user_id_str": "35270579",
+		"in_reply_to_screen_name": "matthaig1",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer living in Crete. Interests in mind, consciousness, reasoning, belief. Tweeting philosophy of mind, cog sci, Greece, links, & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5798,
+			"friends_count": 1445,
+			"listed_count": 420,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 8935,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1403808589",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 24 21:37:47 +0000 2017",
+		"id": 835242342185635800,
+		"id_str": "835242342185635841",
+		"text": "I assume the engraving is meant to illustrate what happens when there's a lack of mutual respect. https://t.co/pkY8GBMlIp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pkY8GBMlIp",
+					"expanded_url": "https://twitter.com/GirlsOwn/status/835199524796784640",
+					"display_url": "twitter.com/GirlsOwn/statu…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer living in Crete. Interests in mind, consciousness, reasoning, belief. Tweeting philosophy of mind, cog sci, Greece, links, & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5798,
+			"friends_count": 1445,
+			"listed_count": 420,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 8935,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1403808589",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 835199524796784600,
+		"quoted_status_id_str": "835199524796784640",
+		"quoted_status": {
+			"created_at": "Fri Feb 24 18:47:38 +0000 2017",
+			"id": 835199524796784600,
+			"id_str": "835199524796784640",
+			"text": "There can be no happiness in married life without mutual respect as the foundation https://t.co/3rtWtKh1UE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 835199511458951200,
+						"id_str": "835199511458951169",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/C5c5h9UXMAE1uZz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5c5h9UXMAE1uZz.jpg",
+						"url": "https://t.co/3rtWtKh1UE",
+						"display_url": "pic.twitter.com/3rtWtKh1UE",
+						"expanded_url": "https://twitter.com/GirlsOwn/status/835199524796784640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1538,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 901,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 835199511458951200,
+						"id_str": "835199511458951169",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/C5c5h9UXMAE1uZz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5c5h9UXMAE1uZz.jpg",
+						"url": "https://t.co/3rtWtKh1UE",
+						"display_url": "pic.twitter.com/3rtWtKh1UE",
+						"expanded_url": "https://twitter.com/GirlsOwn/status/835199524796784640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1538,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 901,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2351494683,
+				"id_str": "2351494683",
+				"name": "Girls' Own advice",
+				"screen_name": "GirlsOwn",
+				"location": "",
+				"description": "Genuine replies from 1880s and 1890s problem pages, try applying them to your 21st century woes. If all else fails, try Cod Liver Oil.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9530,
+				"friends_count": 416,
+				"listed_count": 108,
+				"created_at": "Tue Feb 18 23:04:59 +0000 2014",
+				"favourites_count": 3985,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7558,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/436035798132338688/6JJnj8ka_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/436035798132338688/6JJnj8ka_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2351494683/1392794452",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 24 20:52:07 +0000 2017",
+		"id": 835230851977863200,
+		"id_str": "835230851977863168",
+		"text": "RT @Herring1967: Now wondering if the whole of Brexit was just about Farage trying to divorce his wife and projecting a bit.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Herring1967",
+					"name": "Richard K Herring",
+					"id": 17387399,
+					"id_str": "17387399",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer living in Crete. Interests in mind, consciousness, reasoning, belief. Tweeting philosophy of mind, cog sci, Greece, links, & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5798,
+			"friends_count": 1445,
+			"listed_count": 420,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 8935,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1403808589",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 24 15:19:04 +0000 2017",
+			"id": 835147037528080400,
+			"id_str": "835147037528080384",
+			"text": "Now wondering if the whole of Brexit was just about Farage trying to divorce his wife and projecting a bit.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17387399,
+				"id_str": "17387399",
+				"name": "Richard K Herring",
+				"screen_name": "Herring1967",
+				"location": "London",
+				"description": "Self-playing snookerist. All views are those of my employer and not of me. Profile photo by Idil Sukan\nHappy Now? photo by Steve Brown, design by Stephen Newman",
+				"url": "http://t.co/betUGQ1caJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/betUGQ1caJ",
+								"expanded_url": "http://www.richardherring.com",
+								"display_url": "richardherring.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 195813,
+				"friends_count": 627,
+				"listed_count": 2896,
+				"created_at": "Fri Nov 14 13:45:12 +0000 2008",
+				"favourites_count": 4,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 96206,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/873228046/c8cdb3ad22554a9bb4c82c01c36dc619.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/873228046/c8cdb3ad22554a9bb4c82c01c36dc619.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/503157675228549120/EuevmYHb_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/503157675228549120/EuevmYHb_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17387399/1473856268",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 253,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 24 19:46:04 +0000 2017",
+		"id": 835214228453732400,
+		"id_str": "835214228453732358",
+		"text": "RT @davidpapineau: Kind words from Michael Mandelbaum about my new book (out in May but already available to order online) https://t.co/B28…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidpapineau",
+					"name": "David Papineau",
+					"id": 72796877,
+					"id_str": "72796877",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer living in Crete. Interests in mind, consciousness, reasoning, belief. Tweeting philosophy of mind, cog sci, Greece, links, & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5798,
+			"friends_count": 1445,
+			"listed_count": 420,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 8935,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1403808589",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 24 17:37:58 +0000 2017",
+			"id": 835181993734389800,
+			"id_str": "835181993734389761",
+			"text": "Kind words from Michael Mandelbaum about my new book (out in May but already available to order online) https://t.co/B28YUghndx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 835181216441765900,
+						"id_str": "835181216441765890",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/C5co5DEXEAIKZAH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5co5DEXEAIKZAH.jpg",
+						"url": "https://t.co/B28YUghndx",
+						"display_url": "pic.twitter.com/B28YUghndx",
+						"expanded_url": "https://twitter.com/davidpapineau/status/835181993734389761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1000,
+								"h": 560,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 560,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 835181216441765900,
+						"id_str": "835181216441765890",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/C5co5DEXEAIKZAH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5co5DEXEAIKZAH.jpg",
+						"url": "https://t.co/B28YUghndx",
+						"display_url": "pic.twitter.com/B28YUghndx",
+						"expanded_url": "https://twitter.com/davidpapineau/status/835181993734389761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1000,
+								"h": 560,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 560,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 72796877,
+				"id_str": "72796877",
+				"name": "David Papineau",
+				"screen_name": "davidpapineau",
+				"location": "London and New York",
+				"description": "At King's College London and City University New York. Working on mind, metaphysics, science, and the connections between philosophy and sport.",
+				"url": "http://t.co/fXjVmFaGXr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fXjVmFaGXr",
+								"expanded_url": "http://www.davidpapineau.co.uk/blog.html",
+								"display_url": "davidpapineau.co.uk/blog.html",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4796,
+				"friends_count": 483,
+				"listed_count": 167,
+				"created_at": "Wed Sep 09 07:45:44 +0000 2009",
+				"favourites_count": 834,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3146,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/440086806545977344/ceP4hX1w_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/440086806545977344/ceP4hX1w_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/72796877/1395759777",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 24 17:58:36 +0000 2017",
+		"id": 835187184655298600,
+		"id_str": "835187184655298561",
+		"text": "It's all in hand. Once we quit the EU we can set higher legal limits. https://t.co/q3zyJaqcqz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q3zyJaqcqz",
+					"expanded_url": "https://twitter.com/GreenpeaceUK/status/835184556441550848",
+					"display_url": "twitter.com/GreenpeaceUK/s…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer living in Crete. Interests in mind, consciousness, reasoning, belief. Tweeting philosophy of mind, cog sci, Greece, links, & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5798,
+			"friends_count": 1445,
+			"listed_count": 420,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 8935,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1403808589",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 835184556441550800,
+		"quoted_status_id_str": "835184556441550848",
+		"quoted_status": {
+			"created_at": "Fri Feb 24 17:48:09 +0000 2017",
+			"id": 835184556441550800,
+			"id_str": "835184556441550848",
+			"text": "Wow 802 London schools, nurseries and colleges are in areas where levels of nitrogen dioxide breach EU legal limits https://t.co/hw10pjOhMb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hw10pjOhMb",
+						"expanded_url": "https://www.theguardian.com/uk-news/2017/feb/24/revealed-thousands-of-children-toxic-air-london-nitrogen-dioxide",
+						"display_url": "theguardian.com/uk-news/2017/f…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4012161,
+				"id_str": "4012161",
+				"name": "Greenpeace UK",
+				"screen_name": "GreenpeaceUK",
+				"location": "UK",
+				"description": "We are a movement of people campaigning and taking direct action to protect the environment and promote peace.",
+				"url": "https://t.co/6wzJvB8ayt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6wzJvB8ayt",
+								"expanded_url": "http://www.greenpeace.org.uk",
+								"display_url": "greenpeace.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 161646,
+				"friends_count": 5068,
+				"listed_count": 3231,
+				"created_at": "Tue Apr 10 10:35:01 +0000 2007",
+				"favourites_count": 2614,
+				"utc_offset": 0,
+				"time_zone": "Europe/London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30407,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/858053765/35d49ae58b20a9d9263086073d7603cc.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/858053765/35d49ae58b20a9d9263086073d7603cc.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/662609813122084864/Z_caToYs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/662609813122084864/Z_caToYs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4012161/1487860369",
+				"profile_link_color": "6FC136",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 24 16:59:05 +0000 2017",
+		"id": 835172207148032000,
+		"id_str": "835172207148032000",
+		"text": "RT @TrueSciPhi: New (experimental) version of philosophy podcast page ranks episodes in part by activity of podcast's Twitter feed: https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TrueSciPhi",
+					"name": "TrueSciPhi",
+					"id": 3300811066,
+					"id_str": "3300811066",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer living in Crete. Interests in mind, consciousness, reasoning, belief. Tweeting philosophy of mind, cog sci, Greece, links, & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5798,
+			"friends_count": 1445,
+			"listed_count": 420,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 8935,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1403808589",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 24 16:56:15 +0000 2017",
+			"id": 835171495655653400,
+			"id_str": "835171495655653376",
+			"text": "New (experimental) version of philosophy podcast page ranks episodes in part by activity of podcast's Twitter feed:… https://t.co/kz3LOUN7Dq",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kz3LOUN7Dq",
+						"expanded_url": "https://twitter.com/i/web/status/835171495655653376",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3300811066,
+				"id_str": "3300811066",
+				"name": "TrueSciPhi",
+				"screen_name": "TrueSciPhi",
+				"location": "",
+				"description": "A window on science and philosophy communities on Twitter and YouTube, by Kelly Truelove. See site for more.",
+				"url": "https://t.co/toHFFayLXj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/toHFFayLXj",
+								"expanded_url": "http://TrueSciPhi.org",
+								"display_url": "TrueSciPhi.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3075,
+				"friends_count": 922,
+				"listed_count": 161,
+				"created_at": "Wed May 27 19:01:09 +0000 2015",
+				"favourites_count": 2116,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 926,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/605883968810971136/lnjPQd-0.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/605883968810971136/lnjPQd-0.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824395520835596288/rtYSA4b-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824395520835596288/rtYSA4b-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3300811066/1485403439",
+				"profile_link_color": "888888",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 24 15:14:01 +0000 2017",
+		"id": 835145766402408400,
+		"id_str": "835145766402408448",
+		"text": "RT @Adea_Guillot: Kids of Syrian  #refugees from #camps going to school in #thessaloniki. #integration effort of #Greece https://t.co/FV7Sy…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "refugees",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"text": "camps",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "thessaloniki",
+					"indices": [
+						75,
+						88
+					]
+				},
+				{
+					"text": "integration",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "Greece",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Adea_Guillot",
+					"name": "adea guillot",
+					"id": 1346074165,
+					"id_str": "1346074165",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer living in Crete. Interests in mind, consciousness, reasoning, belief. Tweeting philosophy of mind, cog sci, Greece, links, & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5798,
+			"friends_count": 1445,
+			"listed_count": 420,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 8935,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802867657280286721/cYxSLK4Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1403808589",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 20 13:36:15 +0000 2017",
+			"id": 833671610129322000,
+			"id_str": "833671610129321984",
+			"text": "Kids of Syrian  #refugees from #camps going to school in #thessaloniki. #integration effort of #Greece https://t.co/FV7SyMa6tQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "refugees",
+						"indices": [
+							16,
+							25
+						]
+					},
+					{
+						"text": "camps",
+						"indices": [
+							31,
+							37
+						]
+					},
+					{
+						"text": "thessaloniki",
+						"indices": [
+							57,
+							70
+						]
+					},
+					{
+						"text": "integration",
+						"indices": [
+							72,
+							84
+						]
+					},
+					{
+						"text": "Greece",
+						"indices": [
+							95,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 833671337898082300,
+						"id_str": "833671337898082304",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/833671337898082304/pu/img/40ykEe_Dh9bBpPUo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/833671337898082304/pu/img/40ykEe_Dh9bBpPUo.jpg",
+						"url": "https://t.co/FV7SyMa6tQ",
+						"display_url": "pic.twitter.com/FV7SyMa6tQ",
+						"expanded_url": "https://twitter.com/Adea_Guillot/status/833671610129321984/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 833671337898082300,
+						"id_str": "833671337898082304",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/833671337898082304/pu/img/40ykEe_Dh9bBpPUo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/833671337898082304/pu/img/40ykEe_Dh9bBpPUo.jpg",
+						"url": "https://t.co/FV7SyMa6tQ",
+						"display_url": "pic.twitter.com/FV7SyMa6tQ",
+						"expanded_url": "https://twitter.com/Adea_Guillot/status/833671610129321984/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 15560,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/833671337898082304/pu/vid/180x320/cDzgoST8QSlI86FN.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/833671337898082304/pu/pl/TF22HNIBQTzCJVub.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/833671337898082304/pu/vid/360x640/HwCgxe-JSSmlcaKm.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/833671337898082304/pu/pl/TF22HNIBQTzCJVub.mpd"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/833671337898082304/pu/vid/720x1280/BNgLHoOjUzwOh7A6.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1346074165,
+				"id_str": "1346074165",
+				"name": "adea guillot",
+				"screen_name": "Adea_Guillot",
+				"location": "Greece",
+				"description": "French journalist Correspondant in Greece Le Monde/ ARTE /Le Soir",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2369,
+				"friends_count": 648,
+				"listed_count": 148,
+				"created_at": "Fri Apr 12 05:33:35 +0000 2013",
+				"favourites_count": 579,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2673,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615051192016740352/KAIz5r2x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615051192016740352/KAIz5r2x_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 23 23:46:32 +0000 2017",
 		"id": 834912356475994100,
 		"id_str": "834912356475994113",
