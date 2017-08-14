@@ -1,6 +1,1051 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 13 22:16:16 +0000 2017",
+		"id": 896857963641675800,
+		"id_str": "896857963641675776",
+		"text": "RT @ancientnmodern: My sister's new automaton. #spooky https://t.co/PSBh8UmUDw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "spooky",
+					"indices": [
+						47,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "VictoriaG",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 896112039835336700,
+					"id_str": "896112039835336704",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/896112039835336704/pu/img/o9MDzMLyUqmbAVC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/896112039835336704/pu/img/o9MDzMLyUqmbAVC9.jpg",
+					"url": "https://t.co/PSBh8UmUDw",
+					"display_url": "pic.twitter.com/PSBh8UmUDw",
+					"expanded_url": "https://twitter.com/ancientnmodern/status/896112545236307968/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 896112545236308000,
+					"source_status_id_str": "896112545236307968",
+					"source_user_id": 79141911,
+					"source_user_id_str": "79141911"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 896112039835336700,
+					"id_str": "896112039835336704",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/896112039835336704/pu/img/o9MDzMLyUqmbAVC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/896112039835336704/pu/img/o9MDzMLyUqmbAVC9.jpg",
+					"url": "https://t.co/PSBh8UmUDw",
+					"display_url": "pic.twitter.com/PSBh8UmUDw",
+					"expanded_url": "https://twitter.com/ancientnmodern/status/896112545236307968/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 896112545236308000,
+					"source_status_id_str": "896112545236307968",
+					"source_user_id": 79141911,
+					"source_user_id_str": "79141911",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 20652,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/896112039835336704/pu/vid/720x1280/eOM9Ex6_OyxrO2gL.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/896112039835336704/pu/vid/180x320/jD7wEoGLCaOSqync.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/896112039835336704/pu/vid/360x640/mRNZhNbeiQEGKk3F.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/896112039835336704/pu/pl/xVhRalmB3MW5iUVk.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 79141911,
+							"id_str": "79141911",
+							"name": "VictoriaG",
+							"screen_name": "ancientnmodern",
+							"location": "God's own county",
+							"description": "Old bag beset by family & life longing for silence of the grave",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1150,
+							"friends_count": 1394,
+							"listed_count": 47,
+							"created_at": "Fri Oct 02 09:48:24 +0000 2009",
+							"favourites_count": 25920,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 49384,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "B2DFDA",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/519565920/pics_of_garden_031.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/519565920/pics_of_garden_031.jpg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/770301359614791681/9hw_tUg__normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/770301359614791681/9hw_tUg__normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/79141911/1472489459",
+							"profile_link_color": "93A644",
+							"profile_sidebar_border_color": "EEEEEE",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6135,
+			"friends_count": 1503,
+			"listed_count": 412,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 12631,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1491513861",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 11 20:54:14 +0000 2017",
+			"id": 896112545236308000,
+			"id_str": "896112545236307968",
+			"text": "My sister's new automaton. #spooky https://t.co/PSBh8UmUDw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "spooky",
+						"indices": [
+							27,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896112039835336700,
+						"id_str": "896112039835336704",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/896112039835336704/pu/img/o9MDzMLyUqmbAVC9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/896112039835336704/pu/img/o9MDzMLyUqmbAVC9.jpg",
+						"url": "https://t.co/PSBh8UmUDw",
+						"display_url": "pic.twitter.com/PSBh8UmUDw",
+						"expanded_url": "https://twitter.com/ancientnmodern/status/896112545236307968/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896112039835336700,
+						"id_str": "896112039835336704",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/896112039835336704/pu/img/o9MDzMLyUqmbAVC9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/896112039835336704/pu/img/o9MDzMLyUqmbAVC9.jpg",
+						"url": "https://t.co/PSBh8UmUDw",
+						"display_url": "pic.twitter.com/PSBh8UmUDw",
+						"expanded_url": "https://twitter.com/ancientnmodern/status/896112545236307968/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 20652,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/896112039835336704/pu/vid/720x1280/eOM9Ex6_OyxrO2gL.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/896112039835336704/pu/vid/180x320/jD7wEoGLCaOSqync.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/896112039835336704/pu/vid/360x640/mRNZhNbeiQEGKk3F.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/896112039835336704/pu/pl/xVhRalmB3MW5iUVk.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79141911,
+				"id_str": "79141911",
+				"name": "VictoriaG",
+				"screen_name": "ancientnmodern",
+				"location": "God's own county",
+				"description": "Old bag beset by family & life longing for silence of the grave",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1150,
+				"friends_count": 1394,
+				"listed_count": 47,
+				"created_at": "Fri Oct 02 09:48:24 +0000 2009",
+				"favourites_count": 25920,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49384,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/519565920/pics_of_garden_031.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/519565920/pics_of_garden_031.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770301359614791681/9hw_tUg__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770301359614791681/9hw_tUg__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79141911/1472489459",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 22:07:36 +0000 2017",
+		"id": 896855786667855900,
+		"id_str": "896855786667855874",
+		"text": "RT @SirWilliamD: The Forbidden City under the snow, Beijing, 1957 by Marc Riboud. \n#photography https://t.co/CMPdEQoYYY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "photography",
+					"indices": [
+						83,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SirWilliamD",
+					"name": "Sir William Davenant",
+					"id": 350341283,
+					"id_str": "350341283",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 896853877412290600,
+					"id_str": "896853877412290561",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DHJD2YqXYAESvoA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHJD2YqXYAESvoA.jpg",
+					"url": "https://t.co/CMPdEQoYYY",
+					"display_url": "pic.twitter.com/CMPdEQoYYY",
+					"expanded_url": "https://twitter.com/SirWilliamD/status/896853887658995712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 825,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 825,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 896853887658995700,
+					"source_status_id_str": "896853887658995712",
+					"source_user_id": 350341283,
+					"source_user_id_str": "350341283"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 896853877412290600,
+					"id_str": "896853877412290561",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DHJD2YqXYAESvoA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHJD2YqXYAESvoA.jpg",
+					"url": "https://t.co/CMPdEQoYYY",
+					"display_url": "pic.twitter.com/CMPdEQoYYY",
+					"expanded_url": "https://twitter.com/SirWilliamD/status/896853887658995712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 825,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 825,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 896853887658995700,
+					"source_status_id_str": "896853887658995712",
+					"source_user_id": 350341283,
+					"source_user_id_str": "350341283"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6135,
+			"friends_count": 1503,
+			"listed_count": 412,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 12631,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1491513861",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 13 22:00:04 +0000 2017",
+			"id": 896853887658995700,
+			"id_str": "896853887658995712",
+			"text": "The Forbidden City under the snow, Beijing, 1957 by Marc Riboud. \n#photography https://t.co/CMPdEQoYYY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "photography",
+						"indices": [
+							66,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896853877412290600,
+						"id_str": "896853877412290561",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DHJD2YqXYAESvoA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHJD2YqXYAESvoA.jpg",
+						"url": "https://t.co/CMPdEQoYYY",
+						"display_url": "pic.twitter.com/CMPdEQoYYY",
+						"expanded_url": "https://twitter.com/SirWilliamD/status/896853887658995712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 825,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 825,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896853877412290600,
+						"id_str": "896853877412290561",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DHJD2YqXYAESvoA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHJD2YqXYAESvoA.jpg",
+						"url": "https://t.co/CMPdEQoYYY",
+						"display_url": "pic.twitter.com/CMPdEQoYYY",
+						"expanded_url": "https://twitter.com/SirWilliamD/status/896853887658995712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 825,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 825,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 350341283,
+				"id_str": "350341283",
+				"name": "Sir William Davenant",
+				"screen_name": "SirWilliamD",
+				"location": "Westminster Abbey",
+				"description": "Reborne in modern times I tweet from beyond the grave. Mention not the nose! When you are tired of gin you are tired of life...",
+				"url": "https://t.co/uYfI2CRqEd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uYfI2CRqEd",
+								"expanded_url": "http://spenserians.cath.vt.edu/BiographyRecord.php?action=GET&bioid=33268",
+								"display_url": "spenserians.cath.vt.edu/BiographyRecor…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13040,
+				"friends_count": 904,
+				"listed_count": 364,
+				"created_at": "Sun Aug 07 16:24:22 +0000 2011",
+				"favourites_count": 32293,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31043,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/306653941/Dukes_theatre.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/306653941/Dukes_theatre.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699533878298595328/heqzawYU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699533878298595328/heqzawYU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350341283/1452753977",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 19:11:50 +0000 2017",
+		"id": 896811551377821700,
+		"id_str": "896811551377821696",
+		"text": "RT @Jamie_Woodward_: The earliest known image of the female face - carved in woolly mammoth ivory over 26,000 years ago at Dolní Věstonice…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jamie_Woodward_",
+					"name": "The Ice Age",
+					"id": 41582030,
+					"id_str": "41582030",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6135,
+			"friends_count": 1503,
+			"listed_count": 412,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 12631,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1491513861",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 13 19:09:01 +0000 2017",
+			"id": 896810841756094500,
+			"id_str": "896810841756094464",
+			"text": "The earliest known image of the female face - carved in woolly mammoth ivory over 26,000 years ago at Dolní Věstoni… https://t.co/8dNJl3bdEK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8dNJl3bdEK",
+						"expanded_url": "https://twitter.com/i/web/status/896810841756094464",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41582030,
+				"id_str": "41582030",
+				"name": "The Ice Age",
+				"screen_name": "Jamie_Woodward_",
+				"location": "Manchester, UK",
+				"description": "Prof @GeographyUOM tweeting on the wonders of #IceAge Earth, cold places, #IceAgeArt & the human past. A companion to The Ice Age: A Very Short Intro (OUP)",
+				"url": "https://t.co/Sm4RZAGmEH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Sm4RZAGmEH",
+								"expanded_url": "http://www.amazon.co.uk/Jamie-Woodward/e/B00EYG2SC4/ref=ntt_dp_epwbk_0",
+								"display_url": "amazon.co.uk/Jamie-Woodward…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24337,
+				"friends_count": 317,
+				"listed_count": 753,
+				"created_at": "Thu May 21 13:08:04 +0000 2009",
+				"favourites_count": 14920,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10150,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181461752/XKxRtSot.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181461752/XKxRtSot.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463266682287321088/HouW1-eH_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463266682287321088/HouW1-eH_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41582030/1390253986",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 229,
+			"favorite_count": 358,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 229,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 12 23:00:15 +0000 2017",
 		"id": 896506647258046500,
 		"id_str": "896506647258046467",
