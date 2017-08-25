@@ -1,6 +1,1254 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 24 19:45:26 +0000 2017",
+		"id": 900806275751174100,
+		"id_str": "900806275751174145",
+		"text": "RT @nickreeves9876: #Brexit is Bat-shit Crazy\n#StopBrexit https://t.co/aJSnX6Afyb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Brexit",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"text": "StopBrexit",
+					"indices": [
+						46,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nickreeves9876",
+					"name": "Nick Reeves - 48%",
+					"id": 746371177174679600,
+					"id_str": "746371177174679552",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 900627607196184600,
+					"id_str": "900627607196184576",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DH-sCXnWsAAcyXi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DH-sCXnWsAAcyXi.jpg",
+					"url": "https://t.co/aJSnX6Afyb",
+					"display_url": "pic.twitter.com/aJSnX6Afyb",
+					"expanded_url": "https://twitter.com/nickreeves9876/status/900627672442785792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900627672442785800,
+					"source_status_id_str": "900627672442785792",
+					"source_user_id": 746371177174679600,
+					"source_user_id_str": "746371177174679552"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 900627607196184600,
+					"id_str": "900627607196184576",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DH-sCXnWsAAcyXi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DH-sCXnWsAAcyXi.jpg",
+					"url": "https://t.co/aJSnX6Afyb",
+					"display_url": "pic.twitter.com/aJSnX6Afyb",
+					"expanded_url": "https://twitter.com/nickreeves9876/status/900627672442785792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900627672442785800,
+					"source_status_id_str": "900627672442785792",
+					"source_user_id": 746371177174679600,
+					"source_user_id_str": "746371177174679552"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6185,
+			"friends_count": 1509,
+			"listed_count": 413,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 12780,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37548,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1491513861",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 24 07:55:44 +0000 2017",
+			"id": 900627672442785800,
+			"id_str": "900627672442785792",
+			"text": "#Brexit is Bat-shit Crazy\n#StopBrexit https://t.co/aJSnX6Afyb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Brexit",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "StopBrexit",
+						"indices": [
+							26,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 900627607196184600,
+						"id_str": "900627607196184576",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DH-sCXnWsAAcyXi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH-sCXnWsAAcyXi.jpg",
+						"url": "https://t.co/aJSnX6Afyb",
+						"display_url": "pic.twitter.com/aJSnX6Afyb",
+						"expanded_url": "https://twitter.com/nickreeves9876/status/900627672442785792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900627607196184600,
+						"id_str": "900627607196184576",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DH-sCXnWsAAcyXi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH-sCXnWsAAcyXi.jpg",
+						"url": "https://t.co/aJSnX6Afyb",
+						"display_url": "pic.twitter.com/aJSnX6Afyb",
+						"expanded_url": "https://twitter.com/nickreeves9876/status/900627672442785792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 746371177174679600,
+				"id_str": "746371177174679552",
+				"name": "Nick Reeves - 48%",
+				"screen_name": "nickreeves9876",
+				"location": "South East, England",
+				"description": "Each day that passes makes clearer that implementing #Brexit will be immensely destructive to our country & its people.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13439,
+				"friends_count": 5064,
+				"listed_count": 180,
+				"created_at": "Fri Jun 24 15:55:30 +0000 2016",
+				"favourites_count": 86156,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37809,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747839586907328512/LogoiLYi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747839586907328512/LogoiLYi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/746371177174679552/1492967752",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 24 11:43:06 +0000 2017",
+		"id": 900684889837719600,
+		"id_str": "900684889837719552",
+		"text": "RT @siobhanhearne: My favourite response from a Moscow student sex survey, 1903: 'In order to suppress sexual passion, I entered the facult…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "siobhanhearne",
+					"name": "Siobhán Hearne",
+					"id": 37279627,
+					"id_str": "37279627",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6185,
+			"friends_count": 1509,
+			"listed_count": 413,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 12780,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37548,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1491513861",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 23 10:13:41 +0000 2017",
+			"id": 900300001812910100,
+			"id_str": "900300001812910080",
+			"text": "My favourite response from a Moscow student sex survey, 1903: 'In order to suppress sexual passion, I entered the faculty of mathematics'",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37279627,
+				"id_str": "37279627",
+				"name": "Siobhán Hearne",
+				"screen_name": "siobhanhearne",
+				"location": "Nottingham",
+				"description": "History PhD student researching prostitution in early C20th Russia. Teaching at @UoNHumanities and @LboroPHIR",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 948,
+				"friends_count": 959,
+				"listed_count": 17,
+				"created_at": "Sat May 02 20:50:39 +0000 2009",
+				"favourites_count": 834,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3769,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "041C2E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497390744378691585/kunOy129.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497390744378691585/kunOy129.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/733231395422756865/R-RBWKMr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/733231395422756865/R-RBWKMr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37279627/1463650780",
+				"profile_link_color": "1B1F59",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2071,
+			"favorite_count": 7127,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2071,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 24 11:42:55 +0000 2017",
+		"id": 900684843922595800,
+		"id_str": "900684843922595840",
+		"text": "RT @Insight_je: Simples pre #Brexit tories losing votes to UKIP. They feared a split base keeping them out for a generation. Sacrifice coun…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Brexit",
+					"indices": [
+						28,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Insight_je",
+					"name": "insight",
+					"id": 878954832018722800,
+					"id_str": "878954832018722816",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6185,
+			"friends_count": 1509,
+			"listed_count": 413,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 12780,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37548,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1491513861",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 24 11:27:38 +0000 2017",
+			"id": 900681000052822000,
+			"id_str": "900681000052822017",
+			"text": "Simples pre #Brexit tories losing votes to UKIP. They feared a split base keeping them out for a generation. Sacrif… https://t.co/mPMJJmExhD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Brexit",
+						"indices": [
+							12,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mPMJJmExhD",
+						"expanded_url": "https://twitter.com/i/web/status/900681000052822017",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 878954832018722800,
+				"id_str": "878954832018722816",
+				"name": "insight",
+				"screen_name": "Insight_je",
+				"location": "Bailiwick of Jersey",
+				"description": "Great ideas about people that work",
+				"url": "https://t.co/4bJEXhGlzv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4bJEXhGlzv",
+								"expanded_url": "http://www.insight.je",
+								"display_url": "insight.je",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 234,
+				"friends_count": 1568,
+				"listed_count": 0,
+				"created_at": "Sun Jun 25 12:35:36 +0000 2017",
+				"favourites_count": 219,
+				"utc_offset": 3600,
+				"time_zone": "Lisbon",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 83,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878978930019119104/-66eP_B4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878978930019119104/-66eP_B4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/878954832018722816/1498400043",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 900638443763634200,
+			"quoted_status_id_str": "900638443763634176",
+			"quoted_status": {
+				"created_at": "Thu Aug 24 08:38:32 +0000 2017",
+				"id": 900638443763634200,
+				"id_str": "900638443763634176",
+				"text": "The #brexit government admits\n1. we always had sovereignty\n2. immigration never was a problem\nSo why, exactly, are… https://t.co/XQi3hKrwI0",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "brexit",
+							"indices": [
+								4,
+								11
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/XQi3hKrwI0",
+							"expanded_url": "https://twitter.com/i/web/status/900638443763634176",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2527814234,
+					"id_str": "2527814234",
+					"name": "Solange LeBourg",
+					"screen_name": "solange_lebourg",
+					"location": "Various",
+					"description": "Lawyer, early-retired.  Guilty of reason. Citizen of the world. Let's stay in the EU. Follow back Remain supporters. Rudeness may be blocked without warning.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 9234,
+					"friends_count": 236,
+					"listed_count": 137,
+					"created_at": "Tue May 27 16:28:54 +0000 2014",
+					"favourites_count": 167749,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 72123,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/845573007028506624/KWFgA7em_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/845573007028506624/KWFgA7em_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2527814234/1494111733",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 900464904997679100,
+				"quoted_status_id_str": "900464904997679104",
+				"retweet_count": 693,
+				"favorite_count": 813,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 62,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 900638443763634200,
+		"quoted_status_id_str": "900638443763634176",
+		"retweet_count": 62,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 24 11:34:39 +0000 2017",
+		"id": 900682762180595700,
+		"id_str": "900682762180595712",
+		"text": "RT @DrPetra: If you're teaching or supervising research please recommend my super useful book to your students ;-)\n#highered #ecrchat #phdc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "highered",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "ecrchat",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrPetra",
+					"name": "#Hellomynameis Petra",
+					"id": 82953204,
+					"id_str": "82953204",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6185,
+			"friends_count": 1509,
+			"listed_count": 413,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 12780,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37548,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1491513861",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 21 11:09:37 +0000 2017",
+			"id": 833997096177000400,
+			"id_str": "833997096177000449",
+			"text": "If you're teaching or supervising research please recommend my super useful book to your students ;-)\n#highered… https://t.co/TRmxg7sGD8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "highered",
+						"indices": [
+							102,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TRmxg7sGD8",
+						"expanded_url": "https://twitter.com/i/web/status/833997096177000449",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82953204,
+				"id_str": "82953204",
+				"name": "#Hellomynameis Petra",
+				"screen_name": "DrPetra",
+				"location": "East Sussex",
+				"description": "Agony Aunt \nhttp://t.co/fJc9bpxJ4i   \nSupporting researchers in the social sciences,health & development\nhttp://t.co/Cd8aziRzMC \nResearches sex+relationships",
+				"url": "http://t.co/tT7PWeZexF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tT7PWeZexF",
+								"expanded_url": "http://nostartoguideme.com",
+								"display_url": "nostartoguideme.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/fJc9bpxJ4i",
+								"expanded_url": "http://www.telegraph.co.uk/journalists/petra-boynton",
+								"display_url": "telegraph.co.uk/journalists/pe…",
+								"indices": [
+									12,
+									34
+								]
+							},
+							{
+								"url": "http://t.co/Cd8aziRzMC",
+								"expanded_url": "http://theresearchcompanion.com",
+								"display_url": "theresearchcompanion.com",
+								"indices": [
+									105,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12823,
+				"friends_count": 2888,
+				"listed_count": 878,
+				"created_at": "Fri Oct 16 19:27:19 +0000 2009",
+				"favourites_count": 4580,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 69010,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/580754180/cs82aakdhkc6vsbfebqv.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/580754180/cs82aakdhkc6vsbfebqv.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825102994102419456/niTPNvAD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825102994102419456/niTPNvAD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82953204/1474841261",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 785773018421141500,
+			"quoted_status_id_str": "785773018421141504",
+			"quoted_status": {
+				"created_at": "Tue Oct 11 09:24:21 +0000 2016",
+				"id": 785773018421141500,
+				"id_str": "785773018421141504",
+				"text": "My new book: The #ResearchCompanion. Self-help for researchers! All the tips and tools you need to get a study done… https://t.co/AcB5bCF70j",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "ResearchCompanion",
+							"indices": [
+								17,
+								35
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/AcB5bCF70j",
+							"expanded_url": "https://twitter.com/i/web/status/785773018421141504",
+							"display_url": "twitter.com/i/web/status/7…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 82953204,
+					"id_str": "82953204",
+					"name": "#Hellomynameis Petra",
+					"screen_name": "DrPetra",
+					"location": "East Sussex",
+					"description": "Agony Aunt \nhttp://t.co/fJc9bpxJ4i   \nSupporting researchers in the social sciences,health & development\nhttp://t.co/Cd8aziRzMC \nResearches sex+relationships",
+					"url": "http://t.co/tT7PWeZexF",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/tT7PWeZexF",
+									"expanded_url": "http://nostartoguideme.com",
+									"display_url": "nostartoguideme.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "http://t.co/fJc9bpxJ4i",
+									"expanded_url": "http://www.telegraph.co.uk/journalists/petra-boynton",
+									"display_url": "telegraph.co.uk/journalists/pe…",
+									"indices": [
+										12,
+										34
+									]
+								},
+								{
+									"url": "http://t.co/Cd8aziRzMC",
+									"expanded_url": "http://theresearchcompanion.com",
+									"display_url": "theresearchcompanion.com",
+									"indices": [
+										105,
+										127
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 12823,
+					"friends_count": 2888,
+					"listed_count": 878,
+					"created_at": "Fri Oct 16 19:27:19 +0000 2009",
+					"favourites_count": 4580,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 69010,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/580754180/cs82aakdhkc6vsbfebqv.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/580754180/cs82aakdhkc6vsbfebqv.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/825102994102419456/niTPNvAD_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/825102994102419456/niTPNvAD_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/82953204/1474841261",
+					"profile_link_color": "7FDBB6",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 83,
+				"favorite_count": 126,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 8,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 785773018421141500,
+		"quoted_status_id_str": "785773018421141504",
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 23 22:40:42 +0000 2017",
 		"id": 900487992728592400,
 		"id_str": "900487992728592384",
