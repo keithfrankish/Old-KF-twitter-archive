@@ -1,6 +1,1056 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Mon Dec 25 16:00:44 +0000 2017",
+		"id": 945323435227537400,
+		"id_str": "945323435227537409",
+		"text": "RT @HowarthAnthony: Why indeed? I remember when we sent ships to the Carib to seduce West Indians to come and help our lack of labour and s…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HowarthAnthony",
+					"name": "Anthony Howarth",
+					"id": 511714594,
+					"id_str": "511714594",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6480,
+			"friends_count": 1597,
+			"listed_count": 426,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 15397,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1491513861",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 25 15:48:30 +0000 2017",
+			"id": 945320353676644400,
+			"id_str": "945320353676644352",
+			"text": "Why indeed? I remember when we sent ships to the Carib to seduce West Indians to come and help our lack of labour a… https://t.co/inl1aZMA0h",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/inl1aZMA0h",
+						"expanded_url": "https://twitter.com/i/web/status/945320353676644352",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 511714594,
+				"id_str": "511714594",
+				"name": "Anthony Howarth",
+				"screen_name": "HowarthAnthony",
+				"location": "France",
+				"description": "Polymath. Builder of solar-electric LongBoat. User of solar-electric vehicles. Writer, Poet, Sailor, Engineer, Filmmaker, Photographer http://t.co/IPlyzhSbXG",
+				"url": "http://t.co/z8BRqhjgBI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/z8BRqhjgBI",
+								"expanded_url": "http://about.me/howarthanthony",
+								"display_url": "about.me/howarthanthony",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/IPlyzhSbXG",
+								"expanded_url": "http://fineartamerica.com/profiles/anthony-howarth.html",
+								"display_url": "fineartamerica.com/profiles/antho…",
+								"indices": [
+									135,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11784,
+				"friends_count": 12559,
+				"listed_count": 203,
+				"created_at": "Fri Mar 02 10:27:49 +0000 2012",
+				"favourites_count": 408,
+				"utc_offset": 3600,
+				"time_zone": "Paris",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12815,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671762174/74549301478a15d5105b4efebbeaf457.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671762174/74549301478a15d5105b4efebbeaf457.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459718577356939265/0A8HtYnj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459718577356939265/0A8HtYnj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/511714594/1398440763",
+				"profile_link_color": "FF4500",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 945002445171822600,
+			"quoted_status_id_str": "945002445171822597",
+			"quoted_status": {
+				"created_at": "Sun Dec 24 18:45:14 +0000 2017",
+				"id": 945002445171822600,
+				"id_str": "945002445171822597",
+				"text": "Something that I've been unable to get my head round is Mrs May's stance on FOM. She knows the UK has benefited fro… https://t.co/LXnqmY0dyl",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/LXnqmY0dyl",
+							"expanded_url": "https://twitter.com/i/web/status/945002445171822597",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 789931818644561900,
+					"id_str": "789931818644561921",
+					"name": "Peter Timmins #FBPE",
+					"screen_name": "petertimmins3",
+					"location": "Pardaillan, France",
+					"description": "Blissfully retired European, living in the South West of France.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3951,
+					"friends_count": 3739,
+					"listed_count": 27,
+					"created_at": "Sat Oct 22 20:49:56 +0000 2016",
+					"favourites_count": 15488,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 10385,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/813823722901700613/KbcWoGn0_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/813823722901700613/KbcWoGn0_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/789931818644561921/1511625784",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "618214110089b5da",
+					"url": "https://api.twitter.com/1.1/geo/id/618214110089b5da.json",
+					"place_type": "city",
+					"name": "Lévignac-de-Guyenne",
+					"full_name": "Lévignac-de-Guyenne, France",
+					"country_code": "FR",
+					"country": "France",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									0.1652604,
+									44.5923819
+								],
+								[
+									0.2431138,
+									44.5923819
+								],
+								[
+									0.2431138,
+									44.6544686
+								],
+								[
+									0.1652604,
+									44.6544686
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 33,
+				"favorite_count": 107,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 945002445171822600,
+		"quoted_status_id_str": "945002445171822597",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 25 15:34:12 +0000 2017",
+		"id": 945316758000369700,
+		"id_str": "945316758000369664",
+		"text": "RT @Oniropolis: 'A Frost Fair on the Thames at Temple Stairs, London' (circa 1684) by Abraham Hondius. https://t.co/QuNt3fbtBO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Oniropolis",
+					"name": "Darran Anderson",
+					"id": 2314464974,
+					"id_str": "2314464974",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 945313724482641900,
+					"id_str": "945313724482641920",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DR5t0u0W4AASCYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR5t0u0W4AASCYj.jpg",
+					"url": "https://t.co/QuNt3fbtBO",
+					"display_url": "pic.twitter.com/QuNt3fbtBO",
+					"expanded_url": "https://twitter.com/Oniropolis/status/945314100304891904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1016,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945314100304891900,
+					"source_status_id_str": "945314100304891904",
+					"source_user_id": 2314464974,
+					"source_user_id_str": "2314464974"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 945313724482641900,
+					"id_str": "945313724482641920",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DR5t0u0W4AASCYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR5t0u0W4AASCYj.jpg",
+					"url": "https://t.co/QuNt3fbtBO",
+					"display_url": "pic.twitter.com/QuNt3fbtBO",
+					"expanded_url": "https://twitter.com/Oniropolis/status/945314100304891904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1016,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945314100304891900,
+					"source_status_id_str": "945314100304891904",
+					"source_user_id": 2314464974,
+					"source_user_id_str": "2314464974"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6480,
+			"friends_count": 1597,
+			"listed_count": 426,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 15397,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1491513861",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 25 15:23:39 +0000 2017",
+			"id": 945314100304891900,
+			"id_str": "945314100304891904",
+			"text": "'A Frost Fair on the Thames at Temple Stairs, London' (circa 1684) by Abraham Hondius. https://t.co/QuNt3fbtBO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 945313724482641900,
+						"id_str": "945313724482641920",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DR5t0u0W4AASCYj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR5t0u0W4AASCYj.jpg",
+						"url": "https://t.co/QuNt3fbtBO",
+						"display_url": "pic.twitter.com/QuNt3fbtBO",
+						"expanded_url": "https://twitter.com/Oniropolis/status/945314100304891904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1016,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1016,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 402,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 945313724482641900,
+						"id_str": "945313724482641920",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DR5t0u0W4AASCYj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR5t0u0W4AASCYj.jpg",
+						"url": "https://t.co/QuNt3fbtBO",
+						"display_url": "pic.twitter.com/QuNt3fbtBO",
+						"expanded_url": "https://twitter.com/Oniropolis/status/945314100304891904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1016,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1016,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 402,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2314464974,
+				"id_str": "2314464974",
+				"name": "Darran Anderson",
+				"screen_name": "Oniropolis",
+				"location": "London Irish",
+				"description": "Imaginary Cities @influxpress & @UChicagoPress Tidewrack coming @ChattoBooks & @fsgbooks. Working on 'Rooms'. Rep: @EveWhiteAgency Contrib Ed on @whitenoisecity",
+				"url": "https://t.co/9qOEqZY2TR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9qOEqZY2TR",
+								"expanded_url": "http://press.uchicago.edu/ucp/books/book/chicago/I/bo26170205.html",
+								"display_url": "press.uchicago.edu/ucp/books/book…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57385,
+				"friends_count": 9372,
+				"listed_count": 1584,
+				"created_at": "Mon Jan 27 23:07:23 +0000 2014",
+				"favourites_count": 45191,
+				"utc_offset": 0,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 31735,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000176824886/QaTKYIIV.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000176824886/QaTKYIIV.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906896783879569409/SQdJQq9d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906896783879569409/SQdJQq9d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2314464974/1484772093",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 150,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 25 14:58:52 +0000 2017",
+		"id": 945307863773253600,
+		"id_str": "945307863773253632",
+		"text": "RT @stevesilberman: I love this quiet painting: The Holy Family at Night, by Rembrandt, mid-1640s. https://t.co/9f4PjZVFau",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stevesilberman",
+					"name": "Steve Silberman",
+					"id": 18655567,
+					"id_str": "18655567",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 945175173522604000,
+					"id_str": "945175173522604033",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DR3v0ARVQAEvqBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR3v0ARVQAEvqBq.jpg",
+					"url": "https://t.co/9f4PjZVFau",
+					"display_url": "pic.twitter.com/9f4PjZVFau",
+					"expanded_url": "https://twitter.com/stevesilberman/status/945175206015918080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1572,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 921,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945175206015918100,
+					"source_status_id_str": "945175206015918080",
+					"source_user_id": 18655567,
+					"source_user_id_str": "18655567"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 945175173522604000,
+					"id_str": "945175173522604033",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DR3v0ARVQAEvqBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR3v0ARVQAEvqBq.jpg",
+					"url": "https://t.co/9f4PjZVFau",
+					"display_url": "pic.twitter.com/9f4PjZVFau",
+					"expanded_url": "https://twitter.com/stevesilberman/status/945175206015918080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1572,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 921,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945175206015918100,
+					"source_status_id_str": "945175206015918080",
+					"source_user_id": 18655567,
+					"source_user_id_str": "18655567"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6480,
+			"friends_count": 1597,
+			"listed_count": 426,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 15397,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863427347952934913/WUbveclf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1491513861",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 25 06:11:44 +0000 2017",
+			"id": 945175206015918100,
+			"id_str": "945175206015918080",
+			"text": "I love this quiet painting: The Holy Family at Night, by Rembrandt, mid-1640s. https://t.co/9f4PjZVFau",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 945175173522604000,
+						"id_str": "945175173522604033",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DR3v0ARVQAEvqBq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR3v0ARVQAEvqBq.jpg",
+						"url": "https://t.co/9f4PjZVFau",
+						"display_url": "pic.twitter.com/9f4PjZVFau",
+						"expanded_url": "https://twitter.com/stevesilberman/status/945175206015918080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 522,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1572,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 921,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 945175173522604000,
+						"id_str": "945175173522604033",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DR3v0ARVQAEvqBq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR3v0ARVQAEvqBq.jpg",
+						"url": "https://t.co/9f4PjZVFau",
+						"display_url": "pic.twitter.com/9f4PjZVFau",
+						"expanded_url": "https://twitter.com/stevesilberman/status/945175206015918080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 522,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1572,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 921,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18655567,
+				"id_str": "18655567",
+				"name": "Steve Silberman",
+				"screen_name": "stevesilberman",
+				"location": "San Francisco",
+				"description": "Author of NeuroTribes: The Legacy of Autism and the Future of Neurodiversity, NYT bestseller and winner of the Samuel Johnson Prize. Photo by Tanya Rosen-Jones.",
+				"url": "http://t.co/tes6x6HkZf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tes6x6HkZf",
+								"expanded_url": "http://stevesilberman.com",
+								"display_url": "stevesilberman.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88914,
+				"friends_count": 7673,
+				"listed_count": 3867,
+				"created_at": "Tue Jan 06 01:27:19 +0000 2009",
+				"favourites_count": 9862,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 110377,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/91179998/JB221-02j.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/91179998/JB221-02j.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801317729978449920/1ZDKwlMv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801317729978449920/1ZDKwlMv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18655567/1398227781",
+				"profile_link_color": "8600A1",
+				"profile_sidebar_border_color": "9CCE82",
+				"profile_sidebar_fill_color": "D2FEE4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 246,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 25 09:55:11 +0000 2017",
 		"id": 945231437984424000,
 		"id_str": "945231437984423936",
