@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 29 17:57:29 +0000 2018",
+		"id": 1001522932118671400,
+		"id_str": "1001522932118671360",
+		"text": ". @e_pe_me_ri explains why you shouldn't believe anything you read on the internet about the Minoans. https://t.co/m4UJDUdQww",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "e_pe_me_ri",
+					"name": "e-pe-me-ri",
+					"id": 835271236804464600,
+					"id_str": "835271236804464640",
+					"indices": [
+						2,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m4UJDUdQww",
+					"expanded_url": "https://twitter.com/e_pe_me_ri/status/1001224052646625283",
+					"display_url": "twitter.com/e_pe_me_ri/sta…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7006,
+			"friends_count": 1740,
+			"listed_count": 429,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 18867,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1521820974",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1001224052646625300,
+		"quoted_status_id_str": "1001224052646625283",
+		"quoted_status": {
+			"created_at": "Mon May 28 22:09:50 +0000 2018",
+			"id": 1001224052646625300,
+			"id_str": "1001224052646625283",
+			"text": "Well, there seems to be some interest that I do start, so... (thread) https://t.co/x5eI8jmp99",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/x5eI8jmp99",
+						"expanded_url": "https://twitter.com/e_pe_me_ri/status/1001020898353205249",
+						"display_url": "twitter.com/e_pe_me_ri/sta…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835271236804464600,
+				"id_str": "835271236804464640",
+				"name": "e-pe-me-ri",
+				"screen_name": "e_pe_me_ri",
+				"location": "",
+				"description": "Tweets on Linear B, the Aegean Bronze Age, and Greek linguistics from Theo Nash (incoming IPCAA student, MA VUW).  Once daily words (*e-pe-me-ri = ἐφημερίς).",
+				"url": "https://t.co/NijfxVq7p1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NijfxVq7p1",
+								"expanded_url": "https://enijote.wordpress.com/",
+								"display_url": "enijote.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2782,
+				"friends_count": 217,
+				"listed_count": 51,
+				"created_at": "Fri Feb 24 23:32:36 +0000 2017",
+				"favourites_count": 4867,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4461,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899834206649319424/zG4OGfIj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899834206649319424/zG4OGfIj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835271236804464640/1503372480",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1001020898353205200,
+			"quoted_status_id_str": "1001020898353205249",
+			"retweet_count": 21,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 28 20:24:56 +0000 2018",
 		"id": 1001197651218567200,
 		"id_str": "1001197651218567168",
