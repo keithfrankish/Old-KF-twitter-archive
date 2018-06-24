@@ -1,6 +1,705 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 23 17:33:39 +0000 2018",
+		"id": 1010576634536177700,
+		"id_str": "1010576634536177665",
+		"text": "RT @RonChrisley: Reminds me of: “We have no clue of how to make a flying machine but to use feathers and flapping wings” - we only got AF (…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RonChrisley",
+					"name": "Ron Chrisley",
+					"id": 593969828,
+					"id_str": "593969828",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7093,
+			"friends_count": 1762,
+			"listed_count": 435,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 19512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43536,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1521820974",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 23 14:09:01 +0000 2018",
+			"id": 1010525134116020200,
+			"id_str": "1010525134116020224",
+			"text": "Reminds me of: “We have no clue of how to make a flying machine but to use feathers and flapping wings” - we only g… https://t.co/QXSYe5rlmD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QXSYe5rlmD",
+						"expanded_url": "https://twitter.com/i/web/status/1010525134116020224",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 593969828,
+				"id_str": "593969828",
+				"name": "Ron Chrisley",
+				"screen_name": "RonChrisley",
+				"location": "Univ. of Sussex, Brighton, UK",
+				"description": "Director of COGS (Centre for Cognitive Science); Reader in Philosophy, Dept of Informatics; Faculty, Sackler Centre for Consciousness Science.",
+				"url": "https://t.co/2XhlzERWPS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2XhlzERWPS",
+								"expanded_url": "http://paics.wordpress.com",
+								"display_url": "paics.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 575,
+				"friends_count": 281,
+				"listed_count": 48,
+				"created_at": "Tue May 29 19:25:56 +0000 2012",
+				"favourites_count": 1325,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1276,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702881943784976384/jcuCuEi7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702881943784976384/jcuCuEi7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/593969828/1490019029",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1010524197171421200,
+			"quoted_status_id_str": "1010524197171421184",
+			"quoted_status": {
+				"created_at": "Sat Jun 23 14:05:17 +0000 2018",
+				"id": 1010524197171421200,
+				"id_str": "1010524197171421184",
+				"text": "Ned Block vs. Ricardo Sanz &amp; Ron Chrisley: we have no clue how to build artificial consciousness but to make it hum… https://t.co/tobkHbPBnR",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/tobkHbPBnR",
+							"expanded_url": "https://twitter.com/i/web/status/1010524197171421184",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 405417128,
+					"id_str": "405417128",
+					"name": "Marcin Miłkowski",
+					"screen_name": "MilekPl",
+					"location": "Warsaw",
+					"description": "involved in philosophy of cognitive science at Polish Academy of Sciences; also lexicography, natural language processing and translation",
+					"url": "http://t.co/6YkLjM07hR",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/6YkLjM07hR",
+									"expanded_url": "http://marcinmilkowski.pl",
+									"display_url": "marcinmilkowski.pl",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 461,
+					"friends_count": 409,
+					"listed_count": 27,
+					"created_at": "Sat Nov 05 08:48:48 +0000 2011",
+					"favourites_count": 853,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 382,
+					"lang": "pl",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "171610",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/3735437813/88cc3ecfa4240041e58ad00c4dfb56b9_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/3735437813/88cc3ecfa4240041e58ad00c4dfb56b9_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/405417128/1369988121",
+					"profile_link_color": "333333",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "0099CC",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1010524197171421200,
+		"quoted_status_id_str": "1010524197171421184",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 23 10:37:27 +0000 2018",
+		"id": 1010471893995016200,
+		"id_str": "1010471893995016192",
+		"text": "RT @lordbonkers: Having voted to keep \"no deal\" on the table, Conservative MPs are now aghast that business is preparing for that possibili…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lordbonkers",
+					"name": "Jonathan Calder",
+					"id": 20262783,
+					"id_str": "20262783",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7093,
+			"friends_count": 1762,
+			"listed_count": 435,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 19512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43536,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1521820974",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 23 10:27:25 +0000 2018",
+			"id": 1010469367350546400,
+			"id_str": "1010469367350546433",
+			"text": "Having voted to keep \"no deal\" on the table, Conservative MPs are now aghast that business is preparing for that possibility.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20262783,
+				"id_str": "20262783",
+				"name": "Jonathan Calder",
+				"screen_name": "lordbonkers",
+				"location": "Market Harborough",
+				"description": "\"England is a palimpsest of Medieval churches, abandoned mineral railways, ruinous Gothic institutions and follies built by mad aristocrats.\"",
+				"url": "http://t.co/UfOBcpdMtU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UfOBcpdMtU",
+								"expanded_url": "http://liberalengland.blogspot.com/",
+								"display_url": "liberalengland.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5765,
+				"friends_count": 2750,
+				"listed_count": 401,
+				"created_at": "Fri Feb 06 19:21:51 +0000 2009",
+				"favourites_count": 26061,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 217043,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/470306934780743680/sw8Zrens_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/470306934780743680/sw8Zrens_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20262783/1525809241",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 23 10:34:19 +0000 2018",
+		"id": 1010471104228536300,
+		"id_str": "1010471104228536321",
+		"text": "RT @NeilInnes: Marchers! For 40 years a bunch of hooray Henrys have been braying that Britain is better off out of the EU. Leave aside the…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeilInnes",
+					"name": "Neil Innes #FBPE",
+					"id": 18969049,
+					"id_str": "18969049",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7093,
+			"friends_count": 1762,
+			"listed_count": 435,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 19512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43536,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1521820974",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 23 06:11:21 +0000 2018",
+			"id": 1010404925967405000,
+			"id_str": "1010404925967405057",
+			"text": "Marchers! For 40 years a bunch of hooray Henrys have been braying that Britain is better off out of the EU. Leave a… https://t.co/iAkk5nP22b",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iAkk5nP22b",
+						"expanded_url": "https://twitter.com/i/web/status/1010404925967405057",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18969049,
+				"id_str": "18969049",
+				"name": "Neil Innes #FBPE",
+				"screen_name": "NeilInnes",
+				"location": "UK",
+				"description": "Ego Warrior, Style Guru and Fantasist. Idiot Bastard Band. Ex Bonzo, Rutle, 2nd 7th Python and Innes Book of Records.",
+				"url": "https://t.co/VusyI1TAtV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VusyI1TAtV",
+								"expanded_url": "http://www.neilinnes.media",
+								"display_url": "neilinnes.media",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21715,
+				"friends_count": 260,
+				"listed_count": 652,
+				"created_at": "Wed Jan 14 06:22:24 +0000 2009",
+				"favourites_count": 22,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4282,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "595959",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/501693841980669952/GhFUJLMA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/501693841980669952/GhFUJLMA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18969049/1408447275",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BAADDC",
+				"profile_sidebar_fill_color": "CCDAFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 22 22:37:41 +0000 2018",
 		"id": 1010290759239684100,
 		"id_str": "1010290759239684096",
