@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 16 23:24:05 +0000 2018",
+		"id": 1030233766797738000,
+		"id_str": "1030233766797737987",
+		"text": "RT @danwwang: I liked this joke: https://t.co/1CvJ0JMuuK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danwwang",
+					"name": "Dan Wang",
+					"id": 223197526,
+					"id_str": "223197526",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1029722957612953600,
+					"id_str": "1029722957612953601",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DkpPkwGVsAENl9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkpPkwGVsAENl9N.jpg",
+					"url": "https://t.co/1CvJ0JMuuK",
+					"display_url": "pic.twitter.com/1CvJ0JMuuK",
+					"expanded_url": "https://twitter.com/danwwang/status/1029723019009089536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 534,
+							"h": 218,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 534,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 534,
+							"h": 218,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029723019009089500,
+					"source_status_id_str": "1029723019009089536",
+					"source_user_id": 223197526,
+					"source_user_id_str": "223197526"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1029722957612953600,
+					"id_str": "1029722957612953601",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DkpPkwGVsAENl9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkpPkwGVsAENl9N.jpg",
+					"url": "https://t.co/1CvJ0JMuuK",
+					"display_url": "pic.twitter.com/1CvJ0JMuuK",
+					"expanded_url": "https://twitter.com/danwwang/status/1029723019009089536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 534,
+							"h": 218,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 534,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 534,
+							"h": 218,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029723019009089500,
+					"source_status_id_str": "1029723019009089536",
+					"source_user_id": 223197526,
+					"source_user_id_str": "223197526"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7186,
+			"friends_count": 1780,
+			"listed_count": 434,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 20639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44204,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 15 13:34:33 +0000 2018",
+			"id": 1029723019009089500,
+			"id_str": "1029723019009089536",
+			"text": "I liked this joke: https://t.co/1CvJ0JMuuK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1029722957612953600,
+						"id_str": "1029722957612953601",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/DkpPkwGVsAENl9N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkpPkwGVsAENl9N.jpg",
+						"url": "https://t.co/1CvJ0JMuuK",
+						"display_url": "pic.twitter.com/1CvJ0JMuuK",
+						"expanded_url": "https://twitter.com/danwwang/status/1029723019009089536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 534,
+								"h": 218,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 534,
+								"h": 218,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 218,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1029722957612953600,
+						"id_str": "1029722957612953601",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/DkpPkwGVsAENl9N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkpPkwGVsAENl9N.jpg",
+						"url": "https://t.co/1CvJ0JMuuK",
+						"display_url": "pic.twitter.com/1CvJ0JMuuK",
+						"expanded_url": "https://twitter.com/danwwang/status/1029723019009089536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 534,
+								"h": 218,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 534,
+								"h": 218,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 218,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 223197526,
+				"id_str": "223197526",
+				"name": "Dan Wang",
+				"screen_name": "danwwang",
+				"location": "Hong Kong",
+				"description": "A materials culture and the secure transport of light: Writing about globalization and technology at Gavekal Dragonomics.",
+				"url": "https://t.co/dYzX7Quf12",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dYzX7Quf12",
+								"expanded_url": "https://danwang.co",
+								"display_url": "danwang.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6448,
+				"friends_count": 277,
+				"listed_count": 181,
+				"created_at": "Sun Dec 05 17:51:06 +0000 2010",
+				"favourites_count": 1736,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2592,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928596580306788352/XwYqjtiZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928596580306788352/XwYqjtiZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/223197526/1510233834",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "35fd5bacecc4c6e5",
+				"url": "https://api.twitter.com/1.1/geo/id/35fd5bacecc4c6e5.json",
+				"place_type": "country",
+				"name": "Hong Kong",
+				"full_name": "Hong Kong",
+				"country_code": "HK",
+				"country": "Hong Kong",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								113.81813,
+								22.1465116
+							],
+							[
+								114.502196,
+								22.1465116
+							],
+							[
+								114.502196,
+								22.614177
+							],
+							[
+								113.81813,
+								22.614177
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 126,
+			"favorite_count": 498,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 16 23:21:04 +0000 2018",
+		"id": 1030233006483681300,
+		"id_str": "1030233006483681280",
+		"text": "RT @literatura_rte: Matthew Snowden - sunset https://t.co/aO9reG3B1Z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "literatura_rte",
+					"name": "@_rt*",
+					"id": 2463899676,
+					"id_str": "2463899676",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1029954957192167400,
+					"id_str": "1029954957192167424",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Dksik54XgAA28kx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dksik54XgAA28kx.jpg",
+					"url": "https://t.co/aO9reG3B1Z",
+					"display_url": "pic.twitter.com/aO9reG3B1Z",
+					"expanded_url": "https://twitter.com/literatura_rte/status/1029954988301344768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 669,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1179,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1179,
+							"h": 1199,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029954988301344800,
+					"source_status_id_str": "1029954988301344768",
+					"source_user_id": 2463899676,
+					"source_user_id_str": "2463899676"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1029954957192167400,
+					"id_str": "1029954957192167424",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Dksik54XgAA28kx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dksik54XgAA28kx.jpg",
+					"url": "https://t.co/aO9reG3B1Z",
+					"display_url": "pic.twitter.com/aO9reG3B1Z",
+					"expanded_url": "https://twitter.com/literatura_rte/status/1029954988301344768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 669,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1179,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1179,
+							"h": 1199,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029954988301344800,
+					"source_status_id_str": "1029954988301344768",
+					"source_user_id": 2463899676,
+					"source_user_id_str": "2463899676"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7186,
+			"friends_count": 1780,
+			"listed_count": 434,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 20639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44204,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 16 04:56:19 +0000 2018",
+			"id": 1029954988301344800,
+			"id_str": "1029954988301344768",
+			"text": "Matthew Snowden - sunset https://t.co/aO9reG3B1Z",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1029954957192167400,
+						"id_str": "1029954957192167424",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/Dksik54XgAA28kx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dksik54XgAA28kx.jpg",
+						"url": "https://t.co/aO9reG3B1Z",
+						"display_url": "pic.twitter.com/aO9reG3B1Z",
+						"expanded_url": "https://twitter.com/literatura_rte/status/1029954988301344768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 669,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1179,
+								"h": 1199,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1179,
+								"h": 1199,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1029954957192167400,
+						"id_str": "1029954957192167424",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/Dksik54XgAA28kx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dksik54XgAA28kx.jpg",
+						"url": "https://t.co/aO9reG3B1Z",
+						"display_url": "pic.twitter.com/aO9reG3B1Z",
+						"expanded_url": "https://twitter.com/literatura_rte/status/1029954988301344768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 669,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1179,
+								"h": 1199,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1179,
+								"h": 1199,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2463899676,
+				"id_str": "2463899676",
+				"name": "@_rt*",
+				"screen_name": "literatura_rte",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18115,
+				"friends_count": 8570,
+				"listed_count": 511,
+				"created_at": "Sat Apr 26 01:38:12 +0000 2014",
+				"favourites_count": 41276,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18289,
+				"lang": "pt",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/889462230101753856/UaF7M1_j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/889462230101753856/UaF7M1_j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2463899676/1512854801",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 193,
+			"favorite_count": 487,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 15 23:09:57 +0000 2018",
 		"id": 1029867822116229100,
 		"id_str": "1029867822116229120",
