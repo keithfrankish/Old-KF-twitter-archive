@@ -1,6 +1,4677 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 21:20:43 +0000 2018",
+		"id": 1053395542074523600,
+		"id_str": "1053395542074523648",
+		"full_text": "\"Are delusions beliefs?\"\n\nSome problems have a lot of empirical work done on them, but really need some philosophical input; others are the opposite. This problem, I believe, is the latter, so it's nice to see some targeted empirical research.\n\nhttps://t.co/13KMS9zPVU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/13KMS9zPVU",
+					"expanded_url": "https://www.tandfonline.com/doi/full/10.1080/17522439.2018.1528298",
+					"display_url": "tandfonline.com/doi/full/10.10…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 935359688501162000,
+			"id_str": "935359688501161985",
+			"name": "Stephen Gadsby",
+			"screen_name": "stephen_gadsby",
+			"location": "melb",
+			"description": "Philosopher working on anorexia nervosa, body representations, delusions, psychiatric taxonomy, bodily awareness, mental representation and predictive coding.",
+			"url": "https://t.co/X6jYpUfiR3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X6jYpUfiR3",
+							"expanded_url": "http://stephengadsby.com",
+							"display_url": "stephengadsby.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 216,
+			"friends_count": 216,
+			"listed_count": 3,
+			"created_at": "Tue Nov 28 04:08:22 +0000 2017",
+			"favourites_count": 577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 543,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935490239287640064/BO5Fxn4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935490239287640064/BO5Fxn4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935359688501161985/1511844411",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Are delusions beliefs?\"\n\nSome problems have a lot of empirical work done on them, but really need some philosophical input; others are the opposite. This problem, I believe, is the latter, so it's nice to see some targeted empirical research.\n\nhttps://t.co/13KMS9zPVU"
+	},
+	{
+		"created_at": "Fri Oct 19 22:53:40 +0000 2018",
+		"id": 1053418934375014400,
+		"id_str": "1053418934375014400",
+		"full_text": "@Mark_Stockwell @patrick_kidd @RMLLowe @philosophybites https://t.co/4c1jNiKTfw",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mark_Stockwell",
+					"name": "Mark Stockwell",
+					"id": 16928995,
+					"id_str": "16928995",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "patrick_kidd",
+					"name": "Patrick Kidd",
+					"id": 260248295,
+					"id_str": "260248295",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "RMLLowe",
+					"name": "Rebecca Lowe",
+					"id": 1378279974,
+					"id_str": "1378279974",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						39,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4c1jNiKTfw",
+					"expanded_url": "https://www.jstor.org/stable/2183914",
+					"display_url": "jstor.org/stable/2183914",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053417566239158300,
+		"in_reply_to_status_id_str": "1053417566239158272",
+		"in_reply_to_user_id": 16928995,
+		"in_reply_to_user_id_str": "16928995",
+		"in_reply_to_screen_name": "Mark_Stockwell",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Mark_Stockwell @patrick_kidd @RMLLowe @philosophybites https://t.co/4c1jNiKTfw"
+	},
+	{
+		"created_at": "Fri Oct 19 20:14:33 +0000 2018",
+		"id": 1053378893275525100,
+		"id_str": "1053378893275525120",
+		"full_text": "Snow falling on the cliffs of comet Churyumov-Gerasimenko.  This video was compiled using 33 images taken by the Rosetta spacecraft over the course of 25 minutes.  Note the star streaking by in the upper left. https://t.co/b1iHxU7R7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053377776860901400,
+					"id_str": "1053377776860901376",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dp5ZgcwVsAAOWcl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dp5ZgcwVsAAOWcl.jpg",
+					"url": "https://t.co/b1iHxU7R7E",
+					"display_url": "pic.twitter.com/b1iHxU7R7E",
+					"expanded_url": "https://twitter.com/AnnaGHughes/status/1053378893275525120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 490,
+							"h": 490,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 490,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 490,
+							"h": 490,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053377776860901400,
+					"id_str": "1053377776860901376",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dp5ZgcwVsAAOWcl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dp5ZgcwVsAAOWcl.jpg",
+					"url": "https://t.co/b1iHxU7R7E",
+					"display_url": "pic.twitter.com/b1iHxU7R7E",
+					"expanded_url": "https://twitter.com/AnnaGHughes/status/1053378893275525120/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 490,
+							"h": 490,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 490,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 490,
+							"h": 490,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dp5ZgcwVsAAOWcl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 794981505504161800,
+			"id_str": "794981505504161793",
+			"name": "Anna Hughes",
+			"screen_name": "AnnaGHughes",
+			"location": "Vancouver, British Columbia",
+			"description": "Astrophysics PhD student // thesis on space weather of ultracool M dwarfs. Into snowboarding, ultimate, & sci-fi. 🇨🇦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4397,
+			"friends_count": 586,
+			"listed_count": 57,
+			"created_at": "Sat Nov 05 19:15:35 +0000 2016",
+			"favourites_count": 6312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1402,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036320987292131328/lBXIIeCk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036320987292131328/lBXIIeCk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/794981505504161793/1500921253",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 429,
+		"favorite_count": 851,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Snow falling on the cliffs of comet Churyumov-Gerasimenko.  This video was compiled using 33 images taken by the Rosetta spacecraft over the course of 25 minutes.  Note the star streaking by in the upper left. https://t.co/b1iHxU7R7E"
+	},
+	{
+		"created_at": "Fri Oct 19 22:27:19 +0000 2018",
+		"id": 1053412304765837300,
+		"id_str": "1053412304765837312",
+		"full_text": "An extraordinary recreation --&gt; Robert Burns - A Red, Red Rose - Poem animation - YouTube - https://t.co/poDqrO1585",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/poDqrO1585",
+					"expanded_url": "https://www.youtube.com/watch?v=GuTARmwBMmY",
+					"display_url": "youtube.com/watch?v=GuTARm…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An extraordinary recreation --&gt; Robert Burns - A Red, Red Rose - Poem animation - YouTube - https://t.co/poDqrO1585"
+	},
+	{
+		"created_at": "Fri Oct 19 22:20:56 +0000 2018",
+		"id": 1053410697802059800,
+		"id_str": "1053410697802059776",
+		"full_text": "@jweisber @mkonnikova Thanksgiving.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jweisber",
+					"name": "Jonathan Weisberg",
+					"id": 817023195823935500,
+					"id_str": "817023195823935488",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "mkonnikova",
+					"name": "Maria Konnikova",
+					"id": 358566293,
+					"id_str": "358566293",
+					"indices": [
+						10,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053409484540862500,
+		"in_reply_to_status_id_str": "1053409484540862465",
+		"in_reply_to_user_id": 817023195823935500,
+		"in_reply_to_user_id_str": "817023195823935488",
+		"in_reply_to_screen_name": "jweisber",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jweisber @mkonnikova Thanksgiving."
+	},
+	{
+		"created_at": "Fri Oct 19 22:18:11 +0000 2018",
+		"id": 1053410008027877400,
+		"id_str": "1053410008027877383",
+		"full_text": "@Mark_Stockwell @RMLLowe see @philosophybites's reply for a big hint",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mark_Stockwell",
+					"name": "Mark Stockwell",
+					"id": 16928995,
+					"id_str": "16928995",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "RMLLowe",
+					"name": "Rebecca Lowe",
+					"id": 1378279974,
+					"id_str": "1378279974",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						29,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053407036120141800,
+		"in_reply_to_status_id_str": "1053407036120141829",
+		"in_reply_to_user_id": 16928995,
+		"in_reply_to_user_id_str": "16928995",
+		"in_reply_to_screen_name": "Mark_Stockwell",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Mark_Stockwell @RMLLowe see @philosophybites's reply for a big hint"
+	},
+	{
+		"created_at": "Fri Oct 19 22:14:04 +0000 2018",
+		"id": 1053408967974703100,
+		"id_str": "1053408967974703104",
+		"full_text": "@mkonnikova It's the repressed rage that does it.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkonnikova",
+					"name": "Maria Konnikova",
+					"id": 358566293,
+					"id_str": "358566293",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053320745412104200,
+		"in_reply_to_status_id_str": "1053320745412104197",
+		"in_reply_to_user_id": 358566293,
+		"in_reply_to_user_id_str": "358566293",
+		"in_reply_to_screen_name": "mkonnikova",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mkonnikova It's the repressed rage that does it."
+	},
+	{
+		"created_at": "Fri Oct 19 07:43:37 +0000 2018",
+		"id": 1053189915847127000,
+		"id_str": "1053189915847127041",
+		"full_text": "If you don't smile at the noise the otter makes when chomping down, you're not human. Or otter. https://t.co/u4mco6HFv3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u4mco6HFv3",
+					"expanded_url": "https://twitter.com/OnlyOtters/status/1051897574226108416",
+					"display_url": "twitter.com/OnlyOtters/sta…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18774246,
+			"id_str": "18774246",
+			"name": "David Baddiel",
+			"screen_name": "Baddiel",
+			"location": "London",
+			"description": "Jew",
+			"url": "https://t.co/SHJBLweD9g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SHJBLweD9g",
+							"expanded_url": "http://www.davidbaddiel.com",
+							"display_url": "davidbaddiel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563965,
+			"friends_count": 1594,
+			"listed_count": 3554,
+			"created_at": "Thu Jan 08 18:59:05 +0000 2009",
+			"favourites_count": 19641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 41439,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044886865722179584/s6NTWqli_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044886865722179584/s6NTWqli_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18774246/1537915396",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051897574226108400,
+		"quoted_status_id_str": "1051897574226108416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u4mco6HFv3",
+			"expanded": "https://twitter.com/OnlyOtters/status/1051897574226108416",
+			"display": "twitter.com/OnlyOtters/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 15 18:08:19 +0000 2018",
+			"id": 1051897574226108400,
+			"id_str": "1051897574226108416",
+			"full_text": "watch this with sound on https://t.co/uluHvqB1DJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				24
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1051897460979687400,
+						"id_str": "1051897460979687424",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051897460979687424/pu/img/9E0UAp9xXjpMqW3C.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051897460979687424/pu/img/9E0UAp9xXjpMqW3C.jpg",
+						"url": "https://t.co/uluHvqB1DJ",
+						"display_url": "pic.twitter.com/uluHvqB1DJ",
+						"expanded_url": "https://twitter.com/OnlyOtters/status/1051897574226108416/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1051897460979687400,
+						"id_str": "1051897460979687424",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051897460979687424/pu/img/9E0UAp9xXjpMqW3C.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051897460979687424/pu/img/9E0UAp9xXjpMqW3C.jpg",
+						"url": "https://t.co/uluHvqB1DJ",
+						"display_url": "pic.twitter.com/uluHvqB1DJ",
+						"expanded_url": "https://twitter.com/OnlyOtters/status/1051897574226108416/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 30600,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1051897460979687424/pu/vid/240x240/ou71o5i30vEmqHiE.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1051897460979687424/pu/pl/mBbiP9KkKOgRU2N2.m3u8?tag=5"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1051897460979687424/pu/vid/640x640/QwSfmKeKUHgHbmRD.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1051897460979687424/pu/vid/480x480/L0omZ_JTMKPVQAW9.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1033188545429741600,
+				"id_str": "1033188545429741569",
+				"name": "Otters 🐾",
+				"screen_name": "OnlyOtters",
+				"location": "",
+				"description": "The cutest otters on twitter!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3458,
+				"friends_count": 1,
+				"listed_count": 7,
+				"created_at": "Sat Aug 25 03:05:19 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049922725031096320/aZY04Mfy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049922725031096320/aZY04Mfy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1033188545429741569/1539155870",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4915,
+			"favorite_count": 12540,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2991,
+		"favorite_count": 9752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you don't smile at the noise the otter makes when chomping down, you're not human. Or otter. https://t.co/u4mco6HFv3"
+	},
+	{
+		"created_at": "Fri Oct 19 21:51:13 +0000 2018",
+		"id": 1053403217650954200,
+		"id_str": "1053403217650954240",
+		"full_text": "@qualiazombie Summer or Easter hols next year maybe? We can advise on places to stay. (We'd invite you to stay with us if we had more room and lived in a nicer location.)  Would love to see you. And you could take Ida to see Mt Ida!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qualiazombie",
+					"name": "Sean Crawford",
+					"id": 992146303814684700,
+					"id_str": "992146303814684680",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053384127980818400,
+		"in_reply_to_status_id_str": "1053384127980818432",
+		"in_reply_to_user_id": 992146303814684700,
+		"in_reply_to_user_id_str": "992146303814684680",
+		"in_reply_to_screen_name": "qualiazombie",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@qualiazombie Summer or Easter hols next year maybe? We can advise on places to stay. (We'd invite you to stay with us if we had more room and lived in a nicer location.)  Would love to see you. And you could take Ida to see Mt Ida!"
+	},
+	{
+		"created_at": "Fri Oct 19 20:54:07 +0000 2018",
+		"id": 1053388851920732200,
+		"id_str": "1053388851920732160",
+		"full_text": "I've RTd this before, One of the saddest and shaming things I've heard in the last 2 ghastly years https://t.co/Ax4OjhoTu7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ax4OjhoTu7",
+					"expanded_url": "https://twitter.com/VictoriaLIVE/status/1052463686001020928",
+					"display_url": "twitter.com/VictoriaLIVE/s…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19676294,
+			"id_str": "19676294",
+			"name": "David Colquhoun",
+			"screen_name": "david_colquhoun",
+			"location": "UCL London",
+			"description": "Biophysicist and statistician . Likes stochastic processes, dislikes managerialism and quacks. https://t.co/fDRyHeo80q",
+			"url": "http://t.co/NWC0wIacPF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NWC0wIacPF",
+							"expanded_url": "http://dcscience.net/",
+							"display_url": "dcscience.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fDRyHeo80q",
+							"expanded_url": "https://en.wikipedia.org/wiki/David_Colquhoun",
+							"display_url": "en.wikipedia.org/wiki/David_Col…",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14393,
+			"friends_count": 2054,
+			"listed_count": 708,
+			"created_at": "Wed Jan 28 21:13:16 +0000 2009",
+			"favourites_count": 474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117249,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/744887904065859584/RjhtIGH0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/744887904065859584/RjhtIGH0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19676294/1417360154",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052463686001020900,
+		"quoted_status_id_str": "1052463686001020928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ax4OjhoTu7",
+			"expanded": "https://twitter.com/VictoriaLIVE/status/1052463686001020928",
+			"display": "twitter.com/VictoriaLIVE/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 07:37:51 +0000 2018",
+			"id": 1052463686001020900,
+			"id_str": "1052463686001020928",
+			"full_text": "'I'm leaving Britain because of Brexit'\n\nSabine Voigt has lived in the UK for 17 years, and has a British partner - but has decided to return to Germany. https://t.co/kEH6ff9oaT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1052463317376270300,
+						"id_str": "1052463317376270336",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/DptP7QTW0AUm3Aa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DptP7QTW0AUm3Aa.jpg",
+						"url": "https://t.co/kEH6ff9oaT",
+						"display_url": "pic.twitter.com/kEH6ff9oaT",
+						"expanded_url": "https://twitter.com/VictoriaLIVE/status/1052463686001020928/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052463317376270300,
+						"id_str": "1052463317376270336",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/DptP7QTW0AUm3Aa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DptP7QTW0AUm3Aa.jpg",
+						"url": "https://t.co/kEH6ff9oaT",
+						"display_url": "pic.twitter.com/kEH6ff9oaT",
+						"expanded_url": "https://twitter.com/VictoriaLIVE/status/1052463686001020928/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 103000,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1052463317376270336/vid/240x240/KVKdAIW8DezMfWyP.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1052463317376270336/vid/480x480/GpiMKs2bjStvOfUB.mp4?tag=8"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1052463317376270336/vid/720x720/Y5UGmA3rGw13ehhJ.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1052463317376270336/pl/NI4gRBcMbjReay5F.m3u8?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3082499172,
+				"id_str": "3082499172",
+				"name": "Victoria Derbyshire",
+				"screen_name": "VictoriaLIVE",
+				"location": "",
+				"description": "BAFTA-winning news show, on @BBCTwo, @BBCNews & online Mon-Fri 9-11am. \nOriginal stories, exclusive interviews, debate & breaking news.\n#VictoriaLIVE",
+				"url": "https://t.co/PLURgGS56z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PLURgGS56z",
+								"expanded_url": "http://bbc.co.uk/victoria",
+								"display_url": "bbc.co.uk/victoria",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55869,
+				"friends_count": 2770,
+				"listed_count": 497,
+				"created_at": "Sat Mar 14 22:10:18 +0000 2015",
+				"favourites_count": 2857,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 22704,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913351766745452544/30i9I5Mg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913351766745452544/30i9I5Mg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3082499172/1506952893",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 964,
+			"favorite_count": 1182,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've RTd this before, One of the saddest and shaming things I've heard in the last 2 ghastly years https://t.co/Ax4OjhoTu7"
+	},
+	{
+		"created_at": "Fri Oct 19 18:51:42 +0000 2018",
+		"id": 1053358043524747300,
+		"id_str": "1053358043524747264",
+		"full_text": "@ancientnmodern @Gary_Bainbridge I have never recovered from seeing it at age five.",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "VictoriaG (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Gary_Bainbridge",
+					"name": "Gary Bainbridge",
+					"id": 14509754,
+					"id_str": "14509754",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053356794872037400,
+		"in_reply_to_status_id_str": "1053356794872037377",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ancientnmodern @Gary_Bainbridge I have never recovered from seeing it at age five."
+	},
+	{
+		"created_at": "Fri Oct 19 17:48:51 +0000 2018",
+		"id": 1053342224036102100,
+		"id_str": "1053342224036102144",
+		"full_text": "@distributedcog I see you as a synoptic philosopher -- one who sees patterns in large quantities of data (in a loose sense). It's hard to convey such insights to people who don't know the data",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "distributedcog",
+					"name": "Ⓑⓞⓞⓞⓞⓞⓞⓞⓞ",
+					"id": 131644899,
+					"id_str": "131644899",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053340478182223900,
+		"in_reply_to_status_id_str": "1053340478182223872",
+		"in_reply_to_user_id": 131644899,
+		"in_reply_to_user_id_str": "131644899",
+		"in_reply_to_screen_name": "distributedcog",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@distributedcog I see you as a synoptic philosopher -- one who sees patterns in large quantities of data (in a loose sense). It's hard to convey such insights to people who don't know the data"
+	},
+	{
+		"created_at": "Fri Oct 19 17:38:00 +0000 2018",
+		"id": 1053339496396267500,
+		"id_str": "1053339496396267521",
+		"full_text": "@distributedcog I suspect you overestimate your readers -- assuming they are as widely read and smart as you are.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "distributedcog",
+					"name": "Ⓑⓞⓞⓞⓞⓞⓞⓞⓞ",
+					"id": 131644899,
+					"id_str": "131644899",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053334055549395000,
+		"in_reply_to_status_id_str": "1053334055549394944",
+		"in_reply_to_user_id": 131644899,
+		"in_reply_to_user_id_str": "131644899",
+		"in_reply_to_screen_name": "distributedcog",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@distributedcog I suspect you overestimate your readers -- assuming they are as widely read and smart as you are."
+	},
+	{
+		"created_at": "Thu Oct 18 14:45:41 +0000 2018",
+		"id": 1052933743525224400,
+		"id_str": "1052933743525224449",
+		"full_text": "\"A #PeoplesVote is vital in order that they [the British people] be given the opportunity to reflect, and review how the referendum of 2016 has been altered.\"\n\nMUST-WATCH: Actor Brian Cox delivers a powerful message about why he's supporting a #PeoplesVote https://t.co/z4hWRpcCPT https://t.co/kC7l3M4Js3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PeoplesVote",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"text": "PeoplesVote",
+					"indices": [
+						244,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z4hWRpcCPT",
+					"expanded_url": "https://www.peoples-vote.uk/march",
+					"display_url": "peoples-vote.uk/march",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1052923864278294500,
+					"id_str": "1052923864278294528",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DpzFKuCW0AI5hkU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpzFKuCW0AI5hkU.jpg",
+					"url": "https://t.co/kC7l3M4Js3",
+					"display_url": "pic.twitter.com/kC7l3M4Js3",
+					"expanded_url": "https://twitter.com/peoplesvote_uk/status/1052933743525224449/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052923864278294500,
+					"id_str": "1052923864278294528",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DpzFKuCW0AI5hkU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpzFKuCW0AI5hkU.jpg",
+					"url": "https://t.co/kC7l3M4Js3",
+					"display_url": "pic.twitter.com/kC7l3M4Js3",
+					"expanded_url": "https://twitter.com/peoplesvote_uk/status/1052933743525224449/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 168720,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1052923864278294528/pl/JRA1ESaJdJwLIset.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1052923864278294528/vid/1280x720/G6FMDmHw0XW_rDga.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1052923864278294528/vid/640x360/AGhUqAKnyMEAxkQ4.mp4?tag=8"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1052923864278294528/vid/320x180/wiKuKpvLsis_wlrW.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Actor Brian Cox on why he backs a People's Vote",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.peoples-vote.uk/march"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3574875675,
+			"id_str": "3574875675",
+			"name": "People's Vote UK",
+			"screen_name": "peoplesvote_uk",
+			"location": "United Kingdom",
+			"description": "Whatever your opinion on Brexit, no one would disagree that it's a big deal. And not a done deal. Sign up to demand a People's Vote on the Brexit deal.",
+			"url": "https://t.co/dpgSzy4kWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dpgSzy4kWg",
+							"expanded_url": "http://www.peoples-vote.uk",
+							"display_url": "peoples-vote.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68685,
+			"friends_count": 1240,
+			"listed_count": 421,
+			"created_at": "Mon Sep 07 08:11:46 +0000 2015",
+			"favourites_count": 3828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30599,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016227651483250688/kpEVNN-w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016227651483250688/kpEVNN-w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3574875675/1539590013",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1259,
+		"favorite_count": 1832,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"A #PeoplesVote is vital in order that they [the British people] be given the opportunity to reflect, and review how the referendum of 2016 has been altered.\"\n\nMUST-WATCH: Actor Brian Cox delivers a powerful message about why he's supporting a #PeoplesVote https://t.co/z4hWRpcCPT https://t.co/kC7l3M4Js3"
+	},
+	{
+		"created_at": "Fri Oct 19 16:41:08 +0000 2018",
+		"id": 1053325185087090700,
+		"id_str": "1053325185087090688",
+		"full_text": "Researchers in the @PrakashLab have been watching this creature, which has no muscles and no recognizable nervous system, navigate, behave and hunt. Which raises the question: what is an animal, really? https://t.co/PQhAhvTvTh https://t.co/QW1l1geMY8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PrakashLab",
+					"name": "PrakashLab",
+					"id": 392157134,
+					"id_str": "392157134",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PQhAhvTvTh",
+					"expanded_url": "https://stanford.io/2CSveVR",
+					"display_url": "stanford.io/2CSveVR",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1053325037829324800,
+					"id_str": "1053325037829324801",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1053325037829324801/img/a52u3JaRshIcpB8a.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1053325037829324801/img/a52u3JaRshIcpB8a.jpg",
+					"url": "https://t.co/QW1l1geMY8",
+					"display_url": "pic.twitter.com/QW1l1geMY8",
+					"expanded_url": "https://twitter.com/Stanford/status/1053325185087090688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053325037829324800,
+					"id_str": "1053325037829324801",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1053325037829324801/img/a52u3JaRshIcpB8a.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1053325037829324801/img/a52u3JaRshIcpB8a.jpg",
+					"url": "https://t.co/QW1l1geMY8",
+					"display_url": "pic.twitter.com/QW1l1geMY8",
+					"expanded_url": "https://twitter.com/Stanford/status/1053325185087090688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 50676,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1053325037829324801/vid/320x180/XWmSteMwEGumfb_m.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1053325037829324801/vid/640x360/ku9c51frsaO-724B.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1053325037829324801/pl/FydlHXDu7Myy7B_5.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1053325037829324801/vid/1280x720/R_5gXR9WxGKP6h1U.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18036441,
+			"id_str": "18036441",
+			"name": "Stanford University",
+			"screen_name": "Stanford",
+			"location": "Stanford, CA",
+			"description": "Stanford is one of the world's leading research and teaching institutions. Official Twitter feed by University Communications.",
+			"url": "https://t.co/7oJaKddQMt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7oJaKddQMt",
+							"expanded_url": "http://stanford.edu/",
+							"display_url": "stanford.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 633204,
+			"friends_count": 511,
+			"listed_count": 6975,
+			"created_at": "Thu Dec 11 01:06:56 +0000 2008",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18271,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F3E5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875395483128049664/8z_jvdLB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875395483128049664/8z_jvdLB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18036441/1403030942",
+			"profile_link_color": "820000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDCF99",
+			"profile_text_color": "3F3C30",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Researchers in the @PrakashLab have been watching this creature, which has no muscles and no recognizable nervous system, navigate, behave and hunt. Which raises the question: what is an animal, really? https://t.co/PQhAhvTvTh https://t.co/QW1l1geMY8"
+	},
+	{
+		"created_at": "Fri Oct 19 16:34:31 +0000 2018",
+		"id": 1053323518652215300,
+		"id_str": "1053323518652215297",
+		"full_text": "@qualiazombie Well, many congratulations to her! You must be a very proud parent. Hope we'll all get to meet up sometime soon, so your three can meet our three (not as gifted perhaps but fun when they're on form). Maybe a holiday in Crete?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qualiazombie",
+					"name": "Sean Crawford",
+					"id": 992146303814684700,
+					"id_str": "992146303814684680",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053049995442745300,
+		"in_reply_to_status_id_str": "1053049995442745345",
+		"in_reply_to_user_id": 992146303814684700,
+		"in_reply_to_user_id_str": "992146303814684680",
+		"in_reply_to_screen_name": "qualiazombie",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@qualiazombie Well, many congratulations to her! You must be a very proud parent. Hope we'll all get to meet up sometime soon, so your three can meet our three (not as gifted perhaps but fun when they're on form). Maybe a holiday in Crete?"
+	},
+	{
+		"created_at": "Fri Oct 19 16:24:26 +0000 2018",
+		"id": 1053320979957583900,
+		"id_str": "1053320979957583879",
+		"full_text": "Philosophers Name the Best Philosophy Books: From Stoicism and Existentialism, to Metaphysics &amp; Ethics for Artificial Intelligence | Open Culture - https://t.co/UK8rYOL0R1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UK8rYOL0R1",
+					"expanded_url": "http://www.openculture.com/2018/10/philosophers-name-the-best-philosophy-books.html",
+					"display_url": "openculture.com/2018/10/philos…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Philosophers Name the Best Philosophy Books: From Stoicism and Existentialism, to Metaphysics &amp; Ethics for Artificial Intelligence | Open Culture - https://t.co/UK8rYOL0R1"
+	},
+	{
+		"created_at": "Fri Oct 19 15:54:22 +0000 2018",
+		"id": 1053313416557969400,
+		"id_str": "1053313416557969409",
+		"full_text": "2016: We're leaving. Get over it !\n2018: We've over leaving. Get it?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "2016: We're leaving. Get over it !\n2018: We've over leaving. Get it?"
+	},
+	{
+		"created_at": "Thu Oct 18 07:03:31 +0000 2018",
+		"id": 1052817436473548800,
+		"id_str": "1052817436473548801",
+		"full_text": "Chatted with two MEPs this morning - German and Belgian. Both say the mood has changed from sympathy to anger with 'weak UK govt'. One said 'there will be two men who benefit financially from #brexit, and 65 million who will pay for it'. 🎥 #BehindTheScenes @gmb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "brexit",
+					"indices": [
+						192,
+						199
+					]
+				},
+				{
+					"text": "BehindTheScenes",
+					"indices": [
+						240,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GMB",
+					"name": "Good Morning Britain",
+					"id": 19424427,
+					"id_str": "19424427",
+					"indices": [
+						257,
+						261
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1062817489,
+			"id_str": "1062817489",
+			"name": "𝚁𝚊𝚟 𝚅𝚊𝚍𝚐𝚊𝚖𝚊",
+			"screen_name": "TVRav",
+			"location": "Worldwide",
+			"description": "Emma @thosethatcan’s husband. Daddy of Child 1 & 2. Senior Producer & Videojournalist for @GMB.  Opinions are just opinions, RTs are NOT endorsements.",
+			"url": "https://t.co/yJ5iQyb1pZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yJ5iQyb1pZ",
+							"expanded_url": "http://rebelwithoutacrew.co.uk",
+							"display_url": "rebelwithoutacrew.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3499,
+			"friends_count": 1134,
+			"listed_count": 84,
+			"created_at": "Sat Jan 05 11:39:27 +0000 2013",
+			"favourites_count": 1835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 163,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031338646190866432/m0NgEdRI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031338646190866432/m0NgEdRI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1062817489/1490026532",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1096,
+		"favorite_count": 1811,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Chatted with two MEPs this morning - German and Belgian. Both say the mood has changed from sympathy to anger with 'weak UK govt'. One said 'there will be two men who benefit financially from #brexit, and 65 million who will pay for it'. 🎥 #BehindTheScenes @gmb"
+	},
+	{
+		"created_at": "Thu Oct 18 13:53:18 +0000 2018",
+		"id": 1052920558818611200,
+		"id_str": "1052920558818611200",
+		"full_text": "A friend asked me what I’m hoping to gain by marching in support of a #PeoplesVote. This was my response. I thought it might be useful to share it. Please RT if you agree. https://t.co/cW6oJyj1tP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PeoplesVote",
+					"indices": [
+						70,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052920550111305700,
+					"id_str": "1052920550111305729",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpy5qWYX4AET08b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpy5qWYX4AET08b.jpg",
+					"url": "https://t.co/cW6oJyj1tP",
+					"display_url": "pic.twitter.com/cW6oJyj1tP",
+					"expanded_url": "https://twitter.com/sturdyAlex/status/1052920558818611200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1291,
+							"h": 1244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052920550111305700,
+					"id_str": "1052920550111305729",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpy5qWYX4AET08b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpy5qWYX4AET08b.jpg",
+					"url": "https://t.co/cW6oJyj1tP",
+					"display_url": "pic.twitter.com/cW6oJyj1tP",
+					"expanded_url": "https://twitter.com/sturdyAlex/status/1052920558818611200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1291,
+							"h": 1244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42371615,
+			"id_str": "42371615",
+			"name": "Alex Andreou",
+			"screen_name": "sturdyAlex",
+			"location": "London, UK and Mykonos, Greece",
+			"description": "I write, act, sing and cook. Occasionally, even for money.  Literary agents: rachel@furnisslawton.co.uk  Acting representation: john@granthamhazeldine.com",
+			"url": "https://t.co/mu5YZ8ngns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mu5YZ8ngns",
+							"expanded_url": "https://www.theguardian.com/profile/alex-andreou",
+							"display_url": "theguardian.com/profile/alex-a…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60945,
+			"friends_count": 1726,
+			"listed_count": 1048,
+			"created_at": "Mon May 25 07:59:13 +0000 2009",
+			"favourites_count": 107837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 148417,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043803702216323072/AQn895hI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043803702216323072/AQn895hI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42371615/1534321249",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1043,
+		"favorite_count": 1330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A friend asked me what I’m hoping to gain by marching in support of a #PeoplesVote. This was my response. I thought it might be useful to share it. Please RT if you agree. https://t.co/cW6oJyj1tP"
+	},
+	{
+		"created_at": "Thu Oct 18 21:27:08 +0000 2018",
+		"id": 1053034769737572400,
+		"id_str": "1053034769737572353",
+		"full_text": "Grist to the philosophy of art mill. -&gt; Banksy: How Love is in the Bin's shredding did not go to plan - https://t.co/0Q0QUyFBkL via @BBCWorld",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCWorld",
+					"name": "BBC News (World)",
+					"id": 742143,
+					"id_str": "742143",
+					"indices": [
+						135,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0Q0QUyFBkL",
+					"expanded_url": "https://www.bbc.com/news/entertainment-arts-45900314",
+					"display_url": "bbc.com/news/entertain…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grist to the philosophy of art mill. -&gt; Banksy: How Love is in the Bin's shredding did not go to plan - https://t.co/0Q0QUyFBkL via @BBCWorld"
+	},
+	{
+		"created_at": "Thu Oct 18 21:17:56 +0000 2018",
+		"id": 1053032456721453000,
+		"id_str": "1053032456721453063",
+		"full_text": "The Gruesome Murders at 10 Rillington Place and the Beginning of the End of the Death Penalty - Flashbak - https://t.co/RTvgjMwLw8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RTvgjMwLw8",
+					"expanded_url": "https://flashbak.com/?p=406752",
+					"display_url": "flashbak.com/?p=406752",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Gruesome Murders at 10 Rillington Place and the Beginning of the End of the Death Penalty - Flashbak - https://t.co/RTvgjMwLw8"
+	},
+	{
+		"created_at": "Thu Oct 18 19:01:00 +0000 2018",
+		"id": 1052997995233456100,
+		"id_str": "1052997995233456128",
+		"full_text": "In the interview, Johnny Mercer says:\n- His former self would not vote Tory\n- There is \"no chance\" he would run to be a Tory MP now\n- Says situation is a \"shit show\" and he would turn down gvt job \nPlenty more in this week's @theHouse_mag cover \nhttps://t.co/rEHEdHOmLK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theHouse_mag",
+					"name": "The House",
+					"id": 2979624538,
+					"id_str": "2979624538",
+					"indices": [
+						225,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rEHEdHOmLK",
+					"expanded_url": "https://www.politicshome.com/news/uk/political-parties/conservative-party/house/house-magazine/99155/johnny-mercer-%E2%80%9Cim-not-going",
+					"display_url": "politicshome.com/news/uk/politi…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 237941696,
+			"id_str": "237941696",
+			"name": "Seb Whale",
+			"screen_name": "sebwhale",
+			"location": "Kilburn & Westminster",
+			"description": "Political Editor @thehouse_mag.      Email: sebastian.whale@politicshome.com",
+			"url": "https://t.co/sphqzybFdc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sphqzybFdc",
+							"expanded_url": "https://sebastianwhale.journoportfolio.com/",
+							"display_url": "sebastianwhale.journoportfolio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1163,
+			"friends_count": 1513,
+			"listed_count": 32,
+			"created_at": "Fri Jan 14 00:30:37 +0000 2011",
+			"favourites_count": 962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2475,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017012235317731333/zNwwbktd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017012235317731333/zNwwbktd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/237941696/1457965426",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the interview, Johnny Mercer says:\n- His former self would not vote Tory\n- There is \"no chance\" he would run to be a Tory MP now\n- Says situation is a \"shit show\" and he would turn down gvt job \nPlenty more in this week's @theHouse_mag cover \nhttps://t.co/rEHEdHOmLK"
+	},
+	{
+		"created_at": "Thu Oct 18 11:03:26 +0000 2018",
+		"id": 1052877812342894600,
+		"id_str": "1052877812342894592",
+		"full_text": "For the feast day of St Luke, one of our #AngloSaxon treasures, St Luke's winged ox from the lid of the C7th Coffin of St Cuthbert. The coffin is one of the earliest surviving examples of Anglo-Saxon wooden carvings in Europe. #medievaltwitter #twitterstorians https://t.co/4bqGnn3x7A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AngloSaxon",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"text": "medievaltwitter",
+					"indices": [
+						227,
+						243
+					]
+				},
+				{
+					"text": "twitterstorians",
+					"indices": [
+						244,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052876758398189600,
+					"id_str": "1052876758398189569",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/DpyR1ViWwAEAUkS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpyR1ViWwAEAUkS.jpg",
+					"url": "https://t.co/4bqGnn3x7A",
+					"display_url": "pic.twitter.com/4bqGnn3x7A",
+					"expanded_url": "https://twitter.com/BedesBooks/status/1052877812342894592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1145,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052876758398189600,
+					"id_str": "1052876758398189569",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/DpyR1ViWwAEAUkS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpyR1ViWwAEAUkS.jpg",
+					"url": "https://t.co/4bqGnn3x7A",
+					"display_url": "pic.twitter.com/4bqGnn3x7A",
+					"expanded_url": "https://twitter.com/BedesBooks/status/1052877812342894592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1145,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835992571,
+			"id_str": "835992571",
+			"name": "Durham Cathedral Library",
+			"screen_name": "BedesBooks",
+			"location": "Durham, England",
+			"description": "Home of Durham Cathedral Library's outstanding collection of medieval manuscripts, early printed books, modern theological works and friendly librarians.",
+			"url": "http://t.co/7RGSGOZO3y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7RGSGOZO3y",
+							"expanded_url": "http://www.durhamcathedral.co.uk/heritage/library",
+							"display_url": "durhamcathedral.co.uk/heritage/libra…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2318,
+			"friends_count": 917,
+			"listed_count": 77,
+			"created_at": "Thu Sep 20 17:20:06 +0000 2012",
+			"favourites_count": 647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1826,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3733049392/6e7d1dee1f4b3d3adf1d13ff014ba530_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3733049392/6e7d1dee1f4b3d3adf1d13ff014ba530_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835992571/1410357425",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For the feast day of St Luke, one of our #AngloSaxon treasures, St Luke's winged ox from the lid of the C7th Coffin of St Cuthbert. The coffin is one of the earliest surviving examples of Anglo-Saxon wooden carvings in Europe. #medievaltwitter #twitterstorians https://t.co/4bqGnn3x7A"
+	},
+	{
+		"created_at": "Thu Oct 18 20:41:35 +0000 2018",
+		"id": 1053023309741400000,
+		"id_str": "1053023309741400064",
+		"full_text": "Behind the rural myths, something rotten.\n\"Megafarms have been responsible for pollution to rivers and waterways.  Animals are often fed with imported corn and soya, the majority of  which is genetically modified to withstand high doses of the  controversial herbicide glyphosate\" https://t.co/K8P75xh1Or",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K8P75xh1Or",
+					"expanded_url": "https://twitter.com/CPRE/status/1052880470051102720",
+					"display_url": "twitter.com/CPRE/status/10…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2868189989,
+			"id_str": "2868189989",
+			"name": "Martin Cohen",
+			"screen_name": "docmartincohen",
+			"location": "Brighton UK and Bayonne France",
+			"description": "Philosophy Editor, author and freelancer - applying philosophy to everyday life (sometimes with unexpected results)",
+			"url": "http://t.co/s4iBY5D6Ey",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/s4iBY5D6Ey",
+							"expanded_url": "http://www.the-philosopher.co.uk",
+							"display_url": "the-philosopher.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2093,
+			"friends_count": 742,
+			"listed_count": 15,
+			"created_at": "Sun Nov 09 00:12:05 +0000 2014",
+			"favourites_count": 2209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9895,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/726522447642644480/XVlXp57k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/726522447642644480/XVlXp57k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2868189989/1516999203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052880470051102700,
+		"quoted_status_id_str": "1052880470051102720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K8P75xh1Or",
+			"expanded": "https://twitter.com/CPRE/status/1052880470051102720",
+			"display": "twitter.com/CPRE/status/10…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 18 11:14:00 +0000 2018",
+			"id": 1052880470051102700,
+			"id_str": "1052880470051102720",
+			"full_text": "We have lost 28,000 small farms in the past decade in England alone, but this shift is not inevitable or necessary. \n\nIf we want our farming sector to flourish, we need the #AgricultureBill to halt this decline and support new entrants. \nhttps://t.co/YmChhweg7S",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AgricultureBill",
+						"indices": [
+							173,
+							189
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YmChhweg7S",
+						"expanded_url": "https://theconversation.com/rise-of-the-megafarms-how-uk-agriculture-is-being-sold-off-and-consolidated-104019?utm_source=twitter&utm_medium=twitterbutton",
+						"display_url": "theconversation.com/rise-of-the-me…",
+						"indices": [
+							238,
+							261
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16888012,
+				"id_str": "16888012",
+				"name": "CPRE",
+				"screen_name": "CPRE",
+				"location": "",
+				"description": "Campaigning for the beauty, tranquillity and diversity of the English countryside.",
+				"url": "http://t.co/miAjnQnM1b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/miAjnQnM1b",
+								"expanded_url": "http://www.cpre.org.uk",
+								"display_url": "cpre.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22560,
+				"friends_count": 1680,
+				"listed_count": 635,
+				"created_at": "Tue Oct 21 15:48:43 +0000 2008",
+				"favourites_count": 1971,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13482,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/893090618208944129/SSs_Dx3n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/893090618208944129/SSs_Dx3n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16888012/1537892038",
+				"profile_link_color": "703D29",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Behind the rural myths, something rotten.\n\"Megafarms have been responsible for pollution to rivers and waterways.  Animals are often fed with imported corn and soya, the majority of  which is genetically modified to withstand high doses of the  controversial herbicide glyphosate\" https://t.co/K8P75xh1Or"
+	},
+	{
+		"created_at": "Thu Oct 18 20:38:39 +0000 2018",
+		"id": 1053022571149574100,
+		"id_str": "1053022571149574144",
+		"full_text": "@qualiazombie Wow! Your daughter?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qualiazombie",
+					"name": "Sean Crawford",
+					"id": 992146303814684700,
+					"id_str": "992146303814684680",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053015090356768800,
+		"in_reply_to_status_id_str": "1053015090356768769",
+		"in_reply_to_user_id": 992146303814684700,
+		"in_reply_to_user_id_str": "992146303814684680",
+		"in_reply_to_screen_name": "qualiazombie",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@qualiazombie Wow! Your daughter?"
+	},
+	{
+		"created_at": "Thu Oct 18 17:59:17 +0000 2018",
+		"id": 1052982464178769900,
+		"id_str": "1052982464178769920",
+		"full_text": "Woden as ancestor of the royal lines of Wessex, Bernicia, Deira, Mercia &amp; Kent https://t.co/6C7kXVjsq5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052982438270525400,
+					"id_str": "1052982438270525443",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpzx8tvW4AMPJI1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpzx8tvW4AMPJI1.jpg",
+					"url": "https://t.co/6C7kXVjsq5",
+					"display_url": "pic.twitter.com/6C7kXVjsq5",
+					"expanded_url": "https://twitter.com/holland_tom/status/1052982464178769920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052982438270525400,
+					"id_str": "1052982438270525443",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpzx8tvW4AMPJI1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpzx8tvW4AMPJI1.jpg",
+					"url": "https://t.co/6C7kXVjsq5",
+					"display_url": "pic.twitter.com/6C7kXVjsq5",
+					"expanded_url": "https://twitter.com/holland_tom/status/1052982464178769920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1052981958437933000,
+		"in_reply_to_status_id_str": "1052981958437933056",
+		"in_reply_to_user_id": 239885144,
+		"in_reply_to_user_id_str": "239885144",
+		"in_reply_to_screen_name": "holland_tom",
+		"user": {
+			"id": 239885144,
+			"id_str": "239885144",
+			"name": "Tom Holland",
+			"screen_name": "holland_tom",
+			"location": "London",
+			"description": "Historian. New biography of Athelstan out now! Herodotus translator. Dinosaur lover. Hedgehog conservator. A 'leading English cricketer' - The Times",
+			"url": "https://t.co/Jp4h0HMjva",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jp4h0HMjva",
+							"expanded_url": "http://www.tom-holland.org/",
+							"display_url": "tom-holland.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109194,
+			"friends_count": 1045,
+			"listed_count": 1542,
+			"created_at": "Tue Jan 18 17:14:13 +0000 2011",
+			"favourites_count": 5249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 143218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/746628736217391105/8XZ9zzMp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/746628736217391105/8XZ9zzMp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239885144/1464040255",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Woden as ancestor of the royal lines of Wessex, Bernicia, Deira, Mercia &amp; Kent https://t.co/6C7kXVjsq5"
+	},
+	{
+		"created_at": "Thu Oct 18 17:00:01 +0000 2018",
+		"id": 1052967550554972200,
+		"id_str": "1052967550554972165",
+		"full_text": "Does evolutionary psychology claim that men are promiscuous, women monogamous? Nope! Anyone who says it does just doesn't know the field. https://t.co/A58b4mRhlO HT @Quillette\n\nFrom my new book The Ape That Understood the Universe https://t.co/vTCEhDPmsN https://t.co/MUhhZkNafM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Quillette",
+					"name": "Robert Hill",
+					"id": 62538647,
+					"id_str": "62538647",
+					"indices": [
+						165,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/A58b4mRhlO",
+					"expanded_url": "https://quillette.com/2018/10/14/keeping-it-casual/",
+					"display_url": "quillette.com/2018/10/14/kee…",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/vTCEhDPmsN",
+					"expanded_url": "https://www.amazon.com/Ape-that-Understood-Universe-Culture/dp/1108425046/",
+					"display_url": "amazon.com/Ape-that-Under…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1052819504852492300,
+					"id_str": "1052819504852492288",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/DpxdwvdV4AAShew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpxdwvdV4AAShew.jpg",
+					"url": "https://t.co/MUhhZkNafM",
+					"display_url": "pic.twitter.com/MUhhZkNafM",
+					"expanded_url": "https://twitter.com/SteveStuWill/status/1052967550554972165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 751,
+							"h": 849,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 751,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052819504852492300,
+					"id_str": "1052819504852492288",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/DpxdwvdV4AAShew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpxdwvdV4AAShew.jpg",
+					"url": "https://t.co/MUhhZkNafM",
+					"display_url": "pic.twitter.com/MUhhZkNafM",
+					"expanded_url": "https://twitter.com/SteveStuWill/status/1052967550554972165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 751,
+							"h": 849,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 751,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33856936,
+			"id_str": "33856936",
+			"name": "Steve Stewart-Williams",
+			"screen_name": "SteveStuWill",
+			"location": "United Kingdom",
+			"description": "Psychology, evolution, nature/nurture, sex differences, etc. My second book, The Ape That Understood the Universe, hit the shelves in 2018...",
+			"url": "https://t.co/CAbB9xvV6l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CAbB9xvV6l",
+							"expanded_url": "http://www.stevestewartwilliams.com/",
+							"display_url": "stevestewartwilliams.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31667,
+			"friends_count": 195,
+			"listed_count": 540,
+			"created_at": "Tue Apr 21 09:08:54 +0000 2009",
+			"favourites_count": 23984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17078,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894228079043907584/3nFbnIVO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894228079043907584/3nFbnIVO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33856936/1492953630",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Does evolutionary psychology claim that men are promiscuous, women monogamous? Nope! Anyone who says it does just doesn't know the field. https://t.co/A58b4mRhlO HT @Quillette\n\nFrom my new book The Ape That Understood the Universe https://t.co/vTCEhDPmsN https://t.co/MUhhZkNafM"
+	},
+	{
+		"created_at": "Thu Oct 18 17:18:49 +0000 2018",
+		"id": 1052972280383504400,
+		"id_str": "1052972280383504386",
+		"full_text": "@JulianSales2 Yes, that's the cynical interpretation -- and it may well be the right one.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JulianSales2",
+					"name": "Giuliano",
+					"id": 962705422649053200,
+					"id_str": "962705422649053185",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1052965411241766900,
+		"in_reply_to_status_id_str": "1052965411241766913",
+		"in_reply_to_user_id": 962705422649053200,
+		"in_reply_to_user_id_str": "962705422649053185",
+		"in_reply_to_screen_name": "JulianSales2",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JulianSales2 Yes, that's the cynical interpretation -- and it may well be the right one."
+	},
+	{
+		"created_at": "Thu Oct 18 16:27:46 +0000 2018",
+		"id": 1052959434790592500,
+		"id_str": "1052959434790592517",
+		"full_text": "The Brexiters' Achilles heel was their failure to appreciate the benefits of EU membership. This led them to massively underestimate both what the UK would lose by leaving the union and what other European countries would sacrifice in order not to weaken it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The Brexiters' Achilles heel was their failure to appreciate the benefits of EU membership. This led them to massively underestimate both what the UK would lose by leaving the union and what other European countries would sacrifice in order not to weaken it."
+	},
+	{
+		"created_at": "Thu Oct 18 07:08:28 +0000 2018",
+		"id": 1052818678687785000,
+		"id_str": "1052818678687784960",
+		"full_text": "Pro-Brexit politicians who say UK voters must be held to their decision in the 2016 referendum say..\n\n..that they themselves should not be held to their decisions to accept the backstop in December 2017 and March 2018 because they were \"misled\".",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33315010,
+			"id_str": "33315010",
+			"name": "David Allen Green",
+			"screen_name": "davidallengreen",
+			"location": "Birmingham and London",
+			"description": "Lawyer and writer.\n\nContributing Editor @FT; blogger @jackofkent; solicitor @Preiskel. \n\nLinks to my stuff, mainly.",
+			"url": "https://t.co/oBTW6bWg63",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oBTW6bWg63",
+							"expanded_url": "http://www.jackofkent.com",
+							"display_url": "jackofkent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132247,
+			"friends_count": 1786,
+			"listed_count": 3222,
+			"created_at": "Sun Apr 19 21:18:53 +0000 2009",
+			"favourites_count": 30514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051837783919251456/2gLwdnGk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051837783919251456/2gLwdnGk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33315010/1539081752",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4489,
+		"favorite_count": 7896,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Pro-Brexit politicians who say UK voters must be held to their decision in the 2016 referendum say..\n\n..that they themselves should not be held to their decisions to accept the backstop in December 2017 and March 2018 because they were \"misled\"."
+	},
+	{
+		"created_at": "Thu Oct 18 15:55:33 +0000 2018",
+		"id": 1052951323744890900,
+		"id_str": "1052951323744890880",
+		"full_text": "@AidanMcGlynn :)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AidanMcGlynn",
+					"name": "Aidan McGlynn",
+					"id": 22878226,
+					"id_str": "22878226",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1052950934651842600,
+		"in_reply_to_status_id_str": "1052950934651842560",
+		"in_reply_to_user_id": 22878226,
+		"in_reply_to_user_id_str": "22878226",
+		"in_reply_to_screen_name": "AidanMcGlynn",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 1816,
+			"listed_count": 444,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@AidanMcGlynn :)"
+	},
+	{
 		"created_at": "Thu Oct 18 13:53:18 +0000 2018",
 		"id": 1052920558818611200,
 		"id_str": "1052920558818611200",
