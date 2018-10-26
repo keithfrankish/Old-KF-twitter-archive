@@ -1,6 +1,750 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 25 22:18:52 +0000 2018",
+		"id": 1055584504688074800,
+		"id_str": "1055584504688074752",
+		"full_text": "The press release by @CEU has emphasised the establishment of a new campus in Vienna and it might appear to the casual reader that this is a mere development of its academic activities. So I would like to just summarise the main points for those who have not followed the story",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ceu",
+					"name": "Ceu",
+					"id": 10400512,
+					"id_str": "10400512",
+					"indices": [
+						21,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 235652202,
+			"id_str": "235652202",
+			"name": "Tim Crane",
+			"screen_name": "timcrane102",
+			"location": "Budapest, Hungary",
+			"description": "Professor of Philosophy at CEU, Budapest. Philosophy Editor at the TLS. #IstandwithCEU Author of The Meaning of Belief",
+			"url": "https://t.co/qD7dAjjV0w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qD7dAjjV0w",
+							"expanded_url": "http://www.timcrane.com",
+							"display_url": "timcrane.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9863,
+			"friends_count": 1009,
+			"listed_count": 257,
+			"created_at": "Sat Jan 08 19:13:50 +0000 2011",
+			"favourites_count": 5523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7547,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963162812141985796/PCTYJ4ld_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963162812141985796/PCTYJ4ld_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/235652202/1540510563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The press release by @CEU has emphasised the establishment of a new campus in Vienna and it might appear to the casual reader that this is a mere development of its academic activities. So I would like to just summarise the main points for those who have not followed the story"
+	},
+	{
+		"created_at": "Thu Oct 25 22:06:39 +0000 2018",
+		"id": 1055581432167481300,
+		"id_str": "1055581432167481345",
+		"full_text": "@sachs_carl Yes and no.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sachs_carl",
+					"name": "Carl Sachs",
+					"id": 714514433,
+					"id_str": "714514433",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1055580393817161700,
+		"in_reply_to_status_id_str": "1055580393817161732",
+		"in_reply_to_user_id": 714514433,
+		"in_reply_to_user_id_str": "714514433",
+		"in_reply_to_screen_name": "sachs_carl",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7654,
+			"friends_count": 1818,
+			"listed_count": 445,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44924,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sachs_carl Yes and no."
+	},
+	{
+		"created_at": "Thu Oct 25 20:21:29 +0000 2018",
+		"id": 1055554962976108500,
+		"id_str": "1055554962976108551",
+		"full_text": "George Berkeley, though no way a hippie,\nHad a theory decidedly trippy:\nThe whole of creation\nIs pure ideation,\nAnd esse is simply percipi.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7654,
+			"friends_count": 1818,
+			"listed_count": 445,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44924,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "George Berkeley, though no way a hippie,\nHad a theory decidedly trippy:\nThe whole of creation\nIs pure ideation,\nAnd esse is simply percipi."
+	},
+	{
+		"created_at": "Thu Oct 25 07:06:04 +0000 2018",
+		"id": 1055354790564237300,
+		"id_str": "1055354790564237312",
+		"full_text": "The piece highlights that it is not discrimination that disadvantages poorer aspiring academics but the lack of sensible financial bridges; the custodians of the Academy, themselves of affluent/comfortable backgrounds, cannot imagine these might be needed. https://t.co/E1QEAvGZmx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E1QEAvGZmx",
+					"expanded_url": "https://www.timeshighereducation.com/features/being-working-class-academy",
+					"display_url": "timeshighereducation.com/features/being…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111969608,
+			"id_str": "111969608",
+			"name": "Anastasia Christakou",
+			"screen_name": "Christakou",
+			"location": "Νεφελοκοκκυγία",
+			"description": "Associate Professor @UniofReading Director of CINN Imaging @UniRdg_CINN [own views; children's welfare, science, brains & their people]",
+			"url": "https://t.co/IkKa9goZqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IkKa9goZqU",
+							"expanded_url": "http://anastasia.christakou.org",
+							"display_url": "anastasia.christakou.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 750,
+			"friends_count": 1073,
+			"listed_count": 29,
+			"created_at": "Sat Feb 06 20:01:54 +0000 2010",
+			"favourites_count": 3213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3919,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995425911670476800/49gmN3HF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995425911670476800/49gmN3HF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111969608/1426086064",
+			"profile_link_color": "7EA5A5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The piece highlights that it is not discrimination that disadvantages poorer aspiring academics but the lack of sensible financial bridges; the custodians of the Academy, themselves of affluent/comfortable backgrounds, cannot imagine these might be needed. https://t.co/E1QEAvGZmx"
+	},
+	{
+		"created_at": "Wed Oct 24 21:07:23 +0000 2018",
+		"id": 1055204128245407700,
+		"id_str": "1055204128245407750",
+		"full_text": "It's shocking... but it is a path that people are still heading down. Rejecting the EU was never an economic act, but rather a rejection of its values: including modernity, fraternity and key freedoms. https://t.co/WATZNUU2qt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WATZNUU2qt",
+					"expanded_url": "https://twitter.com/brexit_sham/status/1055053695845625862",
+					"display_url": "twitter.com/brexit_sham/st…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2868189989,
+			"id_str": "2868189989",
+			"name": "Martin Cohen",
+			"screen_name": "docmartincohen",
+			"location": "Brighton UK and Bayonne France",
+			"description": "Philosophy Editor, author and freelancer - applying philosophy to everyday life (sometimes with unexpected results)",
+			"url": "http://t.co/s4iBY5D6Ey",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/s4iBY5D6Ey",
+							"expanded_url": "http://www.the-philosopher.co.uk",
+							"display_url": "the-philosopher.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2105,
+			"friends_count": 754,
+			"listed_count": 15,
+			"created_at": "Sun Nov 09 00:12:05 +0000 2014",
+			"favourites_count": 2271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10058,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/726522447642644480/XVlXp57k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/726522447642644480/XVlXp57k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2868189989/1516999203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055053695845625900,
+		"quoted_status_id_str": "1055053695845625862",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WATZNUU2qt",
+			"expanded": "https://twitter.com/brexit_sham/status/1055053695845625862",
+			"display": "twitter.com/brexit_sham/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 24 11:09:37 +0000 2018",
+			"id": 1055053695845625900,
+			"id_str": "1055053695845625862",
+			"full_text": "This is disgraceful, a cowardly act by seven thugs against one man; fortunately Peter appears to be made of stronger stuff than the morons who perpetrated this.\nGlad you're on the mend @AcademyOfRock https://t.co/tDSqBMKut4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AcademyOfRock",
+						"name": "Peter Cook",
+						"id": 281628104,
+						"id_str": "281628104",
+						"indices": [
+							185,
+							199
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tDSqBMKut4",
+						"expanded_url": "https://twitter.com/AcademyOfRock/status/1055010943489527808",
+						"display_url": "twitter.com/AcademyOfRock/…",
+						"indices": [
+							200,
+							223
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 826382447885574100,
+				"id_str": "826382447885574144",
+				"name": "Brexitshambles",
+				"screen_name": "brexit_sham",
+				"location": "Europe",
+				"description": "Exposing the shills, charlatans & traitors involved in this fraudulent Brexit delusion.  #brexitshambles #brexitscam",
+				"url": "https://t.co/mQaivozs5m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mQaivozs5m",
+								"expanded_url": "http://www.brexitshambles.com",
+								"display_url": "brexitshambles.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15743,
+				"friends_count": 5603,
+				"listed_count": 134,
+				"created_at": "Tue Jan 31 10:51:43 +0000 2017",
+				"favourites_count": 9644,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29164,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826390003404120064/WBzmkVGr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826390003404120064/WBzmkVGr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/826382447885574144/1486304929",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1055010943489527800,
+			"quoted_status_id_str": "1055010943489527808",
+			"quoted_status_permalink": {
+				"url": "https://t.co/tDSqBMKut4",
+				"expanded": "https://twitter.com/AcademyOfRock/status/1055010943489527808",
+				"display": "twitter.com/AcademyOfRock/…"
+			},
+			"retweet_count": 54,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's shocking... but it is a path that people are still heading down. Rejecting the EU was never an economic act, but rather a rejection of its values: including modernity, fraternity and key freedoms. https://t.co/WATZNUU2qt"
+	},
+	{
+		"created_at": "Wed Oct 24 22:23:45 +0000 2018",
+		"id": 1055223344356905000,
+		"id_str": "1055223344356904961",
+		"full_text": "Aside from our activities, has human population growth itself contributed significantly to global warming (given that we emit CO2 when we breathe)?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7654,
+			"friends_count": 1818,
+			"listed_count": 445,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44924,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Aside from our activities, has human population growth itself contributed significantly to global warming (given that we emit CO2 when we breathe)?"
+	},
+	{
 		"created_at": "Wed Oct 24 21:07:23 +0000 2018",
 		"id": 1055204128245407700,
 		"id_str": "1055204128245407750",
