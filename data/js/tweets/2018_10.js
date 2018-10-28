@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 23 08:51:02 +0000 2018",
+		"id": 1054656431524380700,
+		"id_str": "1054656431524380672",
+		"full_text": "European countries by monthly net average wage in USD. https://t.co/XkyAdHJptp https://t.co/dKRk1Rq8ht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XkyAdHJptp",
+					"expanded_url": "https://buff.ly/2SgjQrg",
+					"display_url": "buff.ly/2SgjQrg",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1054656429720780800,
+					"id_str": "1054656429720780800",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DqLkb12WwAAEGrS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqLkb12WwAAEGrS.jpg",
+					"url": "https://t.co/dKRk1Rq8ht",
+					"display_url": "pic.twitter.com/dKRk1Rq8ht",
+					"expanded_url": "https://twitter.com/onlmaps/status/1054656431524380672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 835,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 891,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054656429720780800,
+					"id_str": "1054656429720780800",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DqLkb12WwAAEGrS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqLkb12WwAAEGrS.jpg",
+					"url": "https://t.co/dKRk1Rq8ht",
+					"display_url": "pic.twitter.com/dKRk1Rq8ht",
+					"expanded_url": "https://twitter.com/onlmaps/status/1054656431524380672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 835,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 891,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 268829174,
+			"id_str": "268829174",
+			"name": "OnlMaps",
+			"screen_name": "onlmaps",
+			"location": "",
+			"description": "News on maps, online maps, route planners from around the world. Tweeting about geography, space, science, news, and occasionally affiliates.",
+			"url": "https://t.co/rTVnu4G9dT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rTVnu4G9dT",
+							"expanded_url": "http://mapsontheweb.zoom-maps.com",
+							"display_url": "mapsontheweb.zoom-maps.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51736,
+			"friends_count": 2883,
+			"listed_count": 1000,
+			"created_at": "Sat Mar 19 15:08:50 +0000 2011",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34381,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280113480/twlogo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280113480/twlogo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/268829174/1348754661",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "European countries by monthly net average wage in USD. https://t.co/XkyAdHJptp https://t.co/dKRk1Rq8ht"
+	},
+	{
+		"created_at": "Sat Oct 27 08:45:47 +0000 2018",
+		"id": 1056104663580397600,
+		"id_str": "1056104663580397568",
+		"full_text": "“What we are witnessing may be a nation, not just going into economic recession but a regression into political or cultural infantilism. The centre ground of politics has completely disappeared; the mad, the bad and the fools are now in charge.” https://t.co/abKWDqQP0p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/abKWDqQP0p",
+					"expanded_url": "https://www.theglobeandmail.com/business/commentary/article-a-self-destructive-madness-grips-the-uk-as-a-no-deal-brexit-looms/",
+					"display_url": "theglobeandmail.com/business/comme…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 866692350961233900,
+			"id_str": "866692350961233920",
+			"name": "Remainiacs Podcast",
+			"screen_name": "RemainiacsCast",
+			"location": "London, European Union",
+			"description": "The podcast for people who won't just shut up and accept Brexit.\nhttps://t.co/hFp0xCyuf9\nhttps://t.co/h72oaARa2T",
+			"url": "https://t.co/XvXRkCOIH9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XvXRkCOIH9",
+							"expanded_url": "https://audioboom.com/channel/remainiacs-podcast",
+							"display_url": "audioboom.com/channel/remain…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hFp0xCyuf9",
+							"expanded_url": "http://www.patreon.com/remainiacscast",
+							"display_url": "patreon.com/remainiacscast",
+							"indices": [
+								65,
+								88
+							]
+						},
+						{
+							"url": "https://t.co/h72oaARa2T",
+							"expanded_url": "http://www.remainiacs.com",
+							"display_url": "remainiacs.com",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13493,
+			"friends_count": 1343,
+			"listed_count": 143,
+			"created_at": "Mon May 22 16:28:53 +0000 2017",
+			"favourites_count": 4501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5905,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/911586320178442240/BGlL9KT2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/911586320178442240/BGlL9KT2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/866692350961233920/1532717420",
+			"profile_link_color": "003399",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“What we are witnessing may be a nation, not just going into economic recession but a regression into political or cultural infantilism. The centre ground of politics has completely disappeared; the mad, the bad and the fools are now in charge.” https://t.co/abKWDqQP0p"
+	},
+	{
 		"created_at": "Sat Oct 27 00:01:56 +0000 2018",
 		"id": 1055972829064257500,
 		"id_str": "1055972829064257536",
