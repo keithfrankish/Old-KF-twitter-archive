@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 30 11:20:29 +0000 2018",
+		"id": 1057230755171102700,
+		"id_str": "1057230755171102721",
+		"full_text": "Happy birthday to Eileen Ash, the oldest living Test cricketer, who turns 107 today. She made her Test debut in 1937.\n\nShe caught up with @Heatherknight55 for a spot of yoga earlier this year. \n\nhttps://t.co/YevqyvCF5i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Heatherknight55",
+					"name": "Heather Knight",
+					"id": 213027981,
+					"id_str": "213027981",
+					"indices": [
+						138,
+						154
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1057215153526181900,
+					"id_str": "1057215153526181889",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Dqv9wJFWkAAihRr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dqv9wJFWkAAihRr.jpg",
+					"url": "https://t.co/YevqyvCF5i",
+					"display_url": "pic.twitter.com/YevqyvCF5i",
+					"expanded_url": "https://twitter.com/ICC/status/1057226405329715205/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1314,
+							"h": 737,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1057226405329715200,
+					"source_status_id_str": "1057226405329715205",
+					"source_user_id": 177547780,
+					"source_user_id_str": "177547780"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1057215153526181900,
+					"id_str": "1057215153526181889",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Dqv9wJFWkAAihRr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dqv9wJFWkAAihRr.jpg",
+					"url": "https://t.co/YevqyvCF5i",
+					"display_url": "pic.twitter.com/YevqyvCF5i",
+					"expanded_url": "https://twitter.com/ICC/status/1057226405329715205/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1314,
+							"h": 737,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1057226405329715200,
+					"source_status_id_str": "1057226405329715205",
+					"source_user_id": 177547780,
+					"source_user_id_str": "177547780",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 288760,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1057215153526181889/vid/320x180/BBVIrPkDMgdFsAvj.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1057215153526181889/vid/640x360/vR491WLgnt--lpmZ.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1057215153526181889/vid/1280x720/410L1pLSHaVuv5Xp.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1057215153526181889/pl/SAFfrKI8OjiiIDla.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 177547780,
+							"id_str": "177547780",
+							"name": "ICC",
+							"screen_name": "ICC",
+							"location": "Dubai",
+							"description": "The official Twitter account of the International Cricket Council; world cricket’s governing body.",
+							"url": "https://t.co/RCIBI6izTv",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/RCIBI6izTv",
+											"expanded_url": "http://www.icc-cricket.com",
+											"display_url": "icc-cricket.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8360972,
+							"friends_count": 491,
+							"listed_count": 4654,
+							"created_at": "Thu Aug 12 12:32:41 +0000 2010",
+							"favourites_count": 651,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 66475,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000805",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/853850199609024512/Rjw4RCp7_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/853850199609024512/Rjw4RCp7_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/177547780/1540380907",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76970560,
+			"id_str": "76970560",
+			"name": "Wisden",
+			"screen_name": "WisdenCricket",
+			"location": "The Oval, London",
+			"description": "The independent voice of cricket. For more from Wisden check out @WisdenAlmanack and @NightwatchmanXI",
+			"url": "https://t.co/GX63Spz0Xj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GX63Spz0Xj",
+							"expanded_url": "http://wisden.com",
+							"display_url": "wisden.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62874,
+			"friends_count": 4584,
+			"listed_count": 531,
+			"created_at": "Thu Sep 24 15:49:49 +0000 2009",
+			"favourites_count": 4195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73552,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930760153309368320/m60ZYN9z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930760153309368320/m60ZYN9z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/76970560/1510745518",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy birthday to Eileen Ash, the oldest living Test cricketer, who turns 107 today. She made her Test debut in 1937.\n\nShe caught up with @Heatherknight55 for a spot of yoga earlier this year. \n\nhttps://t.co/YevqyvCF5i"
+	},
+	{
+		"created_at": "Tue Oct 30 20:07:06 +0000 2018",
+		"id": 1057363285387944000,
+		"id_str": "1057363285387943941",
+		"full_text": "Thanks for the kind messages. I'll stick around -- I'd miss you all too much!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7701,
+			"friends_count": 1820,
+			"listed_count": 446,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Thanks for the kind messages. I'll stick around -- I'd miss you all too much!"
+	},
+	{
+		"created_at": "Tue Oct 30 18:47:29 +0000 2018",
+		"id": 1057343246232440800,
+		"id_str": "1057343246232440833",
+		"full_text": "@Abebab or the raw material!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Abebab",
+					"name": "Abeba Birhane",
+					"id": 229005889,
+					"id_str": "229005889",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1057340240661233700,
+		"in_reply_to_status_id_str": "1057340240661233666",
+		"in_reply_to_user_id": 229005889,
+		"in_reply_to_user_id_str": "229005889",
+		"in_reply_to_screen_name": "Abebab",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7701,
+			"friends_count": 1820,
+			"listed_count": 446,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Abebab or the raw material!"
+	},
+	{
 		"created_at": "Mon Oct 29 22:52:17 +0000 2018",
 		"id": 1057042464639537200,
 		"id_str": "1057042464639537154",
