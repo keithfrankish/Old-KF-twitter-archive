@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 18:25:07 +0000 2018",
+		"id": 1060599111383203800,
+		"id_str": "1060599111383203841",
+		"full_text": "My paper \"The Mismeasure of Consciousness\", presented a few days ago at PSA2018, will be published in Philosophy of Science! If you're interested, you can find a preprint version here: https://t.co/cNUekHWWyq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cNUekHWWyq",
+					"expanded_url": "https://philpapers.org/rec/MICTMO-15",
+					"display_url": "philpapers.org/rec/MICTMO-15",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 848607867007619100,
+			"id_str": "848607867007619078",
+			"name": "Matthias Michel",
+			"screen_name": "MatthiasMichel_",
+			"location": "",
+			"description": "PhD Student at Paris-Sorbonne University. Philosophy of Science and Cognitive Science of Consciousness.",
+			"url": "https://t.co/vYJHLoMA5S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vYJHLoMA5S",
+							"expanded_url": "https://matthias-michel.wixsite.com/michel",
+							"display_url": "matthias-michel.wixsite.com/michel",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 268,
+			"listed_count": 3,
+			"created_at": "Sun Apr 02 18:47:36 +0000 2017",
+			"favourites_count": 1724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 688,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958271977772539904/9GHIXw0c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958271977772539904/9GHIXw0c_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My paper \"The Mismeasure of Consciousness\", presented a few days ago at PSA2018, will be published in Philosophy of Science! If you're interested, you can find a preprint version here: https://t.co/cNUekHWWyq"
+	},
+	{
+		"created_at": "Tue Nov 06 12:53:16 +0000 2018",
+		"id": 1059790820893704200,
+		"id_str": "1059790820893704192",
+		"full_text": "New paper in @pnas with @salarrad and AJ Martingano shows the continuing WEIRDness of the psych science literature and offers some recommendations to resolve the problem. We would be interested in feedback and comments! Paper can be found here: https://t.co/N7aE71LHzb\n1/8 https://t.co/54z8iP59SP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pnas",
+					"name": "pnas",
+					"id": 66924738,
+					"id_str": "66924738",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"screen_name": "salarrad",
+					"name": "Salar Rad",
+					"id": 285824034,
+					"id_str": "285824034",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N7aE71LHzb",
+					"expanded_url": "http://www.pnas.org/content/early/2018/10/30/1721165115",
+					"display_url": "pnas.org/content/early/…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1059789977339527200,
+					"id_str": "1059789977339527168",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DrUhXo_XgAA_r8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrUhXo_XgAA_r8f.jpg",
+					"url": "https://t.co/54z8iP59SP",
+					"display_url": "pic.twitter.com/54z8iP59SP",
+					"expanded_url": "https://twitter.com/JeremyGinges/status/1059790820893704192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1348,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059789977339527200,
+					"id_str": "1059789977339527168",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DrUhXo_XgAA_r8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrUhXo_XgAA_r8f.jpg",
+					"url": "https://t.co/54z8iP59SP",
+					"display_url": "pic.twitter.com/54z8iP59SP",
+					"expanded_url": "https://twitter.com/JeremyGinges/status/1059790820893704192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1348,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19044790,
+			"id_str": "19044790",
+			"name": "Jeremy Ginges",
+			"screen_name": "JeremyGinges",
+			"location": "",
+			"description": "Social psychologist @TheNewSchool studying cooperation and conflict across cultural divides",
+			"url": "https://t.co/D0SgjNteVc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D0SgjNteVc",
+							"expanded_url": "http://ginges.socialpsychology.org",
+							"display_url": "ginges.socialpsychology.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 365,
+			"friends_count": 352,
+			"listed_count": 13,
+			"created_at": "Thu Jan 15 23:20:43 +0000 2009",
+			"favourites_count": 686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1533,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2227254759/33isaac_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2227254759/33isaac_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New paper in @pnas with @salarrad and AJ Martingano shows the continuing WEIRDness of the psych science literature and offers some recommendations to resolve the problem. We would be interested in feedback and comments! Paper can be found here: https://t.co/N7aE71LHzb\n1/8 https://t.co/54z8iP59SP"
+	},
+	{
+		"created_at": "Wed Nov 07 18:04:13 +0000 2018",
+		"id": 1060231464019812400,
+		"id_str": "1060231464019812356",
+		"full_text": "In very un-election news, scientists have found the oldest figurative art on Earth in a Borneo cave—a picture, possibly of a banteng (a wild cow), made over 40,000 years ago. Here’s my @nytimes story https://t.co/u57TzHNfmQ https://t.co/8mWVFKBCVX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						185,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u57TzHNfmQ",
+					"expanded_url": "https://www.nytimes.com/2018/11/07/science/oldest-cave-art-borneo.html",
+					"display_url": "nytimes.com/2018/11/07/sci…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060231160880681000,
+					"id_str": "1060231160880680965",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/Drayn5wX0AUknXn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drayn5wX0AUknXn.jpg",
+					"url": "https://t.co/8mWVFKBCVX",
+					"display_url": "pic.twitter.com/8mWVFKBCVX",
+					"expanded_url": "https://twitter.com/carlzimmer/status/1060231464019812356/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 695,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1934,
+							"h": 1120,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060231160880681000,
+					"id_str": "1060231160880680965",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/Drayn5wX0AUknXn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drayn5wX0AUknXn.jpg",
+					"url": "https://t.co/8mWVFKBCVX",
+					"display_url": "pic.twitter.com/8mWVFKBCVX",
+					"expanded_url": "https://twitter.com/carlzimmer/status/1060231464019812356/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 695,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1934,
+							"h": 1120,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14085070,
+			"id_str": "14085070",
+			"name": "Carl Zimmer",
+			"screen_name": "carlzimmer",
+			"location": "Connecticut",
+			"description": "@nytimes columnist. New book: \"She Has Her Mother's Laugh\" https://t.co/BMkEb5URuz My tweets are invitations to read the stories to which I link.",
+			"url": "http://t.co/Pwe7dcMGmn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Pwe7dcMGmn",
+							"expanded_url": "http://carlzimmer.com",
+							"display_url": "carlzimmer.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BMkEb5URuz",
+							"expanded_url": "http://bit.ly/SheHasHerMothersLaugh",
+							"display_url": "bit.ly/SheHasHerMothe…",
+							"indices": [
+								59,
+								82
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 271258,
+			"friends_count": 1160,
+			"listed_count": 5896,
+			"created_at": "Wed Mar 05 21:10:54 +0000 2008",
+			"favourites_count": 381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 42565,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/916034313069715457/url2G14j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/916034313069715457/url2G14j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14085070/1527741085",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 374,
+		"favorite_count": 749,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In very un-election news, scientists have found the oldest figurative art on Earth in a Borneo cave—a picture, possibly of a banteng (a wild cow), made over 40,000 years ago. Here’s my @nytimes story https://t.co/u57TzHNfmQ https://t.co/8mWVFKBCVX"
+	},
+	{
 		"created_at": "Wed Nov 07 23:31:58 +0000 2018",
 		"id": 1060313943376306200,
 		"id_str": "1060313943376306177",
