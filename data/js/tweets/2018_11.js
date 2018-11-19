@@ -1,6 +1,827 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 16 07:50:33 +0000 2018",
+		"id": 1063338519916175400,
+		"id_str": "1063338519916175361",
+		"full_text": "Big difference between creating conditions which are conducive to excellence, and putting pressure on individuals to produce excellence. Need to focus on idea of supporting people to do the best of which they are capable, rather than setting targets. https://t.co/8yvAaikzAe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8yvAaikzAe",
+					"expanded_url": "https://twitter.com/Jackstilgoe/status/1063337560972410881",
+					"display_url": "twitter.com/Jackstilgoe/st…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4063246420,
+			"id_str": "4063246420",
+			"name": "Jo Wolff",
+			"screen_name": "JoWolffBSG",
+			"location": "London, England",
+			"description": "Blavatnik School Gov Oxford.   Waiting for normal service to be resumed. Tweeting on my own behalf.",
+			"url": "https://t.co/hL6ipaxb32",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hL6ipaxb32",
+							"expanded_url": "https://jonathanwolff.wordpress.com",
+							"display_url": "jonathanwolff.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5104,
+			"friends_count": 1648,
+			"listed_count": 114,
+			"created_at": "Wed Oct 28 21:02:02 +0000 2015",
+			"favourites_count": 18267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11381,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059008264262828032/1gobKfdD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059008264262828032/1gobKfdD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4063246420/1516038900",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1063337560972410900,
+		"quoted_status_id_str": "1063337560972410881",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8yvAaikzAe",
+			"expanded": "https://twitter.com/Jackstilgoe/status/1063337560972410881",
+			"display": "twitter.com/Jackstilgoe/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 16 07:46:45 +0000 2018",
+			"id": 1063337560972410900,
+			"id_str": "1063337560972410881",
+			"full_text": "I’m not a fan of excellence https://t.co/C5iOugNuue https://t.co/OSmz04HYxp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/C5iOugNuue",
+						"expanded_url": "http://amp.theguardian.com/science/political-science/2014/dec/19/against-excellence",
+						"display_url": "amp.theguardian.com/science/politi…",
+						"indices": [
+							28,
+							51
+						]
+					},
+					{
+						"url": "https://t.co/OSmz04HYxp",
+						"expanded_url": "https://twitter.com/sfuntowicz/status/1063326588970897410",
+						"display_url": "twitter.com/sfuntowicz/sta…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55216586,
+				"id_str": "55216586",
+				"name": "Jack Stilgoe",
+				"screen_name": "Jackstilgoe",
+				"location": "London, England",
+				"description": "Science and Technology Studies at UCL. interested in emerging tech, democracy, responsible innovation, self-driving cars, machine learning etc.",
+				"url": "https://t.co/cRuwkW3oXy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cRuwkW3oXy",
+								"expanded_url": "http://driverless-futures.com",
+								"display_url": "driverless-futures.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5268,
+				"friends_count": 2389,
+				"listed_count": 272,
+				"created_at": "Thu Jul 09 12:07:54 +0000 2009",
+				"favourites_count": 5626,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18998,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1062725575465406466/ufL-32gE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062725575465406466/ufL-32gE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55216586/1539015077",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1063326588970897400,
+			"quoted_status_id_str": "1063326588970897410",
+			"quoted_status_permalink": {
+				"url": "https://t.co/OSmz04HYxp",
+				"expanded": "https://twitter.com/sfuntowicz/status/1063326588970897410",
+				"display": "twitter.com/sfuntowicz/sta…"
+			},
+			"retweet_count": 9,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big difference between creating conditions which are conducive to excellence, and putting pressure on individuals to produce excellence. Need to focus on idea of supporting people to do the best of which they are capable, rather than setting targets. https://t.co/8yvAaikzAe"
+	},
+	{
+		"created_at": "Mon Nov 19 00:57:32 +0000 2018",
+		"id": 1064321745002422300,
+		"id_str": "1064321745002422272",
+		"full_text": "@SheRa_Marley Totally with you. If we threaten to chuck people out if they stop 'contributing' (however that's defined), then we'll make life miserable for the people who are contributing.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SheRa_Marley",
+					"name": "SheRa Marley-Threepwood",
+					"id": 65130648,
+					"id_str": "65130648",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1064320440515080200,
+		"in_reply_to_status_id_str": "1064320440515080192",
+		"in_reply_to_user_id": 65130648,
+		"in_reply_to_user_id_str": "65130648",
+		"in_reply_to_screen_name": "SheRa_Marley",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7777,
+			"friends_count": 1836,
+			"listed_count": 449,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45175,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SheRa_Marley Totally with you. If we threaten to chuck people out if they stop 'contributing' (however that's defined), then we'll make life miserable for the people who are contributing."
+	},
+	{
+		"created_at": "Mon Nov 19 00:50:44 +0000 2018",
+		"id": 1064320034074501100,
+		"id_str": "1064320034074501120",
+		"full_text": "Great thread. Not @SheRa_Marley's Remain and not mine either. https://t.co/yubEL1hUt7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SheRa_Marley",
+					"name": "SheRa Marley-Threepwood",
+					"id": 65130648,
+					"id_str": "65130648",
+					"indices": [
+						18,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yubEL1hUt7",
+					"expanded_url": "https://twitter.com/SheRa_Marley/status/1064315587965476865",
+					"display_url": "twitter.com/SheRa_Marley/s…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7777,
+			"friends_count": 1836,
+			"listed_count": 449,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 21980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45175,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064315587965476900,
+		"quoted_status_id_str": "1064315587965476865",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yubEL1hUt7",
+			"expanded": "https://twitter.com/SheRa_Marley/status/1064315587965476865",
+			"display": "twitter.com/SheRa_Marley/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 19 00:33:04 +0000 2018",
+			"id": 1064315587965476900,
+			"id_str": "1064315587965476865",
+			"full_text": "Herein lies a serious problem: people with big accounts tweeting stuff they don't fully understand. \n\nHomelessness isn't just living on the streets; 54,000 homeless families in London alone /1 https://t.co/RZcaACikW8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				192
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RZcaACikW8",
+						"expanded_url": "https://twitter.com/Femi_Sorry/status/1064289368716775425",
+						"display_url": "twitter.com/Femi_Sorry/sta…",
+						"indices": [
+							193,
+							216
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65130648,
+				"id_str": "65130648",
+				"name": "SheRa Marley-Threepwood",
+				"screen_name": "SheRa_Marley",
+				"location": "Edinburgh / London",
+				"description": "european. politics & architecture.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8895,
+				"friends_count": 5181,
+				"listed_count": 84,
+				"created_at": "Wed Aug 12 19:18:57 +0000 2009",
+				"favourites_count": 49997,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32557,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1062808374327296000/_1gvwTaa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062808374327296000/_1gvwTaa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65130648/1541969956",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1064289368716775400,
+			"quoted_status_id_str": "1064289368716775425",
+			"quoted_status_permalink": {
+				"url": "https://t.co/RZcaACikW8",
+				"expanded": "https://twitter.com/Femi_Sorry/status/1064289368716775425",
+				"display": "twitter.com/Femi_Sorry/sta…"
+			},
+			"retweet_count": 17,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great thread. Not @SheRa_Marley's Remain and not mine either. https://t.co/yubEL1hUt7"
+	},
+	{
+		"created_at": "Fri Nov 16 15:35:08 +0000 2018",
+		"id": 1063455435599032300,
+		"id_str": "1063455435599032320",
+		"full_text": "@evertonfc2 @fukyounewsuk Detailed piece by @docmartincohen covers much of the #BrexitScam and should be of interest to everyone - we are witnessing the greatest #Tory right wing con of all time - after scamming just enough plebs in voting to become poorer, the rich become richer:\n\nhttps://t.co/OBnO8GSri1",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			306
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BrexitScam",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"text": "Tory",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "evertonfc2",
+					"name": "#MurdochsDemocracy",
+					"id": 231431466,
+					"id_str": "231431466",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "fukyounewsuk",
+					"name": "FEARLESS 👊",
+					"id": 850348996304490500,
+					"id_str": "850348996304490497",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "docmartincohen",
+					"name": "Martin Cohen",
+					"id": 2868189989,
+					"id_str": "2868189989",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OBnO8GSri1",
+					"expanded_url": "http://www.brexitshambles.com/why-is-the-uk-government-so-keen-on-no-deal-the-astonishing-truth-behind-the-illusion-of-democracy/",
+					"display_url": "brexitshambles.com/why-is-the-uk-…",
+					"indices": [
+						283,
+						306
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1063441489353674800,
+		"in_reply_to_status_id_str": "1063441489353674758",
+		"in_reply_to_user_id": 231431466,
+		"in_reply_to_user_id_str": "231431466",
+		"in_reply_to_screen_name": "evertonfc2",
+		"user": {
+			"id": 826382447885574100,
+			"id_str": "826382447885574144",
+			"name": "Brexitshambles",
+			"screen_name": "brexit_sham",
+			"location": "Europe",
+			"description": "Exposing the shills, charlatans & traitors involved in this fraudulent Brexit delusion.  #brexitshambles #brexitscam",
+			"url": "https://t.co/mQaivozs5m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mQaivozs5m",
+							"expanded_url": "http://www.brexitshambles.com",
+							"display_url": "brexitshambles.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17215,
+			"friends_count": 5790,
+			"listed_count": 153,
+			"created_at": "Tue Jan 31 10:51:43 +0000 2017",
+			"favourites_count": 10700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826390003404120064/WBzmkVGr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826390003404120064/WBzmkVGr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/826382447885574144/1486304929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@evertonfc2 @fukyounewsuk Detailed piece by @docmartincohen covers much of the #BrexitScam and should be of interest to everyone - we are witnessing the greatest #Tory right wing con of all time - after scamming just enough plebs in voting to become poorer, the rich become richer:\n\nhttps://t.co/OBnO8GSri1"
+	},
+	{
+		"created_at": "Sat Nov 17 20:51:48 +0000 2018",
+		"id": 1063897515521728500,
+		"id_str": "1063897515521728512",
+		"full_text": "Here it is, in a few hundred words. https://t.co/AT6POVmNZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AT6POVmNZ5",
+					"expanded_url": "https://www.newyorker.com/news/our-columnists/the-brexit-fantasy-goes-down-in-tears",
+					"display_url": "newyorker.com/news/our-colum…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 235652202,
+			"id_str": "235652202",
+			"name": "Tim Crane",
+			"screen_name": "timcrane102",
+			"location": "Budapest, Hungary",
+			"description": "Professor of Philosophy at CEU, Budapest. Philosophy Editor at the TLS. #IstandwithCEU Author of The Meaning of Belief",
+			"url": "https://t.co/qD7dAjjV0w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qD7dAjjV0w",
+							"expanded_url": "http://www.timcrane.com",
+							"display_url": "timcrane.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10085,
+			"friends_count": 1008,
+			"listed_count": 268,
+			"created_at": "Sat Jan 08 19:13:50 +0000 2011",
+			"favourites_count": 5914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963162812141985796/PCTYJ4ld_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963162812141985796/PCTYJ4ld_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/235652202/1540510563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here it is, in a few hundred words. https://t.co/AT6POVmNZ5"
+	},
+	{
 		"created_at": "Sat Nov 17 20:51:48 +0000 2018",
 		"id": 1063897515521728500,
 		"id_str": "1063897515521728512",
