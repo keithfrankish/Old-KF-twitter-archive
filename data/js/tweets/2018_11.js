@@ -70,6 +70,238 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 2224,
+			"friends_count": 449,
+			"listed_count": 75,
+			"created_at": "Tue Nov 24 22:45:27 +0000 2009",
+			"favourites_count": 1196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783262920352395264/6eAzIJSt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783262920352395264/6eAzIJSt_normal.jpg",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@keithfrankish Hard to beat the late Peter Lipton’s advice.\n\n‘Style is the feather in the arrow, not the feather in the cap.’\n\nhttps://t.co/vSRptQYrSz"
+	},
+	{
+		"created_at": "Fri Nov 30 23:37:11 +0000 2018",
+		"id": 1068650176389222400,
+		"id_str": "1068650176389222401",
+		"full_text": "@Philip_Goff @johnmcdonnellMP Nationalism and xenophobia were big factors (it wasn't only the poor who voted Leave) and you don't cure those by pandering to them. Corbyn's Labour is too much like a left-wing version of UKIP for me. And recession &amp; devaluation will help no one except a few speculators.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			306
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "johnmcdonnellMP",
+					"name": "John McDonnell MP",
+					"id": 77234984,
+					"id_str": "77234984",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1068634432259702800,
+		"in_reply_to_status_id_str": "1068634432259702786",
+		"in_reply_to_user_id": 216809385,
+		"in_reply_to_user_id_str": "216809385",
+		"in_reply_to_screen_name": "Philip_Goff",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7846,
+			"friends_count": 1842,
+			"listed_count": 448,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 22044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45331,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Philip_Goff @johnmcdonnellMP Nationalism and xenophobia were big factors (it wasn't only the poor who voted Leave) and you don't cure those by pandering to them. Corbyn's Labour is too much like a left-wing version of UKIP for me. And recession &amp; devaluation will help no one except a few speculators."
+	},
+	{
+		"created_at": "Fri Nov 30 19:43:43 +0000 2018",
+		"id": 1068591421983244300,
+		"id_str": "1068591421983244288",
+		"full_text": "@keithfrankish Hard to beat the late Peter Lipton’s advice.\n\n‘Style is the feather in the arrow, not the feather in the cap.’\n\nhttps://t.co/vSRptQYrSz",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vSRptQYrSz",
+					"expanded_url": "https://www.hps.cam.ac.uk/students/research-guide/writing-philosophy",
+					"display_url": "hps.cam.ac.uk/students/resea…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1068275906202894300,
+		"in_reply_to_status_id_str": "1068275906202894336",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 92386305,
+			"id_str": "92386305",
+			"name": "John Taylor",
+			"screen_name": "DrJohnLTaylor",
+			"location": "Cranleigh",
+			"description": "Assistant Head (Director of Learning, Teaching & Innovation) Philosophy in Education Project Director.",
+			"url": "https://t.co/rA7GCuPDiQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rA7GCuPDiQ",
+							"expanded_url": "https://www.slideshare.net/JohnTaylor557",
+							"display_url": "slideshare.net/JohnTaylor557",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 2225,
 			"friends_count": 449,
 			"listed_count": 75,
