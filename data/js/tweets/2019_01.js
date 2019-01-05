@@ -1,6 +1,576 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 22:05:56 +0000 2019",
+		"id": 1081310790689402900,
+		"id_str": "1081310790689402881",
+		"full_text": "BOOKISH ACTORS:\n\nEric Portman. https://t.co/lfFPoYaQuh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081310644446642200,
+					"id_str": "1081310644446642177",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/DwGWTVYXQAE0rJW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwGWTVYXQAE0rJW.jpg",
+					"url": "https://t.co/lfFPoYaQuh",
+					"display_url": "pic.twitter.com/lfFPoYaQuh",
+					"expanded_url": "https://twitter.com/distractedfilm/status/1081310790689402881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 588,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 588,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081310644446642200,
+					"id_str": "1081310644446642177",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/DwGWTVYXQAE0rJW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwGWTVYXQAE0rJW.jpg",
+					"url": "https://t.co/lfFPoYaQuh",
+					"display_url": "pic.twitter.com/lfFPoYaQuh",
+					"expanded_url": "https://twitter.com/distractedfilm/status/1081310790689402881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 588,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 588,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2811189187,
+			"id_str": "2811189187",
+			"name": "Distracted Film",
+			"screen_name": "distractedfilm",
+			"location": "London",
+			"description": "Cinema history and recently completed feature film - an ironic policiers - written & directed by @eJamesDevereaux",
+			"url": "http://t.co/jgmKFRgiHj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jgmKFRgiHj",
+							"expanded_url": "http://jamesdevereaux.com/about-distracted/",
+							"display_url": "jamesdevereaux.com/about-distract…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16063,
+			"friends_count": 3475,
+			"listed_count": 452,
+			"created_at": "Mon Sep 15 11:33:16 +0000 2014",
+			"favourites_count": 5532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079181586229325824/UwFdoOBB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079181586229325824/UwFdoOBB_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BOOKISH ACTORS:\n\nEric Portman. https://t.co/lfFPoYaQuh"
+	},
+	{
+		"created_at": "Tue Jan 01 17:00:01 +0000 2019",
+		"id": 1080146638851752000,
+		"id_str": "1080146638851751936",
+		"full_text": "Sidlaw Village, Winter by James McIntosh Patrick 1936 (Private Collection). Angus. https://t.co/NtckS2ETCy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1079699742135894000,
+					"id_str": "1079699742135894016",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DvvdMeoXQAAMQK5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvvdMeoXQAAMQK5.jpg",
+					"url": "https://t.co/NtckS2ETCy",
+					"display_url": "pic.twitter.com/NtckS2ETCy",
+					"expanded_url": "https://twitter.com/DrLivGibbs/status/1080146638851751936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 997,
+							"h": 772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 997,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1079699742135894000,
+					"id_str": "1079699742135894016",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DvvdMeoXQAAMQK5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvvdMeoXQAAMQK5.jpg",
+					"url": "https://t.co/NtckS2ETCy",
+					"display_url": "pic.twitter.com/NtckS2ETCy",
+					"expanded_url": "https://twitter.com/DrLivGibbs/status/1080146638851751936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 997,
+							"h": 772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 997,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2837407605,
+			"id_str": "2837407605",
+			"name": "Dr Liv Gibbs",
+			"screen_name": "DrLivGibbs",
+			"location": "UK",
+			"description": "Architectural and art historian, archaeologist. Heritage in art (buildings, monuments, landscapes). Artists' houses. Literary associations with places.",
+			"url": "https://t.co/D0W7258hBU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D0W7258hBU",
+							"expanded_url": "http://heritageinart.wordpress.com",
+							"display_url": "heritageinart.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11598,
+			"friends_count": 522,
+			"listed_count": 329,
+			"created_at": "Sun Oct 19 17:57:13 +0000 2014",
+			"favourites_count": 34829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8549,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/786991522206146560/KHOm2YDS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/786991522206146560/KHOm2YDS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2837407605/1450972259",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 708,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sidlaw Village, Winter by James McIntosh Patrick 1936 (Private Collection). Angus. https://t.co/NtckS2ETCy"
+	},
+	{
+		"created_at": "Thu Jan 03 18:51:30 +0000 2019",
+		"id": 1080899470697615400,
+		"id_str": "1080899470697615361",
+		"full_text": "Bertrand Russell, aged 17, alone and terrified, drinking port with Gladstone https://t.co/S6VIzCaKkL via @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S6VIzCaKkL",
+					"expanded_url": "https://youtu.be/2DH7wzs6XRk",
+					"display_url": "youtu.be/2DH7wzs6XRk",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26041834,
+			"id_str": "26041834",
+			"name": "Thomas Pink",
+			"screen_name": "thomaspink1",
+			"location": "London",
+			"description": "Professor of Philosophy, King’s College London",
+			"url": "https://t.co/EouLERIfxV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EouLERIfxV",
+							"expanded_url": "https://kcl.academia.edu/ThomasPink",
+							"display_url": "kcl.academia.edu/ThomasPink",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 748,
+			"listed_count": 23,
+			"created_at": "Mon Mar 23 17:07:57 +0000 2009",
+			"favourites_count": 1254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1347,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "263526",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/107818912/Thomas_Pink_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/107818912/Thomas_Pink_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26041834/1348002838",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bertrand Russell, aged 17, alone and terrified, drinking port with Gladstone https://t.co/S6VIzCaKkL via @YouTube"
+	},
+	{
+		"created_at": "Thu Jan 03 23:15:14 +0000 2019",
+		"id": 1080965841758363600,
+		"id_str": "1080965841758363648",
+		"full_text": "BBC Radio 4 - Desert Island Discs, Sir Isaiah Berlin! https://t.co/UEONbkp8RA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UEONbkp8RA",
+					"expanded_url": "https://www.bbc.co.uk/programmes/p0093y6n",
+					"display_url": "bbc.co.uk/programmes/p00…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37238862,
+			"id_str": "37238862",
+			"name": "Nigel Warburton",
+			"screen_name": "philosophybites",
+			"location": "Oxford  & London UK",
+			"description": "Freelance philosopher. A Little History of Philosophy, Philosophy Bites. Consultant editor @aeonmag, @thenewphil, @five_books. #philosophyinthebookshop",
+			"url": "https://t.co/kD7ridjs8Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kD7ridjs8Q",
+							"expanded_url": "http://www.nigelwarburton.com",
+							"display_url": "nigelwarburton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70677,
+			"friends_count": 5974,
+			"listed_count": 2486,
+			"created_at": "Sat May 02 17:20:21 +0000 2009",
+			"favourites_count": 28637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B5B8B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1398336718",
+			"profile_link_color": "000DFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "BBC Radio 4 - Desert Island Discs, Sir Isaiah Berlin! https://t.co/UEONbkp8RA"
+	},
+	{
 		"created_at": "Thu Jan 03 18:51:30 +0000 2019",
 		"id": 1080899470697615400,
 		"id_str": "1080899470697615361",
