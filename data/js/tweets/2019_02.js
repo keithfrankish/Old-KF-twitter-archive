@@ -1,6 +1,1730 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 11 22:53:30 +0000 2019",
+		"id": 1095093499760951300,
+		"id_str": "1095113190604763136",
+		"full_text": "Philosophers who don't like using intuitions could always try coming up with catchy-sounding slogans and then motivating their reasoning towards those slogans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 302667955,
+			"id_str": "302667955",
+			"name": "Michael Bench-Capon",
+			"screen_name": "MikeBenchCapon",
+			"location": "Leeds, UK",
+			"description": "I have a PhD in philosophy. Now I work in a library. He/him.",
+			"url": "http://t.co/JGlLwaJi6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JGlLwaJi6V",
+							"expanded_url": "http://www.michaelbenchcapon.blogspot.com",
+							"display_url": "michaelbenchcapon.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733,
+			"friends_count": 391,
+			"listed_count": 32,
+			"created_at": "Sat May 21 15:24:01 +0000 2011",
+			"favourites_count": 15629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364536542/Toco_Toucan_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364536542/Toco_Toucan_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/302667955/1428693328",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Philosophers who don't like using intuitions could always try coming up with catchy-sounding slogans and then motivating their reasoning towards those slogans"
+	},
+	{
+		"created_at": "Mon Feb 11 11:30:00 +0000 2019",
+		"id": 1094921489416110100,
+		"id_str": "1095103819413897216",
+		"full_text": "“I don’t know. I prefer to remain silent on matters which I don’t understand.”\n\nΟὐκ οἶδ’· ἐφ’ οἷς γὰρ μὴ φρονῶ σιγᾶν φιλῶ. #Sophocles",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sophocles",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 396163676,
+			"id_str": "396163676",
+			"name": "sententiae antiquae",
+			"screen_name": "sentantiq",
+			"location": "Texas/Massachusetts",
+			"description": "Original translations of lines from Ancient Greece and Rome. Go to the Blog for full citations and author information.",
+			"url": "https://t.co/LtyNIUHkAB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LtyNIUHkAB",
+							"expanded_url": "http://sententiaeantiquae.com",
+							"display_url": "sententiaeantiquae.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23251,
+			"friends_count": 464,
+			"listed_count": 570,
+			"created_at": "Sat Oct 22 21:04:27 +0000 2011",
+			"favourites_count": 39490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/749959482596204544/lcm5ss8b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/749959482596204544/lcm5ss8b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/396163676/1467639167",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 211,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "“I don’t know. I prefer to remain silent on matters which I don’t understand.”\n\nΟὐκ οἶδ’· ἐφ’ οἷς γὰρ μὴ φρονῶ σιγᾶν φιλῶ. #Sophocles"
+	},
+	{
+		"created_at": "Mon Feb 11 13:54:44 +0000 2019",
+		"id": 1094957911527301100,
+		"id_str": "1095100179257217025",
+		"full_text": "Underneath all his preoccupations with sex, society, religion, etc. — all the staple abstractions which allow the forebrain to chatter — there is, quite simply, a man tortured beyond endurance by the lack of tenderness in the world.\n\n— Lawrence Durrell\n\nphoto: Sophie Bassouls https://t.co/Z2FnIMDvCO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094957702944604200,
+					"id_str": "1094957702944604166",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DzISOsAXQAYpqkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzISOsAXQAYpqkV.jpg",
+					"url": "https://t.co/Z2FnIMDvCO",
+					"display_url": "pic.twitter.com/Z2FnIMDvCO",
+					"expanded_url": "https://twitter.com/DurrellSociety/status/1094957911527301125/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 381,
+							"h": 577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 381,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 381,
+							"h": 577,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094957702944604200,
+					"id_str": "1094957702944604166",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DzISOsAXQAYpqkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzISOsAXQAYpqkV.jpg",
+					"url": "https://t.co/Z2FnIMDvCO",
+					"display_url": "pic.twitter.com/Z2FnIMDvCO",
+					"expanded_url": "https://twitter.com/DurrellSociety/status/1094957911527301125/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 381,
+							"h": 577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 381,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 381,
+							"h": 577,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 321986666,
+			"id_str": "321986666",
+			"name": "Durrell Society",
+			"screen_name": "DurrellSociety",
+			"location": "Hotel des Princes | Avignon",
+			"description": "The International Lawrence Durrell Society 𝄐 'Books are like love letters; they are destined for a particular person.' /da capo/",
+			"url": "http://t.co/3mfbwgAPbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/3mfbwgAPbN",
+							"expanded_url": "http://www.lawrencedurrell.org",
+							"display_url": "lawrencedurrell.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3845,
+			"friends_count": 3034,
+			"listed_count": 96,
+			"created_at": "Wed Jun 22 13:17:28 +0000 2011",
+			"favourites_count": 18409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12720,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407816374/justine_hand2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407816374/justine_hand2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/321986666/1430742876",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Underneath all his preoccupations with sex, society, religion, etc. — all the staple abstractions which allow the forebrain to chatter — there is, quite simply, a man tortured beyond endurance by the lack of tenderness in the world.\n\n— Lawrence Durrell\n\nphoto: Sophie Bassouls https://t.co/Z2FnIMDvCO"
+	},
+	{
+		"created_at": "Mon Feb 11 21:29:12 +0000 2019",
+		"id": 1095072282253410300,
+		"id_str": "1095072282253410304",
+		"full_text": "@PGWodelouse @MikeBenchCapon He had a feud with the inventor of Fig Newtons.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PGWodelouse",
+					"name": "P.G. Wodelouse",
+					"id": 191377575,
+					"id_str": "191377575",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "MikeBenchCapon",
+					"name": "Michael Bench-Capon",
+					"id": 302667955,
+					"id_str": "302667955",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1095069630253670400,
+		"in_reply_to_status_id_str": "1095069630253670400",
+		"in_reply_to_user_id": 191377575,
+		"in_reply_to_user_id_str": "191377575",
+		"in_reply_to_screen_name": "PGWodelouse",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8188,
+			"friends_count": 1894,
+			"listed_count": 462,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 23815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46687,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PGWodelouse @MikeBenchCapon He had a feud with the inventor of Fig Newtons."
+	},
+	{
+		"created_at": "Mon Feb 11 21:16:19 +0000 2019",
+		"id": 1095069042740727800,
+		"id_str": "1095069042740727808",
+		"full_text": "@PGWodelouse @MikeBenchCapon Yes.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PGWodelouse",
+					"name": "P.G. Wodelouse",
+					"id": 191377575,
+					"id_str": "191377575",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "MikeBenchCapon",
+					"name": "Michael Bench-Capon",
+					"id": 302667955,
+					"id_str": "302667955",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1095068684807270400,
+		"in_reply_to_status_id_str": "1095068684807270401",
+		"in_reply_to_user_id": 191377575,
+		"in_reply_to_user_id_str": "191377575",
+		"in_reply_to_screen_name": "PGWodelouse",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8188,
+			"friends_count": 1894,
+			"listed_count": 462,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 23815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46687,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@PGWodelouse @MikeBenchCapon Yes."
+	},
+	{
+		"created_at": "Mon Feb 11 15:24:01 +0000 2019",
+		"id": 1094980382011859000,
+		"id_str": "1095057293652254721",
+		"full_text": "I wonder if Leibniz really thought that when you die you actually just become really tiny, or if I've misinterpreted him somehow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 302667955,
+			"id_str": "302667955",
+			"name": "Michael Bench-Capon",
+			"screen_name": "MikeBenchCapon",
+			"location": "Leeds, UK",
+			"description": "I have a PhD in philosophy. Now I work in a library. He/him.",
+			"url": "http://t.co/JGlLwaJi6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JGlLwaJi6V",
+							"expanded_url": "http://www.michaelbenchcapon.blogspot.com",
+							"display_url": "michaelbenchcapon.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733,
+			"friends_count": 391,
+			"listed_count": 32,
+			"created_at": "Sat May 21 15:24:01 +0000 2011",
+			"favourites_count": 15629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364536542/Toco_Toucan_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364536542/Toco_Toucan_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/302667955/1428693328",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I wonder if Leibniz really thought that when you die you actually just become really tiny, or if I've misinterpreted him somehow"
+	},
+	{
+		"created_at": "Mon Feb 11 20:17:24 +0000 2019",
+		"id": 1095054213636386800,
+		"id_str": "1095054213636386817",
+		"full_text": "@ancientnmodern I wouldn't be at all surprised. :)",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "VictoriaG (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1095037152432451600,
+		"in_reply_to_status_id_str": "1095037152432451584",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8188,
+			"friends_count": 1894,
+			"listed_count": 462,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 23815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46687,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ancientnmodern I wouldn't be at all surprised. :)"
+	},
+	{
+		"created_at": "Mon Feb 11 18:46:38 +0000 2019",
+		"id": 1095031370857041900,
+		"id_str": "1095048722713587712",
+		"full_text": "Great piece by ⁦⁦@mariakasmirli⁩\nTools for thinking: Isaiah Berlin’s two concepts of freedom | Aeon \n https://t.co/XQM0sm1dRd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mariakasmirli",
+					"name": "Maria Kasmirli",
+					"id": 103135865,
+					"id_str": "103135865",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XQM0sm1dRd",
+					"expanded_url": "https://aeon.co/ideas/tools-for-thinking-isaiah-berlins-two-concepts-of-freedom",
+					"display_url": "aeon.co/ideas/tools-fo…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3068008811,
+			"id_str": "3068008811",
+			"name": "Stathis Psillos",
+			"screen_name": "StathisPsillos",
+			"location": "Athens Greece",
+			"description": "I am a philosopher, lucky enough to do philosophy for a living. I tweet about philosophy, and occasionally politics",
+			"url": "https://t.co/zUI0aPk6f3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUI0aPk6f3",
+							"expanded_url": "http://www.phs.uoa.gr/psillos",
+							"display_url": "phs.uoa.gr/psillos",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2699,
+			"friends_count": 652,
+			"listed_count": 74,
+			"created_at": "Tue Mar 03 15:27:52 +0000 2015",
+			"favourites_count": 5668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8360,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572783820958769152/VZGcYbIt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572783820958769152/VZGcYbIt_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3068008811/1549239146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great piece by ⁦⁦@mariakasmirli⁩\nTools for thinking: Isaiah Berlin’s two concepts of freedom | Aeon \n https://t.co/XQM0sm1dRd"
+	},
+	{
+		"created_at": "Mon Feb 11 17:13:44 +0000 2019",
+		"id": 1095007991961657300,
+		"id_str": "1095043114878799872",
+		"full_text": "Why Brexit reminds me eerily of the last days of Lehman, in slower motion but on a bigger scale https://t.co/dqJ2u5oUzW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dqJ2u5oUzW",
+					"expanded_url": "https://www.facebook.com/1498276767163730/posts/2275762586081807/",
+					"display_url": "facebook.com/14982767671637…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14157134,
+			"id_str": "14157134",
+			"name": "Robert Peston",
+			"screen_name": "Peston",
+			"location": "",
+			"description": "ITV (pol ed), Speakers for Schools (founder), writer (WTF), Arsenal (East Stand), Peston (as in “#Peston” show, on Wednesday nights) - not always in that order",
+			"url": "https://t.co/4QnCHBWFnP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4QnCHBWFnP",
+							"expanded_url": "http://itv.com/robertpeston",
+							"display_url": "itv.com/robertpeston",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 948841,
+			"friends_count": 1304,
+			"listed_count": 7807,
+			"created_at": "Sun Mar 16 11:41:49 +0000 2008",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21095,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082367421518938113/pcSedLqR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082367421518938113/pcSedLqR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14157134/1528376927",
+			"profile_link_color": "1F527B",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "5A5A5A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 738,
+		"favorite_count": 1446,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why Brexit reminds me eerily of the last days of Lehman, in slower motion but on a bigger scale https://t.co/dqJ2u5oUzW"
+	},
+	{
+		"created_at": "Mon Feb 11 14:13:18 +0000 2019",
+		"id": 1094962585466634200,
+		"id_str": "1095011544793075713",
+		"full_text": "I was thinking about my grandma Sophie. We never focus on post-menopausal females who gave their genius &amp; courage to their families rather than jobs. Let’s start a thread where we share stories about older women who did amazing things for their kin &amp; never got celebrated outside.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33152005,
+			"id_str": "33152005",
+			"name": "Eric Weinstein",
+			"screen_name": "EricRWeinstein",
+			"location": "Argleton",
+			"description": "Managing director @ Thiel Capital.   Some assembly required. May contain math. Tweets my own.\n\nYT: https://t.co/Qszr1mtwld\n\nIG: @ericrweinstein",
+			"url": "https://t.co/L5iA7hR0d8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L5iA7hR0d8",
+							"expanded_url": "http://www.edge.org/3rd_culture/bios/weinstein.html",
+							"display_url": "edge.org/3rd_culture/bi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Qszr1mtwld",
+							"expanded_url": "https://www.youtube.com/ericweinsteinphd",
+							"display_url": "youtube.com/ericweinsteinp…",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 194865,
+			"friends_count": 892,
+			"listed_count": 1794,
+			"created_at": "Sun Apr 19 06:50:34 +0000 2009",
+			"favourites_count": 10546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6623,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/183983583/weinstein200-1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/183983583/weinstein200-1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33152005/1493244906",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 1396,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I was thinking about my grandma Sophie. We never focus on post-menopausal females who gave their genius &amp; courage to their families rather than jobs. Let’s start a thread where we share stories about older women who did amazing things for their kin &amp; never got celebrated outside."
+	},
+	{
+		"created_at": "Mon Feb 11 17:10:00 +0000 2019",
+		"id": 1095007052970094600,
+		"id_str": "1095009442452643841",
+		"full_text": "Peter Kellner: Britain’s political system is not equipped to deal with the fallout from Brexit https://t.co/GkiyHKgiMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GkiyHKgiMM",
+					"expanded_url": "https://www.prospectmagazine.co.uk/WP_SITEURL/blogs/peter-kellner/the-long-term-consequences-of-this-brexit-farce-look-increasingly-bleak",
+					"display_url": "prospectmagazine.co.uk/WP_SITEURL/blo…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21417687,
+			"id_str": "21417687",
+			"name": "Prospect Magazine",
+			"screen_name": "prospect_uk",
+			"location": "London",
+			"description": "The leading magazine of ideas. Sign up now for the latest in politics, culture, philosophy and world affairs: https://t.co/89OwpNHzVM",
+			"url": "https://t.co/0U5ZADPJRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0U5ZADPJRs",
+							"expanded_url": "http://www.prospectmagazine.co.uk/",
+							"display_url": "prospectmagazine.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/89OwpNHzVM",
+							"expanded_url": "http://www.prospectmagazine.co.uk/socialmedia",
+							"display_url": "prospectmagazine.co.uk/socialmedia",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45129,
+			"friends_count": 4630,
+			"listed_count": 1748,
+			"created_at": "Fri Feb 20 18:02:06 +0000 2009",
+			"favourites_count": 1433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 97207,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866635745389367296/P04hHW2R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866635745389367296/P04hHW2R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21417687/1526983531",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Peter Kellner: Britain’s political system is not equipped to deal with the fallout from Brexit https://t.co/GkiyHKgiMM"
+	},
+	{
+		"created_at": "Mon Feb 11 10:23:32 +0000 2019",
+		"id": 1094904764586971100,
+		"id_str": "1095008275878346760",
+		"full_text": "Damning verdict of the Tories' immigration plans from @Global__Future: they represent the biggest red tape threat British businesses have ever seen – far outweighing anything that came from Brussels.\nhttps://t.co/m8g3FPO7z3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Global__Future",
+					"name": "Global Future",
+					"id": 829665666433183700,
+					"id_str": "829665666433183744",
+					"indices": [
+						54,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m8g3FPO7z3",
+					"expanded_url": "http://www.cityam.com/273024/immigration-white-paper-cost-employers-more-than-1bn-red",
+					"display_url": "cityam.com/273024/immigra…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1179455215,
+			"id_str": "1179455215",
+			"name": "Ed Davey",
+			"screen_name": "EdwardJDavey",
+			"location": "Surbiton, UK",
+			"description": "MP for #Kingston and #Surbiton, former Secretary of State for #Energy & #ClimateChange, husband, father. #DemandBetter for our country: #LibDems 🔶",
+			"url": "https://t.co/URjDXgavKC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/URjDXgavKC",
+							"expanded_url": "http://www.edwarddavey.co.uk",
+							"display_url": "edwarddavey.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18317,
+			"friends_count": 299,
+			"listed_count": 573,
+			"created_at": "Thu Feb 14 14:59:46 +0000 2013",
+			"favourites_count": 1987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3682,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087389268115406848/sh7RXU_B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087389268115406848/sh7RXU_B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1179455215/1548088794",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Damning verdict of the Tories' immigration plans from @Global__Future: they represent the biggest red tape threat British businesses have ever seen – far outweighing anything that came from Brussels.\nhttps://t.co/m8g3FPO7z3"
+	},
+	{
+		"created_at": "Mon Feb 11 17:11:25 +0000 2019",
+		"id": 1095007410354307100,
+		"id_str": "1095007410354307073",
+		"full_text": "14th century Leeds nun faked her own death to pursue “the way of carnal lust”. Leeds lasses, eh? @ancientnmodern  https://t.co/twwmDeTGAN?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "VictoriaG (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						97,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/twwmDeTGAN",
+					"expanded_url": "https://www.theguardian.com/books/2019/feb/11/archive-shows-medieval-nun-faked-her-own-death-to-escape-convent",
+					"display_url": "theguardian.com/books/2019/feb…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8188,
+			"friends_count": 1894,
+			"listed_count": 462,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 23815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46687,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "14th century Leeds nun faked her own death to pursue “the way of carnal lust”. Leeds lasses, eh? @ancientnmodern  https://t.co/twwmDeTGAN?"
+	},
+	{
+		"created_at": "Mon Feb 11 13:50:59 +0000 2019",
+		"id": 1094956970933715000,
+		"id_str": "1094981671210881025",
+		"full_text": "I'll to abide by my NY resolution and not tweet much about Brexit, as if reasoned debate has even a chance to avert it now. I'm tired of caring and have more interesting things to think about. Leavers will just have to own this clusterfuck.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38394403,
+			"id_str": "38394403",
+			"name": "David John Roden",
+			"screen_name": "turingcop",
+			"location": "",
+			"description": "Philosopher interested in eccentric alternatives to humanity   http://t.co/03reG2WLJk\nhttps://t.co/hKJ3WdKefL",
+			"url": "https://t.co/6iUQtnBjHw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6iUQtnBjHw",
+							"expanded_url": "https://enemyindustry.wordpress.com",
+							"display_url": "enemyindustry.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/03reG2WLJk",
+							"expanded_url": "http://www.amazon.com/Posthuman-Life-Philosophy-Edge-Human/dp/1844658066",
+							"display_url": "amazon.com/Posthuman-Life…",
+							"indices": [
+								63,
+								85
+							]
+						},
+						{
+							"url": "https://t.co/hKJ3WdKefL",
+							"expanded_url": "http://figureground.org/interview-with-david-roden/",
+							"display_url": "figureground.org/interview-with…",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3060,
+			"friends_count": 3963,
+			"listed_count": 185,
+			"created_at": "Thu May 07 08:09:50 +0000 2009",
+			"favourites_count": 25273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22724,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/835817595743895554/y6nZWdQX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/835817595743895554/y6nZWdQX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38394403/1476095850",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'll to abide by my NY resolution and not tweet much about Brexit, as if reasoned debate has even a chance to avert it now. I'm tired of caring and have more interesting things to think about. Leavers will just have to own this clusterfuck."
+	},
+	{
+		"created_at": "Mon Feb 11 13:21:08 +0000 2019",
+		"id": 1094949457421131800,
+		"id_str": "1094949457421131779",
+		"full_text": "What exactly do we mean by 'freedom'? @mariakasmirli explains Isaiah Berlin’s two concepts of freedom \n- https://t.co/UMVMWjVWQx? @aeonmag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mariakasmirli",
+					"name": "Maria Kasmirli",
+					"id": 103135865,
+					"id_str": "103135865",
+					"indices": [
+						38,
+						52
+					]
+				},
+				{
+					"screen_name": "aeonmag",
+					"name": "Aeon",
+					"id": 481943972,
+					"id_str": "481943972",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UMVMWjVWQx",
+					"expanded_url": "https://aeon.co/ideas/tools-for-thinking-isaiah-berlins-two-concepts-of-freedom",
+					"display_url": "aeon.co/ideas/tools-fo…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8188,
+			"friends_count": 1894,
+			"listed_count": 462,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 23815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46687,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What exactly do we mean by 'freedom'? @mariakasmirli explains Isaiah Berlin’s two concepts of freedom \n- https://t.co/UMVMWjVWQx? @aeonmag"
+	},
+	{
 		"created_at": "Mon Feb 11 01:08:55 +0000 2019",
 		"id": 1094765187574444000,
 		"id_str": "1094765187574444034",
