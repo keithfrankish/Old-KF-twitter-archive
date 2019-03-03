@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 01:04:08 +0000 2019",
+		"id": 1101814484497240000,
+		"id_str": "1102011742685671424",
+		"full_text": "To those thinking that we should adopt the US healthcare system.\n\nThink on this.\n\nMy daughter spent two days in hospital. Non serious. Cost $15,000 of which $500 was a cost for me to ride with her in the ambulance. She was 7.\n\nDo you really want this?\n\n#STOPBREXIT NOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STOPBREXIT",
+					"indices": [
+						253,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 958800630,
+			"id_str": "958800630",
+			"name": "Mostly Harmless #Remain #FBPE",
+			"screen_name": "rocciabella",
+			"location": "United Kingdom",
+			"description": "When the people fear the government, there is tyranny. When the government fear the people, there is liberty.",
+			"url": "https://t.co/twxHxOtlG0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/twxHxOtlG0",
+							"expanded_url": "http://www.google.com",
+							"display_url": "google.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8106,
+			"friends_count": 8579,
+			"listed_count": 43,
+			"created_at": "Mon Nov 19 22:52:36 +0000 2012",
+			"favourites_count": 8956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12035,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/949939266976612353/HABbe5FP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/949939266976612353/HABbe5FP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/958800630/1551191747",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1789,
+		"favorite_count": 3234,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To those thinking that we should adopt the US healthcare system.\n\nThink on this.\n\nMy daughter spent two days in hospital. Non serious. Cost $15,000 of which $500 was a cost for me to ride with her in the ambulance. She was 7.\n\nDo you really want this?\n\n#STOPBREXIT NOW"
+	},
+	{
+		"created_at": "Sat Mar 02 23:06:59 +0000 2019",
+		"id": 1101982262080520200,
+		"id_str": "1101982262080520192",
+		"full_text": "\"The glans and prepuce were dissected off, but, at the request of the patient, who stated that he only wished the penis for the function of urination, no further attempt was made to restore the organ to its normal state.\" - https://t.co/53YdgKZRkL via @thomasngmorris",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomasngmorris",
+					"name": "Thomas Morris",
+					"id": 3351684539,
+					"id_str": "3351684539",
+					"indices": [
+						252,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/53YdgKZRkL",
+					"expanded_url": "https://wp.me/p6pRt7-OH",
+					"display_url": "wp.me/p6pRt7-OH",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8346,
+			"friends_count": 1914,
+			"listed_count": 462,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 24288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The glans and prepuce were dissected off, but, at the request of the patient, who stated that he only wished the penis for the function of urination, no further attempt was made to restore the organ to its normal state.\" - https://t.co/53YdgKZRkL via @thomasngmorris"
+	},
+	{
+		"created_at": "Sat Mar 02 22:38:38 +0000 2019",
+		"id": 1101975125161857000,
+		"id_str": "1101975125161857024",
+		"full_text": "@epicciuto Is this a trap? ;)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "epicciuto",
+					"name": "Elizabeth Picciuto",
+					"id": 36651871,
+					"id_str": "36651871",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1101959617058402300,
+		"in_reply_to_status_id_str": "1101959617058402304",
+		"in_reply_to_user_id": 36651871,
+		"in_reply_to_user_id_str": "36651871",
+		"in_reply_to_screen_name": "epicciuto",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8346,
+			"friends_count": 1914,
+			"listed_count": 462,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 24288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@epicciuto Is this a trap? ;)"
+	},
+	{
 		"created_at": "Sat Mar 02 00:04:35 +0000 2019",
 		"id": 1101634368336998400,
 		"id_str": "1101634368336998402",
