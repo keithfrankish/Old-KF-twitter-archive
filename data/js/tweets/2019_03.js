@@ -1,6 +1,710 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 19:06:56 +0000 2019",
+		"id": 1106484323329495000,
+		"id_str": "1106632892149579776",
+		"full_text": "Have you been afraid of speaking your language in public since the Referendum? Please tell us your stories\nhttps://t.co/pBUAfzfYwT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pBUAfzfYwT",
+					"expanded_url": "https://metro.co.uk/2019/03/15/brexit-has-made-me-afraid-of-speaking-my-native-language-in-the-uk-8892060/",
+					"display_url": "metro.co.uk/2019/03/15/bre…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 882236736524431400,
+			"id_str": "882236736524431360",
+			"name": "In Limbo",
+			"screen_name": "InLimboBrexit",
+			"location": "",
+			"description": "In Limbo and In Limbo Too: Brexit Testimonies from EU citizens. Two collections of human stories about the real impact of Brexit.",
+			"url": "https://t.co/eI0sR6Y0w9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eI0sR6Y0w9",
+							"expanded_url": "https://www.ourbrexitblog.org/in-limbo-book/",
+							"display_url": "ourbrexitblog.org/in-limbo-book/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8590,
+			"friends_count": 2950,
+			"listed_count": 58,
+			"created_at": "Tue Jul 04 13:56:43 +0000 2017",
+			"favourites_count": 26015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006988875636596736/QbuFU0ak_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006988875636596736/QbuFU0ak_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/882236736524431360/1528554853",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you been afraid of speaking your language in public since the Referendum? Please tell us your stories\nhttps://t.co/pBUAfzfYwT"
+	},
+	{
+		"created_at": "Fri Mar 15 18:59:13 +0000 2019",
+		"id": 1106630952476950500,
+		"id_str": "1106630952476950529",
+		"full_text": "@bowmanthebard He *thinks* he's speaking for England, expressing the will of people, standing up for democracy, defending the flag. Of course he isn't. That was my point.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bowmanthebard",
+					"name": "Jeremy Bowman",
+					"id": 268426001,
+					"id_str": "268426001",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1106628323944419300,
+		"in_reply_to_status_id_str": "1106628323944419328",
+		"in_reply_to_user_id": 268426001,
+		"in_reply_to_user_id_str": "268426001",
+		"in_reply_to_screen_name": "bowmanthebard",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8445,
+			"friends_count": 1925,
+			"listed_count": 462,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 24618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bowmanthebard He *thinks* he's speaking for England, expressing the will of people, standing up for democracy, defending the flag. Of course he isn't. That was my point."
+	},
+	{
+		"created_at": "Fri Mar 15 17:49:20 +0000 2019",
+		"id": 1106613362211860500,
+		"id_str": "1106613362211860481",
+		"full_text": "The face and voice of England. https://t.co/kBQSZ93Aeu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kBQSZ93Aeu",
+					"expanded_url": "https://twitter.com/Jeggit/status/1106473347385311232",
+					"display_url": "twitter.com/Jeggit/status/…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8445,
+			"friends_count": 1925,
+			"listed_count": 462,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 24618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106473347385311200,
+		"quoted_status_id_str": "1106473347385311232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kBQSZ93Aeu",
+			"expanded": "https://twitter.com/Jeggit/status/1106473347385311232",
+			"display": "twitter.com/Jeggit/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 15 08:32:57 +0000 2019",
+			"id": 1106473347385311200,
+			"id_str": "1106473347385311232",
+			"full_text": "Brexit is about rage and hate. Violence is a new political normal in England. https://t.co/tBswmIeQ3z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1106273769931395100,
+						"id_str": "1106273769931395072",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1106273769931395072/pu/img/PHeHHplGjSuOGdg_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1106273769931395072/pu/img/PHeHHplGjSuOGdg_.jpg",
+						"url": "https://t.co/tBswmIeQ3z",
+						"display_url": "pic.twitter.com/tBswmIeQ3z",
+						"expanded_url": "https://twitter.com/TheStephenRalph/status/1106276359427575810/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1106276359427575800,
+						"source_status_id_str": "1106276359427575810",
+						"source_user_id": 319619581,
+						"source_user_id_str": "319619581"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1106273769931395100,
+						"id_str": "1106273769931395072",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1106273769931395072/pu/img/PHeHHplGjSuOGdg_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1106273769931395072/pu/img/PHeHHplGjSuOGdg_.jpg",
+						"url": "https://t.co/tBswmIeQ3z",
+						"display_url": "pic.twitter.com/tBswmIeQ3z",
+						"expanded_url": "https://twitter.com/TheStephenRalph/status/1106276359427575810/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1106276359427575800,
+						"source_status_id_str": "1106276359427575810",
+						"source_user_id": 319619581,
+						"source_user_id_str": "319619581",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 36233,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1106273769931395072/pu/vid/640x360/6ECR-YhJV3C-Hpn9.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1106273769931395072/pu/pl/99jqBsaMMTg4NxcC.m3u8?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1106273769931395072/pu/vid/1280x720/0WjAQNKkoxmPakVG.mp4?tag=8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1106273769931395072/pu/vid/320x180/T0Jt_FR2EyuIAqjU.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 319619581,
+								"id_str": "319619581",
+								"name": "#RevokeArticle50 #TIG #FBPE🤝#PeoplesVote #JC4P45",
+								"screen_name": "TheStephenRalph",
+								"location": "Ayr, EU 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺🇬🇧",
+								"description": "Retired radiographer | #Behçets #Pituitary | JLM 🥀 Progress | #FBPE #MoreInCommon #PutItToThePeople #FinalSayForAll #ChangePolitics\n#Resist 🇺🇲 #Impeach",
+								"url": "https://t.co/kJIGALn014",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/kJIGALn014",
+												"expanded_url": "http://www.meactionuk.org.uk",
+												"display_url": "meactionuk.org.uk",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 8773,
+								"friends_count": 9332,
+								"listed_count": 131,
+								"created_at": "Sat Jun 18 12:47:49 +0000 2011",
+								"favourites_count": 295055,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 334288,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1102571178781298688/WW-PFWUG_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102571178781298688/WW-PFWUG_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/319619581/1549539201",
+								"profile_link_color": "11053B",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 733016616531832800,
+				"id_str": "733016616531832832",
+				"name": "Jason Michael",
+				"screen_name": "Jeggit",
+				"location": "Dublin | Glasgow",
+				"description": "Scottish journalist and blogger based in Dublin. Writing on politics and society. Columnist for iScot Magazine and author of the Random Public Journal. @RPJblog",
+				"url": "https://t.co/6M02VmdEfI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6M02VmdEfI",
+								"expanded_url": "https://randompublicjournal.com",
+								"display_url": "randompublicjournal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7611,
+				"friends_count": 263,
+				"listed_count": 125,
+				"created_at": "Wed May 18 19:29:14 +0000 2016",
+				"favourites_count": 2779,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35945,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850464819350294530/OjBAdUhi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850464819350294530/OjBAdUhi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/733016616531832832/1491602321",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1214,
+			"favorite_count": 2254,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The face and voice of England. https://t.co/kBQSZ93Aeu"
+	},
+	{
+		"created_at": "Fri Mar 15 12:10:28 +0000 2019",
+		"id": 1106528087330689000,
+		"id_str": "1106528087330689024",
+		"full_text": "@AnnastiinaEM :)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnnastiinaEM",
+					"name": "Annastiina Mäkilä",
+					"id": 778896599405752300,
+					"id_str": "778896599405752321",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1106525844741201900,
+		"in_reply_to_status_id_str": "1106525844741201920",
+		"in_reply_to_user_id": 778896599405752300,
+		"in_reply_to_user_id_str": "778896599405752321",
+		"in_reply_to_screen_name": "AnnastiinaEM",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8445,
+			"friends_count": 1925,
+			"listed_count": 462,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 24618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1530395228",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@AnnastiinaEM :)"
+	},
+	{
 		"created_at": "Thu Mar 14 23:34:37 +0000 2019",
 		"id": 1106337869239595000,
 		"id_str": "1106337869239595008",
