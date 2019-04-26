@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 25 11:08:06 +0000 2019",
+		"id": 1121368921100173300,
+		"id_str": "1121370293325508608",
+		"full_text": "Do male and female brains differ? A philosophical reply\n https://t.co/3Q8y45yR7F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Q8y45yR7F",
+					"expanded_url": "https://www.irishtimes.com/culture/do-male-and-female-brains-differ-a-philosophical-reply-1.3863371",
+					"display_url": "irishtimes.com/culture/do-mal…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 594280670,
+			"id_str": "594280670",
+			"name": "Justin Caouette",
+			"screen_name": "JustinCaouette",
+			"location": "Massachusetts, USA",
+			"description": "Teaching Philosophy @BridgeStateU & @Northeastern Interests: Ethics; Free Will; Epistemology; Agency; Virtues; Moral Psych/Responsibility. PhD from @ucalgary",
+			"url": "https://t.co/jvvg6CAIuB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jvvg6CAIuB",
+							"expanded_url": "http://www.profjustincaouette.com/",
+							"display_url": "profjustincaouette.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5889,
+			"friends_count": 972,
+			"listed_count": 285,
+			"created_at": "Wed May 30 04:06:44 +0000 2012",
+			"favourites_count": 74597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51305,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118324218289061888/OJ2uKeeN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118324218289061888/OJ2uKeeN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/594280670/1548818626",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do male and female brains differ? A philosophical reply\n https://t.co/3Q8y45yR7F"
+	},
+	{
 		"created_at": "Wed Apr 24 18:41:51 +0000 2019",
 		"id": 1121122096019644400,
 		"id_str": "1121122096019644416",
