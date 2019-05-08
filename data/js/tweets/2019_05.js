@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 15:27:20 +0000 2019",
+		"id": 1125784184180572200,
+		"id_str": "1125784184180572165",
+		"full_text": "@kritikos_ed @Christakou @WiringTheBrain @UniofReading @UniRdg_Psych @DoctorJosh @lisabortolotti @danieldennett @CeliaHeyes @mpshanahan The person to ask is @Christakou",
+		"truncated": false,
+		"display_text_range": [
+			136,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kritikos_ed",
+					"name": "KRITIKOS",
+					"id": 1052290637993635800,
+					"id_str": "1052290637993635841",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Christakou",
+					"name": "Anastasia Christakou",
+					"id": 111969608,
+					"id_str": "111969608",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "WiringTheBrain",
+					"name": "Kevin Mitchell",
+					"id": 325719227,
+					"id_str": "325719227",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "UniofReading",
+					"name": "Uni of Reading",
+					"id": 59142515,
+					"id_str": "59142515",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"screen_name": "UniRdg_Psych",
+					"name": "School of Psychology & Clinical Language Sciences",
+					"id": 262699101,
+					"id_str": "262699101",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"screen_name": "DoctorJosh",
+					"name": "Josh Bongard",
+					"id": 14283504,
+					"id_str": "14283504",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "lisabortolotti",
+					"name": "Prof Lisa Bortolotti 🇪🇺",
+					"id": 212681975,
+					"id_str": "212681975",
+					"indices": [
+						81,
+						96
+					]
+				},
+				{
+					"screen_name": "danieldennett",
+					"name": "Daniel Dennett",
+					"id": 997629601,
+					"id_str": "997629601",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"screen_name": "CeliaHeyes",
+					"name": "Cecilia Heyes",
+					"id": 276559815,
+					"id_str": "276559815",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"screen_name": "mpshanahan",
+					"name": "Murray Shanahan",
+					"id": 355616314,
+					"id_str": "355616314",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"screen_name": "Christakou",
+					"name": "Anastasia Christakou",
+					"id": 111969608,
+					"id_str": "111969608",
+					"indices": [
+						157,
+						168
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1125710046699061200,
+		"in_reply_to_status_id_str": "1125710046699061249",
+		"in_reply_to_user_id": 1052290637993635800,
+		"in_reply_to_user_id_str": "1052290637993635841",
+		"in_reply_to_screen_name": "kritikos_ed",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8909,
+			"friends_count": 1956,
+			"listed_count": 475,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 26415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48386,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kritikos_ed @Christakou @WiringTheBrain @UniofReading @UniRdg_Psych @DoctorJosh @lisabortolotti @danieldennett @CeliaHeyes @mpshanahan The person to ask is @Christakou"
+	},
+	{
 		"created_at": "Mon May 06 18:22:57 +0000 2019",
 		"id": 1123142732430573600,
 		"id_str": "1125465994825277441",
