@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 21:02:44 +0000 2019",
+		"id": 1126955757176524800,
+		"id_str": "1126955757176524800",
+		"full_text": "@twitemp1 @Abebab @aeryn_thrace @AikateriniVK @distributedcog @Eric0Lawton @IrisVanRooij @jtth @mattsiegel Thank you Esther. I'm honoured and the sentiment is reciprocated.",
+		"truncated": false,
+		"display_text_range": [
+			107,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twitemp1",
+					"name": "Esther Mondragón",
+					"id": 109390268,
+					"id_str": "109390268",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Abebab",
+					"name": "Abeba Birhane",
+					"id": 229005889,
+					"id_str": "229005889",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "aeryn_thrace",
+					"name": "M. Gonzalez-Marquez 👩🏻‍🔬🏳️‍🌈",
+					"id": 28456376,
+					"id_str": "28456376",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"screen_name": "AikateriniVK",
+					"name": "Katerina",
+					"id": 953360364,
+					"id_str": "953360364",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"screen_name": "distributedcog",
+					"name": "𖤐 Ⓑ 𖤐",
+					"id": 131644899,
+					"id_str": "131644899",
+					"indices": [
+						46,
+						61
+					]
+				},
+				{
+					"screen_name": "Eric0Lawton",
+					"name": "Eric Lawton",
+					"id": 253313989,
+					"id_str": "253313989",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "IrisVanRooij",
+					"name": "Iris van Rooij",
+					"id": 1194617485,
+					"id_str": "1194617485",
+					"indices": [
+						75,
+						88
+					]
+				},
+				{
+					"screen_name": "jtth",
+					"name": "jordan t. thevenow-harrison",
+					"id": 647263,
+					"id_str": "647263",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"screen_name": "mattsiegel",
+					"name": "Matt Siegel",
+					"id": 14904769,
+					"id_str": "14904769",
+					"indices": [
+						95,
+						106
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1126918952905519100,
+		"in_reply_to_status_id_str": "1126918952905519104",
+		"in_reply_to_user_id": 109390268,
+		"in_reply_to_user_id_str": "109390268",
+		"in_reply_to_screen_name": "twitemp1",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8930,
+			"friends_count": 1956,
+			"listed_count": 475,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 26423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48394,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@twitemp1 @Abebab @aeryn_thrace @AikateriniVK @distributedcog @Eric0Lawton @IrisVanRooij @jtth @mattsiegel Thank you Esther. I'm honoured and the sentiment is reciprocated."
+	},
+	{
 		"created_at": "Thu May 09 13:54:02 +0000 2019",
 		"id": 1126485480424595500,
 		"id_str": "1126485480424595456",
