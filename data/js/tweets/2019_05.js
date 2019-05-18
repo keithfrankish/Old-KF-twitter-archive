@@ -1,6 +1,1149 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 17:07:03 +0000 2019",
+		"id": 1125407369582784500,
+		"id_str": "1129433156556414977",
+		"full_text": "#OnThisDay 1959: Dame Edith Sitwell was John Freeman's guest, on Face to Face. https://t.co/r6wgeOyMh8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnThisDay",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124346776469889000,
+					"id_str": "1124346776469889030",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1124346776469889030/img/OVudzpQlfcCJckCN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1124346776469889030/img/OVudzpQlfcCJckCN.jpg",
+					"url": "https://t.co/r6wgeOyMh8",
+					"display_url": "pic.twitter.com/r6wgeOyMh8",
+					"expanded_url": "https://twitter.com/BBCArchive/status/1125407369582784513/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124346776469889000,
+					"id_str": "1124346776469889030",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1124346776469889030/img/OVudzpQlfcCJckCN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1124346776469889030/img/OVudzpQlfcCJckCN.jpg",
+					"url": "https://t.co/r6wgeOyMh8",
+					"display_url": "pic.twitter.com/r6wgeOyMh8",
+					"expanded_url": "https://twitter.com/BBCArchive/status/1125407369582784513/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 485440,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1124346776469889030/pl/sIV_yJPaNrXyJX0v.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1124346776469889030/vid/480x360/uVXb371GzhY_tOAw.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1124346776469889030/vid/640x480/6AgQ6uUHypXwaQ6o.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1124346776469889030/vid/360x270/mMzelfsOGzfNbrkb.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "\"Dylan Thomas - he behaved always impeccably in my presence\"",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51023770,
+			"id_str": "51023770",
+			"name": "BBC Archive",
+			"screen_name": "BBCArchive",
+			"location": "London",
+			"description": "Official Twitter presence of the @BBC Archive. Unless otherwise stated images are ©BBC.",
+			"url": "https://t.co/kxP2zX2c9K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxP2zX2c9K",
+							"expanded_url": "https://www.facebook.com/BBCArchive/",
+							"display_url": "facebook.com/BBCArchive/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138183,
+			"friends_count": 7305,
+			"listed_count": 2223,
+			"created_at": "Fri Jun 26 11:40:26 +0000 2009",
+			"favourites_count": 2328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11897,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781485887813251072/X3F3PXRz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781485887813251072/X3F3PXRz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51023770/1557827756",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OnThisDay 1959: Dame Edith Sitwell was John Freeman's guest, on Face to Face. https://t.co/r6wgeOyMh8"
+	},
+	{
+		"created_at": "Fri May 17 12:36:44 +0000 2019",
+		"id": 1129365129508859900,
+		"id_str": "1129365129508859904",
+		"full_text": "The past so real you can touch it. -&gt; Captivating Colour Photographs of London, 1970-1974 - Flashbak - https://t.co/JofMwYnk9T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JofMwYnk9T",
+					"expanded_url": "https://flashbak.com/?p=415449",
+					"display_url": "flashbak.com/?p=415449",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8945,
+			"friends_count": 1952,
+			"listed_count": 476,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 26506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The past so real you can touch it. -&gt; Captivating Colour Photographs of London, 1970-1974 - Flashbak - https://t.co/JofMwYnk9T"
+	},
+	{
+		"created_at": "Fri May 17 12:26:11 +0000 2019",
+		"id": 1128636875244277800,
+		"id_str": "1129362475013607424",
+		"full_text": "By Jove, they don't make 'em like that any more. https://t.co/FhP5dsg08y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FhP5dsg08y",
+					"expanded_url": "https://twitter.com/BBCArchive/status/1128600285046353920",
+					"display_url": "twitter.com/BBCArchive/sta…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187198881,
+			"id_str": "187198881",
+			"name": "Brother Bikini",
+			"screen_name": "BrotherBikini",
+			"location": "Coach parties welcome. E&OE",
+			"description": "The gymnasium was insured. The sports pavilion was not.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 281,
+			"listed_count": 17,
+			"created_at": "Sun Sep 05 15:09:38 +0000 2010",
+			"favourites_count": 11613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22145,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125868391250763777/Iuh8bMsq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125868391250763777/Iuh8bMsq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187198881/1472572022",
+			"profile_link_color": "004225",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128600285046353900,
+		"quoted_status_id_str": "1128600285046353920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FhP5dsg08y",
+			"expanded": "https://twitter.com/BBCArchive/status/1128600285046353920",
+			"display": "twitter.com/BBCArchive/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 15 09:57:30 +0000 2019",
+			"id": 1128600285046353900,
+			"id_str": "1128600285046353920",
+			"full_text": "#OnThisDay 1971: Braden's Week tried to investigate British attitudes to group sex, and got rather more than they bargained for. https://t.co/4iKxRCOYFO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OnThisDay",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128599358843256800,
+						"id_str": "1128599358843256832",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/D6mXlWcW0AAw6e2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6mXlWcW0AAw6e2.jpg",
+						"url": "https://t.co/4iKxRCOYFO",
+						"display_url": "pic.twitter.com/4iKxRCOYFO",
+						"expanded_url": "https://twitter.com/BBCArchive/status/1128600285046353920/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128599358843256800,
+						"id_str": "1128599358843256832",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/D6mXlWcW0AAw6e2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6mXlWcW0AAw6e2.jpg",
+						"url": "https://t.co/4iKxRCOYFO",
+						"display_url": "pic.twitter.com/4iKxRCOYFO",
+						"expanded_url": "https://twitter.com/BBCArchive/status/1128600285046353920/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 121760,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1128599358843256832/vid/640x480/J4emwjFGPmoeaZt5.mp4?tag=12"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1128599358843256832/vid/240x180/tYfXCJtA9GIg3ASa.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1128599358843256832/pl/5Thu3Q0jJKqUGx95.m3u8?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1128599358843256832/vid/480x360/mMdqFsrfuHYHcHYx.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "\"Don't look at me like that!\"",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51023770,
+				"id_str": "51023770",
+				"name": "BBC Archive",
+				"screen_name": "BBCArchive",
+				"location": "London",
+				"description": "Official Twitter presence of the @BBC Archive. Unless otherwise stated images are ©BBC.",
+				"url": "https://t.co/kxP2zX2c9K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kxP2zX2c9K",
+								"expanded_url": "https://www.facebook.com/BBCArchive/",
+								"display_url": "facebook.com/BBCArchive/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 138183,
+				"friends_count": 7305,
+				"listed_count": 2223,
+				"created_at": "Fri Jun 26 11:40:26 +0000 2009",
+				"favourites_count": 2328,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11897,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781485887813251072/X3F3PXRz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781485887813251072/X3F3PXRz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51023770/1557827756",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60,
+			"favorite_count": 242,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By Jove, they don't make 'em like that any more. https://t.co/FhP5dsg08y"
+	},
+	{
+		"created_at": "Fri May 17 10:03:13 +0000 2019",
+		"id": 1129326495451762700,
+		"id_str": "1129326495451762689",
+		"full_text": "@lilylivingstone Blimey!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lilylivingstone",
+					"name": "Lily",
+					"id": 879474238612058100,
+					"id_str": "879474238612058112",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1129309280870420500,
+		"in_reply_to_status_id_str": "1129309280870420480",
+		"in_reply_to_user_id": 879474238612058100,
+		"in_reply_to_user_id_str": "879474238612058112",
+		"in_reply_to_screen_name": "lilylivingstone",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8945,
+			"friends_count": 1952,
+			"listed_count": 476,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 26506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lilylivingstone Blimey!"
+	},
+	{
+		"created_at": "Fri May 17 10:01:10 +0000 2019",
+		"id": 1129282683501187100,
+		"id_str": "1129325979753689088",
+		"full_text": "Today is the International Day Against #Homophobia, Biphobia, Intersexism and Transphobia. A day for solidarity with victims and continuing worldwide claims for #equality &amp; #justice. Here a great poem by #Cavafy (tr. Sachperoglou): a celebration of #diversity #IDAHOBIT #inclusion https://t.co/wA2ukzsaFk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Homophobia",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"text": "equality",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "justice",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "Cavafy",
+					"indices": [
+						208,
+						215
+					]
+				},
+				{
+					"text": "diversity",
+					"indices": [
+						253,
+						263
+					]
+				},
+				{
+					"text": "IDAHOBIT",
+					"indices": [
+						264,
+						273
+					]
+				},
+				{
+					"text": "inclusion",
+					"indices": [
+						274,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129282651809112000,
+					"id_str": "1129282651809112064",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/D6wElrAX4AAG8mA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6wElrAX4AAG8mA.jpg",
+					"url": "https://t.co/wA2ukzsaFk",
+					"display_url": "pic.twitter.com/wA2ukzsaFk",
+					"expanded_url": "https://twitter.com/JohnKittmer/status/1129282683501187072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 934,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1594,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129282651809112000,
+					"id_str": "1129282651809112064",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/D6wElrAX4AAG8mA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6wElrAX4AAG8mA.jpg",
+					"url": "https://t.co/wA2ukzsaFk",
+					"display_url": "pic.twitter.com/wA2ukzsaFk",
+					"expanded_url": "https://twitter.com/JohnKittmer/status/1129282683501187072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 934,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1594,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129282651809095700,
+					"id_str": "1129282651809095680",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/D6wElrAXoAAA4yD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6wElrAXoAAA4yD.jpg",
+					"url": "https://t.co/wA2ukzsaFk",
+					"display_url": "pic.twitter.com/wA2ukzsaFk",
+					"expanded_url": "https://twitter.com/JohnKittmer/status/1129282683501187072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1864,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129282651804917800,
+					"id_str": "1129282651804917760",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/D6wElq_X4AAH05u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6wElq_X4AAH05u.jpg",
+					"url": "https://t.co/wA2ukzsaFk",
+					"display_url": "pic.twitter.com/wA2ukzsaFk",
+					"expanded_url": "https://twitter.com/JohnKittmer/status/1129282683501187072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 847892022,
+			"id_str": "847892022",
+			"name": "John Kittmer",
+			"screen_name": "JohnKittmer",
+			"location": "Tooting, London",
+			"description": "Northerner. Interests in Greece, maritime policy, social justice, ecology, gardening, poetry, Christian faith, JRTs. Chair @AngHellenLeague. Personal tweeting.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4547,
+			"friends_count": 201,
+			"listed_count": 142,
+			"created_at": "Wed Sep 26 18:34:08 +0000 2012",
+			"favourites_count": 6645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12731,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "98A5AB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114178782519283713/X1AIQWmQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114178782519283713/X1AIQWmQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/847892022/1554475900",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is the International Day Against #Homophobia, Biphobia, Intersexism and Transphobia. A day for solidarity with victims and continuing worldwide claims for #equality &amp; #justice. Here a great poem by #Cavafy (tr. Sachperoglou): a celebration of #diversity #IDAHOBIT #inclusion https://t.co/wA2ukzsaFk"
+	},
+	{
+		"created_at": "Fri May 17 09:40:18 +0000 2019",
+		"id": 1129320728711630800,
+		"id_str": "1129320728711630849",
+		"full_text": "@PCollinsTimes I like Magra https://t.co/MkSwfII6RQ",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PCollinsTimes",
+					"name": "Philip Collins",
+					"id": 544397215,
+					"id_str": "544397215",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MkSwfII6RQ",
+					"expanded_url": "https://fonts.google.com/specimen/Magra",
+					"display_url": "fonts.google.com/specimen/Magra",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1128942240951341000,
+		"in_reply_to_status_id_str": "1128942240951341056",
+		"in_reply_to_user_id": 544397215,
+		"in_reply_to_user_id_str": "544397215",
+		"in_reply_to_screen_name": "PCollinsTimes",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8945,
+			"friends_count": 1952,
+			"listed_count": 476,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 26506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@PCollinsTimes I like Magra https://t.co/MkSwfII6RQ"
+	},
+	{
 		"created_at": "Thu May 16 20:56:12 +0000 2019",
 		"id": 1129128437321470000,
 		"id_str": "1129128437321469958",
