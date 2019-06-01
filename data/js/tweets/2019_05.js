@@ -1,6 +1,1043 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 22:51:21 +0000 2019",
+		"id": 1134593236352294900,
+		"id_str": "1134593236352294912",
+		"full_text": "@harmonylion1 Interesting idea. Could we use ML directly on the texts themselves?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "harmonylion1",
+					"name": "Mike Elias",
+					"id": 1084659996,
+					"id_str": "1084659996",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1134561176879165400,
+		"in_reply_to_status_id_str": "1134561176879165440",
+		"in_reply_to_user_id": 1084659996,
+		"in_reply_to_user_id_str": "1084659996",
+		"in_reply_to_screen_name": "harmonylion1",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9052,
+			"friends_count": 1963,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@harmonylion1 Interesting idea. Could we use ML directly on the texts themselves?"
+	},
+	{
+		"created_at": "Fri May 31 19:31:17 +0000 2019",
+		"id": 1134542886379409400,
+		"id_str": "1134542886379409409",
+		"full_text": "St Michael's Mount: 'Fairytale' island needs new gardener - BBC News - https://t.co/PD1aru9B4M via @BBCWorld",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCWorld",
+					"name": "BBC News (World)",
+					"id": 742143,
+					"id_str": "742143",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PD1aru9B4M",
+					"expanded_url": "https://www.bbc.com/news/uk-england-cornwall-48464266",
+					"display_url": "bbc.com/news/uk-englan…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9052,
+			"friends_count": 1963,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "St Michael's Mount: 'Fairytale' island needs new gardener - BBC News - https://t.co/PD1aru9B4M via @BBCWorld"
+	},
+	{
+		"created_at": "Fri May 31 19:20:04 +0000 2019",
+		"id": 1134540061754765300,
+		"id_str": "1134540061754765312",
+		"full_text": "@Ljiljana1972 @lastpositivist @byzantinepower @JoWolffBSG @phl43 I feel completely at home",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ljiljana1972",
+					"name": "Pelagia",
+					"id": 823096814895239200,
+					"id_str": "823096814895239168",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "lastpositivist",
+					"name": "Liam Bright",
+					"id": 294710260,
+					"id_str": "294710260",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "byzantinepower",
+					"name": "Byzantine Ambassador",
+					"id": 252669325,
+					"id_str": "252669325",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "JoWolffBSG",
+					"name": "Jo Wolff",
+					"id": 4063246420,
+					"id_str": "4063246420",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"screen_name": "phl43",
+					"name": "Philippe Lemoine",
+					"id": 850763376263299100,
+					"id_str": "850763376263299078",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1134539649064587300,
+		"in_reply_to_status_id_str": "1134539649064587265",
+		"in_reply_to_user_id": 823096814895239200,
+		"in_reply_to_user_id_str": "823096814895239168",
+		"in_reply_to_screen_name": "Ljiljana1972",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9052,
+			"friends_count": 1963,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Ljiljana1972 @lastpositivist @byzantinepower @JoWolffBSG @phl43 I feel completely at home"
+	},
+	{
+		"created_at": "Fri May 31 19:16:46 +0000 2019",
+		"id": 1134539233341902800,
+		"id_str": "1134539233341902848",
+		"full_text": "@Ljiljana1972 @lastpositivist @byzantinepower @JoWolffBSG @phl43 https://t.co/UKQTu45PP6",
+		"truncated": false,
+		"display_text_range": [
+			64,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ljiljana1972",
+					"name": "Pelagia",
+					"id": 823096814895239200,
+					"id_str": "823096814895239168",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "lastpositivist",
+					"name": "Liam Bright",
+					"id": 294710260,
+					"id_str": "294710260",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "byzantinepower",
+					"name": "Byzantine Ambassador",
+					"id": 252669325,
+					"id_str": "252669325",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "JoWolffBSG",
+					"name": "Jo Wolff",
+					"id": 4063246420,
+					"id_str": "4063246420",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"screen_name": "phl43",
+					"name": "Philippe Lemoine",
+					"id": 850763376263299100,
+					"id_str": "850763376263299078",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134539132502515700,
+					"id_str": "1134539132502515712",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/D76xVHiXoAAOn4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D76xVHiXoAAOn4a.jpg",
+					"url": "https://t.co/UKQTu45PP6",
+					"display_url": "pic.twitter.com/UKQTu45PP6",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1134539233341902848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 1327,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134539132502515700,
+					"id_str": "1134539132502515712",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/D76xVHiXoAAOn4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D76xVHiXoAAOn4a.jpg",
+					"url": "https://t.co/UKQTu45PP6",
+					"display_url": "pic.twitter.com/UKQTu45PP6",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1134539233341902848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 1327,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1134513365215305700,
+		"in_reply_to_status_id_str": "1134513365215305729",
+		"in_reply_to_user_id": 823096814895239200,
+		"in_reply_to_user_id_str": "823096814895239168",
+		"in_reply_to_screen_name": "Ljiljana1972",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9052,
+			"friends_count": 1963,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Ljiljana1972 @lastpositivist @byzantinepower @JoWolffBSG @phl43 https://t.co/UKQTu45PP6"
+	},
+	{
+		"created_at": "Fri May 31 18:07:09 +0000 2019",
+		"id": 1134521325773500400,
+		"id_str": "1134521713490894850",
+		"full_text": "Excellent @aeonmag piece from @MelMitchell1 on the challenge of endowing computers with common sense, which is central to achieving #AGI - https://t.co/QPZgkm4daR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AGI",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aeonmag",
+					"name": "Aeon",
+					"id": 481943972,
+					"id_str": "481943972",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "MelMitchell1",
+					"name": "Melanie Mitchell",
+					"id": 367297219,
+					"id_str": "367297219",
+					"indices": [
+						30,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QPZgkm4daR",
+					"expanded_url": "https://aeon.co/ideas/how-do-you-teach-a-car-that-a-snowman-wont-walk-across-the-road",
+					"display_url": "aeon.co/ideas/how-do-y…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 355616314,
+			"id_str": "355616314",
+			"name": "Murray Shanahan",
+			"screen_name": "mpshanahan",
+			"location": "London",
+			"description": "Professor at Imperial College London and senior research scientist at DeepMind. Tweeting in a personal capacity. To send me a message please use email",
+			"url": "http://t.co/7Md7v3crhz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7Md7v3crhz",
+							"expanded_url": "http://www.doc.ic.ac.uk/~mpsha/",
+							"display_url": "doc.ic.ac.uk/~mpsha/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8370,
+			"friends_count": 179,
+			"listed_count": 434,
+			"created_at": "Mon Aug 15 16:46:02 +0000 2011",
+			"favourites_count": 449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000014943515/2c69a68b2f982abbd217276f626c1254_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000014943515/2c69a68b2f982abbd217276f626c1254_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excellent @aeonmag piece from @MelMitchell1 on the challenge of endowing computers with common sense, which is central to achieving #AGI - https://t.co/QPZgkm4daR"
+	},
+	{
+		"created_at": "Fri May 31 15:27:46 +0000 2019",
+		"id": 1134481601423953900,
+		"id_str": "1134481601423953920",
+		"full_text": "I wish Time Team would come back. I liked Time Team.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9052,
+			"friends_count": 1963,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I wish Time Team would come back. I liked Time Team."
+	},
+	{
+		"created_at": "Fri May 31 15:12:01 +0000 2019",
+		"id": 1134458627266363400,
+		"id_str": "1134477637852774400",
+		"full_text": "The EU vote has shaken up politics in #Greece and general elections are due on July 7.\rOur analysis this week has looked at:\r1. How New Democracy won https://t.co/Kq96Tv9ieU\r2. Why SYRIZA lost https://t.co/zCuRZCtd2O\r3. What conclusions we can/can't draw https://t.co/opxyOgBUg1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Greece",
+					"indices": [
+						38,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kq96Tv9ieU",
+					"expanded_url": "https://shar.es/a05DLU",
+					"display_url": "shar.es/a05DLU",
+					"indices": [
+						150,
+						173
+					]
+				},
+				{
+					"url": "https://t.co/zCuRZCtd2O",
+					"expanded_url": "https://shar.es/a05O1Q",
+					"display_url": "shar.es/a05O1Q",
+					"indices": [
+						193,
+						216
+					]
+				},
+				{
+					"url": "https://t.co/opxyOgBUg1",
+					"expanded_url": "https://shar.es/a05OmZ",
+					"display_url": "shar.es/a05OmZ",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1856512344,
+			"id_str": "1856512344",
+			"name": "MacroPolis",
+			"screen_name": "MacroPolis_gr",
+			"location": "Athens, Greece",
+			"description": "MacroPolis is a subscription-based service providing analysis and data on the political, economic and social situation in Greece. We put Greece in perspective.",
+			"url": "http://t.co/pOqceMZsEA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pOqceMZsEA",
+							"expanded_url": "http://www.macropolis.gr",
+							"display_url": "macropolis.gr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11278,
+			"friends_count": 54,
+			"listed_count": 752,
+			"created_at": "Thu Sep 12 06:57:55 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/517174047763755008/uKslzphw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/517174047763755008/uKslzphw_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1856512344/1412158996",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The EU vote has shaken up politics in #Greece and general elections are due on July 7.\rOur analysis this week has looked at:\r1. How New Democracy won https://t.co/Kq96Tv9ieU\r2. Why SYRIZA lost https://t.co/zCuRZCtd2O\r3. What conclusions we can/can't draw https://t.co/opxyOgBUg1"
+	},
+	{
+		"created_at": "Fri May 31 15:06:05 +0000 2019",
+		"id": 1132929481558114300,
+		"id_str": "1134476148430319617",
+		"full_text": "To be fair, if Jeremy's long game is to seize the apparatus of the party, hollow it out of moderate members while retaining, for the hard left, an historic high level of support of around 15% in order to advance the eternal Trotskyite struggle, then he's doing REALLY well.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4277462056,
+			"id_str": "4277462056",
+			"name": "Maomentum",
+			"screen_name": "Maomentum_",
+			"location": "North London",
+			"description": "The first steps on the long march to victory",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15739,
+			"friends_count": 1183,
+			"listed_count": 106,
+			"created_at": "Wed Nov 25 19:09:09 +0000 2015",
+			"favourites_count": 12347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669595393995460608/Fw9KUrSB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669595393995460608/Fw9KUrSB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4277462056/1448480440",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 676,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To be fair, if Jeremy's long game is to seize the apparatus of the party, hollow it out of moderate members while retaining, for the hard left, an historic high level of support of around 15% in order to advance the eternal Trotskyite struggle, then he's doing REALLY well."
+	},
+	{
 		"created_at": "Fri May 31 00:48:18 +0000 2019",
 		"id": 1099390725689466900,
 		"id_str": "1134260276583440384",
