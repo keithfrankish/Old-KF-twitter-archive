@@ -1,6 +1,1126 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 21:01:03 +0000 2019",
+		"id": 1137102192068976600,
+		"id_str": "1137102192068976640",
+		"full_text": "I really enjoyed this conversation with Aaron, and I hope listeners will enjoy it too. https://t.co/Dov2LEcfQv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dov2LEcfQv",
+					"expanded_url": "https://twitter.com/ETVPod/status/1137099895389732865",
+					"display_url": "twitter.com/ETVPod/status/…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9131,
+			"friends_count": 1933,
+			"listed_count": 476,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1137099895389732900,
+		"quoted_status_id_str": "1137099895389732865",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Dov2LEcfQv",
+			"expanded": "https://twitter.com/ETVPod/status/1137099895389732865",
+			"display": "twitter.com/ETVPod/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 07 20:51:56 +0000 2019",
+			"id": 1137099895389732900,
+			"id_str": "1137099895389732865",
+			"full_text": "ETV92 is out for everyone! Got a two part discussion with @keithfrankish who has been so generous with his time as I've worked through his papers on Illusionism. We have a really fun time discussing a wide range of questions on the nature of the mind.   https://t.co/QNMCzM2UKD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "keithfrankish",
+						"name": "Keith Frankish",
+						"id": 52522040,
+						"id_str": "52522040",
+						"indices": [
+							58,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QNMCzM2UKD",
+						"expanded_url": "https://voidpod.com/podcasts/2019/6/7/djkbx7p03kiseejr5ex419y8q536y8",
+						"display_url": "voidpod.com/podcasts/2019/…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 839318427009417200,
+				"id_str": "839318427009417217",
+				"name": "Embrace the Void Pod",
+				"screen_name": "ETVPod",
+				"location": "The Void",
+				"description": "A podcast for surviving the darkest of all timelines. Philosophy, cursing, and lots of void crabs. Subscribe, enjoy, and support: https://t.co/DrMVe9KWWT",
+				"url": "https://t.co/a5gNlfSRCb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a5gNlfSRCb",
+								"expanded_url": "https://voidpod.com/",
+								"display_url": "voidpod.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/DrMVe9KWWT",
+								"expanded_url": "http://patreon.com/EmbraceTheVoid",
+								"display_url": "patreon.com/EmbraceTheVoid",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1495,
+				"friends_count": 1157,
+				"listed_count": 16,
+				"created_at": "Wed Mar 08 03:34:41 +0000 2017",
+				"favourites_count": 20011,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27542,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899965149133520896/l-AKvI2q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899965149133520896/l-AKvI2q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/839318427009417217/1489089280",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I really enjoyed this conversation with Aaron, and I hope listeners will enjoy it too. https://t.co/Dov2LEcfQv"
+	},
+	{
+		"created_at": "Fri Jun 07 19:27:34 +0000 2019",
+		"id": 1137078665253204000,
+		"id_str": "1137078665253203969",
+		"full_text": "@neuropoetic @lastpositivist I might give it a shot -- though probably not for a week or two, as I've a backlog of work. Thanks for the encouragement; I'll get back to you if/when I decide to do it.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neuropoetic",
+					"name": "Your Personal Neurocrackpot",
+					"id": 1099709890803716100,
+					"id_str": "1099709890803716096",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "lastpositivist",
+					"name": "Liam Bright",
+					"id": 294710260,
+					"id_str": "294710260",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1137075747179368400,
+		"in_reply_to_status_id_str": "1137075747179368452",
+		"in_reply_to_user_id": 1099709890803716100,
+		"in_reply_to_user_id_str": "1099709890803716096",
+		"in_reply_to_screen_name": "neuropoetic",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9131,
+			"friends_count": 1933,
+			"listed_count": 476,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@neuropoetic @lastpositivist I might give it a shot -- though probably not for a week or two, as I've a backlog of work. Thanks for the encouragement; I'll get back to you if/when I decide to do it."
+	},
+	{
+		"created_at": "Fri Jun 07 19:07:15 +0000 2019",
+		"id": 1137073553503920100,
+		"id_str": "1137073553503920130",
+		"full_text": "@neuropoetic @lastpositivist Thanks for the information. It could be interesting. I did try Reddit once and found it stimulating if a bit aggressive. But I'm not sure there'd be sufficient interest in me and my views for an AMA. (Not fishing for compliments there!)",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neuropoetic",
+					"name": "Your Personal Neurocrackpot",
+					"id": 1099709890803716100,
+					"id_str": "1099709890803716096",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "lastpositivist",
+					"name": "Liam Bright",
+					"id": 294710260,
+					"id_str": "294710260",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1137069220926242800,
+		"in_reply_to_status_id_str": "1137069220926242816",
+		"in_reply_to_user_id": 1099709890803716100,
+		"in_reply_to_user_id_str": "1099709890803716096",
+		"in_reply_to_screen_name": "neuropoetic",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9131,
+			"friends_count": 1933,
+			"listed_count": 476,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@neuropoetic @lastpositivist Thanks for the information. It could be interesting. I did try Reddit once and found it stimulating if a bit aggressive. But I'm not sure there'd be sufficient interest in me and my views for an AMA. (Not fishing for compliments there!)"
+	},
+	{
+		"created_at": "Fri Jun 07 18:49:23 +0000 2019",
+		"id": 1137069056585084900,
+		"id_str": "1137069056585084928",
+		"full_text": "The Malaysian delicacy that like \"eating sweet raspberry blancmange in the lavatory\". - https://t.co/saP5EluDWU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/saP5EluDWU",
+					"expanded_url": "https://en.wikipedia.org/wiki/Durian",
+					"display_url": "en.wikipedia.org/wiki/Durian",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9131,
+			"friends_count": 1933,
+			"listed_count": 476,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Malaysian delicacy that like \"eating sweet raspberry blancmange in the lavatory\". - https://t.co/saP5EluDWU"
+	},
+	{
+		"created_at": "Fri Jun 07 18:28:43 +0000 2019",
+		"id": 1137063857212592100,
+		"id_str": "1137063857212592128",
+		"full_text": "@neuropoetic @lastpositivist Is that a sort of open-ended Q&amp;A? It might be fun.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neuropoetic",
+					"name": "Your Personal Neurocrackpot",
+					"id": 1099709890803716100,
+					"id_str": "1099709890803716096",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "lastpositivist",
+					"name": "Liam Bright",
+					"id": 294710260,
+					"id_str": "294710260",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1137057108325752800,
+		"in_reply_to_status_id_str": "1137057108325752834",
+		"in_reply_to_user_id": 1099709890803716100,
+		"in_reply_to_user_id_str": "1099709890803716096",
+		"in_reply_to_screen_name": "neuropoetic",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9131,
+			"friends_count": 1933,
+			"listed_count": 476,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@neuropoetic @lastpositivist Is that a sort of open-ended Q&amp;A? It might be fun."
+	},
+	{
+		"created_at": "Fri Jun 07 18:27:07 +0000 2019",
+		"id": 1137063453364052000,
+		"id_str": "1137063453364051968",
+		"full_text": "I like my name, though it dates me. I was named for this formidable chap https://t.co/spf1BA94Re https://t.co/yBId48xk9Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/spf1BA94Re",
+					"expanded_url": "https://www.youtube.com/watch?v=RcSbHbezMOs",
+					"display_url": "youtube.com/watch?v=RcSbHb…",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/yBId48xk9Y",
+					"expanded_url": "https://twitter.com/Katherine_McDon/status/1136980534482149377",
+					"display_url": "twitter.com/Katherine_McDo…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9131,
+			"friends_count": 1933,
+			"listed_count": 476,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1136980534482149400,
+		"quoted_status_id_str": "1136980534482149377",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yBId48xk9Y",
+			"expanded": "https://twitter.com/Katherine_McDon/status/1136980534482149377",
+			"display": "twitter.com/Katherine_McDo…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 07 12:57:38 +0000 2019",
+			"id": 1136980534482149400,
+			"id_str": "1136980534482149377",
+			"full_text": "Do you like your name? What do you like about it? \n\n(We'll be naming a new human soon, and the responsibility of this has made me very interested in everyone else's name-related experiences.)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 475127506,
+				"id_str": "475127506",
+				"name": "Katherine McDonald",
+				"screen_name": "Katherine_McDon",
+				"location": "Exeter/Cambridge",
+				"description": "Lecturer in Classics & Ancient History. Inscriptions, bilingualism, sociolinguistics, higher ed; @ExeterClassics, @GreekInItaly & @womeninclassics. She/her.",
+				"url": "https://t.co/OlXLfOauLW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OlXLfOauLW",
+								"expanded_url": "http://katherinemcdonald.net",
+								"display_url": "katherinemcdonald.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4865,
+				"friends_count": 2570,
+				"listed_count": 144,
+				"created_at": "Thu Jan 26 18:26:59 +0000 2012",
+				"favourites_count": 7288,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13657,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001915661696819202/RllNXbSi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001915661696819202/RllNXbSi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/475127506/1525267250",
+				"profile_link_color": "8A084B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 229,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I like my name, though it dates me. I was named for this formidable chap https://t.co/spf1BA94Re https://t.co/yBId48xk9Y"
+	},
+	{
+		"created_at": "Fri Jun 07 17:58:40 +0000 2019",
+		"id": 1137056293569646600,
+		"id_str": "1137056293569646592",
+		"full_text": "I'm trending on Reddit, apparently. -&gt; Great philosophy isn't by its nature obscure. Actually, obscurity is a defect, not a virtue. : philosophy - https://t.co/Dkgy5lc1zY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dkgy5lc1zY",
+					"expanded_url": "https://www.reddit.com/r/philosophy/comments/bxm0k0/great_philosophy_isnt_by_its_nature_obscure/",
+					"display_url": "reddit.com/r/philosophy/c…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9131,
+			"friends_count": 1933,
+			"listed_count": 476,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm trending on Reddit, apparently. -&gt; Great philosophy isn't by its nature obscure. Actually, obscurity is a defect, not a virtue. : philosophy - https://t.co/Dkgy5lc1zY"
+	},
+	{
+		"created_at": "Fri Jun 07 13:37:04 +0000 2019",
+		"id": 1136807824791674900,
+		"id_str": "1136990459937599488",
+		"full_text": "The Brexit Party doesn't need to be electorally dominant to succeed- they just need to exist. The fact the Tory party is in such apoplexy at the moment shows that. As long as they exist and continue to poll well, the Tory Party will be committed to a hard Brexit.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1136806902283870200,
+		"in_reply_to_status_id_str": "1136806902283870210",
+		"in_reply_to_user_id": 335312037,
+		"in_reply_to_user_id_str": "335312037",
+		"in_reply_to_screen_name": "lewis_goodall",
+		"user": {
+			"id": 335312037,
+			"id_str": "335312037",
+			"name": "Lewis Goodall",
+			"screen_name": "lewis_goodall",
+			"location": "Lewis.goodall@sky.uk",
+			"description": "Political Correspondent @SkyNews | Author: Left for Dead. Buy here- https://t.co/DEPhrgKNxI | Part time activity: Boxer. Full time aspiration: Time Lord.",
+			"url": "https://t.co/dsBwu4neJN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dsBwu4neJN",
+							"expanded_url": "http://www.instagram.com/lewis_goodall1",
+							"display_url": "instagram.com/lewis_goodall1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEPhrgKNxI",
+							"expanded_url": "https://bit.ly/2KEYHSk",
+							"display_url": "bit.ly/2KEYHSk",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 49319,
+			"friends_count": 3595,
+			"listed_count": 746,
+			"created_at": "Thu Jul 14 13:56:30 +0000 2011",
+			"favourites_count": 6159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117845974335016960/wjWpW82J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117845974335016960/wjWpW82J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335312037/1537435517",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The Brexit Party doesn't need to be electorally dominant to succeed- they just need to exist. The fact the Tory party is in such apoplexy at the moment shows that. As long as they exist and continue to poll well, the Tory Party will be committed to a hard Brexit."
+	},
+	{
 		"created_at": "Fri Jun 07 00:18:23 +0000 2019",
 		"id": 1136789466025287700,
 		"id_str": "1136789466025287680",
