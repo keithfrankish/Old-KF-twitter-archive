@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 16:09:03 +0000 2019",
+		"id": 1137370212838379500,
+		"id_str": "1137391096835784704",
+		"full_text": "My new default \"tool use in animals\" clip. #htecb https://t.co/pDTaPDkys5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "htecb",
+					"indices": [
+						43,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pDTaPDkys5",
+					"expanded_url": "https://twitter.com/NatureisScary/status/1136816830276886528",
+					"display_url": "twitter.com/NatureisScary/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18111180,
+			"id_str": "18111180",
+			"name": "eripsa",
+			"screen_name": "eripsa",
+			"location": "internet",
+			"description": "robot. made of robots. #botALLY 🤖🐜 \nafk: Daniel Estrada, Lecturer @NJIT",
+			"url": "https://t.co/a44RFZaVUP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a44RFZaVUP",
+							"expanded_url": "https://www.facebook.com/robotrightsnow",
+							"display_url": "facebook.com/robotrightsnow",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1683,
+			"friends_count": 4922,
+			"listed_count": 60,
+			"created_at": "Sun Dec 14 04:14:34 +0000 2008",
+			"favourites_count": 13906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615850415972679680/zeVerOYq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615850415972679680/zeVerOYq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18111180/1496001050",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1136816830276886500,
+		"quoted_status_id_str": "1136816830276886528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pDTaPDkys5",
+			"expanded": "https://twitter.com/NatureisScary/status/1136816830276886528",
+			"display": "twitter.com/NatureisScary/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 07 02:07:08 +0000 2019",
+			"id": 1136816830276886500,
+			"id_str": "1136816830276886528",
+			"full_text": "Seal slaps a kayaker in the face with an octopus https://t.co/F3x1fgnRE2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1136816799176171500,
+						"id_str": "1136816799176171521",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136816799176171521/pu/img/dgR-DKPEB4xFbe7j.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136816799176171521/pu/img/dgR-DKPEB4xFbe7j.jpg",
+						"url": "https://t.co/F3x1fgnRE2",
+						"display_url": "pic.twitter.com/F3x1fgnRE2",
+						"expanded_url": "https://twitter.com/NatureisScary/status/1136816830276886528/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1136816799176171500,
+						"id_str": "1136816799176171521",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136816799176171521/pu/img/dgR-DKPEB4xFbe7j.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136816799176171521/pu/img/dgR-DKPEB4xFbe7j.jpg",
+						"url": "https://t.co/F3x1fgnRE2",
+						"display_url": "pic.twitter.com/F3x1fgnRE2",
+						"expanded_url": "https://twitter.com/NatureisScary/status/1136816830276886528/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 5900,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1136816799176171521/pu/vid/960x540/bbwE9Lgd9ssgLzpr.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1136816799176171521/pu/vid/480x270/FHrY4PfDYEd0z834.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1136816799176171521/pu/pl/5JHNsDUIvvb7t2W0.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1136816799176171521/pu/vid/640x360/HOIq7JAG3btHzl4l.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2458781599,
+				"id_str": "2458781599",
+				"name": "Nature is Scary",
+				"screen_name": "NatureisScary",
+				"location": "",
+				"description": "WARNING: Contains graphic content involving wild animals killing, eating, and fighting for dominance.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 241936,
+				"friends_count": 0,
+				"listed_count": 945,
+				"created_at": "Tue Apr 22 22:19:49 +0000 2014",
+				"favourites_count": 151,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 948,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/774789870673731584/f0pfhpvR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/774789870673731584/f0pfhpvR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2458781599/1473558264",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1271,
+			"favorite_count": 5326,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My new default \"tool use in animals\" clip. #htecb https://t.co/pDTaPDkys5"
+	},
+	{
 		"created_at": "Fri Jun 07 21:01:03 +0000 2019",
 		"id": 1137102192068976600,
 		"id_str": "1137102192068976640",
