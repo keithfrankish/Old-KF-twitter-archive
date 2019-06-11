@@ -1,6 +1,1068 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 00:12:16 +0000 2019",
+		"id": 1138237477351768000,
+		"id_str": "1138237477351768064",
+		"full_text": "Dickens was a genius and an astonishingly acute observational psychologist. https://t.co/LduAaAGmsd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LduAaAGmsd",
+					"expanded_url": "https://twitter.com/oldbutsentient/status/1138127891198369792",
+					"display_url": "twitter.com/oldbutsentient…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9136,
+			"friends_count": 1934,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138127891198369800,
+		"quoted_status_id_str": "1138127891198369792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LduAaAGmsd",
+			"expanded": "https://twitter.com/oldbutsentient/status/1138127891198369792",
+			"display": "twitter.com/oldbutsentient…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 10 16:56:49 +0000 2019",
+			"id": 1138127891198369800,
+			"id_str": "1138127891198369792",
+			"full_text": "@cliodiaspora Some of these people may have heard of Charles Dickens. Some may even regard him as a great Briton. This is what he wrote about the British approach to foreigners in 'Little Dorrit.' These attitudes were as common as sparrows when I was growing up (some years after Dorrit). https://t.co/LV3fMaPGwb",
+			"truncated": false,
+			"display_text_range": [
+				14,
+				288
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cliodiaspora",
+						"name": "Prof Tanja Bueltmann 🇪🇺🏳️‍🌈",
+						"id": 554648712,
+						"id_str": "554648712",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1138126495266869200,
+						"id_str": "1138126495266869248",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/D8twBHPXkAA5lRt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8twBHPXkAA5lRt.jpg",
+						"url": "https://t.co/LV3fMaPGwb",
+						"display_url": "pic.twitter.com/LV3fMaPGwb",
+						"expanded_url": "https://twitter.com/oldbutsentient/status/1138127891198369792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1382,
+								"h": 2036,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 815,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1138126495266869200,
+						"id_str": "1138126495266869248",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/D8twBHPXkAA5lRt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8twBHPXkAA5lRt.jpg",
+						"url": "https://t.co/LV3fMaPGwb",
+						"display_url": "pic.twitter.com/LV3fMaPGwb",
+						"expanded_url": "https://twitter.com/oldbutsentient/status/1138127891198369792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1382,
+								"h": 2036,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 815,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1138084229777121300,
+			"in_reply_to_status_id_str": "1138084229777121280",
+			"in_reply_to_user_id": 554648712,
+			"in_reply_to_user_id_str": "554648712",
+			"in_reply_to_screen_name": "cliodiaspora",
+			"user": {
+				"id": 1072248823,
+				"id_str": "1072248823",
+				"name": "Neil Clements",
+				"screen_name": "oldbutsentient",
+				"location": "Qwerty-on-Sea",
+				"description": "Increasingly incredulous former print #journalist (36yrs) #facepalmfatigue sufferer since 2016. Apologetic boomer. Valet to three senior #dogs. #FBPE (saboteur)",
+				"url": "https://t.co/WoDMoNr0z2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WoDMoNr0z2",
+								"expanded_url": "https://myhonestlyheldopinions.biz",
+								"display_url": "myhonestlyheldopinions.biz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1642,
+				"friends_count": 3211,
+				"listed_count": 27,
+				"created_at": "Tue Jan 08 22:58:45 +0000 2013",
+				"favourites_count": 13385,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17815,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "303E59",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083835740306460672/w95PGxbP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083835740306460672/w95PGxbP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1072248823/1499265691",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FAFAFA",
+				"profile_text_color": "8F2E2E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dickens was a genius and an astonishingly acute observational psychologist. https://t.co/LduAaAGmsd"
+	},
+	{
+		"created_at": "Mon Jun 10 22:06:29 +0000 2019",
+		"id": 1138153299377643500,
+		"id_str": "1138205821958049797",
+		"full_text": "Terribly terribly moving - and I mean all the senses of 'terribly' there. This is an integral part of being black in America today. https://t.co/ULMfWmtD6F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ULMfWmtD6F",
+					"expanded_url": "https://twitter.com/DrRJKavanagh/status/1137859720776171523",
+					"display_url": "twitter.com/DrRJKavanagh/s…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112659749785473000,
+			"id_str": "1112659749785473024",
+			"name": "Prof David Owen",
+			"screen_name": "OwenWintersgill",
+			"location": "Winchester, England",
+			"description": "Eclectic philosopher, mediocre poet, fortunate man. THFC. Works on political ethics of migration - and, on other days, 19th and 20th Century German philosophy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 687,
+			"friends_count": 1213,
+			"listed_count": 9,
+			"created_at": "Mon Apr 01 10:15:31 +0000 2019",
+			"favourites_count": 3990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112660095723290624/cFpLkAWo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112660095723290624/cFpLkAWo_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1137859720776171500,
+		"quoted_status_id_str": "1137859720776171523",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ULMfWmtD6F",
+			"expanded": "https://twitter.com/DrRJKavanagh/status/1137859720776171523",
+			"display": "twitter.com/DrRJKavanagh/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 09 23:11:12 +0000 2019",
+			"id": 1137859720776171500,
+			"id_str": "1137859720776171523",
+			"full_text": "Cops with guns drawn surrounded an unarmed Black man, William, who was kneeling on the ground with his hands in the air, in California this AM.\n\nIt’s filmed by a young woman, Skye, who I think literally saves his life. Listening to her is gut-wrenching.\nhttps://t.co/JKv8khF1Fd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1137693646562574300,
+						"id_str": "1137693646562574336",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137693646562574336/pu/img/iGwVBSwpeU9aJQNb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137693646562574336/pu/img/iGwVBSwpeU9aJQNb.jpg",
+						"url": "https://t.co/JKv8khF1Fd",
+						"display_url": "pic.twitter.com/JKv8khF1Fd",
+						"expanded_url": "https://twitter.com/KenidraRWoods_/status/1137693933742501888/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1137693933742501900,
+						"source_status_id_str": "1137693933742501888",
+						"source_user_id": 4733728937,
+						"source_user_id_str": "4733728937"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1137693646562574300,
+						"id_str": "1137693646562574336",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137693646562574336/pu/img/iGwVBSwpeU9aJQNb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137693646562574336/pu/img/iGwVBSwpeU9aJQNb.jpg",
+						"url": "https://t.co/JKv8khF1Fd",
+						"display_url": "pic.twitter.com/JKv8khF1Fd",
+						"expanded_url": "https://twitter.com/KenidraRWoods_/status/1137693933742501888/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1137693933742501900,
+						"source_status_id_str": "1137693933742501888",
+						"source_user_id": 4733728937,
+						"source_user_id_str": "4733728937",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 138238,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1137693646562574336/pu/vid/320x568/jUSY0hnYSJyfN0hr.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1137693646562574336/pu/vid/720x1280/CUZURFnI3OK2_Ex0.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1137693646562574336/pu/pl/lORyO7qoYI-hNib7.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1137693646562574336/pu/vid/360x640/5iEQe6vOj5uX9TbU.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 4733728937,
+								"id_str": "4733728937",
+								"name": "Kenidra4Humanity",
+								"screen_name": "KenidraRWoods_",
+								"location": "St Louis, MO",
+								"description": "mental health advocate, activist, & author.✨| Founder of CHEETAH Movement | @giffordscourage alumni ✨#BeKind",
+								"url": "https://t.co/b9LZ2gzyMm",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/b9LZ2gzyMm",
+												"expanded_url": "http://cheetahmovement.org",
+												"display_url": "cheetahmovement.org",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 38744,
+								"friends_count": 1016,
+								"listed_count": 200,
+								"created_at": "Thu Jan 07 10:42:35 +0000 2016",
+								"favourites_count": 42472,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 7652,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1119725841074802691/4h8vnp5d_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119725841074802691/4h8vnp5d_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/4733728937/1559202079",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1607352380,
+				"id_str": "1607352380",
+				"name": "Rebecca J. Kavanagh",
+				"screen_name": "DrRJKavanagh",
+				"location": "Brooklyn, New York",
+				"description": "New York City Public Defender, @theappeal Media Relations Director, Writer, @nyulaw, @sydneylawschool, @sydney_uni. Views my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40081,
+				"friends_count": 2593,
+				"listed_count": 284,
+				"created_at": "Sat Jul 20 03:42:03 +0000 2013",
+				"favourites_count": 24760,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13099,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1109350994813640704/cZ_LbJNr_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109350994813640704/cZ_LbJNr_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1607352380/1551967269",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17855,
+			"favorite_count": 35308,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Terribly terribly moving - and I mean all the senses of 'terribly' there. This is an integral part of being black in America today. https://t.co/ULMfWmtD6F"
+	},
+	{
+		"created_at": "Mon Jun 10 21:51:16 +0000 2019",
+		"id": 1138184376989208600,
+		"id_str": "1138201994802401286",
+		"full_text": "Horrifying: \"Iranian lawyer who defended women's right to remove hijab gets 38 years, 148 lashes\" https://t.co/jcuTeg8HRt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jcuTeg8HRt",
+					"expanded_url": "https://womenintheworld.com/2019/03/11/iranian-lawyer-who-defended-womens-right-to-remove-hijab-gets-38-years-148-lashes/",
+					"display_url": "womenintheworld.com/2019/03/11/ira…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739215278,
+			"id_str": "739215278",
+			"name": "David Spurrett",
+			"screen_name": "DoctorSpurt",
+			"location": "Nambia",
+			"description": "Philosopher, interested in evolution of decision-making. (Currently serving time as a Dean.)",
+			"url": "https://t.co/UmiMfgAhpD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmiMfgAhpD",
+							"expanded_url": "https://philpeople.org/profiles/david-spurrett",
+							"display_url": "philpeople.org/profiles/david…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1462,
+			"friends_count": 2704,
+			"listed_count": 36,
+			"created_at": "Sun Aug 05 20:49:26 +0000 2012",
+			"favourites_count": 36060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085261414875439105/ttzkQYz__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085261414875439105/ttzkQYz__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739215278/1547581553",
+			"profile_link_color": "3E5F6B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Horrifying: \"Iranian lawyer who defended women's right to remove hijab gets 38 years, 148 lashes\" https://t.co/jcuTeg8HRt"
+	},
+	{
+		"created_at": "Mon Jun 10 13:22:21 +0000 2019",
+		"id": 1138073919670431700,
+		"id_str": "1138073919670431745",
+		"full_text": "@BadSocialism @jamiembrixton Perfect!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BadSocialism",
+					"name": "John Concagh",
+					"id": 1736681520,
+					"id_str": "1736681520",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "jamiembrixton",
+					"name": "Jamie Muir",
+					"id": 590013162,
+					"id_str": "590013162",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1138007606256123900,
+		"in_reply_to_status_id_str": "1138007606256123904",
+		"in_reply_to_user_id": 1736681520,
+		"in_reply_to_user_id_str": "1736681520",
+		"in_reply_to_screen_name": "BadSocialism",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9136,
+			"friends_count": 1934,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 27330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BadSocialism @jamiembrixton Perfect!"
+	},
+	{
+		"created_at": "Mon Jun 10 12:32:03 +0000 2019",
+		"id": 1137741151736410100,
+		"id_str": "1138061262758322178",
+		"full_text": "Map shows Europe in 1500. Source: https://t.co/16Uzos0MtG https://t.co/Lq1XCz3eOE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/16Uzos0MtG",
+					"expanded_url": "https://buff.ly/2ZarmXa",
+					"display_url": "buff.ly/2ZarmXa",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1137741149248950300,
+					"id_str": "1137741149248950272",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/D8oRjBdUEAANXd5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8oRjBdUEAANXd5.jpg",
+					"url": "https://t.co/Lq1XCz3eOE",
+					"display_url": "pic.twitter.com/Lq1XCz3eOE",
+					"expanded_url": "https://twitter.com/simongerman600/status/1137741151736410116/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 528,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 746,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 746,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137741149248950300,
+					"id_str": "1137741149248950272",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/D8oRjBdUEAANXd5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8oRjBdUEAANXd5.jpg",
+					"url": "https://t.co/Lq1XCz3eOE",
+					"display_url": "pic.twitter.com/Lq1XCz3eOE",
+					"expanded_url": "https://twitter.com/simongerman600/status/1137741151736410116/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 528,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 746,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 746,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359188534,
+			"id_str": "359188534",
+			"name": "Simon Kuestenmacher",
+			"screen_name": "simongerman600",
+			"location": "Melbourne, Victoria",
+			"description": "German #geographer and #demographer in #Melbourne. I love and share #maps and #data that explain how the #world works.",
+			"url": "https://t.co/Y6CYASFSon",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6CYASFSon",
+							"expanded_url": "http://SimonK.com.au",
+							"display_url": "SimonK.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153397,
+			"friends_count": 154805,
+			"listed_count": 2100,
+			"created_at": "Sun Aug 21 04:53:55 +0000 2011",
+			"favourites_count": 43660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109070642798718977/3dhmTNGC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109070642798718977/3dhmTNGC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359188534/1553338896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 347,
+		"favorite_count": 949,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Map shows Europe in 1500. Source: https://t.co/16Uzos0MtG https://t.co/Lq1XCz3eOE"
+	},
+	{
 		"created_at": "Sun Jun 09 22:40:16 +0000 2019",
 		"id": 1137851934814232600,
 		"id_str": "1137851934814232576",
