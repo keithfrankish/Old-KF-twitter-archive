@@ -1,6 +1,1136 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 19 23:43:24 +0000 2019",
+		"id": 1150471716897984500,
+		"id_str": "1152363337151385600",
+		"full_text": "The prehistory of the Greek Language ca. 2500-1500 BC [own work], according to the most prominent IE theory. Greek is related with the Indo-Iranian &amp; the Balkanic IE branches and not with the neighboring Italo-Celtic &amp; Anatolian. Also affected by the pre-IE substratum &amp; Hittite. https://t.co/V4YSKRgkhn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150471533078466600,
+					"id_str": "1150471533078466560",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/D_dLw41XUAA4Wml.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_dLw41XUAA4Wml.jpg",
+					"url": "https://t.co/V4YSKRgkhn",
+					"display_url": "pic.twitter.com/V4YSKRgkhn",
+					"expanded_url": "https://twitter.com/ArcGreek/status/1150471716897984517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1135,
+							"h": 633,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1135,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150471533078466600,
+					"id_str": "1150471533078466560",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/D_dLw41XUAA4Wml.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_dLw41XUAA4Wml.jpg",
+					"url": "https://t.co/V4YSKRgkhn",
+					"display_url": "pic.twitter.com/V4YSKRgkhn",
+					"expanded_url": "https://twitter.com/ArcGreek/status/1150471716897984517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1135,
+							"h": 633,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1135,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 951132894013149200,
+			"id_str": "951132894013149185",
+			"name": "Wedaneus",
+			"screen_name": "ArcGreek",
+			"location": "Ελλάς",
+			"description": "Lāwāgetās of wánax Enkhelyawon of Pylos in 1300 BC.",
+			"url": "https://t.co/wyoipZfey1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wyoipZfey1",
+							"expanded_url": "https://wedaneus.home.blog/",
+							"display_url": "wedaneus.home.blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3764,
+			"friends_count": 159,
+			"listed_count": 48,
+			"created_at": "Wed Jan 10 16:45:27 +0000 2018",
+			"favourites_count": 3833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954665486633127936/XZwLDSZu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954665486633127936/XZwLDSZu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/951132894013149185/1515604916",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The prehistory of the Greek Language ca. 2500-1500 BC [own work], according to the most prominent IE theory. Greek is related with the Indo-Iranian &amp; the Balkanic IE branches and not with the neighboring Italo-Celtic &amp; Anatolian. Also affected by the pre-IE substratum &amp; Hittite. https://t.co/V4YSKRgkhn"
+	},
+	{
+		"created_at": "Fri Jul 19 23:27:55 +0000 2019",
+		"id": 1152359440898756600,
+		"id_str": "1152359440898756608",
+		"full_text": "Discover the Peloponnese, the heart of ancient Greek culture - https://t.co/MbS5OMP8z4 via @NatGeoTravel   #philhel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "philhel",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NatGeoTravel",
+					"name": "Nat Geo Travel",
+					"id": 36184220,
+					"id_str": "36184220",
+					"indices": [
+						91,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MbS5OMP8z4",
+					"expanded_url": "https://www.nationalgeographic.com/travel/destinations/europe/greece/peloponnese-see-ancient-greek-culture/",
+					"display_url": "nationalgeographic.com/travel/destina…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9416,
+			"friends_count": 1942,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Discover the Peloponnese, the heart of ancient Greek culture - https://t.co/MbS5OMP8z4 via @NatGeoTravel   #philhel"
+	},
+	{
+		"created_at": "Fri Jul 19 23:26:04 +0000 2019",
+		"id": 1152356846356713500,
+		"id_str": "1152358974949380097",
+		"full_text": "@keithfrankish are you aware of research in the area of philosophy &amp; economics? Reading Locke, Aristotle, Hegel, &amp; Marx, but anyone contemporary working in this area?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 717146581619748900,
+			"id_str": "717146581619748867",
+			"name": "Hawa Arya-Armstrong",
+			"screen_name": "cogito_kids",
+			"location": "Sydney, New South Wales",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352,
+			"friends_count": 340,
+			"listed_count": 7,
+			"created_at": "Tue Apr 05 00:27:23 +0000 2016",
+			"favourites_count": 2280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097299675617538048/a8Cb2R0j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097299675617538048/a8Cb2R0j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/717146581619748867/1461191538",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@keithfrankish are you aware of research in the area of philosophy &amp; economics? Reading Locke, Aristotle, Hegel, &amp; Marx, but anyone contemporary working in this area?"
+	},
+	{
+		"created_at": "Fri Jul 19 23:25:53 +0000 2019",
+		"id": 1152358931727036400,
+		"id_str": "1152358931727036416",
+		"full_text": "@cogito_kids Not my area, I'm afraid, but I'll RT.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cogito_kids",
+					"name": "Hawa Arya-Armstrong",
+					"id": 717146581619748900,
+					"id_str": "717146581619748867",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1152356846356713500,
+		"in_reply_to_status_id_str": "1152356846356713472",
+		"in_reply_to_user_id": 717146581619748900,
+		"in_reply_to_user_id_str": "717146581619748867",
+		"in_reply_to_screen_name": "cogito_kids",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9416,
+			"friends_count": 1942,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cogito_kids Not my area, I'm afraid, but I'll RT."
+	},
+	{
+		"created_at": "Fri Jul 19 22:43:06 +0000 2019",
+		"id": 1152327977449001000,
+		"id_str": "1152348162469847040",
+		"full_text": "It’s probably about to produce a kipper and tell us we’ll still have Mars bars after Brexit. https://t.co/TnYvNGIKmJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TnYvNGIKmJ",
+					"expanded_url": "https://twitter.com/41strange/status/1152240027893522432",
+					"display_url": "twitter.com/41strange/stat…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79141911,
+			"id_str": "79141911",
+			"name": "VictoriaG (MPhil (failed))",
+			"screen_name": "ancientnmodern",
+			"location": "God's own county",
+			"description": "Old bag beset by family & life, longing for the silence of the grave",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1812,
+			"friends_count": 1668,
+			"listed_count": 54,
+			"created_at": "Fri Oct 02 09:48:24 +0000 2009",
+			"favourites_count": 52257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125151224985194500/bGToEl2A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125151224985194500/bGToEl2A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79141911/1472489459",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1152240027893522400,
+		"quoted_status_id_str": "1152240027893522432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TnYvNGIKmJ",
+			"expanded": "https://twitter.com/41strange/status/1152240027893522432",
+			"display": "twitter.com/41strange/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 19 15:33:24 +0000 2019",
+			"id": 1152240027893522400,
+			"id_str": "1152240027893522432",
+			"full_text": "An optimistic Australian Possum https://t.co/Ae63xsBhX0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1152240017856614400,
+						"id_str": "1152240017856614400",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/D_2UMQBVUAAx68O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_2UMQBVUAAx68O.jpg",
+						"url": "https://t.co/Ae63xsBhX0",
+						"display_url": "pic.twitter.com/Ae63xsBhX0",
+						"expanded_url": "https://twitter.com/41Strange/status/1152240027893522432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 620,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 620,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1152240017856614400,
+						"id_str": "1152240017856614400",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/D_2UMQBVUAAx68O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_2UMQBVUAAx68O.jpg",
+						"url": "https://t.co/Ae63xsBhX0",
+						"display_url": "pic.twitter.com/Ae63xsBhX0",
+						"expanded_url": "https://twitter.com/41Strange/status/1152240027893522432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 620,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 620,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2355808260,
+				"id_str": "2355808260",
+				"name": "41 Strange",
+				"screen_name": "41Strange",
+				"location": "Hollywood, CA",
+				"description": "Horror short stories bestseller out now",
+				"url": "https://t.co/lApirIcxFC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lApirIcxFC",
+								"expanded_url": "https://41strange.wordpress.com",
+								"display_url": "41strange.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 591213,
+				"friends_count": 6179,
+				"listed_count": 3881,
+				"created_at": "Sat Feb 22 05:04:53 +0000 2014",
+				"favourites_count": 182750,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30422,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "080403",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2355808260/1405535968",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2503,
+			"favorite_count": 12855,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s probably about to produce a kipper and tell us we’ll still have Mars bars after Brexit. https://t.co/TnYvNGIKmJ"
+	},
+	{
+		"created_at": "Fri Jul 19 22:18:50 +0000 2019",
+		"id": 1152342058801213400,
+		"id_str": "1152342058801213441",
+		"full_text": "Britain’s 600 aristocratic families have doubled their wealth in the last decade and are as 'wealthy as at the height of Empire' - https://t.co/CtQv2Zr5yC by @cahalmilmo on @theipaper",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cahalmilmo",
+					"name": "Cahal Milmo",
+					"id": 318966842,
+					"id_str": "318966842",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"screen_name": "theipaper",
+					"name": "i newspaper",
+					"id": 205770556,
+					"id_str": "205770556",
+					"indices": [
+						173,
+						183
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CtQv2Zr5yC",
+					"expanded_url": "https://inews.co.uk/?p=316017",
+					"display_url": "inews.co.uk/?p=316017",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9416,
+			"friends_count": 1942,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Britain’s 600 aristocratic families have doubled their wealth in the last decade and are as 'wealthy as at the height of Empire' - https://t.co/CtQv2Zr5yC by @cahalmilmo on @theipaper"
+	},
+	{
+		"created_at": "Fri Jul 19 12:20:47 +0000 2019",
+		"id": 1152191553777127400,
+		"id_str": "1152191553777127424",
+		"full_text": "@jopan1 We can't (and couldn't) control everything that our bodies do, but we have control over many useful aspects of our behaviour. That's what our brains are for",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jopan1",
+					"name": "Voice of philosophy",
+					"id": 174908962,
+					"id_str": "174908962",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1152189274101391400,
+		"in_reply_to_status_id_str": "1152189274101391363",
+		"in_reply_to_user_id": 174908962,
+		"in_reply_to_user_id_str": "174908962",
+		"in_reply_to_screen_name": "jopan1",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9416,
+			"friends_count": 1942,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jopan1 We can't (and couldn't) control everything that our bodies do, but we have control over many useful aspects of our behaviour. That's what our brains are for"
+	},
+	{
+		"created_at": "Fri Jul 19 11:42:22 +0000 2019",
+		"id": 1152181886267154400,
+		"id_str": "1152181886267154434",
+		"full_text": "@onnlucky @erikphoel @Philip_Goff I agree -- awareness of complex intermeshed patterns of internal and external awareness",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "onnlucky",
+					"name": "onnlucky🍀",
+					"id": 1531795652,
+					"id_str": "1531795652",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "erikphoel",
+					"name": "Erik Hoel",
+					"id": 2180768821,
+					"id_str": "2180768821",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1152179744839995400,
+		"in_reply_to_status_id_str": "1152179744839995393",
+		"in_reply_to_user_id": 1531795652,
+		"in_reply_to_user_id_str": "1531795652",
+		"in_reply_to_screen_name": "onnlucky",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9416,
+			"friends_count": 1942,
+			"listed_count": 477,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@onnlucky @erikphoel @Philip_Goff I agree -- awareness of complex intermeshed patterns of internal and external awareness"
+	},
+	{
 		"created_at": "Thu Jul 18 23:44:05 +0000 2019",
 		"id": 1152001123475083300,
 		"id_str": "1152001123475083264",
