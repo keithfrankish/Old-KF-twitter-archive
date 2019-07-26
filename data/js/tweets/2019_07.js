@@ -1,6 +1,2846 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 26 00:07:39 +0000 2019",
+		"id": 1154543767539654700,
+		"id_str": "1154543767539654656",
+		"full_text": "@Interesting_Ian @Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh immaterial souls get hot? ;)",
+		"truncated": false,
+		"display_text_range": [
+			111,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Interesting_Ian",
+					"name": "Ian Wardell",
+					"id": 138474175,
+					"id_str": "138474175",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154543459082129400,
+		"in_reply_to_status_id_str": "1154543459082129408",
+		"in_reply_to_user_id": 138474175,
+		"in_reply_to_user_id_str": "138474175",
+		"in_reply_to_screen_name": "Interesting_Ian",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Interesting_Ian @Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh immaterial souls get hot? ;)"
+	},
+	{
+		"created_at": "Fri Jul 26 00:01:08 +0000 2019",
+		"id": 1154542128216887300,
+		"id_str": "1154542128216887301",
+		"full_text": "@Interesting_Ian @Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh Cool.",
+		"truncated": false,
+		"display_text_range": [
+			111,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Interesting_Ian",
+					"name": "Ian Wardell",
+					"id": 138474175,
+					"id_str": "138474175",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154541630822572000,
+		"in_reply_to_status_id_str": "1154541630822572032",
+		"in_reply_to_user_id": 138474175,
+		"in_reply_to_user_id_str": "138474175",
+		"in_reply_to_screen_name": "Interesting_Ian",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Interesting_Ian @Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh Cool."
+	},
+	{
+		"created_at": "Thu Jul 25 23:41:45 +0000 2019",
+		"id": 1154537251985997800,
+		"id_str": "1154537251985997826",
+		"full_text": "@Interesting_Ian @Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh So what are you yourself?",
+		"truncated": false,
+		"display_text_range": [
+			111,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Interesting_Ian",
+					"name": "Ian Wardell",
+					"id": 138474175,
+					"id_str": "138474175",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154536177166409700,
+		"in_reply_to_status_id_str": "1154536177166409730",
+		"in_reply_to_user_id": 138474175,
+		"in_reply_to_user_id_str": "138474175",
+		"in_reply_to_screen_name": "Interesting_Ian",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Interesting_Ian @Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh So what are you yourself?"
+	},
+	{
+		"created_at": "Thu Jul 25 23:20:18 +0000 2019",
+		"id": 1154531852692152300,
+		"id_str": "1154531852692152322",
+		"full_text": "@Interesting_Ian @Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh What do you think is given to you? What seems to be given to me is a quality-rich external world, full of of colours, sounds, smells, and so on. Is all that an illusion? Is it all in my mind?",
+		"truncated": false,
+		"display_text_range": [
+			111,
+			302
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Interesting_Ian",
+					"name": "Ian Wardell",
+					"id": 138474175,
+					"id_str": "138474175",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154530294357209000,
+		"in_reply_to_status_id_str": "1154530294357209088",
+		"in_reply_to_user_id": 138474175,
+		"in_reply_to_user_id_str": "138474175",
+		"in_reply_to_screen_name": "Interesting_Ian",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Interesting_Ian @Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh What do you think is given to you? What seems to be given to me is a quality-rich external world, full of of colours, sounds, smells, and so on. Is all that an illusion? Is it all in my mind?"
+	},
+	{
+		"created_at": "Thu Jul 25 23:06:40 +0000 2019",
+		"id": 1154528421592141800,
+		"id_str": "1154528421592141824",
+		"full_text": "@Interesting_Ian @Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh I believe that conscious experiences exist; I just reject a certain philosophical theory of what conscious experiences are. Specifically, I don't believe that they involve direct acquaintance with intrinsic properties of one's own brain states.",
+		"truncated": false,
+		"display_text_range": [
+			111,
+			355
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Interesting_Ian",
+					"name": "Ian Wardell",
+					"id": 138474175,
+					"id_str": "138474175",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154523304847270000,
+		"in_reply_to_status_id_str": "1154523304847269888",
+		"in_reply_to_user_id": 138474175,
+		"in_reply_to_user_id_str": "138474175",
+		"in_reply_to_screen_name": "Interesting_Ian",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Interesting_Ian @Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh I believe that conscious experiences exist; I just reject a certain philosophical theory of what conscious experiences are. Specifically, I don't believe that they involve direct acquaintance with intrinsic properties of one's own brain states."
+	},
+	{
+		"created_at": "Thu Jul 25 22:37:06 +0000 2019",
+		"id": 1154520980682756000,
+		"id_str": "1154520980682756097",
+		"full_text": "@AnneCooke14 thanks!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnneCooke14",
+					"name": "Anne Cooke",
+					"id": 864261421,
+					"id_str": "864261421",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154520860784550000,
+		"in_reply_to_status_id_str": "1154520860784549889",
+		"in_reply_to_user_id": 864261421,
+		"in_reply_to_user_id_str": "864261421",
+		"in_reply_to_screen_name": "AnneCooke14",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnneCooke14 thanks!"
+	},
+	{
+		"created_at": "Thu Jul 25 22:05:36 +0000 2019",
+		"id": 1154513054844899300,
+		"id_str": "1154513054844899328",
+		"full_text": "Ooh, Jonathan Meades is on BBC4. A chance to tweet this again! https://t.co/jpTVy8QGzw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jpTVy8QGzw",
+					"expanded_url": "https://twitter.com/keithfrankish/status/960615294954852354",
+					"display_url": "twitter.com/keithfrankish/…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 960615294954852400,
+		"quoted_status_id_str": "960615294954852354",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jpTVy8QGzw",
+			"expanded": "https://twitter.com/keithfrankish/status/960615294954852354",
+			"display": "twitter.com/keithfrankish/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 05 20:45:08 +0000 2018",
+			"id": 960615294954852400,
+			"id_str": "960615294954852354",
+			"full_text": "Programme idea: Jonathan Meades retells classic fairy tales. \"The children found the house -- an arts-and-crafts pastiche of Bavarian vernacular, sweet and sickly and as pernicious to their immature  aesthetic sensibilities as to their dentition...\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52522040,
+				"id_str": "52522040",
+				"name": "Keith Frankish",
+				"screen_name": "keithfrankish",
+				"location": "Heraklion, Crete, Greece",
+				"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+				"url": "http://t.co/tXhT44huzC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tXhT44huzC",
+								"expanded_url": "http://www.keithfrankish.com",
+								"display_url": "keithfrankish.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9456,
+				"friends_count": 1942,
+				"listed_count": 480,
+				"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+				"favourites_count": 28456,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49787,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "304075",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C0C6CC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ooh, Jonathan Meades is on BBC4. A chance to tweet this again! https://t.co/jpTVy8QGzw"
+	},
+	{
+		"created_at": "Thu Jul 25 21:33:29 +0000 2019",
+		"id": 1154504972899426300,
+		"id_str": "1154504972899426304",
+		"full_text": "@Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh @danieldennett But you're not correlating the scans with the feelings but with *reports of the feelings*. What reason do we have, on your view, to think that the reports are differentially sensitive to the character of the feeling?",
+		"truncated": false,
+		"display_text_range": [
+			109,
+			325
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						57,
+						73
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"screen_name": "danieldennett",
+					"name": "Daniel Dennett",
+					"id": 997629601,
+					"id_str": "997629601",
+					"indices": [
+						94,
+						108
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154503400953798700,
+		"in_reply_to_status_id_str": "1154503400953798658",
+		"in_reply_to_user_id": 216809385,
+		"in_reply_to_user_id_str": "216809385",
+		"in_reply_to_screen_name": "Philip_Goff",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh @danieldennett But you're not correlating the scans with the feelings but with *reports of the feelings*. What reason do we have, on your view, to think that the reports are differentially sensitive to the character of the feeling?"
+	},
+	{
+		"created_at": "Thu Jul 25 21:28:51 +0000 2019",
+		"id": 1154503805725237200,
+		"id_str": "1154503805725237248",
+		"full_text": "@marcolin91 @mpigliucci @kantianphysiker @Philip_Goff @murraygabriel @philosophybites @Aristotweets @skdh The SEP entry (co-authored by @Philip_Goff) is a good a place to start: https://t.co/vuTuCnA8a1 Allso, Philip's new book Galileo's Error is a nice introduction for the general reader. (I admire Philip's work; I think he's barking up the wrong tree, but he barks well)",
+		"truncated": false,
+		"display_text_range": [
+			106,
+			373
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcolin91",
+					"name": "Marco lin",
+					"id": 355654498,
+					"id_str": "355654498",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						136,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vuTuCnA8a1",
+					"expanded_url": "https://plato.stanford.edu/entries/panpsychism/",
+					"display_url": "plato.stanford.edu/entries/panpsy…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154501368285192200,
+		"in_reply_to_status_id_str": "1154501368285192207",
+		"in_reply_to_user_id": 355654498,
+		"in_reply_to_user_id_str": "355654498",
+		"in_reply_to_screen_name": "marcolin91",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@marcolin91 @mpigliucci @kantianphysiker @Philip_Goff @murraygabriel @philosophybites @Aristotweets @skdh The SEP entry (co-authored by @Philip_Goff) is a good a place to start: https://t.co/vuTuCnA8a1 Allso, Philip's new book Galileo's Error is a nice introduction for the general reader. (I admire Philip's work; I think he's barking up the wrong tree, but he barks well)"
+	},
+	{
+		"created_at": "Thu Jul 25 21:15:59 +0000 2019",
+		"id": 1154500568661893000,
+		"id_str": "1154500568661893120",
+		"full_text": "@mpigliucci @kantianphysiker @Philip_Goff @murraygabriel @philosophybites @Aristotweets @skdh *in* their sense",
+		"truncated": false,
+		"display_text_range": [
+			94,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						57,
+						73
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						88,
+						93
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154500211781361700,
+		"in_reply_to_status_id_str": "1154500211781361671",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mpigliucci @kantianphysiker @Philip_Goff @murraygabriel @philosophybites @Aristotweets @skdh *in* their sense"
+	},
+	{
+		"created_at": "Thu Jul 25 21:14:34 +0000 2019",
+		"id": 1154500211781361700,
+		"id_str": "1154500211781361671",
+		"full_text": "@mpigliucci @kantianphysiker @Philip_Goff @murraygabriel @philosophybites @Aristotweets @skdh Well, panpsychists have a different conception of consciousness -- one that doesn't require neurons and wouldn't show up in physical theory. (But I've no brief for panpsychism. I think that consciousness is their sense doesn't exist)",
+		"truncated": false,
+		"display_text_range": [
+			94,
+			327
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						57,
+						73
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						88,
+						93
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154498554523738000,
+		"in_reply_to_status_id_str": "1154498554523738113",
+		"in_reply_to_user_id": 122795357,
+		"in_reply_to_user_id_str": "122795357",
+		"in_reply_to_screen_name": "mpigliucci",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mpigliucci @kantianphysiker @Philip_Goff @murraygabriel @philosophybites @Aristotweets @skdh Well, panpsychists have a different conception of consciousness -- one that doesn't require neurons and wouldn't show up in physical theory. (But I've no brief for panpsychism. I think that consciousness is their sense doesn't exist)"
+	},
+	{
+		"created_at": "Thu Jul 25 19:51:16 +0000 2019",
+		"id": 1154479249572728800,
+		"id_str": "1154479249572728833",
+		"full_text": "@tom_username_ @mpigliucci @kantianphysiker @Philip_Goff @murraygabriel @philosophybites @Aristotweets @skdh My take on this, in brief: https://t.co/fQk81omhGS",
+		"truncated": false,
+		"display_text_range": [
+			109,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tom_username_",
+					"name": "Tom",
+					"id": 872551553655296000,
+					"id_str": "872551553655296001",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						27,
+						43
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						72,
+						88
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fQk81omhGS",
+					"expanded_url": "https://aeon.co/ideas/why-panpsychism-fails-to-solve-the-mystery-of-consciousness",
+					"display_url": "aeon.co/ideas/why-panp…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154478121489277000,
+		"in_reply_to_status_id_str": "1154478121489276928",
+		"in_reply_to_user_id": 872551553655296000,
+		"in_reply_to_user_id_str": "872551553655296001",
+		"in_reply_to_screen_name": "tom_username_",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tom_username_ @mpigliucci @kantianphysiker @Philip_Goff @murraygabriel @philosophybites @Aristotweets @skdh My take on this, in brief: https://t.co/fQk81omhGS"
+	},
+	{
+		"created_at": "Thu Jul 25 19:37:15 +0000 2019",
+		"id": 1154475718937415700,
+		"id_str": "1154475718937415681",
+		"full_text": "@mpigliucci @kantianphysiker @Philip_Goff @murraygabriel @philosophybites @Aristotweets @skdh It doesn't contradict science, but it does imply that there's more to say. (My own view is that there is more to say in some areas, but that consciousness isn't one of them!)",
+		"truncated": false,
+		"display_text_range": [
+			94,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						57,
+						73
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						88,
+						93
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154473875058520000,
+		"in_reply_to_status_id_str": "1154473875058520064",
+		"in_reply_to_user_id": 122795357,
+		"in_reply_to_user_id_str": "122795357",
+		"in_reply_to_screen_name": "mpigliucci",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mpigliucci @kantianphysiker @Philip_Goff @murraygabriel @philosophybites @Aristotweets @skdh It doesn't contradict science, but it does imply that there's more to say. (My own view is that there is more to say in some areas, but that consciousness isn't one of them!)"
+	},
+	{
+		"created_at": "Thu Jul 25 19:10:33 +0000 2019",
+		"id": 1154469002455875600,
+		"id_str": "1154469002455875584",
+		"full_text": "@tom_username_ @kantianphysiker @Philip_Goff @mpigliucci @murraygabriel @philosophybites @Aristotweets @skdh Physicists gave up the billiard ball view in the 17th century",
+		"truncated": false,
+		"display_text_range": [
+			109,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tom_username_",
+					"name": "Tom",
+					"id": 872551553655296000,
+					"id_str": "872551553655296001",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						72,
+						88
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154468251017056300,
+		"in_reply_to_status_id_str": "1154468251017056262",
+		"in_reply_to_user_id": 872551553655296000,
+		"in_reply_to_user_id_str": "872551553655296001",
+		"in_reply_to_screen_name": "tom_username_",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tom_username_ @kantianphysiker @Philip_Goff @mpigliucci @murraygabriel @philosophybites @Aristotweets @skdh Physicists gave up the billiard ball view in the 17th century"
+	},
+	{
+		"created_at": "Thu Jul 25 19:07:56 +0000 2019",
+		"id": 1154468342561792000,
+		"id_str": "1154468342561792000",
+		"full_text": "@Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh I don't think the arguments are idiotic. On the contrary, they are very subtle and clever. But to some people their conclusion will seem absurd (as the one I draw seems absurd to some people). It's all a matter of your priors",
+		"truncated": false,
+		"display_text_range": [
+			94,
+			319
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						57,
+						73
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						88,
+						93
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154462070080987100,
+		"in_reply_to_status_id_str": "1154462070080987136",
+		"in_reply_to_user_id": 216809385,
+		"in_reply_to_user_id_str": "216809385",
+		"in_reply_to_screen_name": "Philip_Goff",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh I don't think the arguments are idiotic. On the contrary, they are very subtle and clever. But to some people their conclusion will seem absurd (as the one I draw seems absurd to some people). It's all a matter of your priors"
+	},
+	{
+		"created_at": "Thu Jul 25 18:33:26 +0000 2019",
+		"id": 1154459658595098600,
+		"id_str": "1154459658595098624",
+		"full_text": "@Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh sc. 'that what philosophers call *phenomenal* consciousness doesn't exist' (I think that creature consciousness, access-consciousness, and quasi-phenomenal consciousness all exist)",
+		"truncated": false,
+		"display_text_range": [
+			94,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "kantianphysiker",
+					"name": "David Milliern",
+					"id": 198358214,
+					"id_str": "198358214",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						57,
+						73
+					]
+				},
+				{
+					"screen_name": "Aristotweets",
+					"name": "Aristotelian Society",
+					"id": 226574609,
+					"id_str": "226574609",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"screen_name": "skdh",
+					"name": "Sabine Hossenfelder",
+					"id": 10666172,
+					"id_str": "10666172",
+					"indices": [
+						88,
+						93
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154452416890323000,
+		"in_reply_to_status_id_str": "1154452416890322944",
+		"in_reply_to_user_id": 216809385,
+		"in_reply_to_user_id_str": "216809385",
+		"in_reply_to_screen_name": "Philip_Goff",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9456,
+			"friends_count": 1942,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 28456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Philip_Goff @mpigliucci @kantianphysiker @murraygabriel @philosophybites @Aristotweets @skdh sc. 'that what philosophers call *phenomenal* consciousness doesn't exist' (I think that creature consciousness, access-consciousness, and quasi-phenomenal consciousness all exist)"
+	},
+	{
+		"created_at": "Thu Jul 25 14:19:35 +0000 2019",
+		"id": 1154180888785297400,
+		"id_str": "1154395778414194688",
+		"full_text": "COGSCI FOLK: I'm teaching Intro CogSci at Rutgers in the fall and am putting together my syllabus. Anyone have opinions about a paper/topic they think particularly has to be covered? I have three different syllabi for versions of Intro CogSci and all are interestingly different.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1106024072931090400,
+			"id_str": "1106024072931090434",
+			"name": "Austin A. Baker",
+			"screen_name": "AustinACBaker",
+			"location": "Baltimore, MD",
+			"description": "Postdoc @RutgersU CogSci. Think about philosophy & science of bias. Recent PhD from Rutgers philosophy (w/ time in the Firestone lab @JohnsHopkins psych).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155,
+			"friends_count": 292,
+			"listed_count": 1,
+			"created_at": "Thu Mar 14 02:47:42 +0000 2019",
+			"favourites_count": 444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128086222491017216/qI8XB4Ad_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128086222491017216/qI8XB4Ad_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "COGSCI FOLK: I'm teaching Intro CogSci at Rutgers in the fall and am putting together my syllabus. Anyone have opinions about a paper/topic they think particularly has to be covered? I have three different syllabi for versions of Intro CogSci and all are interestingly different."
+	},
+	{
 		"created_at": "Thu Jul 25 00:10:53 +0000 2019",
 		"id": 1153945653959110700,
 		"id_str": "1154182192517529601",
