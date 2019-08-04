@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 09:37:07 +0000 2019",
+		"id": 1157567423177986000,
+		"id_str": "1157586182198480896",
+		"full_text": "Rage and shame at what my country has allowed itself to become, at the government that's appointed itself, at the contemptible worthlessness of the opposition, at the misery so many people are suffering, at the worse that is to come.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2176527421,
+			"id_str": "2176527421",
+			"name": "Philip Pullman",
+			"screen_name": "PhilipPullman",
+			"location": "",
+			"description": "Writer (His Dark Materials, etc). Read like a butterfly, write like a bee. 'Looks like a retired roadie now working in a petrol station' - The Bookseller.",
+			"url": "http://t.co/yFt20RB3YJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/yFt20RB3YJ",
+							"expanded_url": "http://www.philip-pullman.com",
+							"display_url": "philip-pullman.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120044,
+			"friends_count": 676,
+			"listed_count": 1020,
+			"created_at": "Tue Nov 05 17:53:58 +0000 2013",
+			"favourites_count": 448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000700038261/c009b73dd82721cc7a7a6f48d24f92ff_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000700038261/c009b73dd82721cc7a7a6f48d24f92ff_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3290,
+		"favorite_count": 13783,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Rage and shame at what my country has allowed itself to become, at the government that's appointed itself, at the contemptible worthlessness of the opposition, at the misery so many people are suffering, at the worse that is to come."
+	},
+	{
 		"created_at": "Fri Aug 02 10:56:06 +0000 2019",
 		"id": 1157243670401290200,
 		"id_str": "1157243670401290242",
