@@ -1,6 +1,1046 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 28 20:20:51 +0000 2019",
+		"id": 1166803928983462000,
+		"id_str": "1166807878302339073",
+		"full_text": "Tory MPs on today's events\n\n1 of 6\n\nhttps://t.co/sNxEVx2NlQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sNxEVx2NlQ",
+					"expanded_url": "https://twitter.com/PhilipHammondUK/status/1166648143334780928",
+					"display_url": "twitter.com/PhilipHammondU…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33315010,
+			"id_str": "33315010",
+			"name": "David Allen Green",
+			"screen_name": "davidallengreen",
+			"location": "Birmingham and London",
+			"description": "Writer on law and policy at @FT, @prospect_uk etc\n\nBlogger at @law_and_policy\n\nAccount sometimes locked; tweets not always earnest\n\nAlso at @loreandfantasy",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160711,
+			"friends_count": 1761,
+			"listed_count": 3495,
+			"created_at": "Sun Apr 19 21:18:53 +0000 2009",
+			"favourites_count": 40176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161186271781408768/aAaX9ci6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161186271781408768/aAaX9ci6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33315010/1565683358",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1166648143334781000,
+		"quoted_status_id_str": "1166648143334780928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sNxEVx2NlQ",
+			"expanded": "https://twitter.com/PhilipHammondUK/status/1166648143334780928",
+			"display": "twitter.com/PhilipHammondU…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 28 09:46:07 +0000 2019",
+			"id": 1166648143334781000,
+			"id_str": "1166648143334780928",
+			"full_text": "It would be a constitutional outrage if Parliament were prevented from holding the government to account at a time of national crisis. Profoundly undemocratic.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2653613168,
+				"id_str": "2653613168",
+				"name": "Philip Hammond",
+				"screen_name": "PhilipHammondUK",
+				"location": "London",
+				"description": "MP for Runnymede & Weybridge.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 112879,
+				"friends_count": 900,
+				"listed_count": 1530,
+				"created_at": "Thu Jul 17 12:26:23 +0000 2014",
+				"favourites_count": 58,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2022,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "003F72",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1044155159390179328/wsikFTb3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044155159390179328/wsikFTb3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2653613168/1563971544",
+				"profile_link_color": "003F72",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7346,
+			"favorite_count": 26409,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 154,
+		"favorite_count": 213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tory MPs on today's events\n\n1 of 6\n\nhttps://t.co/sNxEVx2NlQ"
+	},
+	{
+		"created_at": "Wed Aug 28 20:18:42 +0000 2019",
+		"id": 1166781682625781800,
+		"id_str": "1166807341058134023",
+		"full_text": "I argue in the @Telegraph that Boris Johnson's prorogation of parliament violates both basic constitutional principles and fundamental tenets of conservatism. Key points for those of you frustrated by the paywall:\n\nTHREAD (1/12)\n\nhttps://t.co/NbhGEl3izj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Telegraph",
+					"name": "The Telegraph",
+					"id": 16343974,
+					"id_str": "16343974",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NbhGEl3izj",
+					"expanded_url": "https://www.telegraph.co.uk/politics/2019/08/28/boris-johnsons-unprecedented-decision-indeed-threat-democracy/",
+					"display_url": "telegraph.co.uk/politics/2019/…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137113968,
+			"id_str": "137113968",
+			"name": "Alan Renwick",
+			"screen_name": "alanjrenwick",
+			"location": "Oxford and London",
+			"description": "Political scientist and Deputy Director of the UCL Constitution Unit. Researching democratic reform in UK and around the world. Views expressed here are my own.",
+			"url": "https://t.co/H6uGgExLWf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6uGgExLWf",
+							"expanded_url": "https://www.ucl.ac.uk/constitution-unit/people/alan-renwick",
+							"display_url": "ucl.ac.uk/constitution-u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3960,
+			"friends_count": 664,
+			"listed_count": 117,
+			"created_at": "Sun Apr 25 21:04:35 +0000 2010",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040505297549307904/_uoHJoVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040505297549307904/_uoHJoVZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1996,
+		"favorite_count": 2763,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I argue in the @Telegraph that Boris Johnson's prorogation of parliament violates both basic constitutional principles and fundamental tenets of conservatism. Key points for those of you frustrated by the paywall:\n\nTHREAD (1/12)\n\nhttps://t.co/NbhGEl3izj"
+	},
+	{
+		"created_at": "Wed Aug 28 18:18:58 +0000 2019",
+		"id": 1166716474087628800,
+		"id_str": "1166777206833594369",
+		"full_text": "Where you were born is what matters most for your living conditions. That is the consequence of the extreme level of global inequality today.\n\nThis is the what my new @OurWorldInData post is about: https://t.co/qSvokDC3Vv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OurWorldInData",
+					"name": "Our World in Data",
+					"id": 3169963433,
+					"id_str": "3169963433",
+					"indices": [
+						167,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qSvokDC3Vv",
+					"expanded_url": "https://ourworldindata.org/global-inequality-of-opportunity",
+					"display_url": "ourworldindata.org/global-inequal…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 610659001,
+			"id_str": "610659001",
+			"name": "Max Roser",
+			"screen_name": "MaxCRoser",
+			"location": "Oxford",
+			"description": "@UniOfOxford researcher – Data to understand the big global problems and research that helps to make progress against them – From my site @OurWorldinData",
+			"url": "https://t.co/OdthyPjHDt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdthyPjHDt",
+							"expanded_url": "http://www.OurWorldInData.org",
+							"display_url": "OurWorldInData.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155813,
+			"friends_count": 879,
+			"listed_count": 4275,
+			"created_at": "Sun Jun 17 09:15:11 +0000 2012",
+			"favourites_count": 18310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "444F70",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991373737571348481/Y1zcLTFQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991373737571348481/Y1zcLTFQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/610659001/1548452319",
+			"profile_link_color": "495A87",
+			"profile_sidebar_border_color": "FAEF89",
+			"profile_sidebar_fill_color": "D9D6BF",
+			"profile_text_color": "97B1FF",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where you were born is what matters most for your living conditions. That is the consequence of the extreme level of global inequality today.\n\nThis is the what my new @OurWorldInData post is about: https://t.co/qSvokDC3Vv"
+	},
+	{
+		"created_at": "Wed Aug 28 16:51:53 +0000 2019",
+		"id": 1166755293365178400,
+		"id_str": "1166755293365178368",
+		"full_text": "Susan Blackmore on How Not to Find Evidence of Psychic Phenomena | Psychology Today UK - https://t.co/mzt7XhYVOR via @PsychToday",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PsychToday",
+					"name": "Psychology Today",
+					"id": 27726303,
+					"id_str": "27726303",
+					"indices": [
+						117,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mzt7XhYVOR",
+					"expanded_url": "https://www.psychologytoday.com/gb/node/1132847",
+					"display_url": "psychologytoday.com/gb/node/1132847",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9617,
+			"friends_count": 1954,
+			"listed_count": 473,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Susan Blackmore on How Not to Find Evidence of Psychic Phenomena | Psychology Today UK - https://t.co/mzt7XhYVOR via @PsychToday"
+	},
+	{
+		"created_at": "Wed Aug 28 10:32:44 +0000 2019",
+		"id": 1165942997592236000,
+		"id_str": "1166659877357391874",
+		"full_text": "🎥 A Dumfries man is issuing a fresh appeal in Crete where his mum was found dead 10 years ago.\n\nGreek authorities initially ruled Jean Hanlon, 53, drowned at Heraklion Harbour but they’re reinvestigating for a third time and treating the case as murder.\n\n#JusticeForJean 🌸 https://t.co/0KLXnS6BYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JusticeForJean",
+					"indices": [
+						255,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165942709238059000,
+					"id_str": "1165942709238059009",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165942709238059009/pu/img/6z83fJxFlzNMhnDF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165942709238059009/pu/img/6z83fJxFlzNMhnDF.jpg",
+					"url": "https://t.co/0KLXnS6BYb",
+					"display_url": "pic.twitter.com/0KLXnS6BYb",
+					"expanded_url": "https://twitter.com/RadioClydeNews/status/1165942997592236032/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165942709238059000,
+					"id_str": "1165942709238059009",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165942709238059009/pu/img/6z83fJxFlzNMhnDF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165942709238059009/pu/img/6z83fJxFlzNMhnDF.jpg",
+					"url": "https://t.co/0KLXnS6BYb",
+					"display_url": "pic.twitter.com/0KLXnS6BYb",
+					"expanded_url": "https://twitter.com/RadioClydeNews/status/1165942997592236032/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 125200,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165942709238059009/pu/vid/476x270/dSBthsq-bIicZNGS.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165942709238059009/pu/vid/636x360/vQPjA8YBz02suxjv.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165942709238059009/pu/vid/848x480/N6P6MF4VvXUuMusR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1165942709238059009/pu/pl/x8tTZcTxiaUfDKmK.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110685556,
+			"id_str": "110685556",
+			"name": "Radio Clyde News",
+			"screen_name": "RadioClydeNews",
+			"location": "Glasgow, Scotland.",
+			"description": "The award-winning Clyde News team brings you all the breaking news and exclusive stories you want to hear. Got a story? Contact clydenews@radioclyde.com",
+			"url": "https://t.co/pzlwkrJpCW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pzlwkrJpCW",
+							"expanded_url": "http://clyde1.com/news",
+							"display_url": "clyde1.com/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105110,
+			"friends_count": 1308,
+			"listed_count": 485,
+			"created_at": "Tue Feb 02 12:24:10 +0000 2010",
+			"favourites_count": 1502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 71387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879272659674173440/DzXNTx9S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879272659674173440/DzXNTx9S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110685556/1424864777",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎥 A Dumfries man is issuing a fresh appeal in Crete where his mum was found dead 10 years ago.\n\nGreek authorities initially ruled Jean Hanlon, 53, drowned at Heraklion Harbour but they’re reinvestigating for a third time and treating the case as murder.\n\n#JusticeForJean 🌸 https://t.co/0KLXnS6BYb"
+	},
+	{
+		"created_at": "Wed Aug 28 10:09:43 +0000 2019",
+		"id": 1166654084755218400,
+		"id_str": "1166654084755218433",
+		"full_text": "Thanks goodness we took back control! Otherwise, we might have  had unelected people of German descent overriding our parliament.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9617,
+			"friends_count": 1954,
+			"listed_count": 473,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Thanks goodness we took back control! Otherwise, we might have  had unelected people of German descent overriding our parliament."
+	},
+	{
+		"created_at": "Wed Aug 28 09:58:34 +0000 2019",
+		"id": 1166651276106633200,
+		"id_str": "1166651276106633216",
+		"full_text": "@dotunadebayo Uncanny. Can't believe you missed the Red Dwarf gig",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dotunadebayo",
+					"name": "dotun adebayo",
+					"id": 20215020,
+					"id_str": "20215020",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166649892045037600,
+		"in_reply_to_status_id_str": "1166649892045037568",
+		"in_reply_to_user_id": 20215020,
+		"in_reply_to_user_id_str": "20215020",
+		"in_reply_to_screen_name": "dotunadebayo",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9617,
+			"friends_count": 1954,
+			"listed_count": 473,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dotunadebayo Uncanny. Can't believe you missed the Red Dwarf gig"
+	},
+	{
+		"created_at": "Wed Aug 28 09:54:32 +0000 2019",
+		"id": 1166650262200696800,
+		"id_str": "1166650262200696833",
+		"full_text": "Next stop Edgehill?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9617,
+			"friends_count": 1954,
+			"listed_count": 473,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Next stop Edgehill?"
+	},
+	{
 		"created_at": "Tue Aug 27 22:28:33 +0000 2019",
 		"id": 1166477629958086700,
 		"id_str": "1166477629958086658",
