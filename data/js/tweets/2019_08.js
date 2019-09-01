@@ -1,6 +1,1090 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 22:52:14 +0000 2019",
+		"id": 1167612740061540400,
+		"id_str": "1167933139223629824",
+		"full_text": "a human face in a cow face https://t.co/yA6xHQQGWA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167612722009256000,
+					"id_str": "1167612722009255936",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EDQxlZqWsAA-rDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDQxlZqWsAA-rDd.jpg",
+					"url": "https://t.co/yA6xHQQGWA",
+					"display_url": "pic.twitter.com/yA6xHQQGWA",
+					"expanded_url": "https://twitter.com/chazfirestone/status/1167612740061540355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 592,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 592,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167612722009256000,
+					"id_str": "1167612722009255936",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EDQxlZqWsAA-rDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDQxlZqWsAA-rDd.jpg",
+					"url": "https://t.co/yA6xHQQGWA",
+					"display_url": "pic.twitter.com/yA6xHQQGWA",
+					"expanded_url": "https://twitter.com/chazfirestone/status/1167612740061540355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 592,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 592,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29274213,
+			"id_str": "29274213",
+			"name": "Chaz Firestone",
+			"screen_name": "chazfirestone",
+			"location": "Baltimore, MD",
+			"description": "Cognitive scientist studying how we see + think. Asst Prof @JohnsHopkins Psych & Brain Sciences. 🇨🇦",
+			"url": "https://t.co/4MyifyQgjR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4MyifyQgjR",
+							"expanded_url": "http://perception.jhu.edu/chaz",
+							"display_url": "perception.jhu.edu/chaz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7048,
+			"friends_count": 843,
+			"listed_count": 89,
+			"created_at": "Mon Apr 06 19:37:09 +0000 2009",
+			"favourites_count": 3796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920048909740924928/4l6MvQBH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920048909740924928/4l6MvQBH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29274213/1472626300",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 474,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "a human face in a cow face https://t.co/yA6xHQQGWA"
+	},
+	{
+		"created_at": "Sat Aug 31 22:09:51 +0000 2019",
+		"id": 1167863728269750300,
+		"id_str": "1167922474446508032",
+		"full_text": "@davidallengreen Machiavelli said one of the biggest mistakes a Prince could make was to unite his enemies, Johnson and Cummings have done just that (Tim Chadwick).",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidallengreen",
+					"name": "David Allen Green",
+					"id": 33315010,
+					"id_str": "33315010",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1167860585184125000,
+		"in_reply_to_status_id_str": "1167860585184124928",
+		"in_reply_to_user_id": 33315010,
+		"in_reply_to_user_id_str": "33315010",
+		"in_reply_to_screen_name": "davidallengreen",
+		"user": {
+			"id": 631901452,
+			"id_str": "631901452",
+			"name": "pox doctor's clerk",
+			"screen_name": "poxdoctorsclerk",
+			"location": "London NW5",
+			"description": "dubious character in cheap, flashy gear. Supports Manchester City & Celtic but not very passionately. A leftie. No cash is left on my tweet site overnight.🇮🇪🇪🇺",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 507,
+			"friends_count": 1005,
+			"listed_count": 18,
+			"created_at": "Tue Jul 10 11:17:40 +0000 2012",
+			"favourites_count": 32676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3009973711/ad38b21b99b50285df98df0f3aac4b92_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3009973711/ad38b21b99b50285df98df0f3aac4b92_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 302,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@davidallengreen Machiavelli said one of the biggest mistakes a Prince could make was to unite his enemies, Johnson and Cummings have done just that (Tim Chadwick)."
+	},
+	{
+		"created_at": "Sat Aug 31 21:42:31 +0000 2019",
+		"id": 1167915593774719000,
+		"id_str": "1167915593774718976",
+		"full_text": "Ghosts in the Machine - BBC Sounds - https://t.co/42drfKMpSu via @BBCSounds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCSounds",
+					"name": "BBC Sounds",
+					"id": 20518298,
+					"id_str": "20518298",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/42drfKMpSu",
+					"expanded_url": "https://www.bbc.co.uk/sounds/play/m0000xy9",
+					"display_url": "bbc.co.uk/sounds/play/m0…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9620,
+			"friends_count": 1956,
+			"listed_count": 472,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ghosts in the Machine - BBC Sounds - https://t.co/42drfKMpSu via @BBCSounds"
+	},
+	{
+		"created_at": "Sat Aug 31 21:07:16 +0000 2019",
+		"id": 1165396111877714000,
+		"id_str": "1167906725485113349",
+		"full_text": "When I was a Brockman client, I wasn’t invited to billionaire parties &amp; didn’t see the girls whom Epstein indentured. But at a 2016 conference I spent time w/a famous philosopher in Edge’s orbit, &amp; the scared, silent German-Korean “student” he was traveling with: 50ys his junior.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4282171,
+			"id_str": "4282171",
+			"name": "Virginia Heffernan",
+			"screen_name": "page88",
+			"location": "Bad Wildbad, Deutschland",
+			"description": "contributing editor @WIRED / columnist @latimesopinion / DJ @realTrumpcast / tv @MSNBC / MAGIC + LOSS https://t.co/I0EBU1lAeC / ph.d. fwiw",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/I0EBU1lAeC",
+							"expanded_url": "https://tinyurl.com/y733942r",
+							"display_url": "tinyurl.com/y733942r",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 116372,
+			"friends_count": 3658,
+			"listed_count": 2373,
+			"created_at": "Thu Apr 12 02:18:44 +0000 2007",
+			"favourites_count": 54604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959542172751138817/QcHhm46G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959542172751138817/QcHhm46G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4282171/1552779153",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "When I was a Brockman client, I wasn’t invited to billionaire parties &amp; didn’t see the girls whom Epstein indentured. But at a 2016 conference I spent time w/a famous philosopher in Edge’s orbit, &amp; the scared, silent German-Korean “student” he was traveling with: 50ys his junior."
+	},
+	{
+		"created_at": "Sat Aug 31 20:28:09 +0000 2019",
+		"id": 1167896880790958000,
+		"id_str": "1167896880790958086",
+		"full_text": "What a great place to write! I'd love to stay there for a spell --&gt;  Fermor House | Mani | All Year | What’s On | https://t.co/HE5M6l4ci8 - https://t.co/KMiQkhhJNM on @ekathimerini #philhel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "philhel",
+					"indices": [
+						184,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ekathimerini",
+					"name": "Kathimerini English Edition",
+					"id": 242704372,
+					"id_str": "242704372",
+					"indices": [
+						170,
+						183
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HE5M6l4ci8",
+					"expanded_url": "http://ekathimerini.com",
+					"display_url": "ekathimerini.com",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/KMiQkhhJNM",
+					"expanded_url": "http://www.ekathimerini.com/244069/article/ekathimerini/whats-on/fermor-house--mani--all-year",
+					"display_url": "ekathimerini.com/244069/article…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9620,
+			"friends_count": 1956,
+			"listed_count": 472,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a great place to write! I'd love to stay there for a spell --&gt;  Fermor House | Mani | All Year | What’s On | https://t.co/HE5M6l4ci8 - https://t.co/KMiQkhhJNM on @ekathimerini #philhel"
+	},
+	{
+		"created_at": "Sat Aug 31 18:20:15 +0000 2019",
+		"id": 1167853523066921000,
+		"id_str": "1167864691592331264",
+		"full_text": "@keithfrankish @ilangoodman Thanks so much @keithfrankish! Really enjoyed our conversation. I'll be releasing a new set of interviews soon folks, including discussions with @patchurchland on her book #Conscience, @theamygdaloid on his book #TheDeepHistoryOfOurselves and Keith on #illusionism. Stay tuned!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			305
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Conscience",
+					"indices": [
+						200,
+						211
+					]
+				},
+				{
+					"text": "TheDeepHistoryOfOurselves",
+					"indices": [
+						240,
+						266
+					]
+				},
+				{
+					"text": "illusionism",
+					"indices": [
+						280,
+						292
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ilangoodman",
+					"name": "Ilan Goodman",
+					"id": 30753989,
+					"id_str": "30753989",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						43,
+						57
+					]
+				},
+				{
+					"screen_name": "patchurchland",
+					"name": "Patricia Churchland",
+					"id": 221808649,
+					"id_str": "221808649",
+					"indices": [
+						173,
+						187
+					]
+				},
+				{
+					"screen_name": "theamygdaloid",
+					"name": "Joseph E. LeDoux",
+					"id": 39721543,
+					"id_str": "39721543",
+					"indices": [
+						213,
+						227
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1167782785546903600,
+		"in_reply_to_status_id_str": "1167782785546903552",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 1073595450689765400,
+			"id_str": "1073595450689765376",
+			"name": "NOUSthepodcast",
+			"screen_name": "NSthepodcast",
+			"location": "",
+			"description": "NOUS tackles the deepest questions about the mind, through conversations with thinkers working in philosophy, neuroscience, psychiatry. Hosted by @ilangoodman",
+			"url": "https://t.co/U7WysiHYy8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7WysiHYy8",
+							"expanded_url": "http://nousthepodcast.libsyn.com/",
+							"display_url": "nousthepodcast.libsyn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 422,
+			"friends_count": 1157,
+			"listed_count": 10,
+			"created_at": "Fri Dec 14 15:07:56 +0000 2018",
+			"favourites_count": 272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073596853873242113/Q7XEcAI5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073596853873242113/Q7XEcAI5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073595450689765376/1544800441",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@keithfrankish @ilangoodman Thanks so much @keithfrankish! Really enjoyed our conversation. I'll be releasing a new set of interviews soon folks, including discussions with @patchurchland on her book #Conscience, @theamygdaloid on his book #TheDeepHistoryOfOurselves and Keith on #illusionism. Stay tuned!"
+	},
+	{
+		"created_at": "Sat Aug 31 12:54:47 +0000 2019",
+		"id": 1167782785546903600,
+		"id_str": "1167782785546903552",
+		"full_text": "Had a great talk with @ilangoodman for his Nous podcast. Ilan is a terrific interviewer, who really knows his stuff. I'll post the link when the podcast is out.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ilangoodman",
+					"name": "Ilan Goodman",
+					"id": 30753989,
+					"id_str": "30753989",
+					"indices": [
+						22,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9620,
+			"friends_count": 1956,
+			"listed_count": 472,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Had a great talk with @ilangoodman for his Nous podcast. Ilan is a terrific interviewer, who really knows his stuff. I'll post the link when the podcast is out."
+	},
+	{
+		"created_at": "Sat Aug 31 12:40:04 +0000 2019",
+		"id": 1167779084031725600,
+		"id_str": "1167779084031725568",
+		"full_text": "@Kerimon I couldn't agree more. The rhetoric of winners and losers is poisonous. We're supposed to be a community",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kerimon",
+					"name": "Marcus Bowman",
+					"id": 275606810,
+					"id_str": "275606810",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1167775423759036400,
+		"in_reply_to_status_id_str": "1167775423759036416",
+		"in_reply_to_user_id": 275606810,
+		"in_reply_to_user_id_str": "275606810",
+		"in_reply_to_screen_name": "Kerimon",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9620,
+			"friends_count": 1956,
+			"listed_count": 472,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Kerimon I couldn't agree more. The rhetoric of winners and losers is poisonous. We're supposed to be a community"
+	},
+	{
+		"created_at": "Sat Aug 31 12:38:55 +0000 2019",
+		"id": 1167775423759036400,
+		"id_str": "1167778794343718913",
+		"full_text": "Democracy means rule by the people (demos), not rule by the majority. It depends on consensus and compromise. Nigel Farage's recent assertion that \"in a democracy the majority wins\" sums up perfectly how and why democracy is failing both in Britain and in America.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275606810,
+			"id_str": "275606810",
+			"name": "Marcus Bowman",
+			"screen_name": "Kerimon",
+			"location": "Cork, Ireland",
+			"description": "Psychotherapist. Freudian. Transcendentalist.",
+			"url": "http://t.co/VWTzAj3cWs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VWTzAj3cWs",
+							"expanded_url": "http://pangurcottage.blogspot.com/",
+							"display_url": "pangurcottage.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 93,
+			"listed_count": 19,
+			"created_at": "Fri Apr 01 16:33:53 +0000 2011",
+			"favourites_count": 243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1303409807/Recent_photos_34D_004_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303409807/Recent_photos_34D_004_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275606810/1548523276",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "292629",
+			"profile_sidebar_fill_color": "BDB6BD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Democracy means rule by the people (demos), not rule by the majority. It depends on consensus and compromise. Nigel Farage's recent assertion that \"in a democracy the majority wins\" sums up perfectly how and why democracy is failing both in Britain and in America."
+	},
+	{
 		"created_at": "Fri Aug 30 19:36:54 +0000 2019",
 		"id": 1167521597084844000,
 		"id_str": "1167521597084844033",
