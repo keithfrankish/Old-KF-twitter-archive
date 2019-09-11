@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 10 22:24:21 +0000 2019",
+		"id": 1171546623144616000,
+		"id_str": "1171550001413152768",
+		"full_text": "I will continue to highlight this until those on the side of remain listen: there is a very simple formula to Cummings / Johnson's / Vote Leave's success: frame our membership of the EU in such a way that leaving it appeals to moderate voters /1 https://t.co/p5SPjxp9i4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171546615670333400,
+					"id_str": "1171546615670333440",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EEIrcJjXYAAsNtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEIrcJjXYAAsNtd.jpg",
+					"url": "https://t.co/p5SPjxp9i4",
+					"display_url": "pic.twitter.com/p5SPjxp9i4",
+					"expanded_url": "https://twitter.com/SheRa_Marley/status/1171546623144615936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1308,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171546615670333400,
+					"id_str": "1171546615670333440",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EEIrcJjXYAAsNtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEIrcJjXYAAsNtd.jpg",
+					"url": "https://t.co/p5SPjxp9i4",
+					"display_url": "pic.twitter.com/p5SPjxp9i4",
+					"expanded_url": "https://twitter.com/SheRa_Marley/status/1171546623144615936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1308,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65130648,
+			"id_str": "65130648",
+			"name": "SheRa Marley-Threepwood",
+			"screen_name": "SheRa_Marley",
+			"location": "",
+			"description": "brexit-era Confucius | 'popular twitter user'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17911,
+			"friends_count": 6393,
+			"listed_count": 130,
+			"created_at": "Wed Aug 12 19:18:57 +0000 2009",
+			"favourites_count": 73303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169876445511835648/7gLyeE8Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169876445511835648/7gLyeE8Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65130648/1567174815",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I will continue to highlight this until those on the side of remain listen: there is a very simple formula to Cummings / Johnson's / Vote Leave's success: frame our membership of the EU in such a way that leaving it appeals to moderate voters /1 https://t.co/p5SPjxp9i4"
+	},
+	{
+		"created_at": "Tue Sep 10 22:20:35 +0000 2019",
+		"id": 1171549054125387800,
+		"id_str": "1171549054125387777",
+		"full_text": "@distributedcog @JBruineberg Obscurum per obscurius",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "distributedcog",
+					"name": "🧘🏼‍♂️B🧘🏼‍♂️",
+					"id": 131644899,
+					"id_str": "131644899",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "JBruineberg",
+					"name": "Jelle Bruineberg",
+					"id": 104177478,
+					"id_str": "104177478",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1171548289654755300,
+		"in_reply_to_status_id_str": "1171548289654755329",
+		"in_reply_to_user_id": 131644899,
+		"in_reply_to_user_id_str": "131644899",
+		"in_reply_to_screen_name": "distributedcog",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9653,
+			"friends_count": 1964,
+			"listed_count": 474,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt",
+		"text": "@distributedcog @JBruineberg Obscurum per obscurius"
+	},
+	{
+		"created_at": "Tue Sep 10 11:33:52 +0000 2019",
+		"id": 1171385803307724800,
+		"id_str": "1171386304074080256",
+		"full_text": "Portrait of Cavafy, 1926. Sketch in pencil by M. Papadimitriou. Dedication by the artist to the poet and date at bottom left. Cavafy Archive. https://t.co/R06QfWTkDX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171385797297283000,
+					"id_str": "1171385797297283072",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EEGZLSbXoAAVy3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEGZLSbXoAAVy3d.jpg",
+					"url": "https://t.co/R06QfWTkDX",
+					"display_url": "pic.twitter.com/R06QfWTkDX",
+					"expanded_url": "https://twitter.com/CCavafy/status/1171385803307724800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 923,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 923,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171385797297283000,
+					"id_str": "1171385797297283072",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EEGZLSbXoAAVy3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEGZLSbXoAAVy3d.jpg",
+					"url": "https://t.co/R06QfWTkDX",
+					"display_url": "pic.twitter.com/R06QfWTkDX",
+					"expanded_url": "https://twitter.com/CCavafy/status/1171385803307724800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 923,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 923,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2872159805,
+			"id_str": "2872159805",
+			"name": "C.P. Cavafy",
+			"screen_name": "CCavafy",
+			"location": "Alexandria ",
+			"description": "Poet-historian",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6199,
+			"friends_count": 1428,
+			"listed_count": 0,
+			"created_at": "Tue Nov 11 11:23:06 +0000 2014",
+			"favourites_count": 3467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/870116840147738625/Z-jiiscT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/870116840147738625/Z-jiiscT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2872159805/1550805964",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Portrait of Cavafy, 1926. Sketch in pencil by M. Papadimitriou. Dedication by the artist to the poet and date at bottom left. Cavafy Archive. https://t.co/R06QfWTkDX"
+	},
+	{
 		"created_at": "Mon Sep 09 22:34:56 +0000 2019",
 		"id": 1171190278096642000,
 		"id_str": "1171190278096642048",
