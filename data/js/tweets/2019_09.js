@@ -1,6 +1,894 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 22:23:01 +0000 2019",
+		"id": 1172274441402900500,
+		"id_str": "1172274441402900483",
+		"full_text": "Don't be fooled. It's Lore, not Data. https://t.co/wP1m1d0dO9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wP1m1d0dO9",
+					"expanded_url": "https://twitter.com/thetimes/status/1171432470828335106",
+					"display_url": "twitter.com/thetimes/statu…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9657,
+			"friends_count": 1965,
+			"listed_count": 475,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1171432470828335000,
+		"quoted_status_id_str": "1171432470828335106",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wP1m1d0dO9",
+			"expanded": "https://twitter.com/thetimes/status/1171432470828335106",
+			"display": "twitter.com/thetimes/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 10 14:37:19 +0000 2019",
+			"id": 1171432470828335000,
+			"id_str": "1171432470828335106",
+			"full_text": "Don't miss our exclusive interview with #DavidCameron this weekend. LIKE this Tweet to receive a reminder when it's published - he'll be discussing his role in Brexit, family life and more. https://t.co/BuvY1m5pQv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DavidCameron",
+						"indices": [
+							40,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1171346485516128300,
+						"id_str": "1171346485516128256",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/EEF1bCoXUAAKLWI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEF1bCoXUAAKLWI.jpg",
+						"url": "https://t.co/BuvY1m5pQv",
+						"display_url": "pic.twitter.com/BuvY1m5pQv",
+						"expanded_url": "https://twitter.com/thetimes/status/1171432470828335106/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1197,
+								"h": 896,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1197,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1171346485516128300,
+						"id_str": "1171346485516128256",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/EEF1bCoXUAAKLWI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEF1bCoXUAAKLWI.jpg",
+						"url": "https://t.co/BuvY1m5pQv",
+						"display_url": "pic.twitter.com/BuvY1m5pQv",
+						"expanded_url": "https://twitter.com/thetimes/status/1171432470828335106/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1197,
+								"h": 896,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1197,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6107422,
+				"id_str": "6107422",
+				"name": "The Times",
+				"screen_name": "thetimes",
+				"location": "London",
+				"description": "The best of our journalism.\nSubscribe here: https://t.co/Kq4ItERnQC\nSpeak to our customer service team: https://t.co/VIDSflmdIL",
+				"url": "http://t.co/GAsNZkMcoP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/GAsNZkMcoP",
+								"expanded_url": "http://www.thetimes.co.uk",
+								"display_url": "thetimes.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Kq4ItERnQC",
+								"expanded_url": "http://thetim.es/subscribe",
+								"display_url": "thetim.es/subscribe",
+								"indices": [
+									44,
+									67
+								]
+							},
+							{
+								"url": "https://t.co/VIDSflmdIL",
+								"expanded_url": "http://thetimes.co.uk/livechat",
+								"display_url": "thetimes.co.uk/livechat",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1260028,
+				"friends_count": 771,
+				"listed_count": 10531,
+				"created_at": "Thu May 17 13:35:19 +0000 2007",
+				"favourites_count": 2083,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 198100,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EFEFEF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/881879546101891073/KoNl5qpa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/881879546101891073/KoNl5qpa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6107422/1510341891",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 552,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"scopes": {
+				"followers": false
+			},
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't be fooled. It's Lore, not Data. https://t.co/wP1m1d0dO9"
+	},
+	{
+		"created_at": "Thu Sep 12 16:19:41 +0000 2019",
+		"id": 1172183006448144400,
+		"id_str": "1172183006448144386",
+		"full_text": "@NotAsGoodAsPete @chrisfcarroll @davidpapineau @RamseyFrank @timcrane102 @patchurchland @Philip_Goff @PanTade44669670 @FelixChaser @nathanoseroff @ZXGafford @JakeWojtowicz @StefanMolyneux @ttahko @danieldennett @hildherlo @cecilymwhiteley @amandakbryant @GEdwardsTwit It doesn't need any magic, just the development, through natural selection, of systems that maintain homeostasis and are sensitive to factors that promote or disrupt it. Dan Dennett sketches the big picture in his 2017 book *From Bacteria  to Bach and Bach*",
+		"truncated": false,
+		"display_text_range": [
+			268,
+			525
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotAsGoodAsPete",
+					"name": "Peter Hiett",
+					"id": 395371787,
+					"id_str": "395371787",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "chrisfcarroll",
+					"name": "Chris F Carroll",
+					"id": 92929966,
+					"id_str": "92929966",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "davidpapineau",
+					"name": "David Papineau",
+					"id": 72796877,
+					"id_str": "72796877",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"screen_name": "RamseyFrank",
+					"name": "frank ramsey",
+					"id": 2244503919,
+					"id_str": "2244503919",
+					"indices": [
+						47,
+						59
+					]
+				},
+				{
+					"screen_name": "timcrane102",
+					"name": "Tim Crane",
+					"id": 235652202,
+					"id_str": "235652202",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "patchurchland",
+					"name": "Patricia Churchland",
+					"id": 221808649,
+					"id_str": "221808649",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"screen_name": "PanTade44669670",
+					"name": "Pan Tadeusz",
+					"id": 1136475932158562300,
+					"id_str": "1136475932158562305",
+					"indices": [
+						101,
+						117
+					]
+				},
+				{
+					"screen_name": "FelixChaser",
+					"name": "Felix",
+					"id": 764819324875911200,
+					"id_str": "764819324875911173",
+					"indices": [
+						118,
+						130
+					]
+				},
+				{
+					"screen_name": "nathanoseroff",
+					"name": "Nathan Oseroff-Spicer",
+					"id": 2768346873,
+					"id_str": "2768346873",
+					"indices": [
+						131,
+						145
+					]
+				},
+				{
+					"screen_name": "ZXGafford",
+					"name": "Zach",
+					"id": 1155899296170107000,
+					"id_str": "1155899296170106882",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"screen_name": "JakeWojtowicz",
+					"name": "Jake Wojtowicz",
+					"id": 329964794,
+					"id_str": "329964794",
+					"indices": [
+						157,
+						171
+					]
+				},
+				{
+					"screen_name": "StefanMolyneux",
+					"name": "Stefan Molyneux",
+					"id": 313038011,
+					"id_str": "313038011",
+					"indices": [
+						172,
+						187
+					]
+				},
+				{
+					"screen_name": "ttahko",
+					"name": "Tuomas Tahko",
+					"id": 180456267,
+					"id_str": "180456267",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"screen_name": "danieldennett",
+					"name": "Daniel Dennett",
+					"id": 997629601,
+					"id_str": "997629601",
+					"indices": [
+						196,
+						210
+					]
+				},
+				{
+					"screen_name": "hildherlo",
+					"name": "Hilda Hernández",
+					"id": 87033699,
+					"id_str": "87033699",
+					"indices": [
+						211,
+						221
+					]
+				},
+				{
+					"screen_name": "cecilymwhiteley",
+					"name": "Cecily Whiteley",
+					"id": 711664070231986200,
+					"id_str": "711664070231986176",
+					"indices": [
+						222,
+						238
+					]
+				},
+				{
+					"screen_name": "amandakbryant",
+					"name": "Amanda Bryant",
+					"id": 2808748703,
+					"id_str": "2808748703",
+					"indices": [
+						239,
+						253
+					]
+				},
+				{
+					"screen_name": "GEdwardsTwit",
+					"name": "Gary Edwards🍶",
+					"id": 866369178953035800,
+					"id_str": "866369178953035776",
+					"indices": [
+						254,
+						267
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1172165229087731700,
+		"in_reply_to_status_id_str": "1172165229087731713",
+		"in_reply_to_user_id": 395371787,
+		"in_reply_to_user_id_str": "395371787",
+		"in_reply_to_screen_name": "NotAsGoodAsPete",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9657,
+			"friends_count": 1965,
+			"listed_count": 475,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NotAsGoodAsPete @chrisfcarroll @davidpapineau @RamseyFrank @timcrane102 @patchurchland @Philip_Goff @PanTade44669670 @FelixChaser @nathanoseroff @ZXGafford @JakeWojtowicz @StefanMolyneux @ttahko @danieldennett @hildherlo @cecilymwhiteley @amandakbryant @GEdwardsTwit It doesn't need any magic, just the development, through natural selection, of systems that maintain homeostasis and are sensitive to factors that promote or disrupt it. Dan Dennett sketches the big picture in his 2017 book *From Bacteria  to Bach and Bach*"
+	},
+	{
+		"created_at": "Thu Sep 12 14:21:30 +0000 2019",
+		"id": 1172153263451517000,
+		"id_str": "1172153263451516928",
+		"full_text": "@chrisfcarroll @davidpapineau @RamseyFrank @timcrane102 @NotAsGoodAsPete @patchurchland @Philip_Goff @PanTade44669670 @FelixChaser @nathanoseroff @ZXGafford @JakeWojtowicz @StefanMolyneux @ttahko @danieldennett @hildherlo @cecilymwhiteley @amandakbryant @GEdwardsTwit The illusionist perspective here is the standard physicalist one: Having a 1st person perspective is on the world a matter of representing it as related it to oneself and to one's purposes, needs, etc. The mechanisms involved can be fully described in 3rd person terms",
+		"truncated": false,
+		"display_text_range": [
+			268,
+			536
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrisfcarroll",
+					"name": "Chris F Carroll",
+					"id": 92929966,
+					"id_str": "92929966",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "davidpapineau",
+					"name": "David Papineau",
+					"id": 72796877,
+					"id_str": "72796877",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "RamseyFrank",
+					"name": "frank ramsey",
+					"id": 2244503919,
+					"id_str": "2244503919",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"screen_name": "timcrane102",
+					"name": "Tim Crane",
+					"id": 235652202,
+					"id_str": "235652202",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "NotAsGoodAsPete",
+					"name": "Peter Hiett",
+					"id": 395371787,
+					"id_str": "395371787",
+					"indices": [
+						56,
+						72
+					]
+				},
+				{
+					"screen_name": "patchurchland",
+					"name": "Patricia Churchland",
+					"id": 221808649,
+					"id_str": "221808649",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"screen_name": "PanTade44669670",
+					"name": "Pan Tadeusz",
+					"id": 1136475932158562300,
+					"id_str": "1136475932158562305",
+					"indices": [
+						101,
+						117
+					]
+				},
+				{
+					"screen_name": "FelixChaser",
+					"name": "Felix",
+					"id": 764819324875911200,
+					"id_str": "764819324875911173",
+					"indices": [
+						118,
+						130
+					]
+				},
+				{
+					"screen_name": "nathanoseroff",
+					"name": "Nathan Oseroff-Spicer",
+					"id": 2768346873,
+					"id_str": "2768346873",
+					"indices": [
+						131,
+						145
+					]
+				},
+				{
+					"screen_name": "ZXGafford",
+					"name": "Zach",
+					"id": 1155899296170107000,
+					"id_str": "1155899296170106882",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"screen_name": "JakeWojtowicz",
+					"name": "Jake Wojtowicz",
+					"id": 329964794,
+					"id_str": "329964794",
+					"indices": [
+						157,
+						171
+					]
+				},
+				{
+					"screen_name": "StefanMolyneux",
+					"name": "Stefan Molyneux",
+					"id": 313038011,
+					"id_str": "313038011",
+					"indices": [
+						172,
+						187
+					]
+				},
+				{
+					"screen_name": "ttahko",
+					"name": "Tuomas Tahko",
+					"id": 180456267,
+					"id_str": "180456267",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"screen_name": "danieldennett",
+					"name": "Daniel Dennett",
+					"id": 997629601,
+					"id_str": "997629601",
+					"indices": [
+						196,
+						210
+					]
+				},
+				{
+					"screen_name": "hildherlo",
+					"name": "Hilda Hernández",
+					"id": 87033699,
+					"id_str": "87033699",
+					"indices": [
+						211,
+						221
+					]
+				},
+				{
+					"screen_name": "cecilymwhiteley",
+					"name": "Cecily Whiteley",
+					"id": 711664070231986200,
+					"id_str": "711664070231986176",
+					"indices": [
+						222,
+						238
+					]
+				},
+				{
+					"screen_name": "amandakbryant",
+					"name": "Amanda Bryant",
+					"id": 2808748703,
+					"id_str": "2808748703",
+					"indices": [
+						239,
+						253
+					]
+				},
+				{
+					"screen_name": "GEdwardsTwit",
+					"name": "Gary Edwards🍶",
+					"id": 866369178953035800,
+					"id_str": "866369178953035776",
+					"indices": [
+						254,
+						267
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1172147970575392800,
+		"in_reply_to_status_id_str": "1172147970575392768",
+		"in_reply_to_user_id": 92929966,
+		"in_reply_to_user_id_str": "92929966",
+		"in_reply_to_screen_name": "chrisfcarroll",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9657,
+			"friends_count": 1965,
+			"listed_count": 475,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chrisfcarroll @davidpapineau @RamseyFrank @timcrane102 @NotAsGoodAsPete @patchurchland @Philip_Goff @PanTade44669670 @FelixChaser @nathanoseroff @ZXGafford @JakeWojtowicz @StefanMolyneux @ttahko @danieldennett @hildherlo @cecilymwhiteley @amandakbryant @GEdwardsTwit The illusionist perspective here is the standard physicalist one: Having a 1st person perspective is on the world a matter of representing it as related it to oneself and to one's purposes, needs, etc. The mechanisms involved can be fully described in 3rd person terms"
+	},
+	{
 		"created_at": "Wed Sep 11 23:45:29 +0000 2019",
 		"id": 1171932806152429600,
 		"id_str": "1171932806152429569",
