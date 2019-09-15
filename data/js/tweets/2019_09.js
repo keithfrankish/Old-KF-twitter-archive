@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 14 19:49:07 +0000 2019",
+		"id": 1172960486100484000,
+		"id_str": "1172960486100484096",
+		"full_text": "@jamessseattle @KanDerWat @Philip_Goff @onemorebrown I usually mean a thing, but the thing's being a representation is determined by its relations to other things, including, importantly, a consumer system",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jamessseattle",
+					"name": "James of Seattle",
+					"id": 995768052,
+					"id_str": "995768052",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KanDerWat",
+					"name": "Bram Hessels",
+					"id": 373450583,
+					"id_str": "373450583",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "onemorebrown",
+					"name": "Richard Brown",
+					"id": 254512557,
+					"id_str": "254512557",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1172942299489157000,
+		"in_reply_to_status_id_str": "1172942299489157120",
+		"in_reply_to_user_id": 995768052,
+		"in_reply_to_user_id_str": "995768052",
+		"in_reply_to_screen_name": "jamessseattle",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9674,
+			"friends_count": 1965,
+			"listed_count": 475,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jamessseattle @KanDerWat @Philip_Goff @onemorebrown I usually mean a thing, but the thing's being a representation is determined by its relations to other things, including, importantly, a consumer system"
+	},
+	{
+		"created_at": "Sat Sep 14 14:39:25 +0000 2019",
+		"id": 1171765584150839300,
+		"id_str": "1172882548386672641",
+		"full_text": "Scientists advised against consuming hypersexual zombie cicadas infected with psychoactive fungus.\n\nhttps://t.co/zeOSj2oxwx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zeOSj2oxwx",
+					"expanded_url": "http://harpers.org/archive/2019/09/findings-september-2019/",
+					"display_url": "harpers.org/archive/2019/0…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14287094,
+			"id_str": "14287094",
+			"name": "Harper's Magazine",
+			"screen_name": "Harpers",
+			"location": "New York, NY",
+			"description": "America's oldest general-interest magazine, publishing the finest writing since 1850.",
+			"url": "http://t.co/sSdkKcQNCH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/sSdkKcQNCH",
+							"expanded_url": "http://harpers.org",
+							"display_url": "harpers.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113600,
+			"friends_count": 680,
+			"listed_count": 4761,
+			"created_at": "Wed Apr 02 20:17:21 +0000 2008",
+			"favourites_count": 4304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148700586809970688/3UrItR3k_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148700586809970688/3UrItR3k_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14287094/1568306957",
+			"profile_link_color": "0103BB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 688,
+		"favorite_count": 1723,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scientists advised against consuming hypersexual zombie cicadas infected with psychoactive fungus.\n\nhttps://t.co/zeOSj2oxwx"
+	},
+	{
+		"created_at": "Sat Sep 14 13:26:30 +0000 2019",
+		"id": 1172864200315740200,
+		"id_str": "1172864200315740161",
+		"full_text": "@KanDerWat @Philip_Goff @onemorebrown Yes, something like that. I don't claim that my view is the only possible one, just that's a coherent alternative, which has significant advantages. Like every view of consciousness, it has some counterintuitive aspects.",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KanDerWat",
+					"name": "Bram Hessels",
+					"id": 373450583,
+					"id_str": "373450583",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "onemorebrown",
+					"name": "Richard Brown",
+					"id": 254512557,
+					"id_str": "254512557",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1172831239130243000,
+		"in_reply_to_status_id_str": "1172831239130243072",
+		"in_reply_to_user_id": 373450583,
+		"in_reply_to_user_id_str": "373450583",
+		"in_reply_to_screen_name": "KanDerWat",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9674,
+			"friends_count": 1965,
+			"listed_count": 475,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KanDerWat @Philip_Goff @onemorebrown Yes, something like that. I don't claim that my view is the only possible one, just that's a coherent alternative, which has significant advantages. Like every view of consciousness, it has some counterintuitive aspects."
+	},
+	{
+		"created_at": "Sat Sep 14 10:57:52 +0000 2019",
+		"id": 1172826795667861500,
+		"id_str": "1172826795667861504",
+		"full_text": "@KanDerWat @Philip_Goff @onemorebrown The representation exists in its own right, as a brain state, but we are not aware of it (unless we have a representation of it as well). It makes us aware of what it represents.",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KanDerWat",
+					"name": "Bram Hessels",
+					"id": 373450583,
+					"id_str": "373450583",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "onemorebrown",
+					"name": "Richard Brown",
+					"id": 254512557,
+					"id_str": "254512557",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1172826051195678700,
+		"in_reply_to_status_id_str": "1172826051195678720",
+		"in_reply_to_user_id": 373450583,
+		"in_reply_to_user_id_str": "373450583",
+		"in_reply_to_screen_name": "KanDerWat",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9674,
+			"friends_count": 1965,
+			"listed_count": 475,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KanDerWat @Philip_Goff @onemorebrown The representation exists in its own right, as a brain state, but we are not aware of it (unless we have a representation of it as well). It makes us aware of what it represents."
+	},
+	{
+		"created_at": "Sat Sep 14 10:38:30 +0000 2019",
+		"id": 1171858470146101200,
+		"id_str": "1172821920229863424",
+		"full_text": "When I was little, I was told that the yellowhammer’s song was “a little bit of bread and no cheese”. Is this why the #Yellowhammer report is so called? Is that what is predicted to be on the menu on 1 November?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Yellowhammer",
+					"indices": [
+						118,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79141911,
+			"id_str": "79141911",
+			"name": "Dame VictoriaG Esq (MPhil (failed))",
+			"screen_name": "ancientnmodern",
+			"location": "God's own county",
+			"description": "Old bag beset by family & life, longing for the silence of the grave",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2009,
+			"friends_count": 1724,
+			"listed_count": 65,
+			"created_at": "Fri Oct 02 09:48:24 +0000 2009",
+			"favourites_count": 55486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125151224985194500/bGToEl2A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125151224985194500/bGToEl2A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79141911/1472489459",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "When I was little, I was told that the yellowhammer’s song was “a little bit of bread and no cheese”. Is this why the #Yellowhammer report is so called? Is that what is predicted to be on the menu on 1 November?"
+	},
+	{
+		"created_at": "Sat Sep 14 10:36:23 +0000 2019",
+		"id": 1172821387582562300,
+		"id_str": "1172821387582562305",
+		"full_text": "@KanDerWat @Philip_Goff @onemorebrown My view is that they exist only as objects of our representations. Our minds paint the world with illusory phenomenal properties. We don't need to explain the existence of phenomenal properties, but only their representation",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KanDerWat",
+					"name": "Bram Hessels",
+					"id": 373450583,
+					"id_str": "373450583",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "onemorebrown",
+					"name": "Richard Brown",
+					"id": 254512557,
+					"id_str": "254512557",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1172817272643182600,
+		"in_reply_to_status_id_str": "1172817272643182594",
+		"in_reply_to_user_id": 373450583,
+		"in_reply_to_user_id_str": "373450583",
+		"in_reply_to_screen_name": "KanDerWat",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9674,
+			"friends_count": 1965,
+			"listed_count": 475,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 29525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KanDerWat @Philip_Goff @onemorebrown My view is that they exist only as objects of our representations. Our minds paint the world with illusory phenomenal properties. We don't need to explain the existence of phenomenal properties, but only their representation"
+	},
+	{
 		"created_at": "Fri Sep 13 22:17:18 +0000 2019",
 		"id": 1172635390475419600,
 		"id_str": "1172635390475419649",
