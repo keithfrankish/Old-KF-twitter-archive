@@ -1,6 +1,646 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 22:15:50 +0000 2019",
+		"id": 1185317970689568800,
+		"id_str": "1185318599080251393",
+		"full_text": "To those MPs intending to support the deal: is this the man you want to stand on the same side with? Alongside Johnson, Raab, Patel and Cummings? If the answer is yes then I have no idea why you’re an MP. Your job is to look after people, not to shred their future for the Tories. https://t.co/FW6VUOJw9X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FW6VUOJw9X",
+					"expanded_url": "https://twitter.com/paulbranditv/status/1185313805162766336",
+					"display_url": "twitter.com/paulbranditv/s…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 554648712,
+			"id_str": "554648712",
+			"name": "Prof Tanja Bueltmann",
+			"screen_name": "cliodiaspora",
+			"location": "citizen of the world",
+			"description": "“That Professor” | migration & diaspora historian | founder @eucitizenschamp | citizens' rights campaigner | affinity Scot | NZ & Asia aficionado | my views",
+			"url": "https://t.co/UIjobqznzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UIjobqznzO",
+							"expanded_url": "http://eucitizenschampion.co.uk/tanja-bueltmann",
+							"display_url": "eucitizenschampion.co.uk/tanja-bueltmann",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47449,
+			"friends_count": 1573,
+			"listed_count": 461,
+			"created_at": "Sun Apr 15 19:01:32 +0000 2012",
+			"favourites_count": 34088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169339309603872768/V3Lf-qoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169339309603872768/V3Lf-qoq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/554648712/1558925569",
+			"profile_link_color": "B30059",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185313805162766300,
+		"quoted_status_id_str": "1185313805162766336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FW6VUOJw9X",
+			"expanded": "https://twitter.com/paulbranditv/status/1185313805162766336",
+			"display": "twitter.com/paulbranditv/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 18 21:56:47 +0000 2019",
+			"id": 1185313805162766300,
+			"id_str": "1185313805162766336",
+			"full_text": "NEW: Mark Francois WILL support the PM’s deal tomorrow. That will be a major boost to spirits in Downing Street. He has seemed one of the hardest of the ERG to win over in recent days.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93419198,
+				"id_str": "93419198",
+				"name": "Paul Brand",
+				"screen_name": "PaulBrandITV",
+				"location": "London",
+				"description": "Political Correspondent @itvnews. Presenter #ITVActingPM. Co-founder #SchoolDiversityWeek & patron @JustLikeUsUK. Welsh. Follow me on insta 👉 @paulbrandtv",
+				"url": "https://t.co/SsFqeeUP44",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SsFqeeUP44",
+								"expanded_url": "https://podcasts.apple.com/gb/podcast/acting-prime-minister/id1452702407",
+								"display_url": "podcasts.apple.com/gb/podcast/act…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41129,
+				"friends_count": 1910,
+				"listed_count": 954,
+				"created_at": "Sun Nov 29 15:23:10 +0000 2009",
+				"favourites_count": 6864,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32844,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1177722632126500870/IISklnEF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177722632126500870/IISklnEF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93419198/1571414833",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 119,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 63,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To those MPs intending to support the deal: is this the man you want to stand on the same side with? Alongside Johnson, Raab, Patel and Cummings? If the answer is yes then I have no idea why you’re an MP. Your job is to look after people, not to shred their future for the Tories. https://t.co/FW6VUOJw9X"
+	},
+	{
+		"created_at": "Fri Oct 18 21:30:05 +0000 2019",
+		"id": 1185307083496972300,
+		"id_str": "1185307083496972297",
+		"full_text": "@Aella_Girl It's a balance.Philosophers need to know the literature in order to avoid continually reinventing the wheel. But they also need to remember that their aim is to construct new and exciting theories not just to add footnotes to the literature. In phil mind I think we do pretty well",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Aella_Girl",
+					"name": "Aella",
+					"id": 795885295,
+					"id_str": "795885295",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1185074006329684000,
+		"in_reply_to_status_id_str": "1185074006329683968",
+		"in_reply_to_user_id": 795885295,
+		"in_reply_to_user_id_str": "795885295",
+		"in_reply_to_screen_name": "Aella_Girl",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1993,
+			"listed_count": 481,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 30680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Aella_Girl It's a balance.Philosophers need to know the literature in order to avoid continually reinventing the wheel. But they also need to remember that their aim is to construct new and exciting theories not just to add footnotes to the literature. In phil mind I think we do pretty well"
+	},
+	{
+		"created_at": "Fri Oct 18 18:16:23 +0000 2019",
+		"id": 1185252906737524700,
+		"id_str": "1185258336377286657",
+		"full_text": "#FF the accounts followed most in common by philosophers\n\nGrid: https://t.co/Qm9Edqwa9o\nList: https://t.co/3QpXUU28Pb https://t.co/kN0SYTHM5h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FF",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qm9Edqwa9o",
+					"expanded_url": "https://truesciphi.org/phi_fav_col.html",
+					"display_url": "truesciphi.org/phi_fav_col.ht…",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/3QpXUU28Pb",
+					"expanded_url": "https://truesciphi.org/phi_fav.html",
+					"display_url": "truesciphi.org/phi_fav.html",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1185252895371006000,
+					"id_str": "1185252895371005953",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EHLdOoWXkAEqIiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHLdOoWXkAEqIiJ.jpg",
+					"url": "https://t.co/kN0SYTHM5h",
+					"display_url": "pic.twitter.com/kN0SYTHM5h",
+					"expanded_url": "https://twitter.com/TrueSciPhi/status/1185252906737524738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185252895371006000,
+					"id_str": "1185252895371005953",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EHLdOoWXkAEqIiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHLdOoWXkAEqIiJ.jpg",
+					"url": "https://t.co/kN0SYTHM5h",
+					"display_url": "pic.twitter.com/kN0SYTHM5h",
+					"expanded_url": "https://twitter.com/TrueSciPhi/status/1185252906737524738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3300811066,
+			"id_str": "3300811066",
+			"name": "TrueSciPhi / Kelly Truelove",
+			"screen_name": "TrueSciPhi",
+			"location": "Austin, Texas",
+			"description": "A window on science, philosophy, and mathematics communities on social media, by Kelly Truelove (physics PhD). Photo info at https://t.co/06ZXnBDiOt.",
+			"url": "https://t.co/toHFFayLXj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/toHFFayLXj",
+							"expanded_url": "http://TrueSciPhi.org",
+							"display_url": "TrueSciPhi.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06ZXnBDiOt",
+							"expanded_url": "http://instagram.com/TrueSciPhi",
+							"display_url": "instagram.com/TrueSciPhi",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7192,
+			"friends_count": 1937,
+			"listed_count": 262,
+			"created_at": "Wed May 27 19:01:09 +0000 2015",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122637340483248139/CYOoEEQQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122637340483248139/CYOoEEQQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3300811066/1556183232",
+			"profile_link_color": "888888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#FF the accounts followed most in common by philosophers\n\nGrid: https://t.co/Qm9Edqwa9o\nList: https://t.co/3QpXUU28Pb https://t.co/kN0SYTHM5h"
+	},
+	{
+		"created_at": "Fri Oct 18 10:27:19 +0000 2019",
+		"id": 1185140293823324200,
+		"id_str": "1185140293823324160",
+		"full_text": "@pwkilleen @PhilippeBostrom Yes. Specifically, the Mycenaean Research Group",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pwkilleen",
+					"name": "Patrick Killeen",
+					"id": 2548537813,
+					"id_str": "2548537813",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "PhilippeBostrom",
+					"name": "Philippe Bohstrom",
+					"id": 2832744250,
+					"id_str": "2832744250",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1185067551698673700,
+		"in_reply_to_status_id_str": "1185067551698673664",
+		"in_reply_to_user_id": 2548537813,
+		"in_reply_to_user_id_str": "2548537813",
+		"in_reply_to_screen_name": "pwkilleen",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1993,
+			"listed_count": 481,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 30680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pwkilleen @PhilippeBostrom Yes. Specifically, the Mycenaean Research Group"
+	},
+	{
 		"created_at": "Thu Oct 17 23:15:37 +0000 2019",
 		"id": 1184971253276381200,
 		"id_str": "1184971253276381186",
