@@ -1,6 +1,695 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 20 19:57:40 +0000 2019",
+		"id": 1186008600923259000,
+		"id_str": "1186008600923258884",
+		"full_text": "@SquashedBox 'In the Factory'?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SquashedBox",
+					"name": "Glyn Hughes",
+					"id": 341705770,
+					"id_str": "341705770",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1185975252456804400,
+		"in_reply_to_status_id_str": "1185975252456804354",
+		"in_reply_to_user_id": 341705770,
+		"in_reply_to_user_id_str": "341705770",
+		"in_reply_to_screen_name": "SquashedBox",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1992,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 30698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SquashedBox 'In the Factory'?"
+	},
+	{
+		"created_at": "Sun Oct 20 19:31:55 +0000 2019",
+		"id": 1185982077059129300,
+		"id_str": "1186002120497094657",
+		"full_text": "This pic (author unknown) shows how distorted academic philosophy's view of the world is. Where's Africa, Asia, C and S America, most of Europe? \nFollow our series The Cocoon Goes Global to get a sense of what's it like to be a philosopher across the world\nhttps://t.co/q3pJDC5Ydw https://t.co/m9fnYPec5k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q3pJDC5Ydw",
+					"expanded_url": "https://philosopherscocoon.typepad.com/blog/the-cocoon-goes-global/",
+					"display_url": "philosopherscocoon.typepad.com/blog/the-cocoo…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1185982067995230200,
+					"id_str": "1185982067995230214",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EHV0aEDWwAY-u5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHV0aEDWwAY-u5f.jpg",
+					"url": "https://t.co/m9fnYPec5k",
+					"display_url": "pic.twitter.com/m9fnYPec5k",
+					"expanded_url": "https://twitter.com/Helenreflects/status/1185982077059129346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 547,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185982067995230200,
+					"id_str": "1185982067995230214",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EHV0aEDWwAY-u5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHV0aEDWwAY-u5f.jpg",
+					"url": "https://t.co/m9fnYPec5k",
+					"display_url": "pic.twitter.com/m9fnYPec5k",
+					"expanded_url": "https://twitter.com/Helenreflects/status/1185982077059129346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 547,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2294509452,
+			"id_str": "2294509452",
+			"name": "Helen De Cruz",
+			"screen_name": "Helenreflects",
+			"location": "",
+			"description": "Philosopher. Educator. Tweets about philosophy, the slow crash that is Brexit, science and other stuff",
+			"url": "https://t.co/4hvvLHzI2o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4hvvLHzI2o",
+							"expanded_url": "http://helendecruz.net/",
+							"display_url": "helendecruz.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6109,
+			"friends_count": 3896,
+			"listed_count": 92,
+			"created_at": "Thu Jan 16 14:14:56 +0000 2014",
+			"favourites_count": 22092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919468074918662144/HT1OLoYi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919468074918662144/HT1OLoYi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2294509452/1488905200",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This pic (author unknown) shows how distorted academic philosophy's view of the world is. Where's Africa, Asia, C and S America, most of Europe? \nFollow our series The Cocoon Goes Global to get a sense of what's it like to be a philosopher across the world\nhttps://t.co/q3pJDC5Ydw https://t.co/m9fnYPec5k"
+	},
+	{
+		"created_at": "Sun Oct 20 13:39:00 +0000 2019",
+		"id": 1185913247939125200,
+		"id_str": "1185913308077068292",
+		"full_text": "@SomethingVintag @keithfrankish In 1940,the 'will of the people' in France was to survive at any cost. Any cost. Some didn't listen,&amp; lead.",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SomethingVintag",
+					"name": "Helena",
+					"id": 286243309,
+					"id_str": "286243309",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1185912829460865000,
+		"in_reply_to_status_id_str": "1185912829460865024",
+		"in_reply_to_user_id": 4776169636,
+		"in_reply_to_user_id_str": "4776169636",
+		"in_reply_to_screen_name": "MarieHeleneTho2",
+		"user": {
+			"id": 4776169636,
+			"id_str": "4776169636",
+			"name": "MHT",
+			"screen_name": "MarieHeleneTho2",
+			"location": "Europe, just about.",
+			"description": "Former Assistant Head in Wales. Now free from alarming bells but alarmed by Brexit & populists. #Remain #Waspi Tweets in English&French.🌑",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 884,
+			"friends_count": 1096,
+			"listed_count": 20,
+			"created_at": "Mon Jan 11 17:13:04 +0000 2016",
+			"favourites_count": 58472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931288727149776897/n81EQk2O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931288727149776897/n81EQk2O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4776169636/1555433859",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@SomethingVintag @keithfrankish In 1940,the 'will of the people' in France was to survive at any cost. Any cost. Some didn't listen,&amp; lead."
+	},
+	{
+		"created_at": "Sun Oct 20 13:38:17 +0000 2019",
+		"id": 1185913126128099300,
+		"id_str": "1185913126128099328",
+		"full_text": "This deal is not a compromise. It implements a hard Brexit and offers nothing to the half of the population who want to stay closely aligned with the EU. Maybe people would accept it if it were approved in a popular vote, but otherwise it will deepen the division in the country.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1992,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 30698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "This deal is not a compromise. It implements a hard Brexit and offers nothing to the half of the population who want to stay closely aligned with the EU. Maybe people would accept it if it were approved in a popular vote, but otherwise it will deepen the division in the country."
+	},
+	{
+		"created_at": "Sun Oct 20 13:24:47 +0000 2019",
+		"id": 1185909731791163400,
+		"id_str": "1185909731791163392",
+		"full_text": "If an MP believes that the Brexit deal will have harmful effects and not bring the benefits leave voters were promised, then they should state their concerns and support a public vote on whether the deal is accepted.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1992,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 30698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "If an MP believes that the Brexit deal will have harmful effects and not bring the benefits leave voters were promised, then they should state their concerns and support a public vote on whether the deal is accepted."
+	},
+	{
+		"created_at": "Sun Oct 20 11:42:33 +0000 2019",
+		"id": 1185884004425318400,
+		"id_str": "1185884004425318406",
+		"full_text": "@RoryStewartUK  A compromise would be to give the people a vote on this uncompromising deal. You suggest that the deal may help us heal and move forward. Maybe it would. Why not support a people's vote and make that case in the campaign? Please. 2/2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RoryStewartUK",
+					"name": "Rory Stewart",
+					"id": 131926473,
+					"id_str": "131926473",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1185884002143686700,
+		"in_reply_to_status_id_str": "1185884002143686657",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1992,
+			"listed_count": 480,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 30698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RoryStewartUK  A compromise would be to give the people a vote on this uncompromising deal. You suggest that the deal may help us heal and move forward. Maybe it would. Why not support a people's vote and make that case in the campaign? Please. 2/2"
+	},
+	{
 		"created_at": "Sat Oct 19 23:54:13 +0000 2019",
 		"id": 1185701054278701000,
 		"id_str": "1185705746371092480",
