@@ -1,6 +1,923 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 00:38:39 +0000 2019",
+		"id": 1203836005008081000,
+		"id_str": "1203836320285630465",
+		"full_text": "Wow! Another amazing illusion. Pipo-kun appears to move, expand, spin, and contract... but he's not actually moving or changing at all. https://t.co/9kc8TWBTTt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203835980290986000,
+					"id_str": "1203835980290985984",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203835980290985984/pu/img/pOlG3UdTlHAbI8IQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203835980290985984/pu/img/pOlG3UdTlHAbI8IQ.jpg",
+					"url": "https://t.co/9kc8TWBTTt",
+					"display_url": "pic.twitter.com/9kc8TWBTTt",
+					"expanded_url": "https://twitter.com/SteveStuWill/status/1203836005008080902/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 420,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203835980290986000,
+					"id_str": "1203835980290985984",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203835980290985984/pu/img/pOlG3UdTlHAbI8IQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203835980290985984/pu/img/pOlG3UdTlHAbI8IQ.jpg",
+					"url": "https://t.co/9kc8TWBTTt",
+					"display_url": "pic.twitter.com/9kc8TWBTTt",
+					"expanded_url": "https://twitter.com/SteveStuWill/status/1203836005008080902/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 420,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							10,
+							7
+						],
+						"duration_millis": 16000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203835980290985984/pu/vid/384x270/XN01r_maToguY9VI.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1203835980290985984/pu/pl/InyLwIYzYY_YvRat.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203835980290985984/pu/vid/600x420/TaEw_zQBIWRtGlsM.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33856936,
+			"id_str": "33856936",
+			"name": "Steve Stewart-Williams",
+			"screen_name": "SteveStuWill",
+			"location": "United Kingdom",
+			"description": "Psychology, evolution, science, etc. The paperback edition of my second book, The Ape That Understood the Universe, hit the shelves in 2019.",
+			"url": "https://t.co/CAbB9xvV6l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CAbB9xvV6l",
+							"expanded_url": "http://www.stevestewartwilliams.com/",
+							"display_url": "stevestewartwilliams.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65217,
+			"friends_count": 209,
+			"listed_count": 1020,
+			"created_at": "Tue Apr 21 09:08:54 +0000 2009",
+			"favourites_count": 34590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894228079043907584/3nFbnIVO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894228079043907584/3nFbnIVO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33856936/1492953630",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 234,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow! Another amazing illusion. Pipo-kun appears to move, expand, spin, and contract... but he's not actually moving or changing at all. https://t.co/9kc8TWBTTt"
+	},
+	{
+		"created_at": "Sun Dec 08 22:27:05 +0000 2019",
+		"id": 1203803211422941200,
+		"id_str": "1203803211422941194",
+		"full_text": "This evening, Alen (@egoendsnow) and Leon (@leonscafe31) kindly invited me back on to their excellent podcast for a chat about implicit bias and self-shaping. I enjoyed talking to them, and I hope listeners will find the discussion interesting and useful. https://t.co/ldWQOB1MEW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EgoEndsNow",
+					"name": "Ego Ends Now",
+					"id": 115826482,
+					"id_str": "115826482",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "leonscafe31",
+					"name": "Leon's Existential Cafe",
+					"id": 977917853004333000,
+					"id_str": "977917853004333056",
+					"indices": [
+						43,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ldWQOB1MEW",
+					"expanded_url": "https://twitter.com/seize_podcast/status/1203773883981205504",
+					"display_url": "twitter.com/seize_podcast/…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10978,
+			"friends_count": 2009,
+			"listed_count": 488,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 32454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1203773883981205500,
+		"quoted_status_id_str": "1203773883981205504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ldWQOB1MEW",
+			"expanded": "https://twitter.com/seize_podcast/status/1203773883981205504",
+			"display": "twitter.com/seize_podcast/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 08 20:30:33 +0000 2019",
+			"id": 1203773883981205500,
+			"id_str": "1203773883981205504",
+			"full_text": "On ep 31, we welcome back philosopher @keithfrankish to learn about belief formation, how we make decisions, how to form healthier habits, and how we can effectively challenge racist and sexist beliefs. #philosophy #socialjustice #podcast #mentalhealth https://t.co/cayoP9hmn3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "philosophy",
+						"indices": [
+							203,
+							214
+						]
+					},
+					{
+						"text": "socialjustice",
+						"indices": [
+							215,
+							229
+						]
+					},
+					{
+						"text": "podcast",
+						"indices": [
+							230,
+							238
+						]
+					},
+					{
+						"text": "mentalhealth",
+						"indices": [
+							239,
+							252
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "keithfrankish",
+						"name": "Keith Frankish",
+						"id": 52522040,
+						"id_str": "52522040",
+						"indices": [
+							38,
+							52
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cayoP9hmn3",
+						"expanded_url": "https://youtu.be/syF1xD6nfV0",
+						"display_url": "youtu.be/syF1xD6nfV0",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1117442297203953700,
+				"id_str": "1117442297203953664",
+				"name": "Seize The Moment Podcast 🎙",
+				"screen_name": "seize_podcast",
+				"location": "",
+				"description": "@egoendsnow and @leonscafe31 host a podcast on mental health and philosophy, exploring how to become the best versions of ourselves. You can find us @o4lonline.",
+				"url": "https://t.co/yzGyXe450Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yzGyXe450Z",
+								"expanded_url": "https://www.o4lonlinenetwork.com/seizethemoment/",
+								"display_url": "o4lonlinenetwork.com/seizethemoment/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 367,
+				"friends_count": 586,
+				"listed_count": 3,
+				"created_at": "Sun Apr 14 14:59:39 +0000 2019",
+				"favourites_count": 181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 508,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118165181677412352/K0e-eBRI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118165181677412352/K0e-eBRI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1117442297203953664/1555426337",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This evening, Alen (@egoendsnow) and Leon (@leonscafe31) kindly invited me back on to their excellent podcast for a chat about implicit bias and self-shaping. I enjoyed talking to them, and I hope listeners will find the discussion interesting and useful. https://t.co/ldWQOB1MEW"
+	},
+	{
+		"created_at": "Sun Dec 08 21:58:39 +0000 2019",
+		"id": 1203788252412551200,
+		"id_str": "1203796053255962626",
+		"full_text": "We're not going to win this election without the Liberal Democrats.\nEveryone seems oblivious how much we need them.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18167651,
+			"id_str": "18167651",
+			"name": "Staedtler",
+			"screen_name": "Staedtler",
+			"location": "Europa!",
+			"description": "Tories thought they could use Article 50 to scam a new treaty, but they got us expelled. \nThey'll sack Theresa May and abandon Brexit.",
+			"url": "https://t.co/tVutRyYAYG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tVutRyYAYG",
+							"expanded_url": "https://doingfrench.wordpress.com/",
+							"display_url": "doingfrench.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4879,
+			"friends_count": 1774,
+			"listed_count": 48,
+			"created_at": "Tue Dec 16 17:54:06 +0000 2008",
+			"favourites_count": 7276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862361061143531525/YD1GPOh-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862361061143531525/YD1GPOh-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18167651/1430951856",
+			"profile_link_color": "131516",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We're not going to win this election without the Liberal Democrats.\nEveryone seems oblivious how much we need them."
+	},
+	{
+		"created_at": "Sun Dec 08 16:02:59 +0000 2019",
+		"id": 1203706548788310000,
+		"id_str": "1203706548788310016",
+		"full_text": "@nialv Ooooooooh! ;)",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nialv",
+					"name": "Nick Alvarez",
+					"id": 18540917,
+					"id_str": "18540917",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203703977834975200,
+		"in_reply_to_status_id_str": "1203703977834975234",
+		"in_reply_to_user_id": 18540917,
+		"in_reply_to_user_id_str": "18540917",
+		"in_reply_to_screen_name": "nialv",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10978,
+			"friends_count": 2009,
+			"listed_count": 488,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 32454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@nialv Ooooooooh! ;)"
+	},
+	{
+		"created_at": "Sun Dec 08 15:28:57 +0000 2019",
+		"id": 1203697983063314400,
+		"id_str": "1203697983063314438",
+		"full_text": "New book on consciousness from Peter Carruthers. Looks like a must-read. --&gt; Human and Animal Minds: The Consciousness Questions Laid to Rest: Peter Carruthers: 9780198843702: https://t.co/iBgajnHoWa: Books - https://t.co/SvZGGd7z8e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iBgajnHoWa",
+					"expanded_url": "http://Amazon.com",
+					"display_url": "Amazon.com",
+					"indices": [
+						179,
+						202
+					]
+				},
+				{
+					"url": "https://t.co/SvZGGd7z8e",
+					"expanded_url": "https://www.amazon.com/Human-Animal-Minds-Consciousness-Questions/dp/0198843704/",
+					"display_url": "amazon.com/Human-Animal-M…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10978,
+			"friends_count": 2009,
+			"listed_count": 488,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 32454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New book on consciousness from Peter Carruthers. Looks like a must-read. --&gt; Human and Animal Minds: The Consciousness Questions Laid to Rest: Peter Carruthers: 9780198843702: https://t.co/iBgajnHoWa: Books - https://t.co/SvZGGd7z8e"
+	},
+	{
+		"created_at": "Sun Dec 08 11:38:08 +0000 2019",
+		"id": 1203639894410715100,
+		"id_str": "1203639894410715137",
+		"full_text": "@alan_tb It's this season's must-have present!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alan_tb",
+					"name": "Alan Taylor-Bennett",
+					"id": 67894995,
+					"id_str": "67894995",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203399641305362400,
+		"in_reply_to_status_id_str": "1203399641305362432",
+		"in_reply_to_user_id": 67894995,
+		"in_reply_to_user_id_str": "67894995",
+		"in_reply_to_screen_name": "alan_tb",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10978,
+			"friends_count": 2009,
+			"listed_count": 488,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 32454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alan_tb It's this season's must-have present!"
+	},
+	{
 		"created_at": "Sun Dec 08 00:52:11 +0000 2019",
 		"id": 1203477337515401200,
 		"id_str": "1203477337515401221",
