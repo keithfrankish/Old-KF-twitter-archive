@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 23:55:23 +0000 2020",
+		"id": 1214608313100513300,
+		"id_str": "1214697067379134465",
+		"full_text": "In about 1995 I met someone whose first passport was issued by the Ottoman Empire.  He's no longer with us.  Is it possible anyone is still alive who had one?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109895940,
+			"id_str": "109895940",
+			"name": "History Scientist",
+			"screen_name": "historyscientis",
+			"location": "West Sussex",
+			"description": "Editor of the Abridged Twitter edition of Gibbon's Decline and Fall of the Roman Empire. Can't sing, can't act.  Can tweet a little.",
+			"url": "https://t.co/UiPWQuTf0g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UiPWQuTf0g",
+							"expanded_url": "http://historybooksreview.co.uk",
+							"display_url": "historybooksreview.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14308,
+			"friends_count": 11925,
+			"listed_count": 332,
+			"created_at": "Sat Jan 30 16:33:40 +0000 2010",
+			"favourites_count": 4090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/769109491019288576/NVLLkxRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/769109491019288576/NVLLkxRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109895940/1401378631",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In about 1995 I met someone whose first passport was issued by the Ottoman Empire.  He's no longer with us.  Is it possible anyone is still alive who had one?"
+	},
+	{
+		"created_at": "Tue Jan 07 19:18:08 +0000 2020",
+		"id": 1214627297048891400,
+		"id_str": "1214627297048891392",
+		"full_text": ".@seanmcarroll conducts an excellent extended interview with @danieldennett, covering realism, intentionality, purpose, agency, consciousness, free will, responsibility, &amp; religion. Highly recommended for anyone who wants to understand Dennett's worldview. https://t.co/AwTRXsoQ9M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seanmcarroll",
+					"name": "Sean Carroll",
+					"id": 21611239,
+					"id_str": "21611239",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"screen_name": "danieldennett",
+					"name": "Daniel Dennett",
+					"id": 997629601,
+					"id_str": "997629601",
+					"indices": [
+						61,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AwTRXsoQ9M",
+					"expanded_url": "http://www.preposterousuniverse.com/podcast/2020/01/06/78-daniel-dennett-on-minds-patterns-and-the-scientific-image/",
+					"display_url": "preposterousuniverse.com/podcast/2020/0…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11300,
+			"friends_count": 2011,
+			"listed_count": 500,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 33355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@seanmcarroll conducts an excellent extended interview with @danieldennett, covering realism, intentionality, purpose, agency, consciousness, free will, responsibility, &amp; religion. Highly recommended for anyone who wants to understand Dennett's worldview. https://t.co/AwTRXsoQ9M"
+	},
+	{
 		"created_at": "Tue Jan 07 01:23:57 +0000 2020",
 		"id": 1214356967013200000,
 		"id_str": "1214356967013199873",
