@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 00:36:18 +0000 2020",
+		"id": 1222898175695974400,
+		"id_str": "1223042285807570951",
+		"full_text": "Excellent article in @LRB on Britain's complicated history with regards to slavery and immigration https://t.co/Q8fS4C8Gfq featuring a review of Homecoming by @colincraiggrant. Colin will be appearing at the festival on 21st March with @d_gray_writer https://t.co/AEgV15VEhp https://t.co/eT9MYHEtzn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LRB",
+					"name": "London Review of Books",
+					"id": 23975060,
+					"id_str": "23975060",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"screen_name": "colincraiggrant",
+					"name": "colin grant",
+					"id": 25547821,
+					"id_str": "25547821",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"screen_name": "d_gray_writer",
+					"name": "Daniel Gray",
+					"id": 125625959,
+					"id_str": "125625959",
+					"indices": [
+						236,
+						250
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q8fS4C8Gfq",
+					"expanded_url": "http://bit.ly/2S5hCM3",
+					"display_url": "bit.ly/2S5hCM3",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/AEgV15VEhp",
+					"expanded_url": "http://bit.ly/colingrantayewrite",
+					"display_url": "bit.ly/colingrantayew…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222898171610710000,
+					"id_str": "1222898171610710020",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EPibaGtUwAQ49DW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPibaGtUwAQ49DW.jpg",
+					"url": "https://t.co/eT9MYHEtzn",
+					"display_url": "pic.twitter.com/eT9MYHEtzn",
+					"expanded_url": "https://twitter.com/AyeWrite/status/1222898175695974400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 489,
+									"y": 72,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 600,
+									"y": 53,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 698,
+									"y": 104,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 857,
+									"y": 77,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 698,
+									"y": 104,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 857,
+									"y": 77,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 698,
+									"y": 104,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 857,
+									"y": 77,
+									"h": 69,
+									"w": 69
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222898171610710000,
+					"id_str": "1222898171610710020",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EPibaGtUwAQ49DW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPibaGtUwAQ49DW.jpg",
+					"url": "https://t.co/eT9MYHEtzn",
+					"display_url": "pic.twitter.com/eT9MYHEtzn",
+					"expanded_url": "https://twitter.com/AyeWrite/status/1222898175695974400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 489,
+									"y": 72,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 600,
+									"y": 53,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 698,
+									"y": 104,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 857,
+									"y": 77,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 698,
+									"y": 104,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 857,
+									"y": 77,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 698,
+									"y": 104,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 857,
+									"y": 77,
+									"h": 69,
+									"w": 69
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95660583,
+			"id_str": "95660583",
+			"name": "Aye Write",
+			"screen_name": "AyeWrite",
+			"location": "Glasgow, Scotland",
+			"description": "Aye Write Glasgow's Book Festival 12-29 March 2020",
+			"url": "https://t.co/Yqm4DtMBbU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Yqm4DtMBbU",
+							"expanded_url": "http://www.ayewrite.com",
+							"display_url": "ayewrite.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12975,
+			"friends_count": 1141,
+			"listed_count": 293,
+			"created_at": "Wed Dec 09 14:50:00 +0000 2009",
+			"favourites_count": 2218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217738999906947072/5BT1nxto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217738999906947072/5BT1nxto_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95660583/1579166577",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excellent article in @LRB on Britain's complicated history with regards to slavery and immigration https://t.co/Q8fS4C8Gfq featuring a review of Homecoming by @colincraiggrant. Colin will be appearing at the festival on 21st March with @d_gray_writer https://t.co/AEgV15VEhp https://t.co/eT9MYHEtzn"
+	},
+	{
+		"created_at": "Thu Jan 30 22:06:15 +0000 2020",
+		"id": 1223000727569617000,
+		"id_str": "1223004522454437889",
+		"full_text": "For the benefit of all readers, I have compiled my \"Causal, Casual and Curious\" articles in one searchable page, now posted here: https://t.co/sgN5Ap6TsT . Enjoy. #Bookofwhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bookofwhy",
+					"indices": [
+						163,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sgN5Ap6TsT",
+					"expanded_url": "https://ucla.in/3aWaQkf",
+					"display_url": "ucla.in/3aWaQkf",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3363584909,
+			"id_str": "3363584909",
+			"name": "Judea Pearl",
+			"screen_name": "yudapearl",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/tvD1k0JUOg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tvD1k0JUOg",
+							"expanded_url": "http://bayes.cs.ucla.edu/WHY/",
+							"display_url": "bayes.cs.ucla.edu/WHY/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28530,
+			"friends_count": 18,
+			"listed_count": 404,
+			"created_at": "Tue Jul 07 03:59:49 +0000 2015",
+			"favourites_count": 1356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012181647993606144/TeYvs7NH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012181647993606144/TeYvs7NH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3363584909/1530158070",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 87,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For the benefit of all readers, I have compiled my \"Causal, Casual and Curious\" articles in one searchable page, now posted here: https://t.co/sgN5Ap6TsT . Enjoy. #Bookofwhy"
+	},
+	{
 		"created_at": "Wed Jan 29 21:57:32 +0000 2020",
 		"id": 1222639944545579000,
 		"id_str": "1222639944545579008",
