@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 23:21:00 +0000 2020",
+		"id": 1223384461640896500,
+		"id_str": "1223385724130680832",
+		"full_text": "https://t.co/ZJKALaiL5p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223384448944742400,
+					"id_str": "1223384448944742402",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPpVrK8WoAIa9UA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPpVrK8WoAIa9UA.jpg",
+					"url": "https://t.co/ZJKALaiL5p",
+					"display_url": "pic.twitter.com/ZJKALaiL5p",
+					"expanded_url": "https://twitter.com/jtlovell1979/status/1223384461640896512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223384448944742400,
+					"id_str": "1223384448944742402",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPpVrK8WoAIa9UA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPpVrK8WoAIa9UA.jpg",
+					"url": "https://t.co/ZJKALaiL5p",
+					"display_url": "pic.twitter.com/ZJKALaiL5p",
+					"expanded_url": "https://twitter.com/jtlovell1979/status/1223384461640896512/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							10,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EPpVrK8WoAIa9UA.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19063209,
+			"id_str": "19063209",
+			"name": "Jamie",
+			"screen_name": "jtlovell1979",
+			"location": "Doncaster, England",
+			"description": "Uncool before it was cool to be uncool. You can be oh so smart, or oh so pleasant. I've tried smart. I recommend pleasant.",
+			"url": "https://t.co/yMvFeP24eK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yMvFeP24eK",
+							"expanded_url": "http://jamielovell.blogspot.com/",
+							"display_url": "jamielovell.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2685,
+			"friends_count": 1062,
+			"listed_count": 108,
+			"created_at": "Fri Jan 16 11:48:06 +0000 2009",
+			"favourites_count": 4265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 425010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CBD9FB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/835476584471662592/C33ZVlS0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/835476584471662592/C33ZVlS0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19063209/1398257046",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "293224",
+			"profile_sidebar_fill_color": "F1AC37",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ZJKALaiL5p"
+	},
+	{
 		"created_at": "Fri Jan 31 00:36:18 +0000 2020",
 		"id": 1222898175695974400,
 		"id_str": "1223042285807570951",
