@@ -1,6 +1,738 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 23:01:07 +0000 2020",
+		"id": 1286073819032166400,
+		"id_str": "1286073819032166400",
+		"full_text": "@ancientnmodern @lithgaelark Caesar sic in omnibus.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "Dame VictoriaG Esq (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "lithgaelark",
+					"name": "Jennie Murray 🇪🇺🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 54968430,
+					"id_str": "54968430",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1286072676109422600,
+		"in_reply_to_status_id_str": "1286072676109422596",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13481,
+			"friends_count": 2134,
+			"listed_count": 485,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 38341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "cy",
+		"text": "@ancientnmodern @lithgaelark Caesar sic in omnibus."
+	},
+	{
+		"created_at": "Wed Jul 22 21:57:47 +0000 2020",
+		"id": 1286057881486471200,
+		"id_str": "1286057881486471168",
+		"full_text": "This is a rather good movie. -&gt; Personal Affair 1953  (Gene Tierney - Glynis Johns) https://t.co/lb0ADhdHzo via @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lb0ADhdHzo",
+					"expanded_url": "https://youtu.be/Sjs9u1wlFcw",
+					"display_url": "youtu.be/Sjs9u1wlFcw",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13481,
+			"friends_count": 2134,
+			"listed_count": 485,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 38341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a rather good movie. -&gt; Personal Affair 1953  (Gene Tierney - Glynis Johns) https://t.co/lb0ADhdHzo via @YouTube"
+	},
+	{
+		"created_at": "Wed Jul 22 17:02:03 +0000 2020",
+		"id": 1285934557716516900,
+		"id_str": "1285983459610165249",
+		"full_text": "\"Philosophy is a public good and a philosophical education produces citizens capable of addressing the problems we all confront\" -Alison Assiter (UWE) defending her department against proposed closure in the philosophy series I'm running @DailyNousEditor \nhttps://t.co/7qZ7xWYsrn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DailyNousEditor",
+					"name": "Daily Nous / Justin Weinberg",
+					"id": 2386399081,
+					"id_str": "2386399081",
+					"indices": [
+						238,
+						254
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7qZ7xWYsrn",
+					"expanded_url": "http://dailynous.com/2020/07/22/philosophy-employment-public-good-guest-post-alison-assiter/",
+					"display_url": "dailynous.com/2020/07/22/phi…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1072880483405586400,
+			"id_str": "1072880483405586432",
+			"name": "Aaron James Wendland",
+			"screen_name": "ajwendland",
+			"location": "",
+			"description": "Philosophy Moderator at the New Statesman | Professor of Philosophy at the Higher School of Economics | Art Critic at the Moscow Times",
+			"url": "https://t.co/6dL2iHRaXX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dL2iHRaXX",
+							"expanded_url": "https://www.hse.ru/en/org/persons/200045166",
+							"display_url": "hse.ru/en/org/persons…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1580,
+			"friends_count": 168,
+			"listed_count": 33,
+			"created_at": "Wed Dec 12 15:46:55 +0000 2018",
+			"favourites_count": 732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072900507004534785/FCxyC6bn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072900507004534785/FCxyC6bn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1072880483405586432/1544630961",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 105,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Philosophy is a public good and a philosophical education produces citizens capable of addressing the problems we all confront\" -Alison Assiter (UWE) defending her department against proposed closure in the philosophy series I'm running @DailyNousEditor \nhttps://t.co/7qZ7xWYsrn"
+	},
+	{
+		"created_at": "Wed Jul 22 13:44:51 +0000 2020",
+		"id": 1285901917894455300,
+		"id_str": "1285933831191777281",
+		"full_text": "No.1 trend in Greek twitter right now: #πολεμος = war https://t.co/wJu8qQE21B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "πολεμος",
+					"indices": [
+						39,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1285901721001250800,
+					"id_str": "1285901721001250816",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EdhwzWBX0AAD0gT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdhwzWBX0AAD0gT.png",
+					"url": "https://t.co/wJu8qQE21B",
+					"display_url": "pic.twitter.com/wJu8qQE21B",
+					"expanded_url": "https://twitter.com/GreekAnalyst/status/1285901917894455296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 568,
+							"h": 218,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 568,
+							"h": 218,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285901721001250800,
+					"id_str": "1285901721001250816",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EdhwzWBX0AAD0gT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdhwzWBX0AAD0gT.png",
+					"url": "https://t.co/wJu8qQE21B",
+					"display_url": "pic.twitter.com/wJu8qQE21B",
+					"expanded_url": "https://twitter.com/GreekAnalyst/status/1285901917894455296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 568,
+							"h": 218,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 568,
+							"h": 218,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2977900810,
+			"id_str": "2977900810",
+			"name": "The Greek Analyst",
+			"screen_name": "GreekAnalyst",
+			"location": "",
+			"description": "Updates and commentary on startups, economics, geopolitics, political risk & global markets. Focus on Greece & Europe. RTs not (necessarily) endorsements.",
+			"url": "https://t.co/VulbaZVkau",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VulbaZVkau",
+							"expanded_url": "https://greekanalyst.wordpress.com/",
+							"display_url": "greekanalyst.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50407,
+			"friends_count": 4275,
+			"listed_count": 1218,
+			"created_at": "Wed Jan 14 10:49:38 +0000 2015",
+			"favourites_count": 155885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 118165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/806942306360262656/UueHdyRK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/806942306360262656/UueHdyRK_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No.1 trend in Greek twitter right now: #πολεμος = war https://t.co/wJu8qQE21B"
+	},
+	{
+		"created_at": "Wed Jul 22 13:30:39 +0000 2020",
+		"id": 1285930258458386400,
+		"id_str": "1285930258458386434",
+		"full_text": "We all deserve cancellation. Who will be our Uncanceller?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13481,
+			"friends_count": 2134,
+			"listed_count": 485,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 38341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "We all deserve cancellation. Who will be our Uncanceller?"
+	},
+	{
+		"created_at": "Wed Jul 22 12:00:57 +0000 2020",
+		"id": 1285907684210937900,
+		"id_str": "1285907684210937856",
+		"full_text": "@marinab52 Yes, the initial mint chocolate taste was not unacceptable. It was the subsequent zingy cleaning feeling and general frothy biscuit effect that soured the experience. It did, however, afford considerable amusement to two ten-year-olds.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marinab52",
+					"name": "Marina Benjamin",
+					"id": 415473302,
+					"id_str": "415473302",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1285863152274542600,
+		"in_reply_to_status_id_str": "1285863152274542592",
+		"in_reply_to_user_id": 415473302,
+		"in_reply_to_user_id_str": "415473302",
+		"in_reply_to_screen_name": "marinab52",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13481,
+			"friends_count": 2134,
+			"listed_count": 485,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 38341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@marinab52 Yes, the initial mint chocolate taste was not unacceptable. It was the subsequent zingy cleaning feeling and general frothy biscuit effect that soured the experience. It did, however, afford considerable amusement to two ten-year-olds."
+	},
+	{
 		"created_at": "Wed Jul 22 01:02:22 +0000 2020",
 		"id": 1285741946846273500,
 		"id_str": "1285741946846273539",
@@ -849,7 +1581,7 @@ Grailbird.data.tweets_2020_07 =
 		"user": {
 			"id": 142387540,
 			"id_str": "142387540",
-			"name": "Dr Rachel Handley 🏳️‍🌈",
+			"name": "Dr Rachel Handley 🏳️🌈",
 			"screen_name": "_RachelHandley",
 			"location": "Views are my own. ",
 			"description": "Philosopher: metaethics & metaphilosophy.\n\nWriter: sci-fi short stories👇, reviews, + finishing a novel.\n\nVery pleased by round birds.\n\n#bivisibility she/they",
