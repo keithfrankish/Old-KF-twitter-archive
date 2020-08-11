@@ -1,6 +1,562 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 19:51:40 +0000 2020",
+		"id": 1292911513506848800,
+		"id_str": "1292911513506848769",
+		"full_text": "I'm sleeping here tonight https://t.co/Fg4xJjwQqk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292911510038225000,
+					"id_str": "1292911510038224896",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EfFYKxHXoAAu-d6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfFYKxHXoAAu-d6.jpg",
+					"url": "https://t.co/Fg4xJjwQqk",
+					"display_url": "pic.twitter.com/Fg4xJjwQqk",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1292911513506848769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292911510038225000,
+					"id_str": "1292911510038224896",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EfFYKxHXoAAu-d6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfFYKxHXoAAu-d6.jpg",
+					"url": "https://t.co/Fg4xJjwQqk",
+					"display_url": "pic.twitter.com/Fg4xJjwQqk",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1292911513506848769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13637,
+			"friends_count": 2137,
+			"listed_count": 493,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 38598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm sleeping here tonight https://t.co/Fg4xJjwQqk"
+	},
+	{
+		"created_at": "Mon Aug 10 18:06:24 +0000 2020",
+		"id": 1292880325639454700,
+		"id_str": "1292885023700459522",
+		"full_text": "Hi Twitter, I volunteer at a shelter for indigenous people and it has motivated me to learn more about the history &amp; discrimination faced by the community. I ordered some books on the topic -- does anyone know of ressources, podcasts and/or people to follow for further education?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 829083819634466800,
+			"id_str": "829083819634466820",
+			"name": "Sophia",
+			"screen_name": "SophieFernier",
+			"location": "Montréal, Québec",
+			"description": "Part-time philosopher interested in baby animals, knitting and poetry. Available in English / Français / Русский. She/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 677,
+			"friends_count": 396,
+			"listed_count": 13,
+			"created_at": "Tue Feb 07 21:46:01 +0000 2017",
+			"favourites_count": 24738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291843389823102978/a8hFBDbx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291843389823102978/a8hFBDbx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/829083819634466820/1592087152",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hi Twitter, I volunteer at a shelter for indigenous people and it has motivated me to learn more about the history &amp; discrimination faced by the community. I ordered some books on the topic -- does anyone know of ressources, podcasts and/or people to follow for further education?"
+	},
+	{
+		"created_at": "Mon Aug 10 17:59:14 +0000 2020",
+		"id": 1292883219990417400,
+		"id_str": "1292883219990417409",
+		"full_text": "Petralona https://t.co/4FzVYRH0IE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292883216563675100,
+					"id_str": "1292883216563675137",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/EfE-b3tXoAEuN2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfE-b3tXoAEuN2G.jpg",
+					"url": "https://t.co/4FzVYRH0IE",
+					"display_url": "pic.twitter.com/4FzVYRH0IE",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1292883219990417409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292883216563675100,
+					"id_str": "1292883216563675137",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/EfE-b3tXoAEuN2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfE-b3tXoAEuN2G.jpg",
+					"url": "https://t.co/4FzVYRH0IE",
+					"display_url": "pic.twitter.com/4FzVYRH0IE",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1292883219990417409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13637,
+			"friends_count": 2137,
+			"listed_count": 493,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 38598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ca",
+		"text": "Petralona https://t.co/4FzVYRH0IE"
+	},
+	{
+		"created_at": "Mon Aug 10 11:45:30 +0000 2020",
+		"id": 1292789165118107600,
+		"id_str": "1292789165118107649",
+		"full_text": "@Rongreen5 @gerdunne71 @Philip_Goff I'm up for it if he is!",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rongreen5",
+					"name": "Ron Green",
+					"id": 82719597,
+					"id_str": "82719597",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "gerdunne71",
+					"name": "Gerry",
+					"id": 3248116287,
+					"id_str": "3248116287",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292787918008877000,
+		"in_reply_to_status_id_str": "1292787918008877058",
+		"in_reply_to_user_id": 82719597,
+		"in_reply_to_user_id_str": "82719597",
+		"in_reply_to_screen_name": "Rongreen5",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13637,
+			"friends_count": 2137,
+			"listed_count": 493,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 38598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Rongreen5 @gerdunne71 @Philip_Goff I'm up for it if he is!"
+	},
+	{
 		"created_at": "Sun Aug 09 21:26:08 +0000 2020",
 		"id": 1292572899409309700,
 		"id_str": "1292572899409309698",
@@ -616,7 +1172,7 @@ Grailbird.data.tweets_2020_08 =
 				"name": "Miércoles-MartínezOrdaz",
 				"screen_name": "MMartinezordaz",
 				"location": "",
-				"description": "Phil of Sc. + Logic | Drawing philosophy |\nPostdoctoral fellow @UFRJ, Rio de Janeiro, Brazil​ | 🇲🇽 in 🇧🇷",
+				"description": "Phil of Sc. + Logic | Drawing philosophy |\nPostdoctoral fellow @UFRJ, Rio de Janeiro, Brazil | 🇲🇽 in 🇧🇷",
 				"url": "https://t.co/SW5aV9tQya",
 				"entities": {
 					"url": {
