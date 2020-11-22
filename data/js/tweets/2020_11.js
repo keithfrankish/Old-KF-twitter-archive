@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 22 01:57:14 +0000 2020",
+		"id": 1330173067696484400,
+		"id_str": "1330329460772663297",
+		"full_text": "And in other news, this is the most cost-effective way in history to improve human well-being, &amp; it could benefit hundreds of millions of people. https://t.co/FpY3Guahef",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FpY3Guahef",
+					"expanded_url": "https://twitter.com/EvidenceAction/status/1330171652005638148",
+					"display_url": "twitter.com/EvidenceAction…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3656836876,
+			"id_str": "3656836876",
+			"name": "Geoffrey Miller",
+			"screen_name": "primalpoly",
+			"location": "New Mexico",
+			"description": "Psychology professor; wrote The Mating Mind, Spent, Mate, & Virtue Signaling. Agnostic centrist into evolution, sex, sentience, freedom & future.",
+			"url": "https://t.co/9LOW7X8iAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9LOW7X8iAI",
+							"expanded_url": "https://www.primalpoly.com/",
+							"display_url": "primalpoly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91671,
+			"friends_count": 3371,
+			"listed_count": 1153,
+			"created_at": "Mon Sep 14 20:56:57 +0000 2015",
+			"favourites_count": 101886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139947986404855809/3r_DKq4M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139947986404855809/3r_DKq4M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3656836876/1605078161",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1330171652005638100,
+		"quoted_status_id_str": "1330171652005638148",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FpY3Guahef",
+			"expanded": "https://twitter.com/EvidenceAction/status/1330171652005638148",
+			"display": "twitter.com/EvidenceAction…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 21 15:30:09 +0000 2020",
+			"id": 1330171652005638100,
+			"id_str": "1330171652005638148",
+			"full_text": "What if investing 50 cents in a child today could dramatically improve their life, even 20 years later? We now have evidence that one of our programs does just that. https://t.co/tpQ6pUpGE2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tpQ6pUpGE2",
+						"expanded_url": "https://www.evidenceaction.org/press-release-the-44-cent-treatment-that-dramatically-changed-lives-in-kenya/",
+						"display_url": "evidenceaction.org/press-release-…",
+						"indices": [
+							166,
+							189
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88635537,
+				"id_str": "88635537",
+				"name": "Evidence Action",
+				"screen_name": "EvidenceAction",
+				"location": "Global",
+				"description": "Scaling proven, cost-effective solutions to reduce the burden of global poverty. Impact recognized by @GiveWell, @CharityNav, & @LifeYouCanSave.",
+				"url": "https://t.co/yidwW4iODc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yidwW4iODc",
+								"expanded_url": "https://www.evidenceaction.org/",
+								"display_url": "evidenceaction.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9343,
+				"friends_count": 810,
+				"listed_count": 0,
+				"created_at": "Mon Nov 09 10:20:09 +0000 2009",
+				"favourites_count": 1323,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5944,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AD9985",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583363755595042816/T_M7YDpz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583363755595042816/T_M7YDpz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88635537/1427919698",
+				"profile_link_color": "A7A2A4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 26,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And in other news, this is the most cost-effective way in history to improve human well-being, &amp; it could benefit hundreds of millions of people. https://t.co/FpY3Guahef"
+	},
+	{
 		"created_at": "Sun Nov 22 00:52:55 +0000 2020",
 		"id": 1330313275930710000,
 		"id_str": "1330313275930710019",
@@ -450,7 +668,7 @@ Grailbird.data.tweets_2020_11 =
 			"user_mentions": [
 				{
 					"screen_name": "morallawwithin",
-					"name": "flo bacus 🏳️‍🌈💜",
+					"name": "flo bacus 🏳️🌈💜",
 					"id": 757843885087268900,
 					"id_str": "757843885087268865",
 					"indices": [
@@ -556,7 +774,7 @@ Grailbird.data.tweets_2020_11 =
 			"user_mentions": [
 				{
 					"screen_name": "morallawwithin",
-					"name": "flo bacus 🏳️‍🌈💜",
+					"name": "flo bacus 🏳️🌈💜",
 					"id": 757843885087268900,
 					"id_str": "757843885087268865",
 					"indices": [
