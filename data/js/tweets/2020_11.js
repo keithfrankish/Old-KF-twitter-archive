@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 22 20:00:42 +0000 2020",
+		"id": 1330537680132829200,
+		"id_str": "1330602124351332362",
+		"full_text": "Day 22 #Museum30 mask. Another oldie but this is the wax death mask of Oliver Cromwell from @britishmuseum. One of the most sensitive items to fluctuations in temperature, we used to have to remove it from display when it got too hot in the summer to stop it melting! https://t.co/v0raP3VfZx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Museum30",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "britishmuseum",
+					"name": "British Museum",
+					"id": 19066345,
+					"id_str": "19066345",
+					"indices": [
+						92,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1330537670561427500,
+					"id_str": "1330537670561427457",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EncE9j4W8AEOfWB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EncE9j4W8AEOfWB.jpg",
+					"url": "https://t.co/v0raP3VfZx",
+					"display_url": "pic.twitter.com/v0raP3VfZx",
+					"expanded_url": "https://twitter.com/lucyj_e/status/1330537680132829186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 741,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1265,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1330537670561427500,
+					"id_str": "1330537670561427457",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EncE9j4W8AEOfWB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EncE9j4W8AEOfWB.jpg",
+					"url": "https://t.co/v0raP3VfZx",
+					"display_url": "pic.twitter.com/v0raP3VfZx",
+					"expanded_url": "https://twitter.com/lucyj_e/status/1330537680132829186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 741,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1265,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3121615741,
+			"id_str": "3121615741",
+			"name": "Lucy Ellis",
+			"screen_name": "lucyj_e",
+			"location": "London, England",
+			"description": "All things Collections Management & Documentation, currently @NHM_London (Past: SAL, BM) | Sideline: Prehistoric archaeology | Feminist | She/her. Views mine.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 880,
+			"friends_count": 702,
+			"listed_count": 14,
+			"created_at": "Tue Mar 31 20:32:10 +0000 2015",
+			"favourites_count": 6480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240234291122102273/KEOmx_Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240234291122102273/KEOmx_Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3121615741/1561979324",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 22 #Museum30 mask. Another oldie but this is the wax death mask of Oliver Cromwell from @britishmuseum. One of the most sensitive items to fluctuations in temperature, we used to have to remove it from display when it got too hot in the summer to stop it melting! https://t.co/v0raP3VfZx"
+	},
+	{
+		"created_at": "Sun Nov 22 19:50:02 +0000 2020",
+		"id": 1330415942988423200,
+		"id_str": "1330599441766752259",
+		"full_text": "How phyllo is handmade by one of Greece's last pastry masters https://t.co/MzHqyF3ymV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1329825910346961000,
+					"id_str": "1329825910346960901",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EnaWPHgWEAEGOsz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnaWPHgWEAEGOsz.jpg",
+					"url": "https://t.co/MzHqyF3ymV",
+					"display_url": "pic.twitter.com/MzHqyF3ymV",
+					"expanded_url": "https://twitter.com/InsiderFood/status/1330415942988423169/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329825910346961000,
+					"id_str": "1329825910346960901",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EnaWPHgWEAEGOsz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnaWPHgWEAEGOsz.jpg",
+					"url": "https://t.co/MzHqyF3ymV",
+					"display_url": "pic.twitter.com/MzHqyF3ymV",
+					"expanded_url": "https://twitter.com/InsiderFood/status/1330415942988423169/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 459025,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1329825910346960901/pl/vg5rfw30nOg4oQXY.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1329825910346960901/vid/480x270/aAeiQeZ7Dt1McF0N.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1329825910346960901/vid/640x360/BoW-T1CQ4wIUilpW.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1329825910346960901/vid/1280x720/G_Cc0EsZEcKdazHe.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "How phyllo is handmade by one of Greece's last pastry masters",
+						"description": "At 86 years old, Giorgos Hatziparaskos is one of the last bakers in Greece making phyllo pastry by hand.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.insider.com"
+							}
+						},
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4805771380,
+			"id_str": "4805771380",
+			"name": "Food Insider",
+			"screen_name": "InsiderFood",
+			"location": "",
+			"description": "What you want to know about food. A division of @thisisinsider. Follow us on Facebook, Instagram, and YouTube. Visit our homepage for the day's top stories.",
+			"url": "https://t.co/2EzdPPnNcN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2EzdPPnNcN",
+							"expanded_url": "https://www.insider.com/food",
+							"display_url": "insider.com/food",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309288,
+			"friends_count": 84,
+			"listed_count": 1103,
+			"created_at": "Thu Jan 14 16:29:00 +0000 2016",
+			"favourites_count": 986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197956481490046978/KVM83r-7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197956481490046978/KVM83r-7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4805771380/1544133252",
+			"profile_link_color": "00C59C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 820,
+		"favorite_count": 3124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How phyllo is handmade by one of Greece's last pastry masters https://t.co/MzHqyF3ymV"
+	},
+	{
+		"created_at": "Sun Nov 22 16:26:16 +0000 2020",
+		"id": 1330548159337148400,
+		"id_str": "1330548159337148420",
+		"full_text": "@ancientnmodern Sounds like a perfect birthday!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "Dame VictoriaG Esq (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1330547577138319400,
+		"in_reply_to_status_id_str": "1330547577138319360",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14591,
+			"friends_count": 2174,
+			"listed_count": 503,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 41764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ancientnmodern Sounds like a perfect birthday!"
+	},
+	{
+		"created_at": "Sun Nov 22 16:18:59 +0000 2020",
+		"id": 1330546327177064400,
+		"id_str": "1330546327177064450",
+		"full_text": "@Jimdrix_Hendri @Decafquest I found it years ago in David Jones's brilliant Daedalus column in the NS, and I am always on the lookout for opportunities to use it. (Three so far, I think.)",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jimdrix_Hendri",
+					"name": "FrankM",
+					"id": 861710000162517000,
+					"id_str": "861710000162516992",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Decafquest",
+					"name": "Mahmoud Rasmi",
+					"id": 994962820872785900,
+					"id_str": "994962820872785922",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1330545124951154700,
+		"in_reply_to_status_id_str": "1330545124951154693",
+		"in_reply_to_user_id": 861710000162517000,
+		"in_reply_to_user_id_str": "861710000162516992",
+		"in_reply_to_screen_name": "Jimdrix_Hendri",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14591,
+			"friends_count": 2174,
+			"listed_count": 503,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 41764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Jimdrix_Hendri @Decafquest I found it years ago in David Jones's brilliant Daedalus column in the NS, and I am always on the lookout for opportunities to use it. (Three so far, I think.)"
+	},
+	{
 		"created_at": "Sun Nov 22 01:57:14 +0000 2020",
 		"id": 1330173067696484400,
 		"id_str": "1330329460772663297",
