@@ -1,6 +1,778 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 23:13:00 +0000 2020",
+		"id": 1337535888864252000,
+		"id_str": "1337535888864251911",
+		"full_text": "The UK fish seem to have an awful lot of power. Or someone down there anyway. https://t.co/fS03cfCWOq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337535426844823600,
+					"id_str": "1337535426844823552",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo_hYleWEAAwEXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo_hYleWEAAwEXh.jpg",
+					"url": "https://t.co/fS03cfCWOq",
+					"display_url": "pic.twitter.com/fS03cfCWOq",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1337535888864251911/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 976,
+							"h": 549,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 976,
+							"h": 549,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337535426844823600,
+					"id_str": "1337535426844823552",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo_hYleWEAAwEXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo_hYleWEAAwEXh.jpg",
+					"url": "https://t.co/fS03cfCWOq",
+					"display_url": "pic.twitter.com/fS03cfCWOq",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1337535888864251911/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 976,
+							"h": 549,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 976,
+							"h": 549,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14722,
+			"friends_count": 2187,
+			"listed_count": 505,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 42272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The UK fish seem to have an awful lot of power. Or someone down there anyway. https://t.co/fS03cfCWOq"
+	},
+	{
+		"created_at": "Fri Dec 11 22:16:13 +0000 2020",
+		"id": 1337521596282646500,
+		"id_str": "1337521596282646531",
+		"full_text": "@NeuroYogacara 👍",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeuroYogacara",
+					"name": "Bryce",
+					"id": 131644899,
+					"id_str": "131644899",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1337494385030738000,
+		"in_reply_to_status_id_str": "1337494385030737923",
+		"in_reply_to_user_id": 131644899,
+		"in_reply_to_user_id_str": "131644899",
+		"in_reply_to_screen_name": "NeuroYogacara",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14722,
+			"friends_count": 2187,
+			"listed_count": 505,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 42272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@NeuroYogacara 👍"
+	},
+	{
+		"created_at": "Fri Dec 11 22:00:05 +0000 2020",
+		"id": 1337488088650625000,
+		"id_str": "1337517536640987136",
+		"full_text": "Just your friendly reminder that the new Brexit ‘the EU is punishing us/it’s all the fault of Remainers’ lie is the chronicle of a lie foretold.  Reposting this is not a tribute to my prophetic gifts, it’s just that the  lies were so painfully predictable: https://t.co/98qCh2gilp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/98qCh2gilp",
+					"expanded_url": "http://www.infernalmachine.co.uk/brexit-the-stab-in-the-back/",
+					"display_url": "infernalmachine.co.uk/brexit-the-sta…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 288409122,
+			"id_str": "288409122",
+			"name": "Matt Carr",
+			"screen_name": "MattCarr55",
+			"location": "United Kingdom",
+			"description": "Writer, author, journalist. Trying to see in dark times and hoping for better ones. No tolerance for liars, fanatics, racists, fascists or their enablers",
+			"url": "https://t.co/DYhLGeCU2i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DYhLGeCU2i",
+							"expanded_url": "http://www.infernalmachine.co.uk",
+							"display_url": "infernalmachine.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10232,
+			"friends_count": 6176,
+			"listed_count": 79,
+			"created_at": "Tue Apr 26 20:11:22 +0000 2011",
+			"favourites_count": 36065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020647924697653248/zhCRIPJI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020647924697653248/zhCRIPJI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/288409122/1584373851",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just your friendly reminder that the new Brexit ‘the EU is punishing us/it’s all the fault of Remainers’ lie is the chronicle of a lie foretold.  Reposting this is not a tribute to my prophetic gifts, it’s just that the  lies were so painfully predictable: https://t.co/98qCh2gilp"
+	},
+	{
+		"created_at": "Fri Dec 11 20:25:23 +0000 2020",
+		"id": 1337493705549357000,
+		"id_str": "1337493705549357056",
+		"full_text": "@NeuroYogacara Sure. Everyone's struggling this year. Just let me know what you need.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeuroYogacara",
+					"name": "Bryce",
+					"id": 131644899,
+					"id_str": "131644899",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1337492765173821400,
+		"in_reply_to_status_id_str": "1337492765173821440",
+		"in_reply_to_user_id": 131644899,
+		"in_reply_to_user_id_str": "131644899",
+		"in_reply_to_screen_name": "NeuroYogacara",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14722,
+			"friends_count": 2187,
+			"listed_count": 505,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 42272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NeuroYogacara Sure. Everyone's struggling this year. Just let me know what you need."
+	},
+	{
+		"created_at": "Fri Dec 11 20:21:23 +0000 2020",
+		"id": 1337445143016771600,
+		"id_str": "1337492699071524865",
+		"full_text": "Never the wrong rime to Tweet and Re-Tweet this... https://t.co/iE2gB47n9t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337444683467939800,
+					"id_str": "1337444683467939843",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo-O2oDXYAM5m-e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo-O2oDXYAM5m-e.jpg",
+					"url": "https://t.co/iE2gB47n9t",
+					"display_url": "pic.twitter.com/iE2gB47n9t",
+					"expanded_url": "https://twitter.com/SquashedBox/status/1337445143016771585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 967,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 967,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337444683467939800,
+					"id_str": "1337444683467939843",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo-O2oDXYAM5m-e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo-O2oDXYAM5m-e.jpg",
+					"url": "https://t.co/iE2gB47n9t",
+					"display_url": "pic.twitter.com/iE2gB47n9t",
+					"expanded_url": "https://twitter.com/SquashedBox/status/1337445143016771585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 967,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 967,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 341705770,
+			"id_str": "341705770",
+			"name": "Glyn Hughes",
+			"screen_name": "SquashedBox",
+			"location": "Derbyshire, England",
+			"description": "Editor of Squashed Books galore, pursuer of wisdom, design, sculpture, @jumbly, cheap wine. Critical critic in the evenings. And,Yes, that's where we live",
+			"url": "http://t.co/GTD4NKWTda",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/GTD4NKWTda",
+							"expanded_url": "http://thehundredbooks.com/index.htm",
+							"display_url": "thehundredbooks.com/index.htm",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 812,
+			"friends_count": 914,
+			"listed_count": 12,
+			"created_at": "Sun Jul 24 20:35:49 +0000 2011",
+			"favourites_count": 15407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/691553148931043328/clybAOGz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/691553148931043328/clybAOGz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/341705770/1404910036",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "0D0D0D",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never the wrong rime to Tweet and Re-Tweet this... https://t.co/iE2gB47n9t"
+	},
+	{
+		"created_at": "Fri Dec 11 20:20:50 +0000 2020",
+		"id": 1337492558944096300,
+		"id_str": "1337492558944096263",
+		"full_text": "@NeuroYogacara I hope you'll be telling us in a little book that's coming soon!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeuroYogacara",
+					"name": "Bryce",
+					"id": 131644899,
+					"id_str": "131644899",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1337449152825974800,
+		"in_reply_to_status_id_str": "1337449152825974784",
+		"in_reply_to_user_id": 131644899,
+		"in_reply_to_user_id_str": "131644899",
+		"in_reply_to_screen_name": "NeuroYogacara",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14722,
+			"friends_count": 2187,
+			"listed_count": 505,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 42272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NeuroYogacara I hope you'll be telling us in a little book that's coming soon!"
+	},
+	{
 		"created_at": "Fri Dec 11 01:40:24 +0000 2020",
 		"id": 1337210596207505400,
 		"id_str": "1337210596207505410",
