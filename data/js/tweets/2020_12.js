@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 21:32:19 +0000 2020",
+		"id": 1341451025551650800,
+		"id_str": "1341496816580345857",
+		"full_text": "For my pro writer friends: What's the worst writing advice/guidance you ever got?\nE.g. my high school English teacher who insisted you had to write an outline (and get it approved) before the essay.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6424562,
+			"id_str": "6424562",
+			"name": "Esther Schindler",
+			"screen_name": "estherschindler",
+			"location": "Scottsdale, AZ",
+			"description": "Technology writer, editor, chocoholic. Not necessarily in that order. She/her",
+			"url": "https://t.co/jXb6xmW5aa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jXb6xmW5aa",
+							"expanded_url": "https://www.linkedin.com/in/estherschindler",
+							"display_url": "linkedin.com/in/estherschin…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13126,
+			"friends_count": 5253,
+			"listed_count": 750,
+			"created_at": "Tue May 29 20:54:49 +0000 2007",
+			"favourites_count": 394214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 118221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6C9F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/411282326/EstherGlowing_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/411282326/EstherGlowing_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6424562/1594596112",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "For my pro writer friends: What's the worst writing advice/guidance you ever got?\nE.g. my high school English teacher who insisted you had to write an outline (and get it approved) before the essay."
+	},
+	{
 		"created_at": "Tue Dec 22 01:09:29 +0000 2020",
 		"id": 1341189081926123500,
 		"id_str": "1341189081926123521",
