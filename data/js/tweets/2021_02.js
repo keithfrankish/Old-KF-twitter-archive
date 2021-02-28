@@ -1,6 +1,890 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 27 19:59:14 +0000 2021",
+		"id": 1365750984945897500,
+		"id_str": "1365753377020379137",
+		"full_text": "Thread on the #MyHeritage deep fake tech and how it sort of makes paintings come alive, but actually, not really https://t.co/jgANWFD2Tk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyHeritage",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jgANWFD2Tk",
+					"expanded_url": "https://twitter.com/adam_crymble/status/1365719041709649922",
+					"display_url": "twitter.com/adam_crymble/s…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309126590,
+			"id_str": "309126590",
+			"name": "Greg Jenner",
+			"screen_name": "greg_jenner",
+			"location": "Surrey, UK",
+			"description": "Public Historian 🎙#YoureDeadToMe & #HomeschoolHistory on @bbcsounds 📺Chief Nerd on #HorribleHistories 📖Author #DeadFamous #celebrityStudies - Spurs fan #COYS",
+			"url": "https://t.co/3cAq4UVVsh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3cAq4UVVsh",
+							"expanded_url": "http://www.gregjenner.com",
+							"display_url": "gregjenner.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109558,
+			"friends_count": 9878,
+			"listed_count": 938,
+			"created_at": "Wed Jun 01 15:37:04 +0000 2011",
+			"favourites_count": 547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 262733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290067668217876480/0m-0PlL4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290067668217876480/0m-0PlL4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309126590/1603460779",
+			"profile_link_color": "580F7D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "440080",
+			"profile_text_color": "623A85",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365719041709650000,
+		"quoted_status_id_str": "1365719041709649922",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jgANWFD2Tk",
+			"expanded": "https://twitter.com/adam_crymble/status/1365719041709649922",
+			"display": "twitter.com/adam_crymble/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 27 17:42:48 +0000 2021",
+			"id": 1365719041709650000,
+			"id_str": "1365719041709649922",
+			"full_text": "Queen Charlotte, wife of George III. Seen here in 1773, with some help from 2021 artificial intelligence. @historybeagle @RachelSRich @foxvshedgehog https://t.co/TK6DgY0eJ4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "historybeagle",
+						"name": "Dr Lisa Smith",
+						"id": 464806272,
+						"id_str": "464806272",
+						"indices": [
+							106,
+							120
+						]
+					},
+					{
+						"screen_name": "RachelSRich",
+						"name": "Rachel Rich",
+						"id": 1554998798,
+						"id_str": "1554998798",
+						"indices": [
+							121,
+							133
+						]
+					},
+					{
+						"screen_name": "foxvshedgehog",
+						"name": "Sarah Fox",
+						"id": 476530891,
+						"id_str": "476530891",
+						"indices": [
+							134,
+							148
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1365718740688601000,
+						"id_str": "1365718740688601093",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1365718740688601093/pu/img/IwtMysxbAM84mUyC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1365718740688601093/pu/img/IwtMysxbAM84mUyC.jpg",
+						"url": "https://t.co/TK6DgY0eJ4",
+						"display_url": "pic.twitter.com/TK6DgY0eJ4",
+						"expanded_url": "https://twitter.com/Adam_Crymble/status/1365719041709649922/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1365718740688601000,
+						"id_str": "1365718740688601093",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1365718740688601093/pu/img/IwtMysxbAM84mUyC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1365718740688601093/pu/img/IwtMysxbAM84mUyC.jpg",
+						"url": "https://t.co/TK6DgY0eJ4",
+						"display_url": "pic.twitter.com/TK6DgY0eJ4",
+						"expanded_url": "https://twitter.com/Adam_Crymble/status/1365719041709649922/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 12850,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1365718740688601093/pu/vid/320x320/UU-TqRJqGJrabqt5.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1365718740688601093/pu/vid/512x512/RWJGN8t2B7AN4wXO.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1365718740688601093/pu/pl/8cwZUDtOqgGGQUcu.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14229832,
+				"id_str": "14229832",
+				"name": "Adam_Crymble",
+				"screen_name": "Adam_Crymble",
+				"location": "London",
+				"description": "Historian of migration | Trustee of @bcaheritage | Editor of @proghist | Interdisciplinary | Care about Education and Research | He/Him | Own views.",
+				"url": "https://t.co/721rZqE90r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/721rZqE90r",
+								"expanded_url": "https://www.press.uillinois.edu/books/catalog/57hxp7wr9780252043710.html",
+								"display_url": "press.uillinois.edu/books/catalog/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4574,
+				"friends_count": 3470,
+				"listed_count": 199,
+				"created_at": "Wed Mar 26 21:12:48 +0000 2008",
+				"favourites_count": 3789,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12650,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1274744691037294593/8YX_MIw7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274744691037294593/8YX_MIw7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14229832/1611485443",
+				"profile_link_color": "8DB5E6",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 197,
+			"favorite_count": 821,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread on the #MyHeritage deep fake tech and how it sort of makes paintings come alive, but actually, not really https://t.co/jgANWFD2Tk"
+	},
+	{
+		"created_at": "Sat Feb 27 19:49:36 +0000 2021",
+		"id": 1365739739421286400,
+		"id_str": "1365750953706684429",
+		"full_text": "Can your country engage in a little “told you so”? Map marks countries that opposed the 2003 invasion of Iraq in blue and countries that  supported the invasion in yellow. Source: https://t.co/V3xQYB0Ce8 https://t.co/JUcLSg1gk4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V3xQYB0Ce8",
+					"expanded_url": "https://buff.ly/3uCvEac",
+					"display_url": "buff.ly/3uCvEac",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1365739737823260700,
+					"id_str": "1365739737823260672",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EvQVDjiXMAAKt3J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvQVDjiXMAAKt3J.jpg",
+					"url": "https://t.co/JUcLSg1gk4",
+					"display_url": "pic.twitter.com/JUcLSg1gk4",
+					"expanded_url": "https://twitter.com/simongerman600/status/1365739739421286403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1365739737823260700,
+					"id_str": "1365739737823260672",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EvQVDjiXMAAKt3J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvQVDjiXMAAKt3J.jpg",
+					"url": "https://t.co/JUcLSg1gk4",
+					"display_url": "pic.twitter.com/JUcLSg1gk4",
+					"expanded_url": "https://twitter.com/simongerman600/status/1365739739421286403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359188534,
+			"id_str": "359188534",
+			"name": "Simon Kuestenmacher",
+			"screen_name": "simongerman600",
+			"location": "Melbourne, Victoria",
+			"description": "German #geographer and #demographer in #Melbourne. I love and share #maps and #data that explain how the #world works. Obviously all opinions are my own...",
+			"url": "https://t.co/Y6CYASFSon",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6CYASFSon",
+							"expanded_url": "http://SimonK.com.au",
+							"display_url": "SimonK.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205912,
+			"friends_count": 202789,
+			"listed_count": 2536,
+			"created_at": "Sun Aug 21 04:53:55 +0000 2011",
+			"favourites_count": 54940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109070642798718977/3dhmTNGC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109070642798718977/3dhmTNGC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359188534/1553338896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can your country engage in a little “told you so”? Map marks countries that opposed the 2003 invasion of Iraq in blue and countries that  supported the invasion in yellow. Source: https://t.co/V3xQYB0Ce8 https://t.co/JUcLSg1gk4"
+	},
+	{
+		"created_at": "Sat Feb 27 14:52:59 +0000 2021",
+		"id": 1365676309414822000,
+		"id_str": "1365676309414821888",
+		"full_text": "@calmAndRational @NewsfromScience I don't think that's assumed at all. The current view, I believe, is that the ancestors of Aboriginal Australians left Africa 75-60K years ago.",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "calmAndRational",
+					"name": "calmAndRational",
+					"id": 1720122049,
+					"id_str": "1720122049",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "NewsfromScience",
+					"name": "News from Science",
+					"id": 17089636,
+					"id_str": "17089636",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1365674084592312300,
+		"in_reply_to_status_id_str": "1365674084592312321",
+		"in_reply_to_user_id": 1720122049,
+		"in_reply_to_user_id_str": "1720122049",
+		"in_reply_to_screen_name": "calmAndRational",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15129,
+			"friends_count": 2218,
+			"listed_count": 508,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 43543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@calmAndRational @NewsfromScience I don't think that's assumed at all. The current view, I believe, is that the ancestors of Aboriginal Australians left Africa 75-60K years ago."
+	},
+	{
+		"created_at": "Sat Feb 27 14:32:00 +0000 2021",
+		"id": 1365671026282008600,
+		"id_str": "1365671026282008578",
+		"full_text": "Is an Aboriginal tale of an ancient volcano the oldest story ever told? | Science | AAAS - https://t.co/iFAxKtUeep by @NewsfromScience on @newsfromscience",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewsfromScience",
+					"name": "News from Science",
+					"id": 17089636,
+					"id_str": "17089636",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"screen_name": "NewsfromScience",
+					"name": "News from Science",
+					"id": 17089636,
+					"id_str": "17089636",
+					"indices": [
+						138,
+						154
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iFAxKtUeep",
+					"expanded_url": "https://www.sciencemag.org/node/2450861",
+					"display_url": "sciencemag.org/node/2450861",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15129,
+			"friends_count": 2218,
+			"listed_count": 508,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 43543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is an Aboriginal tale of an ancient volcano the oldest story ever told? | Science | AAAS - https://t.co/iFAxKtUeep by @NewsfromScience on @newsfromscience"
+	},
+	{
+		"created_at": "Sat Feb 27 14:10:00 +0000 2021",
+		"id": 1365665489805058000,
+		"id_str": "1365665489805058053",
+		"full_text": "Did Neanderthals Have the Capacity for Verbal Language? - https://t.co/NfCdn1ZMGY on gizmodo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NfCdn1ZMGY",
+					"expanded_url": "https://gizmodo.com/did-neanderthals-have-the-capacity-for-verbal-language-1846205506",
+					"display_url": "gizmodo.com/did-neandertha…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15129,
+			"friends_count": 2218,
+			"listed_count": 508,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 43543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did Neanderthals Have the Capacity for Verbal Language? - https://t.co/NfCdn1ZMGY on gizmodo"
+	},
+	{
 		"created_at": "Sat Feb 27 00:46:04 +0000 2021",
 		"id": 1365463172698812400,
 		"id_str": "1365463172698812417",
