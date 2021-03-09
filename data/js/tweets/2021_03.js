@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 08 21:41:00 +0000 2021",
+		"id": 1369040479933890600,
+		"id_str": "1369040479933890566",
+		"full_text": "@jos_b_mahoney That's a good tip! Thanks.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jos_b_mahoney",
+					"name": "joe mahoney BLM",
+					"id": 9533322,
+					"id_str": "9533322",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1369040236374818800,
+		"in_reply_to_status_id_str": "1369040236374818823",
+		"in_reply_to_user_id": 9533322,
+		"in_reply_to_user_id_str": "9533322",
+		"in_reply_to_screen_name": "jos_b_mahoney",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15179,
+			"friends_count": 2224,
+			"listed_count": 508,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 43775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jos_b_mahoney That's a good tip! Thanks."
+	},
+	{
+		"created_at": "Mon Mar 08 21:37:56 +0000 2021",
+		"id": 1369039708349694000,
+		"id_str": "1369039708349693952",
+		"full_text": "@JacksonKernion @DescriptApp Ha! Thanks for the tip. I must listen to this -- and some of your other eps. Looks like a great series.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JacksonKernion",
+					"name": "Jackson Kernion",
+					"id": 95813256,
+					"id_str": "95813256",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "DescriptApp",
+					"name": "Descript",
+					"id": 892859500125757400,
+					"id_str": "892859500125757440",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1369039168957915100,
+		"in_reply_to_status_id_str": "1369039168957915137",
+		"in_reply_to_user_id": 95813256,
+		"in_reply_to_user_id_str": "95813256",
+		"in_reply_to_screen_name": "JacksonKernion",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15179,
+			"friends_count": 2224,
+			"listed_count": 508,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 43775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JacksonKernion @DescriptApp Ha! Thanks for the tip. I must listen to this -- and some of your other eps. Looks like a great series."
+	},
+	{
+		"created_at": "Mon Mar 08 21:31:20 +0000 2021",
+		"id": 1369038046868439000,
+		"id_str": "1369038046868439044",
+		"full_text": "How do people prepare recorded lectures? For live lectures I prepare some slides, then extemporize around them. That usually works fine, but it feels too scrappy and imprecise for a recorded piece. I feel I need a script, but writing out scripts would take too long.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15179,
+			"friends_count": 2224,
+			"listed_count": 508,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 43775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "How do people prepare recorded lectures? For live lectures I prepare some slides, then extemporize around them. That usually works fine, but it feels too scrappy and imprecise for a recorded piece. I feel I need a script, but writing out scripts would take too long."
+	},
+	{
+		"created_at": "Mon Mar 08 16:47:38 +0000 2021",
+		"id": 1368931281766133800,
+		"id_str": "1368966651211902983",
+		"full_text": "I talk about women's history all year round but, in honour of International Women's Day, here's a collection of some of my favourite old posts featuring Victorian women... \n#IWD #InternationalWomensDay \n\nThread 👇👇👇: https://t.co/n3WUDSdNVA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IWD",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "InternationalWomensDay",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368924455225995300,
+					"id_str": "1368924455225995268",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Ev9ligYXMAQZPuH.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ev9ligYXMAQZPuH.png",
+					"url": "https://t.co/n3WUDSdNVA",
+					"display_url": "pic.twitter.com/n3WUDSdNVA",
+					"expanded_url": "https://twitter.com/DigiVictorian/status/1368931281766133766/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 820,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368924455225995300,
+					"id_str": "1368924455225995268",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Ev9ligYXMAQZPuH.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ev9ligYXMAQZPuH.png",
+					"url": "https://t.co/n3WUDSdNVA",
+					"display_url": "pic.twitter.com/n3WUDSdNVA",
+					"expanded_url": "https://twitter.com/DigiVictorian/status/1368931281766133766/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 820,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18934861,
+			"id_str": "18934861",
+			"name": "Dr Bob Nicholson",
+			"screen_name": "DigiVictorian",
+			"location": "Edge Hill University",
+			"description": "Historian of Victorian Popular Culture • Tweeter of Archival Oddities • Curator of @VictorianHumour • Co-Director of @EHUNineteen • Occasionally On The Radio.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23774,
+			"friends_count": 1967,
+			"listed_count": 436,
+			"created_at": "Tue Jan 13 10:42:25 +0000 2009",
+			"favourites_count": 36067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/951547755738038272/3ysA08Ps_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/951547755738038272/3ysA08Ps_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18934861/1516452430",
+			"profile_link_color": "CAA13B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I talk about women's history all year round but, in honour of International Women's Day, here's a collection of some of my favourite old posts featuring Victorian women... \n#IWD #InternationalWomensDay \n\nThread 👇👇👇: https://t.co/n3WUDSdNVA"
+	},
+	{
 		"created_at": "Mon Mar 08 00:37:50 +0000 2021",
 		"id": 1368722595160416300,
 		"id_str": "1368722595160416258",
@@ -2704,7 +3197,7 @@ Grailbird.data.tweets_2021_03 =
 		"created_at": "Sun Mar 07 14:54:03 +0000 2021",
 		"id": 1368570303887065000,
 		"id_str": "1368575679655247883",
-		"full_text": "Richard Boyd (1942-2021) a powerhouse of a mind, ardent defender of realism, thick causation and critic of relativism. But also an unrepentant leftie who devoted time &amp; energy to the betterment of the condition of the working class. Here speaking at ⁦⁦@rotmanphilo in 2013 https://t.co/WrUO4b9UEP",
+		"full_text": "Richard Boyd (1942-2021) a powerhouse of a mind, ardent defender of realism, thick causation and critic of relativism. But also an unrepentant leftie who devoted time &amp; energy to the betterment of the condition of the working class. Here speaking at @rotmanphilo in 2013 https://t.co/WrUO4b9UEP",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2883,7 +3376,7 @@ Grailbird.data.tweets_2021_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Richard Boyd (1942-2021) a powerhouse of a mind, ardent defender of realism, thick causation and critic of relativism. But also an unrepentant leftie who devoted time &amp; energy to the betterment of the condition of the working class. Here speaking at ⁦⁦@rotmanphilo in 2013 https://t.co/WrUO4b9UEP"
+		"text": "Richard Boyd (1942-2021) a powerhouse of a mind, ardent defender of realism, thick causation and critic of relativism. But also an unrepentant leftie who devoted time &amp; energy to the betterment of the condition of the working class. Here speaking at @rotmanphilo in 2013 https://t.co/WrUO4b9UEP"
 	},
 	{
 		"created_at": "Sun Mar 07 14:51:09 +0000 2021",
