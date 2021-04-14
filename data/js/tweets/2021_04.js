@@ -1,6 +1,986 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 13 23:09:02 +0000 2021",
+		"id": 1382108597316903000,
+		"id_str": "1382108597316902922",
+		"full_text": "@Aids_BC Right. It needn't involve actually trying out things you think are immoral. More a matter of asking yourself why you believe they are immoral -- are you sure your reasons are sound, could there be selfish motives at work etc.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Aids_BC",
+					"name": "Aidan",
+					"id": 846182313662734300,
+					"id_str": "846182313662734336",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382095961476898800,
+		"in_reply_to_status_id_str": "1382095961476898817",
+		"in_reply_to_user_id": 846182313662734300,
+		"in_reply_to_user_id_str": "846182313662734336",
+		"in_reply_to_screen_name": "Aids_BC",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15424,
+			"friends_count": 2244,
+			"listed_count": 511,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 44184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Aids_BC Right. It needn't involve actually trying out things you think are immoral. More a matter of asking yourself why you believe they are immoral -- are you sure your reasons are sound, could there be selfish motives at work etc."
+	},
+	{
+		"created_at": "Tue Apr 13 22:10:45 +0000 2021",
+		"id": 1382093930624381000,
+		"id_str": "1382093930624380934",
+		"full_text": "@Aids_BC Worth asking yourself, though. Many dreadful things have been done by people who were absolutely convinced that they were were acting in the name of God or humanity.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Aids_BC",
+					"name": "Aidan",
+					"id": 846182313662734300,
+					"id_str": "846182313662734336",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382092588446982100,
+		"in_reply_to_status_id_str": "1382092588446982146",
+		"in_reply_to_user_id": 846182313662734300,
+		"in_reply_to_user_id_str": "846182313662734336",
+		"in_reply_to_screen_name": "Aids_BC",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15424,
+			"friends_count": 2244,
+			"listed_count": 511,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 44184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Aids_BC Worth asking yourself, though. Many dreadful things have been done by people who were absolutely convinced that they were were acting in the name of God or humanity."
+	},
+	{
+		"created_at": "Tue Apr 13 22:06:58 +0000 2021",
+		"id": 1382092979318489000,
+		"id_str": "1382092979318489088",
+		"full_text": "@Philip_Goff https://t.co/5DjRMLBjUh",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382092970715967500,
+					"id_str": "1382092970715967494",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ey4uO_YW8AY59AW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ey4uO_YW8AY59AW.jpg",
+					"url": "https://t.co/5DjRMLBjUh",
+					"display_url": "pic.twitter.com/5DjRMLBjUh",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1382092979318489088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 354,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 354,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 354,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382092970715967500,
+					"id_str": "1382092970715967494",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ey4uO_YW8AY59AW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ey4uO_YW8AY59AW.jpg",
+					"url": "https://t.co/5DjRMLBjUh",
+					"display_url": "pic.twitter.com/5DjRMLBjUh",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1382092979318489088/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 354,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 354,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 354,
+							"h": 498,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							59,
+							83
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ey4uO_YW8AY59AW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382088157273993200,
+		"in_reply_to_status_id_str": "1382088157273993220",
+		"in_reply_to_user_id": 216809385,
+		"in_reply_to_user_id_str": "216809385",
+		"in_reply_to_screen_name": "Philip_Goff",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15424,
+			"friends_count": 2244,
+			"listed_count": 511,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 44184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Philip_Goff https://t.co/5DjRMLBjUh"
+	},
+	{
+		"created_at": "Tue Apr 13 14:36:24 +0000 2021",
+		"id": 1381933076444541000,
+		"id_str": "1381979588239241220",
+		"full_text": "Coming soon to a bookshop near you! https://t.co/BetitGGGgw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1381932877475090400,
+					"id_str": "1381932877475090438",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey2coVlWEAYTnnp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey2coVlWEAYTnnp.jpg",
+					"url": "https://t.co/BetitGGGgw",
+					"display_url": "pic.twitter.com/BetitGGGgw",
+					"expanded_url": "https://twitter.com/Raymodraco/status/1381933076444540937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 877,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1381932877475090400,
+					"id_str": "1381932877475090438",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey2coVlWEAYTnnp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey2coVlWEAYTnnp.jpg",
+					"url": "https://t.co/BetitGGGgw",
+					"display_url": "pic.twitter.com/BetitGGGgw",
+					"expanded_url": "https://twitter.com/Raymodraco/status/1381933076444540937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 877,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1381932935515926500,
+					"id_str": "1381932935515926532",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey2crtzW8AQt4Kg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey2crtzW8AQt4Kg.jpg",
+					"url": "https://t.co/BetitGGGgw",
+					"display_url": "pic.twitter.com/BetitGGGgw",
+					"expanded_url": "https://twitter.com/Raymodraco/status/1381933076444540937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 906,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1381932977773555700,
+					"id_str": "1381932977773555715",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey2cuLOXMAMoRhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey2cuLOXMAMoRhh.jpg",
+					"url": "https://t.co/BetitGGGgw",
+					"display_url": "pic.twitter.com/BetitGGGgw",
+					"expanded_url": "https://twitter.com/Raymodraco/status/1381933076444540937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 678,
+							"h": 936,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 678,
+							"h": 936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1381933005984387000,
+					"id_str": "1381933005984387079",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey2cv0UWUAc3sFo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey2cv0UWUAc3sFo.jpg",
+					"url": "https://t.co/BetitGGGgw",
+					"display_url": "pic.twitter.com/BetitGGGgw",
+					"expanded_url": "https://twitter.com/Raymodraco/status/1381933076444540937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21410353,
+			"id_str": "21410353",
+			"name": "Ray Monk",
+			"screen_name": "Raymodraco",
+			"location": "Southampton, UK",
+			"description": "Professor of philosophy, biographer, recently converted vegan. Uncooperative crustie. Also on Facebook and Instagram.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9995,
+			"friends_count": 4796,
+			"listed_count": 186,
+			"created_at": "Fri Feb 20 16:31:00 +0000 2009",
+			"favourites_count": 14582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871992190607663104/C5khjJho_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871992190607663104/C5khjJho_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21410353/1610562385",
+			"profile_link_color": "66A6BD",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coming soon to a bookshop near you! https://t.co/BetitGGGgw"
+	},
+	{
+		"created_at": "Tue Apr 13 14:26:37 +0000 2021",
+		"id": 1381977124672798700,
+		"id_str": "1381977124672798721",
+		"full_text": "When I was but thirteen or so\n  I went into a golden land,\nChimborazo, Cotopaxi\n  Took me by the hand.\n... https://t.co/lQygDhBCAK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lQygDhBCAK",
+					"expanded_url": "https://twitter.com/artistfechurch/status/1381695672559239170",
+					"display_url": "twitter.com/artistfechurch…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15424,
+			"friends_count": 2244,
+			"listed_count": 511,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 44184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1381695672559239200,
+		"quoted_status_id_str": "1381695672559239170",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lQygDhBCAK",
+			"expanded": "https://twitter.com/artistfechurch/status/1381695672559239170",
+			"display": "twitter.com/artistfechurch…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 12 19:48:13 +0000 2021",
+			"id": 1381695672559239200,
+			"id_str": "1381695672559239170",
+			"full_text": "Mount Chimborazo, 1865 #church #romanticism https://t.co/bHt3KQi1rz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "church",
+						"indices": [
+							23,
+							30
+						]
+					},
+					{
+						"text": "romanticism",
+						"indices": [
+							31,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1381695670726299600,
+						"id_str": "1381695670726299652",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/EyzE5FlWEAQEg_A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EyzE5FlWEAQEg_A.jpg",
+						"url": "https://t.co/bHt3KQi1rz",
+						"display_url": "pic.twitter.com/bHt3KQi1rz",
+						"expanded_url": "https://twitter.com/artistfechurch/status/1381695672559239170/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 583,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 583,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1381695670726299600,
+						"id_str": "1381695670726299652",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/EyzE5FlWEAQEg_A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EyzE5FlWEAQEg_A.jpg",
+						"url": "https://t.co/bHt3KQi1rz",
+						"display_url": "pic.twitter.com/bHt3KQi1rz",
+						"expanded_url": "https://twitter.com/artistfechurch/status/1381695672559239170/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 583,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 583,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.offtheeasel.com/\" rel=\"nofollow\">Off The Easel Bots</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1348050430928982000,
+				"id_str": "1348050430928982016",
+				"name": "Frederic Edwin Church",
+				"screen_name": "artistfechurch",
+				"location": "(World) Hudson, NY",
+				"description": "Fan account of Frederic Edwin Church, an American landscape painter and central figure in the Hudson River School. #artbot by @andreitr",
+				"url": "https://t.co/Vxhtv2Vdwa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Vxhtv2Vdwa",
+								"expanded_url": "https://en.wikipedia.org/wiki/Frederic_Edwin_Church",
+								"display_url": "en.wikipedia.org/wiki/Frederic_…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1087,
+				"friends_count": 287,
+				"listed_count": 24,
+				"created_at": "Sat Jan 09 23:35:06 +0000 2021",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1991,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1348050787121811458/wBjKoo_h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348050787121811458/wBjKoo_h_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1348050430928982016/1610236849",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 84,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When I was but thirteen or so\n  I went into a golden land,\nChimborazo, Cotopaxi\n  Took me by the hand.\n... https://t.co/lQygDhBCAK"
+	},
+	{
 		"created_at": "Tue Apr 13 02:06:59 +0000 2021",
 		"id": 1381790990797840400,
 		"id_str": "1381790990797840385",
