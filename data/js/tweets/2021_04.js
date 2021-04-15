@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 14 23:12:43 +0000 2021",
+		"id": 1382471911217713200,
+		"id_str": "1382471911217713153",
+		"full_text": "The gripping story of a Titanic survivor. https://t.co/ZKO5eNnNhS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZKO5eNnNhS",
+					"expanded_url": "https://twitter.com/bethmonster/status/1382426851562377217",
+					"display_url": "twitter.com/bethmonster/st…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15420,
+			"friends_count": 2243,
+			"listed_count": 510,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 44186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382426851562377200,
+		"quoted_status_id_str": "1382426851562377217",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZKO5eNnNhS",
+			"expanded": "https://twitter.com/bethmonster/status/1382426851562377217",
+			"display": "twitter.com/bethmonster/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 14 20:13:40 +0000 2021",
+			"id": 1382426851562377200,
+			"id_str": "1382426851562377217",
+			"full_text": "@marinamaral2 Last year I interviewed the grandson of 3rd class Titanic survivor Gunnar Tenglin, one of the few steerage men to survive. I created this timeline of Tenglin's experience, starting from the moment the ship hit the iceberg at 11:40 p.m. on April 14, 1912:\nhttps://t.co/EHGqRziwfn",
+			"truncated": false,
+			"display_text_range": [
+				14,
+				292
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "marinamaral2",
+						"name": "Marina Amaral",
+						"id": 292634416,
+						"id_str": "292634416",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EHGqRziwfn",
+						"expanded_url": "https://www.desmoinesregister.com/story/life/2020/04/08/young-swedes-harrowing-journey-aboard-titanic-new-life-iowa-gunnar-tenglin/2963359001/",
+						"display_url": "desmoinesregister.com/story/life/202…",
+						"indices": [
+							269,
+							292
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1382319541666123800,
+			"in_reply_to_status_id_str": "1382319541666123777",
+			"in_reply_to_user_id": 292634416,
+			"in_reply_to_user_id_str": "292634416",
+			"in_reply_to_screen_name": "marinamaral2",
+			"user": {
+				"id": 19870694,
+				"id_str": "19870694",
+				"name": "Elizabeth Kuster 🌊",
+				"screen_name": "bethmonster",
+				"location": "Brooklyn",
+				"description": "Author, editor & journalist formerly with Glamour, Huffington Post & others. Aspiring Íslandi",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2473,
+				"friends_count": 2198,
+				"listed_count": 29,
+				"created_at": "Sun Feb 01 18:55:20 +0000 2009",
+				"favourites_count": 25945,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19108,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1105953306919256065/5q1M3-3W_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105953306919256065/5q1M3-3W_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19870694/1520840994",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The gripping story of a Titanic survivor. https://t.co/ZKO5eNnNhS"
+	},
+	{
 		"created_at": "Wed Apr 14 01:01:55 +0000 2021",
 		"id": 1382137004025086000,
 		"id_str": "1382137004025085956",
