@@ -1,6 +1,1497 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 12 22:07:55 +0000 2021",
+		"id": 1392602465711837200,
+		"id_str": "1392602465711837187",
+		"full_text": "@timtfj Very true",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timtfj",
+					"name": "Tim J",
+					"id": 15218989,
+					"id_str": "15218989",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1392602051696287700,
+		"in_reply_to_status_id_str": "1392602051696287754",
+		"in_reply_to_user_id": 15218989,
+		"in_reply_to_user_id_str": "15218989",
+		"in_reply_to_screen_name": "timtfj",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15839,
+			"friends_count": 2246,
+			"listed_count": 514,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 44668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timtfj Very true"
+	},
+	{
+		"created_at": "Wed May 12 22:06:21 +0000 2021",
+		"id": 1392594364841578500,
+		"id_str": "1392602069144637442",
+		"full_text": "the most important thing you can do for the world right now is to pick a fight with someone who personally bugs you on twitter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3441357856,
+			"id_str": "3441357856",
+			"name": "John Ganz",
+			"screen_name": "lionel_trolling",
+			"location": "Brooklyn, NY",
+			"description": "working on a book about the early 90s / please subscribe to my substack UNPOPULAR FRONT https://t.co/VpkKhU1saS / don't get most notifications",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VpkKhU1saS",
+							"expanded_url": "http://johnganz.substack.com",
+							"display_url": "johnganz.substack.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14375,
+			"friends_count": 1908,
+			"listed_count": 136,
+			"created_at": "Tue Aug 25 23:58:50 +0000 2015",
+			"favourites_count": 43984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161408483226529793/AUXMqhz1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161408483226529793/AUXMqhz1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3441357856/1571829679",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 272,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "the most important thing you can do for the world right now is to pick a fight with someone who personally bugs you on twitter"
+	},
+	{
+		"created_at": "Wed May 12 22:06:02 +0000 2021",
+		"id": 1392403317486243800,
+		"id_str": "1392601989566107652",
+		"full_text": "@Tracy_Chevalier Samuel Palmer - Cornfield by Moonlight... https://t.co/WjWLSAYB28",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tracy_Chevalier",
+					"name": "Tracy Chevalier",
+					"id": 24763053,
+					"id_str": "24763053",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392403244744327200,
+					"id_str": "1392403244744327173",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/E1LPX7MWQAUdZyp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1LPX7MWQAUdZyp.jpg",
+					"url": "https://t.co/WjWLSAYB28",
+					"display_url": "pic.twitter.com/WjWLSAYB28",
+					"expanded_url": "https://twitter.com/mrjamesmayhew/status/1392403317486243840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 345,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392403244744327200,
+					"id_str": "1392403244744327173",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/E1LPX7MWQAUdZyp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1LPX7MWQAUdZyp.jpg",
+					"url": "https://t.co/WjWLSAYB28",
+					"display_url": "pic.twitter.com/WjWLSAYB28",
+					"expanded_url": "https://twitter.com/mrjamesmayhew/status/1392403317486243840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 345,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1392402599274598400,
+		"in_reply_to_status_id_str": "1392402599274598401",
+		"in_reply_to_user_id": 24763053,
+		"in_reply_to_user_id_str": "24763053",
+		"in_reply_to_screen_name": "Tracy_Chevalier",
+		"user": {
+			"id": 574681085,
+			"id_str": "574681085",
+			"name": "James Mayhew 🎨🇪🇺 🌈",
+			"screen_name": "mrjamesmayhew",
+			"location": "Bungay, England",
+			"description": "Writes: Katie; EllaBella; Koshka's Tales. Illustrates: Mrs Noah; Mouse&Mole; Gaspard. Paints to Music.\nhe/him\n#BookIllustrationOfTheDay\nAgent: @eunicemcmullen",
+			"url": "https://t.co/DOxikytGJG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DOxikytGJG",
+							"expanded_url": "http://www.jamesmayhew.co.uk",
+							"display_url": "jamesmayhew.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15555,
+			"friends_count": 5581,
+			"listed_count": 198,
+			"created_at": "Tue May 08 18:19:12 +0000 2012",
+			"favourites_count": 87743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389989662173929475/jlqk9k2q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389989662173929475/jlqk9k2q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/574681085/1615738363",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Tracy_Chevalier Samuel Palmer - Cornfield by Moonlight... https://t.co/WjWLSAYB28"
+	},
+	{
+		"created_at": "Wed May 12 22:05:47 +0000 2021",
+		"id": 1212336736975634400,
+		"id_str": "1392601928220225536",
+		"full_text": "An Amos Oz quote for 2020:\n“Facing great calamity, you can -\n* Run away fast and far.\n* Write a very angry letter to the media.\n* Throw a bucket of water on the fire. If you don’t have a bucket, use a glass. If you don’t have a glass, use a teaspoon. Everyone has a teaspoon.” https://t.co/VD8Y7v8ONu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VD8Y7v8ONu",
+					"expanded_url": "https://twitter.com/92Y/status/903069082072735744",
+					"display_url": "twitter.com/92Y/status/903…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 244667129,
+			"id_str": "244667129",
+			"name": "Fania Oz-Salzberger פניה עוז-זלצברגר",
+			"screen_name": "faniaoz",
+			"location": "Law, University of Haifa, Israel.",
+			"description": "Proud and loving daughter of Amos Oz. TLV U (BA MA), Oxford (D.Phil), Uppsala (Dr. h.c.). Google Translate is a fair bet. #JewsandWords",
+			"url": "https://t.co/EIxFVBj9d6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EIxFVBj9d6",
+							"expanded_url": "http://haifa.academia.edu/FaniaOzSalzberger",
+							"display_url": "haifa.academia.edu/FaniaOzSalzber…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11364,
+			"friends_count": 1571,
+			"listed_count": 88,
+			"created_at": "Sat Jan 29 21:12:16 +0000 2011",
+			"favourites_count": 45664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391758485847695361/6U5TQlU2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391758485847695361/6U5TQlU2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/244667129/1619360303",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 903069082072735700,
+		"quoted_status_id_str": "903069082072735744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VD8Y7v8ONu",
+			"expanded": "https://twitter.com/92Y/status/903069082072735744",
+			"display": "twitter.com/92Y/status/903…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 31 01:37:02 +0000 2017",
+			"id": 903069082072735700,
+			"id_str": "903069082072735744",
+			"full_text": "\"The teaspoon is very small + the fire is very large but there are many of us...\" Powerful words from Amos Oz on how to effect change today. https://t.co/KovY2kzxS8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 903006247234019300,
+						"id_str": "903006247234019331",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/903006247234019331/img/wwrcK0tR4_Jokgd4.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/903006247234019331/img/wwrcK0tR4_Jokgd4.jpg",
+						"url": "https://t.co/KovY2kzxS8",
+						"display_url": "pic.twitter.com/KovY2kzxS8",
+						"expanded_url": "https://twitter.com/92Y/status/903069082072735744/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 903006247234019300,
+						"id_str": "903006247234019331",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/903006247234019331/img/wwrcK0tR4_Jokgd4.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/903006247234019331/img/wwrcK0tR4_Jokgd4.jpg",
+						"url": "https://t.co/KovY2kzxS8",
+						"display_url": "pic.twitter.com/KovY2kzxS8",
+						"expanded_url": "https://twitter.com/92Y/status/903069082072735744/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 48482,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/903006247234019331/vid/640x360/5VLnxT5MxAD7UZn9.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/903006247234019331/vid/1280x720/Cm168I4J7GQm1EYB.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/903006247234019331/vid/320x180/BThv2SmTxD08Rb7S.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/903006247234019331/pl/MkxJxSgXpZLoLjiZ.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Amos Oz on how to effect change today ",
+							"description": "Amos Oz answers an audience question about how artists can affect change today. Click through to watch the full talk. ",
+							"call_to_actions": {
+								"watch_now": {
+									"url": "https://l.facebook.com/l.php?u=http%3A%2F%2F92yondemand.org%2Famos-oz-jonathan-wilson&h=ATPP8p7s_NkbFwCJVA2sJB-SoOueUgkSZh-FQYI-84GgXmEOxOAF_qgjeiu-SKnIZTDX02oDJ16q_xQYraCO9gC1fLDft7BkVYjwGurHshvCbCNSeXPwJ5sNw08WfjMNtZQolGmmr4B4gac"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18052661,
+				"id_str": "18052661",
+				"name": "92nd Street Y",
+				"screen_name": "92Y",
+				"location": "New York City",
+				"description": "92Y is a world-class nonprofit community + cultural center that connects people to the worlds of education, arts, health + wellness, and Jewish life.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52280,
+				"friends_count": 6069,
+				"listed_count": 1460,
+				"created_at": "Thu Dec 11 17:17:06 +0000 2008",
+				"favourites_count": 8427,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37523,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1174377795675406341/fClZYLwT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174377795675406341/fClZYLwT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18052661/1599595157",
+				"profile_link_color": "003DA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 71,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An Amos Oz quote for 2020:\n“Facing great calamity, you can -\n* Run away fast and far.\n* Write a very angry letter to the media.\n* Throw a bucket of water on the fire. If you don’t have a bucket, use a glass. If you don’t have a glass, use a teaspoon. Everyone has a teaspoon.” https://t.co/VD8Y7v8ONu"
+	},
+	{
+		"created_at": "Wed May 12 20:54:34 +0000 2021",
+		"id": 1392584005866991600,
+		"id_str": "1392584005866991629",
+		"full_text": "One problem with taking an adversarial approach to issues is that if each side is half right and half wrong, everyone spends all their time attacking the other side, and no one tries to combine the positive aspects of both sides.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15839,
+			"friends_count": 2246,
+			"listed_count": 514,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 44668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "One problem with taking an adversarial approach to issues is that if each side is half right and half wrong, everyone spends all their time attacking the other side, and no one tries to combine the positive aspects of both sides."
+	},
+	{
+		"created_at": "Wed May 12 16:21:20 +0000 2021",
+		"id": 1392515242446442500,
+		"id_str": "1392515242446442498",
+		"full_text": "Camera-shy Ollie https://t.co/BePVNabhnD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392515239493656600,
+					"id_str": "1392515239493656578",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/E1M1O4JWYAIBb83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1M1O4JWYAIBb83.jpg",
+					"url": "https://t.co/BePVNabhnD",
+					"display_url": "pic.twitter.com/BePVNabhnD",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1392515242446442498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392515239493656600,
+					"id_str": "1392515239493656578",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/E1M1O4JWYAIBb83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1M1O4JWYAIBb83.jpg",
+					"url": "https://t.co/BePVNabhnD",
+					"display_url": "pic.twitter.com/BePVNabhnD",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1392515242446442498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15839,
+			"friends_count": 2246,
+			"listed_count": 514,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 44668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Camera-shy Ollie https://t.co/BePVNabhnD"
+	},
+	{
+		"created_at": "Wed May 12 15:47:29 +0000 2021",
+		"id": 1392506723844436000,
+		"id_str": "1392506723844435982",
+		"full_text": "EC/EU membership was the reality for 40 years but the Tory right never embraced it. Why should we endorse their Brexit? --&gt; Andy Burnham says UK must 'embrace' Brexit | The New European - https://t.co/eEJheHmow8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eEJheHmow8",
+					"expanded_url": "https://www.theneweuropean.co.uk/brexit-news/westminster-news/andy-burnham-on-embracing-brexit-7967260",
+					"display_url": "theneweuropean.co.uk/brexit-news/we…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15839,
+			"friends_count": 2246,
+			"listed_count": 514,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 44668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EC/EU membership was the reality for 40 years but the Tory right never embraced it. Why should we endorse their Brexit? --&gt; Andy Burnham says UK must 'embrace' Brexit | The New European - https://t.co/eEJheHmow8"
+	},
+	{
+		"created_at": "Wed May 12 14:30:30 +0000 2021",
+		"id": 1392406121588174800,
+		"id_str": "1392487351193059328",
+		"full_text": "Good lord, Richard Burton really was something https://t.co/ElCkLzf2HJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ElCkLzf2HJ",
+					"expanded_url": "https://twitter.com/willrdean/status/1392208760458842115",
+					"display_url": "twitter.com/willrdean/stat…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191377575,
+			"id_str": "191377575",
+			"name": "P.G. Wodelouse",
+			"screen_name": "PGWodelouse",
+			"location": "In a field where barley grows",
+			"description": "I'd strike the sun if it insulted me",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1521,
+			"friends_count": 927,
+			"listed_count": 35,
+			"created_at": "Thu Sep 16 09:11:41 +0000 2010",
+			"favourites_count": 31707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345676483684147200/uWajatJD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345676483684147200/uWajatJD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191377575/1609625059",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392208760458842000,
+		"quoted_status_id_str": "1392208760458842115",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ElCkLzf2HJ",
+			"expanded": "https://twitter.com/willrdean/status/1392208760458842115",
+			"display": "twitter.com/willrdean/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 11 20:03:29 +0000 2021",
+			"id": 1392208760458842000,
+			"id_str": "1392208760458842115",
+			"full_text": "Richard Burton on coal mining https://t.co/xJ3DODxJAu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1392207558258184200,
+						"id_str": "1392207558258184193",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392207558258184193/pu/img/iOyE5m7fesKw5Kb9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392207558258184193/pu/img/iOyE5m7fesKw5Kb9.jpg",
+						"url": "https://t.co/xJ3DODxJAu",
+						"display_url": "pic.twitter.com/xJ3DODxJAu",
+						"expanded_url": "https://twitter.com/willrdean/status/1392208760458842115/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 592,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1392207558258184200,
+						"id_str": "1392207558258184193",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392207558258184193/pu/img/iOyE5m7fesKw5Kb9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392207558258184193/pu/img/iOyE5m7fesKw5Kb9.jpg",
+						"url": "https://t.co/xJ3DODxJAu",
+						"display_url": "pic.twitter.com/xJ3DODxJAu",
+						"expanded_url": "https://twitter.com/willrdean/status/1392208760458842115/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 592,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								80,
+								37
+							],
+							"duration_millis": 131040,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1392207558258184193/pu/vid/778x360/taQuMjhFt-nyXtEd.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1392207558258184193/pu/vid/1280x592/Di3pd9FN4pvhshCi.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1392207558258184193/pu/vid/582x270/Vo3uWGVH1HXijvUz.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1392207558258184193/pu/pl/9yy7um-DjaS_UaHs.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 370003710,
+				"id_str": "370003710",
+				"name": "Will Dean",
+				"screen_name": "willrdean",
+				"location": "Sweden",
+				"description": "Writer. The Last Thing To Burn (Hodder UK, Emily Bestler/Atria/S&S US Apr ‘21). Tuva (Oneworld) Bad Apples Oct ‘21. Agent: Kate Burke. Tuva rights: Lionsgate",
+				"url": "https://t.co/ZLOjg0keyh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZLOjg0keyh",
+								"expanded_url": "http://blakefriedmann.co.uk/will-dean",
+								"display_url": "blakefriedmann.co.uk/will-dean",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10866,
+				"friends_count": 1981,
+				"listed_count": 69,
+				"created_at": "Thu Sep 08 09:21:22 +0000 2011",
+				"favourites_count": 92265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54416,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1227213145724379141/6AaKF3DO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227213145724379141/6AaKF3DO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/370003710/1592030117",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 127,
+			"favorite_count": 617,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good lord, Richard Burton really was something https://t.co/ElCkLzf2HJ"
+	},
+	{
+		"created_at": "Wed May 12 14:11:11 +0000 2021",
+		"id": 1392482492309979100,
+		"id_str": "1392482492309979140",
+		"full_text": "@bayesianboy I hear you, Mel",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bayesianboy",
+					"name": "Mel Andrews",
+					"id": 1128097859411304400,
+					"id_str": "1128097859411304453",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1392334938851119000,
+		"in_reply_to_status_id_str": "1392334938851119105",
+		"in_reply_to_user_id": 1128097859411304400,
+		"in_reply_to_user_id_str": "1128097859411304453",
+		"in_reply_to_screen_name": "bayesianboy",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15839,
+			"friends_count": 2246,
+			"listed_count": 514,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 44668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bayesianboy I hear you, Mel"
+	},
+	{
 		"created_at": "Wed May 12 02:07:38 +0000 2021",
 		"id": 1392300401332994000,
 		"id_str": "1392300401332994048",
