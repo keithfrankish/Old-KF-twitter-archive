@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 06 00:12:00 +0000 2021",
+		"id": 1401288967656464400,
+		"id_str": "1401331000207085568",
+		"full_text": "D-Day 6 June 1944 WWII. https://t.co/Shj6l3pkEz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401288787028762600,
+					"id_str": "1401288787028762624",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/E3JgujqWYAATXjQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3JgujqWYAATXjQ.jpg",
+					"url": "https://t.co/Shj6l3pkEz",
+					"display_url": "pic.twitter.com/Shj6l3pkEz",
+					"expanded_url": "https://twitter.com/ron_eisele/status/1401288967656464398/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 829,
+							"h": 820,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 829,
+							"h": 820,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401288787028762600,
+					"id_str": "1401288787028762624",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/E3JgujqWYAATXjQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3JgujqWYAATXjQ.jpg",
+					"url": "https://t.co/Shj6l3pkEz",
+					"display_url": "pic.twitter.com/Shj6l3pkEz",
+					"expanded_url": "https://twitter.com/ron_eisele/status/1401288967656464398/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 829,
+							"h": 820,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 829,
+							"h": 820,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401288834395127800,
+					"id_str": "1401288834395127809",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/E3JgxUHXwAE7D4W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3JgxUHXwAE7D4W.jpg",
+					"url": "https://t.co/Shj6l3pkEz",
+					"display_url": "pic.twitter.com/Shj6l3pkEz",
+					"expanded_url": "https://twitter.com/ron_eisele/status/1401288967656464398/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1049,
+							"h": 820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1049,
+							"h": 820,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401288869341958100,
+					"id_str": "1401288869341958150",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/E3JgzWTWEAYGdCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3JgzWTWEAYGdCP.jpg",
+					"url": "https://t.co/Shj6l3pkEz",
+					"display_url": "pic.twitter.com/Shj6l3pkEz",
+					"expanded_url": "https://twitter.com/ron_eisele/status/1401288967656464398/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 820,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401288948186595300,
+					"id_str": "1401288948186595340",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/E3Jg38BXwAwLDl5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3Jg38BXwAwLDl5.jpg",
+					"url": "https://t.co/Shj6l3pkEz",
+					"display_url": "pic.twitter.com/Shj6l3pkEz",
+					"expanded_url": "https://twitter.com/ron_eisele/status/1401288967656464398/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1021,
+							"h": 820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1021,
+							"h": 820,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3195245890,
+			"id_str": "3195245890",
+			"name": "Ron Eisele",
+			"screen_name": "ron_eisele",
+			"location": "Eastbourne, Sussex, England",
+			"description": "Author. Early aviation historian, enthusiast and aviator.",
+			"url": "https://t.co/MqBpP2si0G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MqBpP2si0G",
+							"expanded_url": "https://www.amazon.co.uk/Ron-Eisele/e/B00VEZMAOY/ref=ntt_dp_epwbk_0",
+							"display_url": "amazon.co.uk/Ron-Eisele/e/B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24860,
+			"friends_count": 515,
+			"listed_count": 290,
+			"created_at": "Wed Apr 22 16:06:46 +0000 2015",
+			"favourites_count": 51151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 119527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783339924313534464/dvAe5r4a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783339924313534464/dvAe5r4a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3195245890/1583015418",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "D-Day 6 June 1944 WWII. https://t.co/Shj6l3pkEz"
+	},
+	{
+		"created_at": "Sat Jun 05 22:25:15 +0000 2021",
+		"id": 1401304134167433200,
+		"id_str": "1401304134167433219",
+		"full_text": "@ItsAllGood_CP @Helenreflects Well said! We've all got a 'the rest'.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ItsAllGood_CP",
+					"name": "CP",
+					"id": 1242543968568643600,
+					"id_str": "1242543968568643584",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Helenreflects",
+					"name": "Helen De Cruz",
+					"id": 2294509452,
+					"id_str": "2294509452",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1401267300792164400,
+		"in_reply_to_status_id_str": "1401267300792164356",
+		"in_reply_to_user_id": 1242543968568643600,
+		"in_reply_to_user_id_str": "1242543968568643584",
+		"in_reply_to_screen_name": "ItsAllGood_CP",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Tweeting about philosophy of mind, consciousness, cog sci, & Greece. Plus bad jokes & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16582,
+			"friends_count": 2255,
+			"listed_count": 516,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ItsAllGood_CP @Helenreflects Well said! We've all got a 'the rest'."
+	},
+	{
 		"created_at": "Fri Jun 04 22:53:14 +0000 2021",
 		"id": 1400948789649752000,
 		"id_str": "1400948789649752068",
