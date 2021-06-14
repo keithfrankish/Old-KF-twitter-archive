@@ -1,6 +1,904 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 13 18:17:29 +0000 2021",
+		"id": 1404140886938865700,
+		"id_str": "1404140886938865669",
+		"full_text": "@FreihandDenker @mathonwy Seconded!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FreihandDenker",
+					"name": "Philip",
+					"id": 800391501477867500,
+					"id_str": "800391501477867523",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "mathonwy",
+					"name": "Mātōnya",
+					"id": 283740393,
+					"id_str": "283740393",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1404139018384720000,
+		"in_reply_to_status_id_str": "1404139018384719874",
+		"in_reply_to_user_id": 800391501477867500,
+		"in_reply_to_user_id_str": "800391501477867523",
+		"in_reply_to_screen_name": "FreihandDenker",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Tweeting about philosophy of mind, consciousness, cog sci, & Greece. Plus bad jokes & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16630,
+			"friends_count": 2256,
+			"listed_count": 517,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@FreihandDenker @mathonwy Seconded!"
+	},
+	{
+		"created_at": "Sun Jun 13 18:17:06 +0000 2021",
+		"id": 1404140789022838800,
+		"id_str": "1404140789022838793",
+		"full_text": "As the last of the G7 leaders disappeared beneath the Cornish waves, Lady Number 5 gave a valedictory wave. The first stage of the Striped Ladies' plan was compete. #GirlsOwnCC https://t.co/Hg3YCDwrPF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOwnCC",
+					"indices": [
+						165,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hg3YCDwrPF",
+					"expanded_url": "https://twitter.com/GirlsOwn/status/1404124736070766592",
+					"display_url": "twitter.com/GirlsOwn/statu…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Tweeting about philosophy of mind, consciousness, cog sci, & Greece. Plus bad jokes & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16630,
+			"friends_count": 2256,
+			"listed_count": 517,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1404124736070766600,
+		"quoted_status_id_str": "1404124736070766592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hg3YCDwrPF",
+			"expanded": "https://twitter.com/GirlsOwn/status/1404124736070766592",
+			"display": "twitter.com/GirlsOwn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 13 17:13:19 +0000 2021",
+			"id": 1404124736070766600,
+			"id_str": "1404124736070766592",
+			"full_text": "For this Sunday’s caption contest there is no hope of any illustration suitable for #EURO2020 from @GirlsOwn archives, so enjoy the seaside instead. \n\nRetweet to spread the word and quote tweet your caption remembering #GirlsOwnCC and give lots of ❤️s away to your rivals. https://t.co/T5RusnDMn8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EURO2020",
+						"indices": [
+							84,
+							93
+						]
+					},
+					{
+						"text": "GirlsOwnCC",
+						"indices": [
+							219,
+							230
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GirlsOwn",
+						"name": "Girls' Own advice",
+						"id": 2351494683,
+						"id_str": "2351494683",
+						"indices": [
+							99,
+							108
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1404124731469709300,
+						"id_str": "1404124731469709313",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/E3x0AP-XwAEnRtG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3x0AP-XwAEnRtG.jpg",
+						"url": "https://t.co/T5RusnDMn8",
+						"display_url": "pic.twitter.com/T5RusnDMn8",
+						"expanded_url": "https://twitter.com/GirlsOwn/status/1404124736070766592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 631,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 950,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 950,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1404124731469709300,
+						"id_str": "1404124731469709313",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/E3x0AP-XwAEnRtG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3x0AP-XwAEnRtG.jpg",
+						"url": "https://t.co/T5RusnDMn8",
+						"display_url": "pic.twitter.com/T5RusnDMn8",
+						"expanded_url": "https://twitter.com/GirlsOwn/status/1404124736070766592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 631,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 950,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 950,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2351494683,
+				"id_str": "2351494683",
+				"name": "Girls' Own advice",
+				"screen_name": "GirlsOwn",
+				"location": "",
+				"description": "Genuine replies from 1880s and 1890s problem pages. Captions encouraged on Sunday only #GirlsOwnCC and comment (sarcastic or sweet) the rest of the week",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32755,
+				"friends_count": 362,
+				"listed_count": 129,
+				"created_at": "Tue Feb 18 23:04:59 +0000 2014",
+				"favourites_count": 18413,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15306,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/436035798132338688/6JJnj8ka_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/436035798132338688/6JJnj8ka_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2351494683/1392794452",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As the last of the G7 leaders disappeared beneath the Cornish waves, Lady Number 5 gave a valedictory wave. The first stage of the Striped Ladies' plan was compete. #GirlsOwnCC https://t.co/Hg3YCDwrPF"
+	},
+	{
+		"created_at": "Sun Jun 13 18:10:34 +0000 2021",
+		"id": 1404139144486559700,
+		"id_str": "1404139144486559745",
+		"full_text": "@Ljiljana1972 @qualiazombie @Peter88902568 @Eraxite1 @mathonwy @EKKnappenberger @AkSedai606 @byzantinepower @phl43 @russokrauss @catgast @henryjwallis @hazardppp @lilyslynch @jabgreig @ProfSteveFuller @SalemLola @ewinsberg @sudha_lakshmi @markgranza https://t.co/rNT57P1byS",
+		"truncated": false,
+		"display_text_range": [
+			249,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ljiljana1972",
+					"name": "Pelagia",
+					"id": 823096814895239200,
+					"id_str": "823096814895239168",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "qualiazombie",
+					"name": "Sean Crawford",
+					"id": 992146303814684700,
+					"id_str": "992146303814684680",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "Peter88902568",
+					"name": "PAW (Peter)",
+					"id": 1365966710008856600,
+					"id_str": "1365966710008856576",
+					"indices": [
+						28,
+						42
+					]
+				},
+				{
+					"screen_name": "Eraxite1",
+					"name": "Eraxite",
+					"id": 1237688405603037200,
+					"id_str": "1237688405603037184",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"screen_name": "mathonwy",
+					"name": "Mātōnya",
+					"id": 283740393,
+					"id_str": "283740393",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"screen_name": "EKKnappenberger",
+					"name": "Ek 𝓋ℴ𝓃 Knäppenberg",
+					"id": 903721085509742600,
+					"id_str": "903721085509742592",
+					"indices": [
+						63,
+						79
+					]
+				},
+				{
+					"screen_name": "AkSedai606",
+					"name": "Ak 🍎 🪱edai 🦇",
+					"id": 1309480877622268000,
+					"id_str": "1309480877622267905",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"screen_name": "byzantinepower",
+					"name": "Byzantine Ambassador",
+					"id": 252669325,
+					"id_str": "252669325",
+					"indices": [
+						92,
+						107
+					]
+				},
+				{
+					"screen_name": "phl43",
+					"name": "Philippe Lemoine",
+					"id": 850763376263299100,
+					"id_str": "850763376263299078",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"screen_name": "russokrauss",
+					"name": "Chiara Russo Krauss 🇪🇺🇮🇹",
+					"id": 1151444963680489500,
+					"id_str": "1151444963680489473",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"screen_name": "catgast",
+					"name": "catgast",
+					"id": 2899599695,
+					"id_str": "2899599695",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"screen_name": "henryjwallis",
+					"name": "Henry Wallis",
+					"id": 1315911990620102700,
+					"id_str": "1315911990620102658",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"screen_name": "hazardppp",
+					"name": "Andrija",
+					"id": 1182587886476185600,
+					"id_str": "1182587886476185606",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"screen_name": "lilyslynch",
+					"name": "Lily Lynch",
+					"id": 410805006,
+					"id_str": "410805006",
+					"indices": [
+						162,
+						173
+					]
+				},
+				{
+					"screen_name": "jabgreig",
+					"name": "Jonathan Greig",
+					"id": 50194769,
+					"id_str": "50194769",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"screen_name": "ProfSteveFuller",
+					"name": "Steve Fuller",
+					"id": 333442035,
+					"id_str": "333442035",
+					"indices": [
+						184,
+						200
+					]
+				},
+				{
+					"screen_name": "SalemLola",
+					"name": "𝕷'𝕬𝖗𝖈𝖍𝖎𝖉𝖚𝖈𝖍𝖊𝖘𝖘𝖊 𝖑𝖊 𝖛𝖊𝖚𝖑𝖙",
+					"id": 1026556303,
+					"id_str": "1026556303",
+					"indices": [
+						201,
+						211
+					]
+				},
+				{
+					"screen_name": "ewinsberg",
+					"name": "Eric Winsberg",
+					"id": 58023582,
+					"id_str": "58023582",
+					"indices": [
+						212,
+						222
+					]
+				},
+				{
+					"screen_name": "sudha_lakshmi",
+					"name": "Sudha Lakshmi",
+					"id": 271540145,
+					"id_str": "271540145",
+					"indices": [
+						223,
+						237
+					]
+				},
+				{
+					"screen_name": "markgranza",
+					"name": "Mark Granza",
+					"id": 1114822908080283600,
+					"id_str": "1114822908080283648",
+					"indices": [
+						238,
+						249
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1404139135229640700,
+					"id_str": "1404139135229640707",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E3yBGqKWQAMfrFJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E3yBGqKWQAMfrFJ.jpg",
+					"url": "https://t.co/rNT57P1byS",
+					"display_url": "pic.twitter.com/rNT57P1byS",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1404139144486559745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404139135229640700,
+					"id_str": "1404139135229640707",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E3yBGqKWQAMfrFJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E3yBGqKWQAMfrFJ.jpg",
+					"url": "https://t.co/rNT57P1byS",
+					"display_url": "pic.twitter.com/rNT57P1byS",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1404139144486559745/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E3yBGqKWQAMfrFJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1404123038719918000,
+		"in_reply_to_status_id_str": "1404123038719918086",
+		"in_reply_to_user_id": 823096814895239200,
+		"in_reply_to_user_id_str": "823096814895239168",
+		"in_reply_to_screen_name": "Ljiljana1972",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Tweeting about philosophy of mind, consciousness, cog sci, & Greece. Plus bad jokes & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16630,
+			"friends_count": 2256,
+			"listed_count": 517,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Ljiljana1972 @qualiazombie @Peter88902568 @Eraxite1 @mathonwy @EKKnappenberger @AkSedai606 @byzantinepower @phl43 @russokrauss @catgast @henryjwallis @hazardppp @lilyslynch @jabgreig @ProfSteveFuller @SalemLola @ewinsberg @sudha_lakshmi @markgranza https://t.co/rNT57P1byS"
+	},
+	{
+		"created_at": "Sun Jun 13 14:44:29 +0000 2021",
+		"id": 1404072533138215000,
+		"id_str": "1404087283205165058",
+		"full_text": "Aunt just reminding us about her cousin, a very beautiful woman, whose father ran a sewage works in Doncaster and who was consequently known as Shithouse Sal.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79141911,
+			"id_str": "79141911",
+			"name": "Dame VictoriaG Esq (MPhil (failed))",
+			"screen_name": "ancientnmodern",
+			"location": "God's own county",
+			"description": "Old bag beset by family & life, longing for the silence of the grave",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3127,
+			"friends_count": 1971,
+			"listed_count": 59,
+			"created_at": "Fri Oct 02 09:48:24 +0000 2009",
+			"favourites_count": 117555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1399789977299558408/N4vWXAQ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399789977299558408/N4vWXAQ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79141911/1472489459",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 110,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Aunt just reminding us about her cousin, a very beautiful woman, whose father ran a sewage works in Doncaster and who was consequently known as Shithouse Sal."
+	},
+	{
 		"created_at": "Sun Jun 13 02:10:15 +0000 2021",
 		"id": 1403897474302029800,
 		"id_str": "1403897474302029828",
