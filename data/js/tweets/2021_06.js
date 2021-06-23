@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 22 20:36:25 +0000 2021",
+		"id": 1407436965708972000,
+		"id_str": "1407437342286172170",
+		"full_text": "Santorini’s underwater Kolumbo volcano under observation - “If Kolumbo lights up, we’re done for, child,” distinguished marine geologist Evi Nomikou remembers her grandfather – a farmer from Vothonas – warning, speaking of the danger lurking... https://t.co/QxPztvNqbn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QxPztvNqbn",
+					"expanded_url": "https://tmblr.co/Z5V1-taM39pHKa00",
+					"display_url": "tmblr.co/Z5V1-taM39pHKa…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2295779661,
+			"id_str": "2295779661",
+			"name": "Elladastinkardiamou",
+			"screen_name": "stinkardiamou",
+			"location": "",
+			"description": "See also Facebook: Greece - In Heart and Mind - https://t.co/bV8s560ua3",
+			"url": "http://t.co/fOOx2JvbjP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fOOx2JvbjP",
+							"expanded_url": "http://elladastinkardiamou.tumblr.com/",
+							"display_url": "elladastinkardiamou.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bV8s560ua3",
+							"expanded_url": "http://facebook.com/GreeceHeartandMind/",
+							"display_url": "facebook.com/GreeceHeartand…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 1399,
+			"listed_count": 10,
+			"created_at": "Tue Jan 21 16:50:58 +0000 2014",
+			"favourites_count": 3427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/425675210432331776/u9rCq0qi_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/425675210432331776/u9rCq0qi_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2295779661/1390324360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Santorini’s underwater Kolumbo volcano under observation - “If Kolumbo lights up, we’re done for, child,” distinguished marine geologist Evi Nomikou remembers her grandfather – a farmer from Vothonas – warning, speaking of the danger lurking... https://t.co/QxPztvNqbn"
+	},
+	{
+		"created_at": "Tue Jun 22 20:24:37 +0000 2021",
+		"id": 1407434369250300000,
+		"id_str": "1407434369250299904",
+		"full_text": "A nice tribute to four great comedy stooges https://t.co/tZ1o75mj8C via @BritishComedy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BritishComedy",
+					"name": "British Comedy Guide",
+					"id": 32921113,
+					"id_str": "32921113",
+					"indices": [
+						72,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tZ1o75mj8C",
+					"expanded_url": "https://www.comedy.co.uk/features/comedy_chronicles/four-comedy-stooges/",
+					"display_url": "comedy.co.uk/features/comed…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Tweeting about philosophy of mind, consciousness, cog sci, & Greece. Plus bad jokes & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16684,
+			"friends_count": 2258,
+			"listed_count": 521,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A nice tribute to four great comedy stooges https://t.co/tZ1o75mj8C via @BritishComedy"
+	},
+	{
+		"created_at": "Tue Jun 22 15:53:39 +0000 2021",
+		"id": 1407366181246451700,
+		"id_str": "1407366181246451720",
+		"full_text": "@Philip_Goff @NeuroYogacara we didn't have our information properly integrated",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NeuroYogacara",
+					"name": "B",
+					"id": 131644899,
+					"id_str": "131644899",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407365705847251000,
+		"in_reply_to_status_id_str": "1407365705847250947",
+		"in_reply_to_user_id": 216809385,
+		"in_reply_to_user_id_str": "216809385",
+		"in_reply_to_screen_name": "Philip_Goff",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Tweeting about philosophy of mind, consciousness, cog sci, & Greece. Plus bad jokes & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16684,
+			"friends_count": 2258,
+			"listed_count": 521,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Philip_Goff @NeuroYogacara we didn't have our information properly integrated"
+	},
+	{
+		"created_at": "Tue Jun 22 15:49:00 +0000 2021",
+		"id": 1407365011241058300,
+		"id_str": "1407365011241058312",
+		"full_text": "Here's episode 3 of Mind Chat in which @Philip_Goff and I talk to Christof Koch,  about the Integrated Information Theory of Consciousness (the first few minutes are missing, but nothing essential was lost) - YouTube - https://t.co/JhHVYSiFp6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						39,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JhHVYSiFp6",
+					"expanded_url": "https://www.youtube.com/watch?v=Z3qu8dT2h20",
+					"display_url": "youtube.com/watch?v=Z3qu8d…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Tweeting about philosophy of mind, consciousness, cog sci, & Greece. Plus bad jokes & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16684,
+			"friends_count": 2258,
+			"listed_count": 521,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's episode 3 of Mind Chat in which @Philip_Goff and I talk to Christof Koch,  about the Integrated Information Theory of Consciousness (the first few minutes are missing, but nothing essential was lost) - YouTube - https://t.co/JhHVYSiFp6"
+	},
+	{
+		"created_at": "Tue Jun 22 13:03:29 +0000 2021",
+		"id": 1407323355905208300,
+		"id_str": "1407323355905208320",
+		"full_text": "Starting in 30 mins! https://t.co/oXfnlNQLHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oXfnlNQLHA",
+					"expanded_url": "https://twitter.com/Philip_Goff/status/1407263888480116741",
+					"display_url": "twitter.com/Philip_Goff/st…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Tweeting about philosophy of mind, consciousness, cog sci, & Greece. Plus bad jokes & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16684,
+			"friends_count": 2258,
+			"listed_count": 521,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407263888480116700,
+		"quoted_status_id_str": "1407263888480116741",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oXfnlNQLHA",
+			"expanded": "https://twitter.com/Philip_Goff/status/1407263888480116741",
+			"display": "twitter.com/Philip_Goff/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 22 09:07:11 +0000 2021",
+			"id": 1407263888480116700,
+			"id_str": "1407263888480116741",
+			"full_text": "Today on Mind Chat: Christof Koch on Integrated Information Theory of consciousness. 2:30pm UK time (N.B. time has changed). Subscribe now so you don't miss it! @keithfrankish \nhttps://t.co/j0zSTRWPhT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "keithfrankish",
+						"name": "Keith Frankish",
+						"id": 52522040,
+						"id_str": "52522040",
+						"indices": [
+							161,
+							175
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/j0zSTRWPhT",
+						"expanded_url": "https://www.youtube.com/watch?v=Z3qu8dT2h20",
+						"display_url": "youtube.com/watch?v=Z3qu8d…",
+						"indices": [
+							177,
+							200
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216809385,
+				"id_str": "216809385",
+				"name": "Philip Goff",
+				"screen_name": "Philip_Goff",
+				"location": "Durham, England",
+				"description": "Associate Professor of Philosophy at Durham Uni and author of 'Galileo's Error.' Job: Explaining consciousness. Panpsychist, socialist, practicing agnostic.",
+				"url": "https://t.co/08S5UaFPTV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/08S5UaFPTV",
+								"expanded_url": "http://www.philipgoffphilosophy.com",
+								"display_url": "philipgoffphilosophy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11706,
+				"friends_count": 993,
+				"listed_count": 200,
+				"created_at": "Wed Nov 17 19:46:56 +0000 2010",
+				"favourites_count": 12417,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14894,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1300914822364758018/JeLJYjid_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300914822364758018/JeLJYjid_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216809385/1574435202",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Starting in 30 mins! https://t.co/oXfnlNQLHA"
+	},
+	{
 		"created_at": "Tue Jun 22 00:04:26 +0000 2021",
 		"id": 1407127301490421800,
 		"id_str": "1407127301490421760",
