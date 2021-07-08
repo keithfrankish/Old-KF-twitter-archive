@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 20:29:56 +0000 2021",
+		"id": 1412871528451039200,
+		"id_str": "1412871528451039238",
+		"full_text": "@timtfj I'm with you, Tim!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timtfj",
+					"name": "Tim J",
+					"id": 15218989,
+					"id_str": "15218989",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1412871185298346000,
+		"in_reply_to_status_id_str": "1412871185298345984",
+		"in_reply_to_user_id": 15218989,
+		"in_reply_to_user_id_str": "15218989",
+		"in_reply_to_screen_name": "timtfj",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16781,
+			"friends_count": 2258,
+			"listed_count": 525,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timtfj I'm with you, Tim!"
+	},
+	{
+		"created_at": "Wed Jul 07 16:46:53 +0000 2021",
+		"id": 1412815393346015200,
+		"id_str": "1412815393346015234",
+		"full_text": "@Philip_Goff PS -- If the AS is Glasto, then I'm afraid I'm James Blunt.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1412435551962255400,
+		"in_reply_to_status_id_str": "1412435551962255370",
+		"in_reply_to_user_id": 216809385,
+		"in_reply_to_user_id_str": "216809385",
+		"in_reply_to_screen_name": "Philip_Goff",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16781,
+			"friends_count": 2258,
+			"listed_count": 525,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Philip_Goff PS -- If the AS is Glasto, then I'm afraid I'm James Blunt."
+	},
+	{
 		"created_at": "Tue Jul 06 15:17:55 +0000 2021",
 		"id": 1412430615849455600,
 		"id_str": "1412430615849455617",
