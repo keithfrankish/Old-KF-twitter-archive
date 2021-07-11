@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 00:19:24 +0000 2021",
+		"id": 1414016438638104600,
+		"id_str": "1414016438638104577",
+		"full_text": "@AnthonyMetivier @NatalistAnti @horatiooswald73 @TOEwithCurt I'll DM you tomorrow with some thoughts. Like Dennett, I often compare consciousness to stage magic, so it will be interesting to get a magician's perspective.",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnthonyMetivier",
+					"name": "Anthony Metivier",
+					"id": 427699912,
+					"id_str": "427699912",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "NatalistAnti",
+					"name": "Morality without addiction",
+					"id": 1344203463941619700,
+					"id_str": "1344203463941619712",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "horatiooswald73",
+					"name": "Horatio Oswald",
+					"id": 4777145314,
+					"id_str": "4777145314",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"screen_name": "TOEwithCurt",
+					"name": "Theories of Everything",
+					"id": 1002272583465734100,
+					"id_str": "1002272583465734145",
+					"indices": [
+						48,
+						60
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1414009338692128800,
+		"in_reply_to_status_id_str": "1414009338692128769",
+		"in_reply_to_user_id": 427699912,
+		"in_reply_to_user_id_str": "427699912",
+		"in_reply_to_screen_name": "AnthonyMetivier",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16792,
+			"friends_count": 2258,
+			"listed_count": 523,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnthonyMetivier @NatalistAnti @horatiooswald73 @TOEwithCurt I'll DM you tomorrow with some thoughts. Like Dennett, I often compare consciousness to stage magic, so it will be interesting to get a magician's perspective."
+	},
+	{
+		"created_at": "Sat Jul 10 23:11:21 +0000 2021",
+		"id": 1413999311436845000,
+		"id_str": "1413999311436845058",
+		"full_text": "@AnthonyMetivier @NatalistAnti @horatiooswald73 @TOEwithCurt We should try it. (I suspect you've been teasing me a bit with your deadpan replies recently  -- and you'll done it very well!)",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnthonyMetivier",
+					"name": "Anthony Metivier",
+					"id": 427699912,
+					"id_str": "427699912",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "NatalistAnti",
+					"name": "Morality without addiction",
+					"id": 1344203463941619700,
+					"id_str": "1344203463941619712",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "horatiooswald73",
+					"name": "Horatio Oswald",
+					"id": 4777145314,
+					"id_str": "4777145314",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"screen_name": "TOEwithCurt",
+					"name": "Theories of Everything",
+					"id": 1002272583465734100,
+					"id_str": "1002272583465734145",
+					"indices": [
+						48,
+						60
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1413998745029468200,
+		"in_reply_to_status_id_str": "1413998745029468166",
+		"in_reply_to_user_id": 427699912,
+		"in_reply_to_user_id_str": "427699912",
+		"in_reply_to_screen_name": "AnthonyMetivier",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16792,
+			"friends_count": 2258,
+			"listed_count": 523,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnthonyMetivier @NatalistAnti @horatiooswald73 @TOEwithCurt We should try it. (I suspect you've been teasing me a bit with your deadpan replies recently  -- and you'll done it very well!)"
+	},
+	{
+		"created_at": "Sat Jul 10 22:37:58 +0000 2021",
+		"id": 1413990911902638000,
+		"id_str": "1413990911902638083",
+		"full_text": "@AnthonyMetivier @NatalistAnti @horatiooswald73 @TOEwithCurt We should form a double act! I tell crap jokes and you point out their inaccuracies and logical flaws. :)",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnthonyMetivier",
+					"name": "Anthony Metivier",
+					"id": 427699912,
+					"id_str": "427699912",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "NatalistAnti",
+					"name": "Morality without addiction",
+					"id": 1344203463941619700,
+					"id_str": "1344203463941619712",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "horatiooswald73",
+					"name": "Horatio Oswald",
+					"id": 4777145314,
+					"id_str": "4777145314",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"screen_name": "TOEwithCurt",
+					"name": "Theories of Everything",
+					"id": 1002272583465734100,
+					"id_str": "1002272583465734145",
+					"indices": [
+						48,
+						60
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1413988694667579400,
+		"in_reply_to_status_id_str": "1413988694667579393",
+		"in_reply_to_user_id": 427699912,
+		"in_reply_to_user_id_str": "427699912",
+		"in_reply_to_screen_name": "AnthonyMetivier",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16792,
+			"friends_count": 2258,
+			"listed_count": 523,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnthonyMetivier @NatalistAnti @horatiooswald73 @TOEwithCurt We should form a double act! I tell crap jokes and you point out their inaccuracies and logical flaws. :)"
+	},
+	{
+		"created_at": "Sat Jul 10 21:37:25 +0000 2021",
+		"id": 1413975674055012400,
+		"id_str": "1413975674055012358",
+		"full_text": "@AnthonyMetivier @NatalistAnti @horatiooswald73 It's just a play on words",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnthonyMetivier",
+					"name": "Anthony Metivier",
+					"id": 427699912,
+					"id_str": "427699912",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "NatalistAnti",
+					"name": "Morality without addiction",
+					"id": 1344203463941619700,
+					"id_str": "1344203463941619712",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "horatiooswald73",
+					"name": "Horatio Oswald",
+					"id": 4777145314,
+					"id_str": "4777145314",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1413959429167276000,
+		"in_reply_to_status_id_str": "1413959429167276038",
+		"in_reply_to_user_id": 427699912,
+		"in_reply_to_user_id_str": "427699912",
+		"in_reply_to_screen_name": "AnthonyMetivier",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16792,
+			"friends_count": 2258,
+			"listed_count": 523,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnthonyMetivier @NatalistAnti @horatiooswald73 It's just a play on words"
+	},
+	{
 		"created_at": "Fri Jul 09 23:26:19 +0000 2021",
 		"id": 1413640690333065200,
 		"id_str": "1413640690333065217",
