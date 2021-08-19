@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 21:37:05 +0000 2021",
+		"id": 1428028389412294700,
+		"id_str": "1428108717195677701",
+		"full_text": "One of the scariest thing about this pandemic is that it seems that we can't ask people for very minor inconveniences for the greater good; so what happens if we have to ask for a semi-serious inconvenience? Doesn't look promising.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 954811536,
+			"id_str": "954811536",
+			"name": "Tarik D. LaCour",
+			"screen_name": "realscientistic",
+			"location": "Bryan, TX",
+			"description": "Husband. Father. Latter-day Saint. Neurophilosopher. Conservative. Stoic. Longhorns, Cowboys, Lakers, Yankees fan. Ph.D. student @TAMU",
+			"url": "https://t.co/DtxROhRdrr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DtxROhRdrr",
+							"expanded_url": "https://humefootnotes.blogspot.com/?m=1",
+							"display_url": "humefootnotes.blogspot.com/?m=1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1959,
+			"friends_count": 5000,
+			"listed_count": 13,
+			"created_at": "Sun Nov 18 04:19:54 +0000 2012",
+			"favourites_count": 9040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313853012973150208/2BxfoRX0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313853012973150208/2BxfoRX0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/954811536/1602082032",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "One of the scariest thing about this pandemic is that it seems that we can't ask people for very minor inconveniences for the greater good; so what happens if we have to ask for a semi-serious inconvenience? Doesn't look promising."
+	},
+	{
+		"created_at": "Wed Aug 18 11:50:04 +0000 2021",
+		"id": 1427960989836841000,
+		"id_str": "1427960989836840967",
+		"full_text": "@HindleRay @DrewLawDesign I do that more than three times a *night* now. Middle age.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HindleRay",
+					"name": "RayHindle💙❄️European,#FBPE/R ex-RAF,detest#Brexit",
+					"id": 1169261449874681900,
+					"id_str": "1169261449874681858",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "DrewLawDesign",
+					"name": "DrewLawrenceAntiques",
+					"id": 749574570949087200,
+					"id_str": "749574570949087232",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1427942073135685600,
+		"in_reply_to_status_id_str": "1427942073135685637",
+		"in_reply_to_user_id": 1169261449874681900,
+		"in_reply_to_user_id_str": "1169261449874681858",
+		"in_reply_to_screen_name": "HindleRay",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17091,
+			"friends_count": 2267,
+			"listed_count": 525,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 45761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HindleRay @DrewLawDesign I do that more than three times a *night* now. Middle age."
+	},
+	{
 		"created_at": "Tue Aug 17 22:51:45 +0000 2021",
 		"id": 1427765120164368400,
 		"id_str": "1427765120164368390",
