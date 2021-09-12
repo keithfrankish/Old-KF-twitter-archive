@@ -1,6 +1,1123 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 11 17:19:11 +0000 2021",
+		"id": 1436741121548374000,
+		"id_str": "1436741121548374028",
+		"full_text": "@venetianblonde This is so powerful. Not just the song, and the now-frail singer, but the memory of the fifty years of history it's been sung to and through. It's almost liturgical.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "venetianblonde",
+					"name": "Anne Margaret Daniel",
+					"id": 33203037,
+					"id_str": "33203037",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436737596063948800,
+		"in_reply_to_status_id_str": "1436737596063948800",
+		"in_reply_to_user_id": 33203037,
+		"in_reply_to_user_id_str": "33203037",
+		"in_reply_to_screen_name": "venetianblonde",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17425,
+			"friends_count": 2271,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@venetianblonde This is so powerful. Not just the song, and the now-frail singer, but the memory of the fifty years of history it's been sung to and through. It's almost liturgical."
+	},
+	{
+		"created_at": "Sat Sep 11 16:26:49 +0000 2021",
+		"id": 1436727943200493600,
+		"id_str": "1436727943200493568",
+		"full_text": "@AndrewJRParker @krysdolega @Philip_Goff @onemorebrown @JohannesKleiner Why can't we use the same one as before -- say, that everything supervenes metaphysically on the states and processes described by physics?",
+		"truncated": false,
+		"display_text_range": [
+			72,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AndrewJRParker",
+					"name": "Andrew Parker",
+					"id": 1432236238363365400,
+					"id_str": "1432236238363365377",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "krysdolega",
+					"name": "Menschevik Duck",
+					"id": 901023297579745300,
+					"id_str": "901023297579745280",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "onemorebrown",
+					"name": "Richard Brown",
+					"id": 254512557,
+					"id_str": "254512557",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"screen_name": "JohannesKleiner",
+					"name": "Johannes Kleiner",
+					"id": 1151777902498865200,
+					"id_str": "1151777902498865153",
+					"indices": [
+						55,
+						71
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436721907991261200,
+		"in_reply_to_status_id_str": "1436721907991261187",
+		"in_reply_to_user_id": 1432236238363365400,
+		"in_reply_to_user_id_str": "1432236238363365377",
+		"in_reply_to_screen_name": "AndrewJRParker",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17425,
+			"friends_count": 2271,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AndrewJRParker @krysdolega @Philip_Goff @onemorebrown @JohannesKleiner Why can't we use the same one as before -- say, that everything supervenes metaphysically on the states and processes described by physics?"
+	},
+	{
+		"created_at": "Sat Sep 11 13:14:23 +0000 2021",
+		"id": 1436435361526268000,
+		"id_str": "1436679514529148935",
+		"full_text": "“Never try to convey your idea to the audience - it is a thankless and senseless task. Show them life, and they'll find within themselves the means to assess and appreciate it.” \n- Andrei Tarkovsky https://t.co/pJah5H9yvG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436435357118066700,
+					"id_str": "1436435357118066691",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E-8-WMPVcAMHBo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-8-WMPVcAMHBo6.jpg",
+					"url": "https://t.co/pJah5H9yvG",
+					"display_url": "pic.twitter.com/pJah5H9yvG",
+					"expanded_url": "https://twitter.com/ddoniolvalcroze/status/1436435361526267906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 474,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 744,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436435357118066700,
+					"id_str": "1436435357118066691",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E-8-WMPVcAMHBo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-8-WMPVcAMHBo6.jpg",
+					"url": "https://t.co/pJah5H9yvG",
+					"display_url": "pic.twitter.com/pJah5H9yvG",
+					"expanded_url": "https://twitter.com/ddoniolvalcroze/status/1436435361526267906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 474,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 744,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1063685129661382700,
+			"id_str": "1063685129661382656",
+			"name": "Diane Doniol-Valcroze",
+			"screen_name": "ddoniolvalcroze",
+			"location": "Hollywood, Los Angeles",
+			"description": "Writer/screenwriter. Daughter of Jacques Doniol-Valcroze co-founder of Cahiers Du Cinéma",
+			"url": "https://t.co/G2JE8QUlkj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G2JE8QUlkj",
+							"expanded_url": "https://41strange.wordpress.com",
+							"display_url": "41strange.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141592,
+			"friends_count": 439,
+			"listed_count": 1216,
+			"created_at": "Sat Nov 17 06:47:51 +0000 2018",
+			"favourites_count": 123804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063687642267607040/D4Dc2N9L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063687642267607040/D4Dc2N9L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1063685129661382656/1613179210",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 416,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Never try to convey your idea to the audience - it is a thankless and senseless task. Show them life, and they'll find within themselves the means to assess and appreciate it.” \n- Andrei Tarkovsky https://t.co/pJah5H9yvG"
+	},
+	{
+		"created_at": "Sat Sep 11 12:33:01 +0000 2021",
+		"id": 1436669106766422000,
+		"id_str": "1436669106766422020",
+		"full_text": "@AndrewJRParker @krysdolega @onemorebrown @Philip_Goff @JohannesKleiner I think QM raises many important, profound, and very difficult questions. I just think it's irrelevant to consciousness (or no more relevant to it than it is to digestion).",
+		"truncated": false,
+		"display_text_range": [
+			72,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AndrewJRParker",
+					"name": "Andrew Parker",
+					"id": 1432236238363365400,
+					"id_str": "1432236238363365377",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "krysdolega",
+					"name": "Menschevik Duck",
+					"id": 901023297579745300,
+					"id_str": "901023297579745280",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "onemorebrown",
+					"name": "Richard Brown",
+					"id": 254512557,
+					"id_str": "254512557",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "JohannesKleiner",
+					"name": "Johannes Kleiner",
+					"id": 1151777902498865200,
+					"id_str": "1151777902498865153",
+					"indices": [
+						55,
+						71
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436665387735785500,
+		"in_reply_to_status_id_str": "1436665387735785485",
+		"in_reply_to_user_id": 1432236238363365400,
+		"in_reply_to_user_id_str": "1432236238363365377",
+		"in_reply_to_screen_name": "AndrewJRParker",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17425,
+			"friends_count": 2271,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AndrewJRParker @krysdolega @onemorebrown @Philip_Goff @JohannesKleiner I think QM raises many important, profound, and very difficult questions. I just think it's irrelevant to consciousness (or no more relevant to it than it is to digestion)."
+	},
+	{
+		"created_at": "Sat Sep 11 11:18:39 +0000 2021",
+		"id": 1436612470748196900,
+		"id_str": "1436650391622586377",
+		"full_text": "The yearning to sit in the snug of this pub where there might be a weak fire and no juke box, an old man reading the paper, the sound of a radio coming from the kitchen, horse racing’s on, is almost unbearable. https://t.co/evHWOFuhoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/evHWOFuhoA",
+					"expanded_url": "https://twitter.com/marcdavenant/status/1436580403004022785",
+					"display_url": "twitter.com/marcdavenant/s…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2816947358,
+			"id_str": "2816947358",
+			"name": "Kit de Waal",
+			"screen_name": "KitdeWaal",
+			"location": "Between Middle, south and over the water",
+			"description": "Writer, swearer. common person. Co-founder Big Book Weekend with @MollyFlatt. Proud Primadonna. Also @portopiatv",
+			"url": "https://t.co/42lYAo7s35",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/42lYAo7s35",
+							"expanded_url": "http://www.kitdewaal.com",
+							"display_url": "kitdewaal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26149,
+			"friends_count": 5275,
+			"listed_count": 248,
+			"created_at": "Thu Sep 18 12:20:07 +0000 2014",
+			"favourites_count": 131308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076241841287282689/VrMk45Bn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076241841287282689/VrMk45Bn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2816947358/1595417317",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1436580403004022800,
+		"quoted_status_id_str": "1436580403004022785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/evHWOFuhoA",
+			"expanded": "https://twitter.com/marcdavenant/status/1436580403004022785",
+			"display": "twitter.com/marcdavenant/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 11 06:40:33 +0000 2021",
+			"id": 1436580403004022800,
+			"id_str": "1436580403004022785",
+			"full_text": "Lonely Pub, 1964 by John Bulmer. https://t.co/kYkss5SyyD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1436580399531151400,
+						"id_str": "1436580399531151370",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/E-_CQxVX0AoIq5P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-_CQxVX0AoIq5P.jpg",
+						"url": "https://t.co/kYkss5SyyD",
+						"display_url": "pic.twitter.com/kYkss5SyyD",
+						"expanded_url": "https://twitter.com/MarcDavenant/status/1436580403004022785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 428,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 472,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 472,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1436580399531151400,
+						"id_str": "1436580399531151370",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/E-_CQxVX0AoIq5P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-_CQxVX0AoIq5P.jpg",
+						"url": "https://t.co/kYkss5SyyD",
+						"display_url": "pic.twitter.com/kYkss5SyyD",
+						"expanded_url": "https://twitter.com/MarcDavenant/status/1436580403004022785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 428,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 472,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 472,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 350341283,
+				"id_str": "350341283",
+				"name": "Davenant 📸",
+				"screen_name": "MarcDavenant",
+				"location": "Earth",
+				"description": "Marc Davenant, documentary photographer, writer, wanderer, raconteur, citizen of the world, creator of the #GalleryofthePeople. Portrait of Britain winner 2020",
+				"url": "https://t.co/ea7PCEZbl1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ea7PCEZbl1",
+								"expanded_url": "https://davenantphotos.wordpress.com/portfolio-2/",
+								"display_url": "davenantphotos.wordpress.com/portfolio-2/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46690,
+				"friends_count": 1734,
+				"listed_count": 624,
+				"created_at": "Sun Aug 07 16:24:22 +0000 2011",
+				"favourites_count": 163842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 122950,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1383687706937487366/yfk2Mbc0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383687706937487366/yfk2Mbc0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350341283/1593903012",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 76,
+			"favorite_count": 807,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 21,
+		"favorite_count": 359,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The yearning to sit in the snug of this pub where there might be a weak fire and no juke box, an old man reading the paper, the sound of a radio coming from the kitchen, horse racing’s on, is almost unbearable. https://t.co/evHWOFuhoA"
+	},
+	{
+		"created_at": "Sat Sep 11 10:08:41 +0000 2021",
+		"id": 1436632781178691600,
+		"id_str": "1436632781178691585",
+		"full_text": "@PGWodelouse I think they are all in MI5. They probably have to keep hidden.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PGWodelouse",
+					"name": "Rory ffoulkes",
+					"id": 191377575,
+					"id_str": "191377575",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436618713877319700,
+		"in_reply_to_status_id_str": "1436618713877319683",
+		"in_reply_to_user_id": 191377575,
+		"in_reply_to_user_id_str": "191377575",
+		"in_reply_to_screen_name": "PGWodelouse",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17425,
+			"friends_count": 2271,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PGWodelouse I think they are all in MI5. They probably have to keep hidden."
+	},
+	{
+		"created_at": "Sat Sep 11 09:42:03 +0000 2021",
+		"id": 1436626082002874400,
+		"id_str": "1436626082002874368",
+		"full_text": "Everyone's political about some things and nonpolitical about many others. We have tiny foveas and huge blind spots.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17425,
+			"friends_count": 2271,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Everyone's political about some things and nonpolitical about many others. We have tiny foveas and huge blind spots."
+	},
+	{
 		"created_at": "Fri Sep 10 16:32:16 +0000 2021",
 		"id": 1436366927589527600,
 		"id_str": "1436366927589527585",
