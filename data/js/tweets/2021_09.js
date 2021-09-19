@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 16:10:59 +0000 2021",
+		"id": 1439259172403662800,
+		"id_str": "1439260675637907467",
+		"full_text": "\"What a lot of modern philosophy of mind is doing is deconstructing this user illusion, showing us how it is created and related to what is actually happening as our brains interact with our bodies and the world.\" @keithfrankish with @philosophybites https://t.co/hrVi5H2sPK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						214,
+						228
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton 🧡 #RejoinEU",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						234,
+						250
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hrVi5H2sPK",
+					"expanded_url": "https://fivebooks.com/category/philosophy/philosophy-of-mind/",
+					"display_url": "fivebooks.com/category/philo…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 252166714,
+			"id_str": "252166714",
+			"name": "Five Books",
+			"screen_name": "five_books",
+			"location": "",
+			"description": "Where experts recommend the top five books in their field and explain why they're important. We publish at least two new interviews per week https://t.co/4xBjrs4tzo",
+			"url": "https://t.co/DtLrUyxcZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DtLrUyxcZA",
+							"expanded_url": "http://www.fivebooks.com",
+							"display_url": "fivebooks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4xBjrs4tzo",
+							"expanded_url": "http://www.fivebooks.com",
+							"display_url": "fivebooks.com",
+							"indices": [
+								141,
+								164
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35202,
+			"friends_count": 919,
+			"listed_count": 738,
+			"created_at": "Mon Feb 14 16:43:00 +0000 2011",
+			"favourites_count": 12377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990922599302684672/0yX4qtqz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990922599302684672/0yX4qtqz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/252166714/1606167939",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"What a lot of modern philosophy of mind is doing is deconstructing this user illusion, showing us how it is created and related to what is actually happening as our brains interact with our bodies and the world.\" @keithfrankish with @philosophybites https://t.co/hrVi5H2sPK"
+	},
+	{
 		"created_at": "Fri Sep 17 12:24:27 +0000 2021",
 		"id": 1438841277232160800,
 		"id_str": "1438841277232160770",
