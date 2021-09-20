@@ -1,6 +1,671 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 19 21:34:28 +0000 2021",
+		"id": 1439704467864182800,
+		"id_str": "1439704467864182786",
+		"full_text": "@ancientnmodern @GirlsOwn @Beakmoo You looked just like Eleanor Bron!",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "Dame VictoriaG Esq (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "GirlsOwn",
+					"name": "Girls' Own advice",
+					"id": 2351494683,
+					"id_str": "2351494683",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "Beakmoo",
+					"name": "Avian Face-Tool 🇮🇪 🇪🇺",
+					"id": 174727432,
+					"id_str": "174727432",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1439698604340519000,
+		"in_reply_to_status_id_str": "1439698604340518914",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17488,
+			"friends_count": 2270,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ancientnmodern @GirlsOwn @Beakmoo You looked just like Eleanor Bron!"
+	},
+	{
+		"created_at": "Sun Sep 19 20:34:07 +0000 2021",
+		"id": 1439685927803277300,
+		"id_str": "1439689281434439690",
+		"full_text": "Having spent the last few weekends displaying R4118 myself, it was fantastic to watch her in the hands of Stu Goldspink: the undisputed master of modern-day Hurricane flying.  This loop was just beautiful 😍 https://t.co/CPdDbu52M9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439685830826766300,
+					"id_str": "1439685830826766337",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439685830826766337/pu/img/EGYYHjMbo1OrEP0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439685830826766337/pu/img/EGYYHjMbo1OrEP0X.jpg",
+					"url": "https://t.co/CPdDbu52M9",
+					"display_url": "pic.twitter.com/CPdDbu52M9",
+					"expanded_url": "https://twitter.com/HurricaneR4118/status/1439685927803277316/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439685830826766300,
+					"id_str": "1439685830826766337",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439685830826766337/pu/img/EGYYHjMbo1OrEP0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439685830826766337/pu/img/EGYYHjMbo1OrEP0X.jpg",
+					"url": "https://t.co/CPdDbu52M9",
+					"display_url": "pic.twitter.com/CPdDbu52M9",
+					"expanded_url": "https://twitter.com/HurricaneR4118/status/1439685927803277316/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33743,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1439685830826766337/pu/pl/o7EtWi047SadcmtZ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439685830826766337/pu/vid/480x270/9Ji4_3gzHRrr7TJO.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439685830826766337/pu/vid/1280x720/NRgwHeswlQEsDnWv.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439685830826766337/pu/vid/640x360/nH_MhHJCbKhevU6c.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4567098077,
+			"id_str": "4567098077",
+			"name": "Hurricane Heritage",
+			"screen_name": "HurricaneR4118",
+			"location": "Oxford, England",
+			"description": "Official feed for Hawker Hurricane Mk1 R4118, the only Hurricane from the Battle of Britain still flying today. Now based at Duxford, Cambridgeshire. UK",
+			"url": "https://t.co/NKcJiSmqaB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NKcJiSmqaB",
+							"expanded_url": "http://www.hurricaneheritage.co.uk",
+							"display_url": "hurricaneheritage.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13624,
+			"friends_count": 1410,
+			"listed_count": 110,
+			"created_at": "Tue Dec 22 11:14:30 +0000 2015",
+			"favourites_count": 15185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/679259018251079680/FwBpxqSB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/679259018251079680/FwBpxqSB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4567098077/1453200961",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Having spent the last few weekends displaying R4118 myself, it was fantastic to watch her in the hands of Stu Goldspink: the undisputed master of modern-day Hurricane flying.  This loop was just beautiful 😍 https://t.co/CPdDbu52M9"
+	},
+	{
+		"created_at": "Sun Sep 19 19:26:30 +0000 2021",
+		"id": 1439672264706908200,
+		"id_str": "1439672264706908164",
+		"full_text": "The annual meeting of Girl's Own Advice Fan Club was in full swing, @GirlsOwn herself sat atop the piano reading from the magazine's letters page, while @ancientnmodern hammered out 'Roll Out the Barrel', and assorted sycophants and hangers-on gave voice lustily. #GirlsOwnCC https://t.co/4uDg4MhfGT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOwnCC",
+					"indices": [
+						264,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsOwn",
+					"name": "Girls' Own advice",
+					"id": 2351494683,
+					"id_str": "2351494683",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"screen_name": "ancientnmodern",
+					"name": "Dame VictoriaG Esq (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						153,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4uDg4MhfGT",
+					"expanded_url": "https://twitter.com/GirlsOwn/status/1439634233451024385",
+					"display_url": "twitter.com/GirlsOwn/statu…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17488,
+			"friends_count": 2270,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1439634233451024400,
+		"quoted_status_id_str": "1439634233451024385",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4uDg4MhfGT",
+			"expanded": "https://twitter.com/GirlsOwn/status/1439634233451024385",
+			"display": "twitter.com/GirlsOwn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 19 16:55:23 +0000 2021",
+			"id": 1439634233451024400,
+			"id_str": "1439634233451024385",
+			"full_text": "And now for this Sunday’s caption contest a rousing sing-song. \n\nRetweet to spread the word, quote tweet your caption remembering to include #GirlsOwnCC and give away lots of ❤️s to your fellow competitors. https://t.co/YIWvHOHLhl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GirlsOwnCC",
+						"indices": [
+							141,
+							152
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1439634226123612200,
+						"id_str": "1439634226123612164",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/E_qbs36XoAQ7lfz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_qbs36XoAQ7lfz.jpg",
+						"url": "https://t.co/YIWvHOHLhl",
+						"display_url": "pic.twitter.com/YIWvHOHLhl",
+						"expanded_url": "https://twitter.com/GirlsOwn/status/1439634233451024385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 813,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1388,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1439634226123612200,
+						"id_str": "1439634226123612164",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/E_qbs36XoAQ7lfz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_qbs36XoAQ7lfz.jpg",
+						"url": "https://t.co/YIWvHOHLhl",
+						"display_url": "pic.twitter.com/YIWvHOHLhl",
+						"expanded_url": "https://twitter.com/GirlsOwn/status/1439634233451024385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 813,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1388,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2351494683,
+				"id_str": "2351494683",
+				"name": "Girls' Own advice",
+				"screen_name": "GirlsOwn",
+				"location": "",
+				"description": "Genuine replies from 1880s and 1890s problem pages. Captions encouraged on Sunday only #GirlsOwnCC and comment (sarcastic or sweet) the rest of the week",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33066,
+				"friends_count": 374,
+				"listed_count": 128,
+				"created_at": "Tue Feb 18 23:04:59 +0000 2014",
+				"favourites_count": 19722,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15645,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/436035798132338688/6JJnj8ka_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/436035798132338688/6JJnj8ka_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2351494683/1392794452",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The annual meeting of Girl's Own Advice Fan Club was in full swing, @GirlsOwn herself sat atop the piano reading from the magazine's letters page, while @ancientnmodern hammered out 'Roll Out the Barrel', and assorted sycophants and hangers-on gave voice lustily. #GirlsOwnCC https://t.co/4uDg4MhfGT"
+	},
+	{
 		"created_at": "Sat Sep 18 16:10:59 +0000 2021",
 		"id": 1439259172403662800,
 		"id_str": "1439260675637907467",
