@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 16:46:17 +0000 2021",
+		"id": 1440350277668774000,
+		"id_str": "1440356720442675214",
+		"full_text": "'Is Reality Made Up of Consciousness?' Join @keithfrankish and I for Mind Chat with Helen Yetter-Chappell 3pm UK time tomorrow. \n\nhttps://t.co/xHalPW5tii",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						44,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xHalPW5tii",
+					"expanded_url": "https://www.youtube.com/watch?v=aL09IZ1D7HE",
+					"display_url": "youtube.com/watch?v=aL09IZ…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216809385,
+			"id_str": "216809385",
+			"name": "Philip Goff",
+			"screen_name": "Philip_Goff",
+			"location": "Durham, England",
+			"description": "Associate Professor of Philosophy, author of 'Galileo's Error' & co-host of 'Mind Chat.' I research consciousness. Panpsychist, socialist, practicing agnostic.",
+			"url": "https://t.co/08S5UaFPTV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/08S5UaFPTV",
+							"expanded_url": "http://www.philipgoffphilosophy.com",
+							"display_url": "philipgoffphilosophy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12443,
+			"friends_count": 1065,
+			"listed_count": 216,
+			"created_at": "Wed Nov 17 19:46:56 +0000 2010",
+			"favourites_count": 13512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300914822364758018/JeLJYjid_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300914822364758018/JeLJYjid_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216809385/1574435202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Is Reality Made Up of Consciousness?' Join @keithfrankish and I for Mind Chat with Helen Yetter-Chappell 3pm UK time tomorrow. \n\nhttps://t.co/xHalPW5tii"
+	},
+	{
+		"created_at": "Tue Sep 21 16:17:48 +0000 2021",
+		"id": 1440349551315992600,
+		"id_str": "1440349551315992583",
+		"full_text": "Lot's wife discovered! (Sort of, possibly) https://t.co/C80TMpgpST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C80TMpgpST",
+					"expanded_url": "https://twitter.com/rogueclassicist/status/1440277712149495817",
+					"display_url": "twitter.com/rogueclassicis…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17500,
+			"friends_count": 2267,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1440277712149495800,
+		"quoted_status_id_str": "1440277712149495817",
+		"quoted_status_permalink": {
+			"url": "https://t.co/C80TMpgpST",
+			"expanded": "https://twitter.com/rogueclassicist/status/1440277712149495817",
+			"display": "twitter.com/rogueclassicis…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 21 11:32:20 +0000 2021",
+			"id": 1440277712149495800,
+			"id_str": "1440277712149495817",
+			"full_text": "Evidence that a cosmic impact destroyed ancient city in the Jordan Valley \n https://t.co/KaSHmf5QH4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KaSHmf5QH4",
+						"expanded_url": "https://phys.org/news/2021-09-evidence-cosmic-impact-ancient-city.html",
+						"display_url": "phys.org/news/2021-09-e…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16897352,
+				"id_str": "16897352",
+				"name": "rogueclassicist ~ david meadows",
+				"screen_name": "rogueclassicist",
+				"location": "burlington, ontario, canada",
+				"description": "Curating, amplifying, and contributing to #ClassicsTwitter ; sharing #ClassicalReception in the real world (for better or worse). Capitals and apostrophes vary.",
+				"url": "https://t.co/3AvbxUn2vr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3AvbxUn2vr",
+								"expanded_url": "http://rogueclassicism.com",
+								"display_url": "rogueclassicism.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21230,
+				"friends_count": 1448,
+				"listed_count": 772,
+				"created_at": "Wed Oct 22 00:46:17 +0000 2008",
+				"favourites_count": 4011,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 378366,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "031924",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1437928094313107461/ZbtUt_rg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437928094313107461/ZbtUt_rg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16897352/1444489768",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lot's wife discovered! (Sort of, possibly) https://t.co/C80TMpgpST"
+	},
+	{
+		"created_at": "Tue Sep 21 16:15:57 +0000 2021",
+		"id": 1440349089430864000,
+		"id_str": "1440349089430863879",
+		"full_text": "This looks terrific. I'd love to see the whole thing.\nhttps://t.co/R9PWYRgAny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R9PWYRgAny",
+					"expanded_url": "https://youtu.be/EhkxfR2ZJhE",
+					"display_url": "youtu.be/EhkxfR2ZJhE",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17500,
+			"friends_count": 2267,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This looks terrific. I'd love to see the whole thing.\nhttps://t.co/R9PWYRgAny"
+	},
+	{
+		"created_at": "Tue Sep 21 14:25:11 +0000 2021",
+		"id": 1440312388134207500,
+		"id_str": "1440321210546470920",
+		"full_text": "🧟\"Zombie Intuitions\" Symposium!\n\n@eugen_fischer &amp; @somesentences found—among other things—that few reported zombie argument's conceivability intuition\n\nDavid Chalmers, Michelle Liu, @keithfrankish, and Edouard Machery comment\n\nFischer &amp; Sytsma reply https://t.co/ud8msYvznj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eugen_fischer",
+					"name": "Eugen Fischer",
+					"id": 1179375200065990700,
+					"id_str": "1179375200065990658",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"screen_name": "SomeSentences",
+					"name": "Justin Sytsma",
+					"id": 18203608,
+					"id_str": "18203608",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						186,
+						200
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ud8msYvznj",
+					"expanded_url": "https://philosophyofbrains.com/2021/09/21/symposium-on-fischer-sytsmas-zombie-intuitions.aspx",
+					"display_url": "philosophyofbrains.com/2021/09/21/sym…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1431402236,
+			"id_str": "1431402236",
+			"name": "The Brains Blog",
+			"screen_name": "philofbrains",
+			"location": "",
+			"description": "Since 2005, a leading forum for philosophy and science of mind. Managing eds. Dan Burnston, @byrd_nick. Partner: @NeuralMech. Contributors: https://t.co/0SENG9AjAz",
+			"url": "https://t.co/lAYTFU4pBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lAYTFU4pBp",
+							"expanded_url": "http://philosophyofbrains.com",
+							"display_url": "philosophyofbrains.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0SENG9AjAz",
+							"expanded_url": "http://tinyurl.com/y28fpojb",
+							"display_url": "tinyurl.com/y28fpojb",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4289,
+			"friends_count": 846,
+			"listed_count": 154,
+			"created_at": "Wed May 15 20:05:14 +0000 2013",
+			"favourites_count": 1555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1327455429333544961/7Y_tDsT-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1327455429333544961/7Y_tDsT-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1431402236/1376333711",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🧟\"Zombie Intuitions\" Symposium!\n\n@eugen_fischer &amp; @somesentences found—among other things—that few reported zombie argument's conceivability intuition\n\nDavid Chalmers, Michelle Liu, @keithfrankish, and Edouard Machery comment\n\nFischer &amp; Sytsma reply https://t.co/ud8msYvznj"
+	},
+	{
+		"created_at": "Tue Sep 21 11:50:10 +0000 2021",
+		"id": 1408225829503520800,
+		"id_str": "1440282199127834634",
+		"full_text": "Let’s use Ancient Greek to generate new forms of government. Here are three:\nOneirocracy: rule by dreams\nAilurocracy: rule by cats\nTyrocracy: rule by cheese",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1640917298,
+			"id_str": "1640917298",
+			"name": "Tony Corsentino",
+			"screen_name": "corsent",
+			"location": "Massachusetts",
+			"description": "Cataloger (MLIS ’18), ex-Philosopher (PhD ’06), #Cyclist, #Adoptee, agent for @RaggPoet. #ProtectLibraryWorkers. Tweets reflect my mercurial moods 💫",
+			"url": "https://t.co/5RbeyZ5Wqb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5RbeyZ5Wqb",
+							"expanded_url": "http://pronoun.is/he",
+							"display_url": "pronoun.is/he",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 2303,
+			"listed_count": 30,
+			"created_at": "Fri Aug 02 17:14:23 +0000 2013",
+			"favourites_count": 72283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344453225408319489/Ys51iV2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344453225408319489/Ys51iV2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1640917298/1628631304",
+			"profile_link_color": "8C525E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Let’s use Ancient Greek to generate new forms of government. Here are three:\nOneirocracy: rule by dreams\nAilurocracy: rule by cats\nTyrocracy: rule by cheese"
+	},
+	{
 		"created_at": "Mon Sep 20 21:19:27 +0000 2021",
 		"id": 1440063079815864300,
 		"id_str": "1440063079815864323",
