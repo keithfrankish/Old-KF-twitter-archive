@@ -1,6 +1,3358 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 27 23:04:15 +0000 2021",
+		"id": 1442626166553198600,
+		"id_str": "1442626166553198597",
+		"full_text": "Looks interesting https://t.co/fVFrTcqxpi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fVFrTcqxpi",
+					"expanded_url": "https://twitter.com/fierycushman/status/1442281870306287617",
+					"display_url": "twitter.com/fierycushman/s…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1442281870306287600,
+		"quoted_status_id_str": "1442281870306287617",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fVFrTcqxpi",
+			"expanded": "https://twitter.com/fierycushman/status/1442281870306287617",
+			"display": "twitter.com/fierycushman/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 27 00:16:08 +0000 2021",
+			"id": 1442281870306287600,
+			"id_str": "1442281870306287617",
+			"full_text": "Are we “intentionally blind” to the inner workings of our own minds?  And, can training unblind us?  Beautiful, provocative work by Adam Morris (in my lab, but 100% his own) challenging orthodox views about how much we can know by introspection:\nhttps://t.co/Y4JrZ5NYuW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Y4JrZ5NYuW",
+						"expanded_url": "https://psyarxiv.com/4nf5c",
+						"display_url": "psyarxiv.com/4nf5c",
+						"indices": [
+							246,
+							269
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1536637417,
+				"id_str": "1536637417",
+				"name": "Fiery Cushman",
+				"screen_name": "fierycushman",
+				"location": "Cambridge, MA",
+				"description": "Prof. of Psychology, Harvard University",
+				"url": "http://t.co/yS8srf6ie1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yS8srf6ie1",
+								"expanded_url": "http://cushmanlab.fas.harvard.edu",
+								"display_url": "cushmanlab.fas.harvard.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8125,
+				"friends_count": 256,
+				"listed_count": 131,
+				"created_at": "Fri Jun 21 14:20:08 +0000 2013",
+				"favourites_count": 1110,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2283,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/483099649272598528/7Lxm1thC_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/483099649272598528/7Lxm1thC_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1536637417/1406643931",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 285,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks interesting https://t.co/fVFrTcqxpi"
+	},
+	{
+		"created_at": "Mon Sep 27 21:39:56 +0000 2021",
+		"id": 1442604948974358500,
+		"id_str": "1442604948974358528",
+		"full_text": "Another tremor there.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Another tremor there."
+	},
+	{
+		"created_at": "Mon Sep 27 16:33:34 +0000 2021",
+		"id": 1442527846296014800,
+		"id_str": "1442527846296014863",
+		"full_text": "Video of damage caused by the Crete earthquake https://t.co/zepRmsR0eN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zepRmsR0eN",
+					"expanded_url": "https://www.youtube.com/watch?v=tJuT4HmDWC8",
+					"display_url": "youtube.com/watch?v=tJuT4H…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Video of damage caused by the Crete earthquake https://t.co/zepRmsR0eN"
+	},
+	{
+		"created_at": "Mon Sep 27 16:27:15 +0000 2021",
+		"id": 1442526258621943800,
+		"id_str": "1442526258621943815",
+		"full_text": "Webcam images of the Crete earthquake this morning https://t.co/jILmU9wRBI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jILmU9wRBI",
+					"expanded_url": "https://twitter.com/SNEWZWEB/status/1442518994074812421",
+					"display_url": "twitter.com/SNEWZWEB/statu…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1442518994074812400,
+		"quoted_status_id_str": "1442518994074812421",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jILmU9wRBI",
+			"expanded": "https://twitter.com/SNEWZWEB/status/1442518994074812421",
+			"display": "twitter.com/SNEWZWEB/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 27 15:58:23 +0000 2021",
+			"id": 1442518994074812400,
+			"id_str": "1442518994074812421",
+			"full_text": "A 6.0 magnitude earthquake has hit the Greek island of Crete killing at least one person. The quake struck at around 9.15am local time and up to 9 aftershocks have been reported. Comment if you're on scene. #earthquake #crete #greece #BREAKING https://t.co/HbY2WSxlHL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "earthquake",
+						"indices": [
+							207,
+							218
+						]
+					},
+					{
+						"text": "crete",
+						"indices": [
+							219,
+							225
+						]
+					},
+					{
+						"text": "greece",
+						"indices": [
+							226,
+							233
+						]
+					},
+					{
+						"text": "BREAKING",
+						"indices": [
+							234,
+							243
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1442518876831502300,
+						"id_str": "1442518876831502341",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1442518876831502341/pu/img/AHjP46mZAjFMKPaU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1442518876831502341/pu/img/AHjP46mZAjFMKPaU.jpg",
+						"url": "https://t.co/HbY2WSxlHL",
+						"display_url": "pic.twitter.com/HbY2WSxlHL",
+						"expanded_url": "https://twitter.com/SNEWZWEB/status/1442518994074812421/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1442518876831502300,
+						"id_str": "1442518876831502341",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1442518876831502341/pu/img/AHjP46mZAjFMKPaU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1442518876831502341/pu/img/AHjP46mZAjFMKPaU.jpg",
+						"url": "https://t.co/HbY2WSxlHL",
+						"display_url": "pic.twitter.com/HbY2WSxlHL",
+						"expanded_url": "https://twitter.com/SNEWZWEB/status/1442518994074812421/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 51432,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1442518876831502341/pu/vid/1280x720/TRsw_JUBnqEtnwyB.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1442518876831502341/pu/pl/0Zel2M-25kojUD79.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1442518876831502341/pu/vid/480x270/y3DDxvIei_PtNhww.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1442518876831502341/pu/vid/640x360/6zw-SBou2xNShnbo.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1397809644,
+				"id_str": "1397809644",
+				"name": "SNEWZ",
+				"screen_name": "SNEWZWEB",
+				"location": "London",
+				"description": "Get paid for posting content on the Snewz social news app for iOS. Available now!",
+				"url": "https://t.co/9N63DArHfk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9N63DArHfk",
+								"expanded_url": "http://www.snewz.co.uk",
+								"display_url": "snewz.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26,
+				"friends_count": 31,
+				"listed_count": 0,
+				"created_at": "Thu May 02 18:14:39 +0000 2013",
+				"favourites_count": 78,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 432,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861692264300654592/qQdXU92F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861692264300654592/qQdXU92F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1397809644/1609086370",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Webcam images of the Crete earthquake this morning https://t.co/jILmU9wRBI"
+	},
+	{
+		"created_at": "Mon Sep 27 13:55:56 +0000 2021",
+		"id": 1442488177797869600,
+		"id_str": "1442488177797869576",
+		"full_text": "@wrathofgod No more than usual now :)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wrathofgod",
+					"name": "Susie M(ais qui?)",
+					"id": 38256486,
+					"id_str": "38256486",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442464231362728000,
+		"in_reply_to_status_id_str": "1442464231362727942",
+		"in_reply_to_user_id": 38256486,
+		"in_reply_to_user_id_str": "38256486",
+		"in_reply_to_screen_name": "wrathofgod",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wrathofgod No more than usual now :)"
+	},
+	{
+		"created_at": "Mon Sep 27 12:57:35 +0000 2021",
+		"id": 1442473495586168800,
+		"id_str": "1442473495586168840",
+		"full_text": "A report from the village of Arkalochori #Crete, which saw the worst of the #earthquake damage. Some striking images. https://t.co/q6LW60hBOx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Crete",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "earthquake",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q6LW60hBOx",
+					"expanded_url": "https://www.kathimerini.gr/society/561513871/seismos-stin-kriti-enas-nekros-sto-arkalochori-epicheiriseis-apegklovismoy-kai-ston-patsidero/",
+					"display_url": "kathimerini.gr/society/561513…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A report from the village of Arkalochori #Crete, which saw the worst of the #earthquake damage. Some striking images. https://t.co/q6LW60hBOx"
+	},
+	{
+		"created_at": "Mon Sep 27 12:19:32 +0000 2021",
+		"id": 1442463918425886700,
+		"id_str": "1442463918425886723",
+		"full_text": "@drangiehobbs 👍",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drangiehobbs",
+					"name": "Angie Hobbs",
+					"id": 82591098,
+					"id_str": "82591098",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442463382167191600,
+		"in_reply_to_status_id_str": "1442463382167191560",
+		"in_reply_to_user_id": 82591098,
+		"in_reply_to_user_id_str": "82591098",
+		"in_reply_to_screen_name": "drangiehobbs",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@drangiehobbs 👍"
+	},
+	{
+		"created_at": "Mon Sep 27 12:16:10 +0000 2021",
+		"id": 1442463070169796600,
+		"id_str": "1442463070169796611",
+		"full_text": "@jingle__belle Thanks JB!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jingle__belle",
+					"name": "jingle__belle",
+					"id": 1127343658775093200,
+					"id_str": "1127343658775093249",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442462638454165500,
+		"in_reply_to_status_id_str": "1442462638454165505",
+		"in_reply_to_user_id": 1127343658775093200,
+		"in_reply_to_user_id_str": "1127343658775093249",
+		"in_reply_to_screen_name": "jingle__belle",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jingle__belle Thanks JB!"
+	},
+	{
+		"created_at": "Mon Sep 27 12:15:53 +0000 2021",
+		"id": 1442462998019203000,
+		"id_str": "1442462998019203077",
+		"full_text": "@epicciuto We're fine thanks, Elizabeth, though there have been injuries in the area and one death. It was scary!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "epicciuto",
+					"name": "Elizabeth Picciuto",
+					"id": 36651871,
+					"id_str": "36651871",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442462515967840300,
+		"in_reply_to_status_id_str": "1442462515967840263",
+		"in_reply_to_user_id": 36651871,
+		"in_reply_to_user_id_str": "36651871",
+		"in_reply_to_screen_name": "epicciuto",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@epicciuto We're fine thanks, Elizabeth, though there have been injuries in the area and one death. It was scary!"
+	},
+	{
+		"created_at": "Mon Sep 27 12:10:28 +0000 2021",
+		"id": 1442461638599217200,
+		"id_str": "1442461638599217153",
+		"full_text": "Well, the earthquake has made the kids happy. The schools are to be closed for two days, so that safety checks on the buildings can be carried out.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Well, the earthquake has made the kids happy. The schools are to be closed for two days, so that safety checks on the buildings can be carried out."
+	},
+	{
+		"created_at": "Mon Sep 27 12:08:47 +0000 2021",
+		"id": 1442461211656872000,
+		"id_str": "1442461211656871939",
+		"full_text": "Photos of earthquake damage in the Heraklion area https://t.co/DY4aruhsYn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DY4aruhsYn",
+					"expanded_url": "https://twitter.com/sugarenia/status/1442420164536848386",
+					"display_url": "twitter.com/sugarenia/stat…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1442420164536848400,
+		"quoted_status_id_str": "1442420164536848386",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DY4aruhsYn",
+			"expanded": "https://twitter.com/sugarenia/status/1442420164536848386",
+			"display": "twitter.com/sugarenia/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 27 09:25:40 +0000 2021",
+			"id": 1442420164536848400,
+			"id_str": "1442420164536848386",
+			"full_text": "Lots of damage in the countryside around Heraklion #earthquake https://t.co/9ZLkv69uaa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "earthquake",
+						"indices": [
+							51,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1442420060115538000,
+						"id_str": "1442420060115537926",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/FASBZwQVkAYqRmG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FASBZwQVkAYqRmG.jpg",
+						"url": "https://t.co/9ZLkv69uaa",
+						"display_url": "pic.twitter.com/9ZLkv69uaa",
+						"expanded_url": "https://twitter.com/sugarenia/status/1442420164536848386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1442420060115538000,
+						"id_str": "1442420060115537926",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/FASBZwQVkAYqRmG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FASBZwQVkAYqRmG.jpg",
+						"url": "https://t.co/9ZLkv69uaa",
+						"display_url": "pic.twitter.com/9ZLkv69uaa",
+						"expanded_url": "https://twitter.com/sugarenia/status/1442420164536848386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1442420058672664600,
+						"id_str": "1442420058672664576",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/FASBZq4VEAAwRsc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FASBZq4VEAAwRsc.jpg",
+						"url": "https://t.co/9ZLkv69uaa",
+						"display_url": "pic.twitter.com/9ZLkv69uaa",
+						"expanded_url": "https://twitter.com/sugarenia/status/1442420164536848386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1442420053442506800,
+						"id_str": "1442420053442506754",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/FASBZXZXMAI34MM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FASBZXZXMAI34MM.jpg",
+						"url": "https://t.co/9ZLkv69uaa",
+						"display_url": "pic.twitter.com/9ZLkv69uaa",
+						"expanded_url": "https://twitter.com/sugarenia/status/1442420164536848386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1442420057376653300,
+						"id_str": "1442420057376653314",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/FASBZmDVgAIC62m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FASBZmDVgAIC62m.jpg",
+						"url": "https://t.co/9ZLkv69uaa",
+						"display_url": "pic.twitter.com/9ZLkv69uaa",
+						"expanded_url": "https://twitter.com/sugarenia/status/1442420164536848386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739223,
+				"id_str": "739223",
+				"name": "Zaharenia Atzitzikaki",
+				"screen_name": "sugarenia",
+				"location": "Heraklion, Crete, Greece",
+				"description": "Design executive, gamer, cat whisperer, GIF connoisseuse. No-nonsense girl. Feminist. Podcasting at https://t.co/Ly8lmEROe7, newslettering at https://t.co/ou1IIWknJt",
+				"url": "https://t.co/LveJ4ZMkO8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LveJ4ZMkO8",
+								"expanded_url": "http://sugarenia.com",
+								"display_url": "sugarenia.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ly8lmEROe7",
+								"expanded_url": "http://ssmap.gr",
+								"display_url": "ssmap.gr",
+								"indices": [
+									100,
+									123
+								]
+							},
+							{
+								"url": "https://t.co/ou1IIWknJt",
+								"expanded_url": "http://leadingbydesign.email",
+								"display_url": "leadingbydesign.email",
+								"indices": [
+									142,
+									165
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3499,
+				"friends_count": 330,
+				"listed_count": 172,
+				"created_at": "Wed Jan 31 18:19:01 +0000 2007",
+				"favourites_count": 2835,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37903,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1367123783480410113/U-aIdeCz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367123783480410113/U-aIdeCz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739223/1584571572",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Photos of earthquake damage in the Heraklion area https://t.co/DY4aruhsYn"
+	},
+	{
+		"created_at": "Mon Sep 27 11:59:57 +0000 2021",
+		"id": 1442458992010223600,
+		"id_str": "1442458992010223617",
+		"full_text": "@drangiehobbs Thanks Angie. It was scary. If know you any rites for appeasing Poseidon, this would be a good time to share them!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drangiehobbs",
+					"name": "Angie Hobbs",
+					"id": 82591098,
+					"id_str": "82591098",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442453090108543000,
+		"in_reply_to_status_id_str": "1442453090108542983",
+		"in_reply_to_user_id": 82591098,
+		"in_reply_to_user_id_str": "82591098",
+		"in_reply_to_screen_name": "drangiehobbs",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@drangiehobbs Thanks Angie. It was scary. If know you any rites for appeasing Poseidon, this would be a good time to share them!"
+	},
+	{
+		"created_at": "Mon Sep 27 11:32:44 +0000 2021",
+		"id": 1442451957059367000,
+		"id_str": "1442452140472127491",
+		"full_text": "Proud of how well our #earthquake training worked at the European School #Heraklion #Crete -- kudos to Dr Karaoglanidis who has been in charge of health and safety. We got everyone out of the building in under a couple of minutes.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "earthquake",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"text": "Heraklion",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "Crete",
+					"indices": [
+						84,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek academic. Deputy Director, Metropolitan College, Heraklion (@Mitropolitiko) Tweeting in a personal capacity about philosophy, education, P4C etc.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 640,
+			"listed_count": 27,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 3826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1605987744",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Proud of how well our #earthquake training worked at the European School #Heraklion #Crete -- kudos to Dr Karaoglanidis who has been in charge of health and safety. We got everyone out of the building in under a couple of minutes."
+	},
+	{
+		"created_at": "Mon Sep 27 11:20:48 +0000 2021",
+		"id": 1442449136301875200,
+		"id_str": "1442449136301875203",
+		"full_text": "@CarenzaLewis @NCCPE @academicarchers @timeshighered Thank you. I'm delighted that you liked the piece -- and \"Think Tank\" is a terrific idea!",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CarenzaLewis",
+					"name": "Prof Carenza Lewis",
+					"id": 3841454841,
+					"id_str": "3841454841",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "NCCPE",
+					"name": "NCCPE",
+					"id": 87951181,
+					"id_str": "87951181",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"screen_name": "academicarchers",
+					"name": "AcademicArchers",
+					"id": 334305172,
+					"id_str": "334305172",
+					"indices": [
+						21,
+						37
+					]
+				},
+				{
+					"screen_name": "timeshighered",
+					"name": "Times Higher Education",
+					"id": 23602600,
+					"id_str": "23602600",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442190016935985200,
+		"in_reply_to_status_id_str": "1442190016935985155",
+		"in_reply_to_user_id": 3841454841,
+		"in_reply_to_user_id_str": "3841454841",
+		"in_reply_to_screen_name": "CarenzaLewis",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CarenzaLewis @NCCPE @academicarchers @timeshighered Thank you. I'm delighted that you liked the piece -- and \"Think Tank\" is a terrific idea!"
+	},
+	{
+		"created_at": "Mon Sep 27 11:19:34 +0000 2021",
+		"id": 1442448829115105300,
+		"id_str": "1442448829115105288",
+		"full_text": "An informative thread by seismologist @seismo_steve on the Crete earthquake this morning. Looks like it was the strongest in the area for over 60 years. https://t.co/PKAM0psLFN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seismo_steve",
+					"name": "Dr Stephen Hicks 🇪🇺",
+					"id": 537964292,
+					"id_str": "537964292",
+					"indices": [
+						38,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PKAM0psLFN",
+					"expanded_url": "https://twitter.com/seismo_steve/status/1442381289336688641",
+					"display_url": "twitter.com/seismo_steve/s…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1442381289336688600,
+		"quoted_status_id_str": "1442381289336688641",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PKAM0psLFN",
+			"expanded": "https://twitter.com/seismo_steve/status/1442381289336688641",
+			"display": "twitter.com/seismo_steve/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 27 06:51:12 +0000 2021",
+			"id": 1442381289336688600,
+			"id_str": "1442381289336688641",
+			"full_text": "Quite a strong earthquake on Crete this morning, and the epicentre is ~10km from the island's largest city, Heraklion. The earthquake also has a shallow depth of &lt;10km. Hoping there was no significant damage. https://t.co/SJCDvRgAG6 https://t.co/E16Ch8tf7p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SJCDvRgAG6",
+						"expanded_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fes8/executive",
+						"display_url": "earthquake.usgs.gov/earthquakes/ev…",
+						"indices": [
+							212,
+							235
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1442381257015431200,
+						"id_str": "1442381257015431168",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/FAReHHcWEAA3Jj0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAReHHcWEAA3Jj0.jpg",
+						"url": "https://t.co/E16Ch8tf7p",
+						"display_url": "pic.twitter.com/E16Ch8tf7p",
+						"expanded_url": "https://twitter.com/seismo_steve/status/1442381289336688641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 809,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1214,
+								"h": 818,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1442381257015431200,
+						"id_str": "1442381257015431168",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/FAReHHcWEAA3Jj0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAReHHcWEAA3Jj0.jpg",
+						"url": "https://t.co/E16Ch8tf7p",
+						"display_url": "pic.twitter.com/E16Ch8tf7p",
+						"expanded_url": "https://twitter.com/seismo_steve/status/1442381289336688641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 809,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1214,
+								"h": 818,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 537964292,
+				"id_str": "537964292",
+				"name": "Dr Stephen Hicks 🇪🇺",
+				"screen_name": "seismo_steve",
+				"location": "London, England",
+				"description": "#Earthquakes & what they reveal about our planet. #Seismologist @imperialcollege imaging tectonic plates & quakes @VoiLA_NERC. email: s.hicks@ic.ac.uk 🚴🧗🏃",
+				"url": "https://t.co/C7bkrmy0oW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C7bkrmy0oW",
+								"expanded_url": "http://www.imperial.ac.uk/people/s.hicks",
+								"display_url": "imperial.ac.uk/people/s.hicks",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11722,
+				"friends_count": 2176,
+				"listed_count": 366,
+				"created_at": "Tue Mar 27 07:59:23 +0000 2012",
+				"favourites_count": 12591,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12775,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118095605803507712/czMayAzK_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118095605803507712/czMayAzK_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/537964292/1542961456",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81,
+			"favorite_count": 169,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An informative thread by seismologist @seismo_steve on the Crete earthquake this morning. Looks like it was the strongest in the area for over 60 years. https://t.co/PKAM0psLFN"
+	},
+	{
+		"created_at": "Mon Sep 27 11:06:14 +0000 2021",
+		"id": 1442445471641833500,
+		"id_str": "1442445471641833473",
+		"full_text": "We've had several aftershocks with a fairly strong one just now.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "We've had several aftershocks with a fairly strong one just now."
+	},
+	{
+		"created_at": "Mon Sep 27 09:02:50 +0000 2021",
+		"id": 1442414416662712300,
+		"id_str": "1442414416662712321",
+		"full_text": "@sugarenia I hope all's well.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sugarenia",
+					"name": "Zaharenia Atzitzikaki",
+					"id": 739223,
+					"id_str": "739223",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442379965668810800,
+		"in_reply_to_status_id_str": "1442379965668810757",
+		"in_reply_to_user_id": 739223,
+		"in_reply_to_user_id_str": "739223",
+		"in_reply_to_screen_name": "sugarenia",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sugarenia I hope all's well."
+	},
+	{
+		"created_at": "Mon Sep 27 09:02:17 +0000 2021",
+		"id": 1442414278481432600,
+		"id_str": "1442414278481432576",
+		"full_text": "@photisss @sugarenia Hope there's no damage. It was the biggest earthquake I've ever experienced.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "photisss",
+					"name": "photis",
+					"id": 14824425,
+					"id_str": "14824425",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "sugarenia",
+					"name": "Zaharenia Atzitzikaki",
+					"id": 739223,
+					"id_str": "739223",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442394373581250600,
+		"in_reply_to_status_id_str": "1442394373581250564",
+		"in_reply_to_user_id": 14824425,
+		"in_reply_to_user_id_str": "14824425",
+		"in_reply_to_screen_name": "photisss",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@photisss @sugarenia Hope there's no damage. It was the biggest earthquake I've ever experienced."
+	},
+	{
+		"created_at": "Mon Sep 27 06:32:05 +0000 2021",
+		"id": 1442376480298651600,
+		"id_str": "1442376480298651648",
+		"full_text": "@SoulsbyAlex I've not heard any reports of injuries yet. Let's hope everyone's safe.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SoulsbyAlex",
+					"name": "Alex Soulsby",
+					"id": 522118181,
+					"id_str": "522118181",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442376232352379000,
+		"in_reply_to_status_id_str": "1442376232352378880",
+		"in_reply_to_user_id": 522118181,
+		"in_reply_to_user_id_str": "522118181",
+		"in_reply_to_screen_name": "SoulsbyAlex",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SoulsbyAlex I've not heard any reports of injuries yet. Let's hope everyone's safe."
+	},
+	{
+		"created_at": "Mon Sep 27 06:30:04 +0000 2021",
+		"id": 1442375972796440600,
+		"id_str": "1442375972796440576",
+		"full_text": "@dianalizia That's pretty big! It was the strongest earthquake I've experienced.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dianalizia",
+					"name": "Diane Shugart",
+					"id": 40202517,
+					"id_str": "40202517",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442374973964886000,
+		"in_reply_to_status_id_str": "1442374973964886019",
+		"in_reply_to_user_id": 40202517,
+		"in_reply_to_user_id_str": "40202517",
+		"in_reply_to_screen_name": "dianalizia",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dianalizia That's pretty big! It was the strongest earthquake I've experienced."
+	},
+	{
+		"created_at": "Mon Sep 27 06:26:14 +0000 2021",
+		"id": 1442375007338995700,
+		"id_str": "1442375007338995712",
+		"full_text": "@sugarenia Me too. Scary! Hope everyone's OK.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sugarenia",
+					"name": "Zaharenia Atzitzikaki",
+					"id": 739223,
+					"id_str": "739223",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442374085439328300,
+		"in_reply_to_status_id_str": "1442374085439328256",
+		"in_reply_to_user_id": 739223,
+		"in_reply_to_user_id_str": "739223",
+		"in_reply_to_screen_name": "sugarenia",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17571,
+			"friends_count": 2272,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sugarenia Me too. Scary! Hope everyone's OK."
+	},
+	{
 		"created_at": "Sun Sep 26 20:49:50 +0000 2021",
 		"id": 1442229953022496800,
 		"id_str": "1442229953022496768",
