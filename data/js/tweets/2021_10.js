@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 02 22:10:42 +0000 2021",
+		"id": 1444424628475154400,
+		"id_str": "1444424628475154446",
+		"full_text": "@NeuroYogacara Shouldn't that be \"Buddha, T.\"?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeuroYogacara",
+					"name": "भूत (aka B)",
+					"id": 131644899,
+					"id_str": "131644899",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1444272550150824000,
+		"in_reply_to_status_id_str": "1444272550150823939",
+		"in_reply_to_user_id": 131644899,
+		"in_reply_to_user_id_str": "131644899",
+		"in_reply_to_screen_name": "NeuroYogacara",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17624,
+			"friends_count": 2269,
+			"listed_count": 535,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NeuroYogacara Shouldn't that be \"Buddha, T.\"?"
+	},
+	{
+		"created_at": "Sat Oct 02 18:38:51 +0000 2021",
+		"id": 1444370689763520500,
+		"id_str": "1444371315222253571",
+		"full_text": "Tony: It says 'ere the Mayfair Charm School for Men guarantees that I'll be knocking around with starlets and models within a fortnight \n\nCharm School manager: Oh yes, sir. Our course guarantees to transform lifelong wall flowers into rare and beautiful orchids......... https://t.co/oelJ7zeTmN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444370566476177400,
+					"id_str": "1444370566476177412",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1444370566476177412/pu/img/H6yfjQQJInSix8ke.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1444370566476177412/pu/img/H6yfjQQJInSix8ke.jpg",
+					"url": "https://t.co/oelJ7zeTmN",
+					"display_url": "pic.twitter.com/oelJ7zeTmN",
+					"expanded_url": "https://twitter.com/East_Cheam_Lad/status/1444370689763520518/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 704,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444370566476177400,
+					"id_str": "1444370566476177412",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1444370566476177412/pu/img/H6yfjQQJInSix8ke.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1444370566476177412/pu/img/H6yfjQQJInSix8ke.jpg",
+					"url": "https://t.co/oelJ7zeTmN",
+					"display_url": "pic.twitter.com/oelJ7zeTmN",
+					"expanded_url": "https://twitter.com/East_Cheam_Lad/status/1444370689763520518/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 704,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							9
+						],
+						"duration_millis": 74624,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1444370566476177412/pu/pl/FFqkizVYlhbPlKS_.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1444370566476177412/pu/vid/330x270/yZWPYylqAJtkZpRJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1444370566476177412/pu/vid/704x576/mqiCn-HBqQ2ZSj_-.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1444370566476177412/pu/vid/440x360/sHURegyZ1dKAwX0D.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 320274685,
+			"id_str": "320274685",
+			"name": "Tony Hancock",
+			"screen_name": "East_Cheam_Lad",
+			"location": "Railway Cuttings, East Cheam",
+			"description": "Blood donor, AB negative, likes wine gums. Official fan account of the Tony Hancock Appreciation Society",
+			"url": "https://t.co/XOp4cv5nkB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XOp4cv5nkB",
+							"expanded_url": "http://tonyhancock.org.uk",
+							"display_url": "tonyhancock.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14845,
+			"friends_count": 13097,
+			"listed_count": 47,
+			"created_at": "Sun Jun 19 16:32:57 +0000 2011",
+			"favourites_count": 24039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1436265270289608713/L6RCs_Bd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436265270289608713/L6RCs_Bd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/320274685/1535052499",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tony: It says 'ere the Mayfair Charm School for Men guarantees that I'll be knocking around with starlets and models within a fortnight \n\nCharm School manager: Oh yes, sir. Our course guarantees to transform lifelong wall flowers into rare and beautiful orchids......... https://t.co/oelJ7zeTmN"
+	},
+	{
+		"created_at": "Sat Oct 02 14:04:52 +0000 2021",
+		"id": 1444302365646000000,
+		"id_str": "1444302365646000130",
+		"full_text": "Greek version of one of my Aeon articles, translated by Anthi Koutsoubou  https://t.co/YzOJm004z7 on @News247gr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "News247gr",
+					"name": "NEWS 24/7",
+					"id": 19284221,
+					"id_str": "19284221",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YzOJm004z7",
+					"expanded_url": "https://www.news247.gr/epistimi/o-ti-ki-an-skefteste-den-simainei-aparaititos-oti-gnorizete-to-myalo-sas.9370503.html",
+					"display_url": "news247.gr/epistimi/o-ti-…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17624,
+			"friends_count": 2269,
+			"listed_count": 535,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Greek version of one of my Aeon articles, translated by Anthi Koutsoubou  https://t.co/YzOJm004z7 on @News247gr"
+	},
+	{
 		"created_at": "Fri Oct 01 21:34:00 +0000 2021",
 		"id": 1444053004068470800,
 		"id_str": "1444053004068470785",
@@ -797,7 +1248,7 @@ Grailbird.data.tweets_2021_10 =
 			"created_at": "Fri Oct 01 06:56:16 +0000 2021",
 			"id": 1443832116542910500,
 			"id_str": "1443832116542910475",
-			"full_text": "I'm ridiculously excited about all the various appearances and surprises we have lined up for the ⁦@DylanAt80⁩ Virtual Release Night! Trust me, if you like #bobdylan you will not want to miss this. Tue 5 Oct 2021 at 19:00 UK time | Free registration https://t.co/bVBOgxyg7D",
+			"full_text": "I'm ridiculously excited about all the various appearances and surprises we have lined up for the @DylanAt80 Virtual Release Night! Trust me, if you like #bobdylan you will not want to miss this. Tue 5 Oct 2021 at 19:00 UK time | Free registration https://t.co/bVBOgxyg7D",
 			"truncated": false,
 			"display_text_range": [
 				0,
