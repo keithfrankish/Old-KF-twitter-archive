@@ -1,6 +1,2177 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 19:30:52 +0000 2021",
+		"id": 1445471569917055000,
+		"id_str": "1445471569917054976",
+		"full_text": "@TimSmith2021 @DylanAt80 Thank you!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimSmith2021",
+					"name": "Tim Smith",
+					"id": 843686570,
+					"id_str": "843686570",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "DylanAt80",
+					"name": "Dylan at 80",
+					"id": 1224727645084168200,
+					"id_str": "1224727645084168193",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445461316907401200,
+		"in_reply_to_status_id_str": "1445461316907401218",
+		"in_reply_to_user_id": 843686570,
+		"in_reply_to_user_id_str": "843686570",
+		"in_reply_to_screen_name": "TimSmith2021",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17691,
+			"friends_count": 2272,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TimSmith2021 @DylanAt80 Thank you!"
+	},
+	{
+		"created_at": "Tue Oct 05 18:14:02 +0000 2021",
+		"id": 1445448842380341200,
+		"id_str": "1445452234385334278",
+		"full_text": "Dylan at 80 Virtual Release Night https://t.co/TqgReScbpX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TqgReScbpX",
+					"expanded_url": "https://twitter.com/i/broadcasts/1jMJgegRwDeKL",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1224727645084168200,
+			"id_str": "1224727645084168193",
+			"name": "Dylan at 80",
+			"screen_name": "DylanAt80",
+			"location": "",
+			"description": "'Dylan at 80', edited by Gary Browning and Constantine Sandis, is out October 5th. Available for pre-order now.",
+			"url": "https://t.co/qMkWuvQUHK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qMkWuvQUHK",
+							"expanded_url": "https://www.amazon.co.uk/Dylan-80-used-like-that/dp/1788360451/ref=asc_df_1788360451/?tag=googshopuk",
+							"display_url": "amazon.co.uk/Dylan-80-used-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 55,
+			"listed_count": 3,
+			"created_at": "Tue Feb 04 16:13:31 +0000 2020",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396784218534031360/9hN3LynZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396784218534031360/9hN3LynZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1224727645084168193/1621854284",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dylan at 80 Virtual Release Night https://t.co/TqgReScbpX"
+	},
+	{
+		"created_at": "Tue Oct 05 17:46:34 +0000 2021",
+		"id": 1445445320104497200,
+		"id_str": "1445445320104497167",
+		"full_text": "Starting in 15 minutes! Live stream on Youtube here: https://t.co/vOtUhECXcv https://t.co/My6ZVey9xC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vOtUhECXcv",
+					"expanded_url": "https://youtu.be/c3seflu6bvM",
+					"display_url": "youtu.be/c3seflu6bvM",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/My6ZVey9xC",
+					"expanded_url": "https://twitter.com/csandis/status/1445350977863827463",
+					"display_url": "twitter.com/csandis/status…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17691,
+			"friends_count": 2272,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1445350977863827500,
+		"quoted_status_id_str": "1445350977863827463",
+		"quoted_status_permalink": {
+			"url": "https://t.co/My6ZVey9xC",
+			"expanded": "https://twitter.com/csandis/status/1445350977863827463",
+			"display": "twitter.com/csandis/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 05 11:31:41 +0000 2021",
+			"id": 1445350977863827500,
+			"id_str": "1445350977863827463",
+			"full_text": "It's #publicationday for @DylanAt80 !\n\nJoin us and our very special guests at 7pm (BST) for a feast of all things #bobdylan  hosted by @ImprintAcademic \n\nFree registration\nhttps://t.co/djww9w7E7Z\n\nThe event will also be live-streamed from @ImprintAcademic's Twitter and Fbk pages https://t.co/Vr3NuUvOur",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "publicationday",
+						"indices": [
+							5,
+							20
+						]
+					},
+					{
+						"text": "bobdylan",
+						"indices": [
+							114,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DylanAt80",
+						"name": "Dylan at 80",
+						"id": 1224727645084168200,
+						"id_str": "1224727645084168193",
+						"indices": [
+							25,
+							35
+						]
+					},
+					{
+						"screen_name": "ImprintAcademic",
+						"name": "ImprintAcademic",
+						"id": 2960975411,
+						"id_str": "2960975411",
+						"indices": [
+							135,
+							151
+						]
+					},
+					{
+						"screen_name": "ImprintAcademic",
+						"name": "ImprintAcademic",
+						"id": 2960975411,
+						"id_str": "2960975411",
+						"indices": [
+							239,
+							255
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/djww9w7E7Z",
+						"expanded_url": "https://www.eventbrite.co.uk/e/bob-dylan-at-80-virtual-release-night-tickets-175424478337",
+						"display_url": "eventbrite.co.uk/e/bob-dylan-at…",
+						"indices": [
+							172,
+							195
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1445350931403579400,
+						"id_str": "1445350931403579392",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FA7rA6oXIAAdvK9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA7rA6oXIAAdvK9.jpg",
+						"url": "https://t.co/Vr3NuUvOur",
+						"display_url": "pic.twitter.com/Vr3NuUvOur",
+						"expanded_url": "https://twitter.com/csandis/status/1445350977863827463/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 673,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 909,
+								"h": 918,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 909,
+								"h": 918,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1445350931403579400,
+						"id_str": "1445350931403579392",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FA7rA6oXIAAdvK9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA7rA6oXIAAdvK9.jpg",
+						"url": "https://t.co/Vr3NuUvOur",
+						"display_url": "pic.twitter.com/Vr3NuUvOur",
+						"expanded_url": "https://twitter.com/csandis/status/1445350977863827463/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 673,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 909,
+								"h": 918,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 909,
+								"h": 918,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1445350931399381000,
+						"id_str": "1445350931399381001",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FA7rA6nXEAky2Cl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA7rA6nXEAky2Cl.jpg",
+						"url": "https://t.co/Vr3NuUvOur",
+						"display_url": "pic.twitter.com/Vr3NuUvOur",
+						"expanded_url": "https://twitter.com/csandis/status/1445350977863827463/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 897,
+								"h": 767,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 897,
+								"h": 767,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 581,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1445350931403509800,
+						"id_str": "1445350931403509763",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FA7rA6oWEAMXDZH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA7rA6oWEAMXDZH.jpg",
+						"url": "https://t.co/Vr3NuUvOur",
+						"display_url": "pic.twitter.com/Vr3NuUvOur",
+						"expanded_url": "https://twitter.com/csandis/status/1445350977863827463/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 786,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 445,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 864,
+								"h": 1319,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 175423518,
+				"id_str": "175423518",
+				"name": "Constantine Sandis",
+				"screen_name": "csandis",
+				"location": "London, England",
+				"description": "Prof @UHPhilosophy Founding Director @lex_academic Fellow @theRSAorg 🌱 Co-editor @DylanAt80 (Out 5th Oct, 2021)",
+				"url": "https://t.co/YlSHemMblw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YlSHemMblw",
+								"expanded_url": "https://www.constantinesandis.com",
+								"display_url": "constantinesandis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10724,
+				"friends_count": 5239,
+				"listed_count": 237,
+				"created_at": "Fri Aug 06 15:27:48 +0000 2010",
+				"favourites_count": 34302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15591,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1440999602489024514/iCedqD4F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440999602489024514/iCedqD4F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/175423518/1625385399",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Starting in 15 minutes! Live stream on Youtube here: https://t.co/vOtUhECXcv https://t.co/My6ZVey9xC"
+	},
+	{
+		"created_at": "Tue Oct 05 16:15:42 +0000 2021",
+		"id": 1445422455028392000,
+		"id_str": "1445422455028391940",
+		"full_text": "Good piece -- recommended https://t.co/BPekOmvPeR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BPekOmvPeR",
+					"expanded_url": "https://twitter.com/uk_domain_names/status/1445290359790133250",
+					"display_url": "twitter.com/uk_domain_name…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17691,
+			"friends_count": 2272,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1445290359790133200,
+		"quoted_status_id_str": "1445290359790133250",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BPekOmvPeR",
+			"expanded": "https://twitter.com/uk_domain_names/status/1445290359790133250",
+			"display": "twitter.com/uk_domain_name…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 05 07:30:48 +0000 2021",
+			"id": 1445290359790133200,
+			"id_str": "1445290359790133250",
+			"full_text": "If you have the time, please set aside 10 minutes and read my article. I explain how the Tories are busy shifting the goalposts in their conversations about Brexit (new angle: \"yes, the pain's real, but it will be worth it\") in a highly coordinated way...\nhttps://t.co/q3v0s1XQoM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/q3v0s1XQoM",
+						"expanded_url": "https://link.medium.com/EKYTk1qT5jb",
+						"display_url": "link.medium.com/EKYTk1qT5jb",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45010849,
+				"id_str": "45010849",
+				"name": "Edwin Hayward 🦄 🗡",
+				"screen_name": "uk_domain_names",
+				"location": "United Kingdom",
+				"description": "Author of Slaying Brexit Unicorns (see link). It debunks the disaster using facts, stats and gallows humour. I tweet about Brexit & covid. Also fun geeky stuff.",
+				"url": "https://t.co/6fATOGsvir",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6fATOGsvir",
+								"expanded_url": "https://www.amazon.co.uk/gp/product/B07Z1FTRQW/",
+								"display_url": "amazon.co.uk/gp/product/B07…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40569,
+				"friends_count": 412,
+				"listed_count": 359,
+				"created_at": "Fri Jun 05 22:09:11 +0000 2009",
+				"favourites_count": 5777,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 107174,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1404936390668922884/RJkXyrb7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1404936390668922884/RJkXyrb7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45010849/1625185145",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 249,
+			"favorite_count": 499,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good piece -- recommended https://t.co/BPekOmvPeR"
+	},
+	{
+		"created_at": "Tue Oct 05 16:07:25 +0000 2021",
+		"id": 1445420368601157600,
+		"id_str": "1445420368601157635",
+		"full_text": "@ThouArtThat @sphexish My view is pretty close to that. Our sense that experience has a phenomenal essence is an introspective illusion generated by our obscure awareness of the massively complex reactive dispositions (perceptual, cognitive, conative, emotional, etc) that experience triggers.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			293
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThouArtThat",
+					"name": "☿ Footnotes2Plato ☼☽",
+					"id": 71774853,
+					"id_str": "71774853",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "sphexish",
+					"name": "Tim Stephenson",
+					"id": 30043912,
+					"id_str": "30043912",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445415056754151400,
+		"in_reply_to_status_id_str": "1445415056754151427",
+		"in_reply_to_user_id": 71774853,
+		"in_reply_to_user_id_str": "71774853",
+		"in_reply_to_screen_name": "ThouArtThat",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17691,
+			"friends_count": 2272,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ThouArtThat @sphexish My view is pretty close to that. Our sense that experience has a phenomenal essence is an introspective illusion generated by our obscure awareness of the massively complex reactive dispositions (perceptual, cognitive, conative, emotional, etc) that experience triggers."
+	},
+	{
+		"created_at": "Tue Oct 05 15:18:43 +0000 2021",
+		"id": 1445408115495690200,
+		"id_str": "1445408115495690242",
+		"full_text": "@ThouArtThat @sphexish They can, and do, function well without qualia (phenomenal properties, what-it's-likenesses, etc). But it's part of their job to support the vast collection of sensitivities and reactive dispositions in which consciousness actually consists.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThouArtThat",
+					"name": "☿ Footnotes2Plato ☼☽",
+					"id": 71774853,
+					"id_str": "71774853",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "sphexish",
+					"name": "Tim Stephenson",
+					"id": 30043912,
+					"id_str": "30043912",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445403148600942600,
+		"in_reply_to_status_id_str": "1445403148600942603",
+		"in_reply_to_user_id": 71774853,
+		"in_reply_to_user_id_str": "71774853",
+		"in_reply_to_screen_name": "ThouArtThat",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17691,
+			"friends_count": 2272,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ThouArtThat @sphexish They can, and do, function well without qualia (phenomenal properties, what-it's-likenesses, etc). But it's part of their job to support the vast collection of sensitivities and reactive dispositions in which consciousness actually consists."
+	},
+	{
+		"created_at": "Tue Oct 05 15:03:40 +0000 2021",
+		"id": 1445404325006688300,
+		"id_str": "1445404325006688256",
+		"full_text": "@ThouArtThat @sphexish What do you think consciousness is?",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThouArtThat",
+					"name": "☿ Footnotes2Plato ☼☽",
+					"id": 71774853,
+					"id_str": "71774853",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "sphexish",
+					"name": "Tim Stephenson",
+					"id": 30043912,
+					"id_str": "30043912",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445403148600942600,
+		"in_reply_to_status_id_str": "1445403148600942603",
+		"in_reply_to_user_id": 71774853,
+		"in_reply_to_user_id_str": "71774853",
+		"in_reply_to_screen_name": "ThouArtThat",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17691,
+			"friends_count": 2272,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ThouArtThat @sphexish What do you think consciousness is?"
+	},
+	{
+		"created_at": "Tue Oct 05 12:06:18 +0000 2021",
+		"id": 1445359693094871000,
+		"id_str": "1445359693094871040",
+		"full_text": "Ahead of the online launch this evening, here's a preview of my own piece from the collection: https://t.co/yLdgucBwEr https://t.co/My6ZVePKWc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yLdgucBwEr",
+					"expanded_url": "https://keithfrankish.github.io/articles/Frankish_Getting%20there_eprint.pdf",
+					"display_url": "keithfrankish.github.io/articles/Frank…",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/My6ZVePKWc",
+					"expanded_url": "https://twitter.com/csandis/status/1445350977863827463",
+					"display_url": "twitter.com/csandis/status…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17691,
+			"friends_count": 2272,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1445350977863827500,
+		"quoted_status_id_str": "1445350977863827463",
+		"quoted_status_permalink": {
+			"url": "https://t.co/My6ZVePKWc",
+			"expanded": "https://twitter.com/csandis/status/1445350977863827463",
+			"display": "twitter.com/csandis/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 05 11:31:41 +0000 2021",
+			"id": 1445350977863827500,
+			"id_str": "1445350977863827463",
+			"full_text": "It's #publicationday for @DylanAt80 !\n\nJoin us and our very special guests at 7pm (BST) for a feast of all things #bobdylan  hosted by @ImprintAcademic \n\nFree registration\nhttps://t.co/djww9w7E7Z\n\nThe event will also be live-streamed from @ImprintAcademic's Twitter and Fbk pages https://t.co/Vr3NuUvOur",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "publicationday",
+						"indices": [
+							5,
+							20
+						]
+					},
+					{
+						"text": "bobdylan",
+						"indices": [
+							114,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DylanAt80",
+						"name": "Dylan at 80",
+						"id": 1224727645084168200,
+						"id_str": "1224727645084168193",
+						"indices": [
+							25,
+							35
+						]
+					},
+					{
+						"screen_name": "ImprintAcademic",
+						"name": "ImprintAcademic",
+						"id": 2960975411,
+						"id_str": "2960975411",
+						"indices": [
+							135,
+							151
+						]
+					},
+					{
+						"screen_name": "ImprintAcademic",
+						"name": "ImprintAcademic",
+						"id": 2960975411,
+						"id_str": "2960975411",
+						"indices": [
+							239,
+							255
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/djww9w7E7Z",
+						"expanded_url": "https://www.eventbrite.co.uk/e/bob-dylan-at-80-virtual-release-night-tickets-175424478337",
+						"display_url": "eventbrite.co.uk/e/bob-dylan-at…",
+						"indices": [
+							172,
+							195
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1445350931403579400,
+						"id_str": "1445350931403579392",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FA7rA6oXIAAdvK9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA7rA6oXIAAdvK9.jpg",
+						"url": "https://t.co/Vr3NuUvOur",
+						"display_url": "pic.twitter.com/Vr3NuUvOur",
+						"expanded_url": "https://twitter.com/csandis/status/1445350977863827463/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 673,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 909,
+								"h": 918,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 909,
+								"h": 918,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1445350931403579400,
+						"id_str": "1445350931403579392",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FA7rA6oXIAAdvK9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA7rA6oXIAAdvK9.jpg",
+						"url": "https://t.co/Vr3NuUvOur",
+						"display_url": "pic.twitter.com/Vr3NuUvOur",
+						"expanded_url": "https://twitter.com/csandis/status/1445350977863827463/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 673,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 909,
+								"h": 918,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 909,
+								"h": 918,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1445350931399381000,
+						"id_str": "1445350931399381001",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FA7rA6nXEAky2Cl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA7rA6nXEAky2Cl.jpg",
+						"url": "https://t.co/Vr3NuUvOur",
+						"display_url": "pic.twitter.com/Vr3NuUvOur",
+						"expanded_url": "https://twitter.com/csandis/status/1445350977863827463/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 897,
+								"h": 767,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 897,
+								"h": 767,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 581,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1445350931403509800,
+						"id_str": "1445350931403509763",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FA7rA6oWEAMXDZH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA7rA6oWEAMXDZH.jpg",
+						"url": "https://t.co/Vr3NuUvOur",
+						"display_url": "pic.twitter.com/Vr3NuUvOur",
+						"expanded_url": "https://twitter.com/csandis/status/1445350977863827463/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 786,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 445,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 864,
+								"h": 1319,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 175423518,
+				"id_str": "175423518",
+				"name": "Constantine Sandis",
+				"screen_name": "csandis",
+				"location": "London, England",
+				"description": "Prof @UHPhilosophy Founding Director @lex_academic Fellow @theRSAorg 🌱 Co-editor @DylanAt80 (Out 5th Oct, 2021)",
+				"url": "https://t.co/YlSHemMblw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YlSHemMblw",
+								"expanded_url": "https://www.constantinesandis.com",
+								"display_url": "constantinesandis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10724,
+				"friends_count": 5239,
+				"listed_count": 237,
+				"created_at": "Fri Aug 06 15:27:48 +0000 2010",
+				"favourites_count": 34302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15591,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1440999602489024514/iCedqD4F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440999602489024514/iCedqD4F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/175423518/1625385399",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ahead of the online launch this evening, here's a preview of my own piece from the collection: https://t.co/yLdgucBwEr https://t.co/My6ZVePKWc"
+	},
+	{
+		"created_at": "Tue Oct 05 10:46:44 +0000 2021",
+		"id": 1445339668711682000,
+		"id_str": "1445339668711682056",
+		"full_text": "@Delta The moon",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Delta",
+					"name": "Delta",
+					"id": 5920532,
+					"id_str": "5920532",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445037241731068000,
+		"in_reply_to_status_id_str": "1445037241731067907",
+		"in_reply_to_user_id": 5920532,
+		"in_reply_to_user_id_str": "5920532",
+		"in_reply_to_screen_name": "Delta",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17691,
+			"friends_count": 2272,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Delta The moon"
+	},
+	{
+		"created_at": "Tue Oct 05 10:11:49 +0000 2021",
+		"id": 1445330881590304800,
+		"id_str": "1445330881590304770",
+		"full_text": "This evening (UK time)! https://t.co/Uy7lS7etRJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uy7lS7etRJ",
+					"expanded_url": "https://twitter.com/csandis/status/1439975753278492672",
+					"display_url": "twitter.com/csandis/status…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17691,
+			"friends_count": 2272,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1439975753278492700,
+		"quoted_status_id_str": "1439975753278492672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Uy7lS7etRJ",
+			"expanded": "https://twitter.com/csandis/status/1439975753278492672",
+			"display": "twitter.com/csandis/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 20 15:32:27 +0000 2021",
+			"id": 1439975753278492700,
+			"id_str": "1439975753278492672",
+			"full_text": "All welcome to the @DylanAt80 virtual release night, 5th October 2021, 7-8pm UK time @ImprintAcademic @EventbriteUK \n\nAn hour of all things Dylan with surprise guests, music, and discussion!\n\nFree registration:\n\nhttps://t.co/bVBOgxyg7D https://t.co/1skpTaBaV7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DylanAt80",
+						"name": "Dylan at 80",
+						"id": 1224727645084168200,
+						"id_str": "1224727645084168193",
+						"indices": [
+							19,
+							29
+						]
+					},
+					{
+						"screen_name": "ImprintAcademic",
+						"name": "ImprintAcademic",
+						"id": 2960975411,
+						"id_str": "2960975411",
+						"indices": [
+							85,
+							101
+						]
+					},
+					{
+						"screen_name": "EventbriteUK",
+						"name": "Eventbrite UK",
+						"id": 2151374196,
+						"id_str": "2151374196",
+						"indices": [
+							102,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bVBOgxyg7D",
+						"expanded_url": "https://www.eventbrite.co.uk/e/dylan-at-80-virtual-release-night-tickets-175424478337",
+						"display_url": "eventbrite.co.uk/e/dylan-at-80-…",
+						"indices": [
+							212,
+							235
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1439975748631212000,
+						"id_str": "1439975748631212032",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/E_vSUGZXMAAoE0T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_vSUGZXMAAoE0T.jpg",
+						"url": "https://t.co/1skpTaBaV7",
+						"display_url": "pic.twitter.com/1skpTaBaV7",
+						"expanded_url": "https://twitter.com/csandis/status/1439975753278492672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 962,
+								"h": 737,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 962,
+								"h": 737,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1439975748631212000,
+						"id_str": "1439975748631212032",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/E_vSUGZXMAAoE0T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_vSUGZXMAAoE0T.jpg",
+						"url": "https://t.co/1skpTaBaV7",
+						"display_url": "pic.twitter.com/1skpTaBaV7",
+						"expanded_url": "https://twitter.com/csandis/status/1439975753278492672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 962,
+								"h": 737,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 962,
+								"h": 737,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 175423518,
+				"id_str": "175423518",
+				"name": "Constantine Sandis",
+				"screen_name": "csandis",
+				"location": "London, England",
+				"description": "Prof @UHPhilosophy Founding Director @lex_academic Fellow @theRSAorg 🌱 Co-editor @DylanAt80 (Out 5th Oct, 2021)",
+				"url": "https://t.co/YlSHemMblw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YlSHemMblw",
+								"expanded_url": "https://www.constantinesandis.com",
+								"display_url": "constantinesandis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10724,
+				"friends_count": 5239,
+				"listed_count": 237,
+				"created_at": "Fri Aug 06 15:27:48 +0000 2010",
+				"favourites_count": 34302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15591,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1440999602489024514/iCedqD4F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440999602489024514/iCedqD4F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/175423518/1625385399",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This evening (UK time)! https://t.co/Uy7lS7etRJ"
+	},
+	{
 		"created_at": "Mon Oct 04 21:40:39 +0000 2021",
 		"id": 1445141843075899400,
 		"id_str": "1445141843075899396",
