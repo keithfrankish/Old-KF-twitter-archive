@@ -1,6 +1,1794 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 17:40:22 +0000 2021",
+		"id": 1446530925525966800,
+		"id_str": "1446530925525966892",
+		"full_text": "Maria hasn't sung for twenty years, but I'm trying to persuade her to take it up again. Here's something she just recorded. Should I persist in encouraging her? https://t.co/DudY1ylfWp @mariakasmirli",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mariakasmirli",
+					"name": "Maria Kasmirli",
+					"id": 103135865,
+					"id_str": "103135865",
+					"indices": [
+						185,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DudY1ylfWp",
+					"expanded_url": "https://soundcloud.com/user-862519560/to-tango-tis-nefelis",
+					"display_url": "soundcloud.com/user-862519560…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 2276,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maria hasn't sung for twenty years, but I'm trying to persuade her to take it up again. Here's something she just recorded. Should I persist in encouraging her? https://t.co/DudY1ylfWp @mariakasmirli"
+	},
+	{
+		"created_at": "Fri Oct 08 17:16:32 +0000 2021",
+		"id": 1446524927004262400,
+		"id_str": "1446524927004262400",
+		"full_text": "@SquashedBox @FroehlichMarcel I agree with the principle, but time and energy levels are  against me.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SquashedBox",
+					"name": "Glyn Hughes",
+					"id": 341705770,
+					"id_str": "341705770",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FroehlichMarcel",
+					"name": "Marcel Fröhlich",
+					"id": 562020929,
+					"id_str": "562020929",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446523667593244700,
+		"in_reply_to_status_id_str": "1446523667593244675",
+		"in_reply_to_user_id": 341705770,
+		"in_reply_to_user_id_str": "341705770",
+		"in_reply_to_screen_name": "SquashedBox",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 2276,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SquashedBox @FroehlichMarcel I agree with the principle, but time and energy levels are  against me."
+	},
+	{
+		"created_at": "Fri Oct 08 17:07:15 +0000 2021",
+		"id": 1446522590382760000,
+		"id_str": "1446522590382759951",
+		"full_text": "@SquashedBox @FroehlichMarcel Also, what about peripherals -- monitors, printers, scanners, etc? It's taken me a long time to get it all working smoothly and I don't want to have to do it all again",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SquashedBox",
+					"name": "Glyn Hughes",
+					"id": 341705770,
+					"id_str": "341705770",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FroehlichMarcel",
+					"name": "Marcel Fröhlich",
+					"id": 562020929,
+					"id_str": "562020929",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446515857274937300,
+		"in_reply_to_status_id_str": "1446515857274937368",
+		"in_reply_to_user_id": 341705770,
+		"in_reply_to_user_id_str": "341705770",
+		"in_reply_to_screen_name": "SquashedBox",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 2276,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SquashedBox @FroehlichMarcel Also, what about peripherals -- monitors, printers, scanners, etc? It's taken me a long time to get it all working smoothly and I don't want to have to do it all again"
+	},
+	{
+		"created_at": "Fri Oct 08 17:05:12 +0000 2021",
+		"id": 1446520537346367500,
+		"id_str": "1446522074542088205",
+		"full_text": "Excited to be relaunching the Philosophy in the Bookshop monthly events @blackwelloxford tomorrow morning, discussing The Right to Sex with @amiasrinivasan Follow @philoxophy for details of the series.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blackwelloxford",
+					"name": "Blackwell's, Oxford’s Bookshop",
+					"id": 119073070,
+					"id_str": "119073070",
+					"indices": [
+						72,
+						88
+					]
+				},
+				{
+					"screen_name": "amiasrinivasan",
+					"name": "Amia Srinivasan",
+					"id": 14651591,
+					"id_str": "14651591",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"screen_name": "philoxophy",
+					"name": "Philosophy in the Bookshop",
+					"id": 1381669141589991400,
+					"id_str": "1381669141589991425",
+					"indices": [
+						163,
+						174
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37238862,
+			"id_str": "37238862",
+			"name": "Nigel Warburton 🧡 #RejoinEU",
+			"screen_name": "philosophybites",
+			"location": "Oxford UK",
+			"description": "A Little History of Philosophy etc. Philosophy Bites podcast @aeonmag @thenewphil @five_books weekly column @TheNewEuropean. https://t.co/QLCeZc4K5H",
+			"url": "https://t.co/EnYU6vpJAS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EnYU6vpJAS",
+							"expanded_url": "https://nigelwarburton.typepad.com/philosophy_bites.co.uk",
+							"display_url": "nigelwarburton.typepad.com/philosophy_bit…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QLCeZc4K5H",
+							"expanded_url": "https://authory.com/NigelWarburton",
+							"display_url": "authory.com/NigelWarburton",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92863,
+			"friends_count": 8735,
+			"listed_count": 2511,
+			"created_at": "Sat May 02 17:20:21 +0000 2009",
+			"favourites_count": 72843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B5B8B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408559103979540480/cI4-1KkZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408559103979540480/cI4-1KkZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1587543534",
+			"profile_link_color": "000DFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Excited to be relaunching the Philosophy in the Bookshop monthly events @blackwelloxford tomorrow morning, discussing The Right to Sex with @amiasrinivasan Follow @philoxophy for details of the series."
+	},
+	{
+		"created_at": "Fri Oct 08 17:01:14 +0000 2021",
+		"id": 1446521077400748000,
+		"id_str": "1446521077400748032",
+		"full_text": "@ancientnmodern Quis nocuppiet ipsos nocuppodes?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "Dame VictoriaG Esq (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445866915465875500,
+		"in_reply_to_status_id_str": "1445866915465875458",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 2276,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@ancientnmodern Quis nocuppiet ipsos nocuppodes?"
+	},
+	{
+		"created_at": "Fri Oct 08 16:51:51 +0000 2021",
+		"id": 1446518717605716000,
+		"id_str": "1446518717605715977",
+		"full_text": "@SquashedBox @FroehlichMarcel I believe you, but you've already got that alternative linux environment set up, and I haven't!",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SquashedBox",
+					"name": "Glyn Hughes",
+					"id": 341705770,
+					"id_str": "341705770",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FroehlichMarcel",
+					"name": "Marcel Fröhlich",
+					"id": 562020929,
+					"id_str": "562020929",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446515857274937300,
+		"in_reply_to_status_id_str": "1446515857274937368",
+		"in_reply_to_user_id": 341705770,
+		"in_reply_to_user_id_str": "341705770",
+		"in_reply_to_screen_name": "SquashedBox",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 2276,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SquashedBox @FroehlichMarcel I believe you, but you've already got that alternative linux environment set up, and I haven't!"
+	},
+	{
+		"created_at": "Fri Oct 08 16:10:30 +0000 2021",
+		"id": 1446508308525981700,
+		"id_str": "1446508308525981701",
+		"full_text": "@SquashedBox @FroehlichMarcel Unfortunately, I'm heavily invested in the MS ecosystem (OneDrive for storage, Office for apps, etc)",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SquashedBox",
+					"name": "Glyn Hughes",
+					"id": 341705770,
+					"id_str": "341705770",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FroehlichMarcel",
+					"name": "Marcel Fröhlich",
+					"id": 562020929,
+					"id_str": "562020929",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446503388955517000,
+		"in_reply_to_status_id_str": "1446503388955516928",
+		"in_reply_to_user_id": 341705770,
+		"in_reply_to_user_id_str": "341705770",
+		"in_reply_to_screen_name": "SquashedBox",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 2276,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SquashedBox @FroehlichMarcel Unfortunately, I'm heavily invested in the MS ecosystem (OneDrive for storage, Office for apps, etc)"
+	},
+	{
+		"created_at": "Fri Oct 08 16:08:30 +0000 2021",
+		"id": 1446507804764815400,
+		"id_str": "1446507804764815364",
+		"full_text": "@BlumLenore @ThouArtThat @sphexish That's the $64,000 question! There are many ways of developing the general idea. I sketch the line I prefer in this response to Michael Graziano https://t.co/Y64daRk17Z",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlumLenore",
+					"name": "Lenore Blum",
+					"id": 2904119824,
+					"id_str": "2904119824",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ThouArtThat",
+					"name": "☿ Footnotes2Plato ☼☽",
+					"id": 71774853,
+					"id_str": "71774853",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "sphexish",
+					"name": "Tim Stephenson",
+					"id": 30043912,
+					"id_str": "30043912",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y64daRk17Z",
+					"expanded_url": "https://www.tandfonline.com/doi/abs/10.1080/02643294.2020.1729111",
+					"display_url": "tandfonline.com/doi/abs/10.108…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446491363021889500,
+		"in_reply_to_status_id_str": "1446491363021889547",
+		"in_reply_to_user_id": 2904119824,
+		"in_reply_to_user_id_str": "2904119824",
+		"in_reply_to_screen_name": "BlumLenore",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 2276,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BlumLenore @ThouArtThat @sphexish That's the $64,000 question! There are many ways of developing the general idea. I sketch the line I prefer in this response to Michael Graziano https://t.co/Y64daRk17Z"
+	},
+	{
+		"created_at": "Fri Oct 08 15:58:29 +0000 2021",
+		"id": 1446505285418463200,
+		"id_str": "1446505285418463235",
+		"full_text": "@Trampakoulas4 TPM's not the problem. The processor AMD A6-9275 is not supported.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Trampakoulas4",
+					"name": "Mr.Trampakoulas",
+					"id": 1250088622843461600,
+					"id_str": "1250088622843461633",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446501690870468600,
+		"in_reply_to_status_id_str": "1446501690870468610",
+		"in_reply_to_user_id": 1250088622843461600,
+		"in_reply_to_user_id_str": "1250088622843461633",
+		"in_reply_to_screen_name": "Trampakoulas4",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 2276,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Trampakoulas4 TPM's not the problem. The processor AMD A6-9275 is not supported."
+	},
+	{
+		"created_at": "Fri Oct 08 15:40:23 +0000 2021",
+		"id": 1446500732237238300,
+		"id_str": "1446500732237238274",
+		"full_text": "@FroehlichMarcel One of them is brand new!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FroehlichMarcel",
+					"name": "Marcel Fröhlich",
+					"id": 562020929,
+					"id_str": "562020929",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446499350180470800,
+		"in_reply_to_status_id_str": "1446499350180470793",
+		"in_reply_to_user_id": 562020929,
+		"in_reply_to_user_id_str": "562020929",
+		"in_reply_to_screen_name": "FroehlichMarcel",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 2276,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@FroehlichMarcel One of them is brand new!"
+	},
+	{
+		"created_at": "Fri Oct 08 15:29:31 +0000 2021",
+		"id": 1446497997681053700,
+		"id_str": "1446497997681053698",
+		"full_text": "Does anyone have a pc that is compatible with Windows 11? None of ours is.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. Ελληνοβρετανός. Honorary Reader @sheffielduni. Philosophy, mind, consciousness, cog sci, Greece, jokes, chat https://t.co/CMT27f7NQW",
+			"url": "https://t.co/ojilSvr5XP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CMT27f7NQW",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 2276,
+			"listed_count": 533,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Does anyone have a pc that is compatible with Windows 11? None of ours is."
+	},
+	{
+		"created_at": "Fri Oct 08 13:29:25 +0000 2021",
+		"id": 1446449938129358800,
+		"id_str": "1446467773157232643",
+		"full_text": "The Aristotle Menu: Eat Like an Ancient Greek Philosopher \n https://t.co/Ma7n3RcyGl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ma7n3RcyGl",
+					"expanded_url": "https://greekreporter.com/2021/10/08/the-aristotle-menu-eat-like-an-ancient-greek-philosopher/",
+					"display_url": "greekreporter.com/2021/10/08/the…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16897352,
+			"id_str": "16897352",
+			"name": "rogueclassicist ~ david meadows",
+			"screen_name": "rogueclassicist",
+			"location": "burlington, ontario, canada",
+			"description": "Curating, amplifying, and contributing to #ClassicsTwitter ; sharing #ClassicalReception in the real world (for better or worse). Capitals and apostrophes vary.",
+			"url": "https://t.co/3AvbxUn2vr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3AvbxUn2vr",
+							"expanded_url": "http://rogueclassicism.com",
+							"display_url": "rogueclassicism.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21374,
+			"friends_count": 1450,
+			"listed_count": 772,
+			"created_at": "Wed Oct 22 00:46:17 +0000 2008",
+			"favourites_count": 4110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 381958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "031924",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445718044462837765/nIu3zbbU_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445718044462837765/nIu3zbbU_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16897352/1444489768",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Aristotle Menu: Eat Like an Ancient Greek Philosopher \n https://t.co/Ma7n3RcyGl"
+	},
+	{
+		"created_at": "Fri Oct 08 12:56:18 +0000 2021",
+		"id": 1446457277653737500,
+		"id_str": "1446459437728903170",
+		"full_text": "Greece must seize the day after UNESCO decision on Parthenon Sculptures https://t.co/r6qE7b5FBJ via @greek_herald #ParthenonSculptures #Parthenon #UNESCO #ICPRCP #BritishMuseum #Greece #AcropolisMuseum #restitution @cultureGR @ReuniteMarbles @elginism @jimmellas @ellymariasymons https://t.co/wbPgnPsTb8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ParthenonSculptures",
+					"indices": [
+						114,
+						134
+					]
+				},
+				{
+					"text": "Parthenon",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "UNESCO",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "ICPRCP",
+					"indices": [
+						154,
+						161
+					]
+				},
+				{
+					"text": "BritishMuseum",
+					"indices": [
+						162,
+						176
+					]
+				},
+				{
+					"text": "Greece",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "AcropolisMuseum",
+					"indices": [
+						185,
+						201
+					]
+				},
+				{
+					"text": "restitution",
+					"indices": [
+						202,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greek_herald",
+					"name": "The Greek Herald",
+					"id": 1201407742763659300,
+					"id_str": "1201407742763659264",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"screen_name": "cultureGR",
+					"name": "Υπουργείο Πολιτισμού και Αθλητισμού",
+					"id": 3012324465,
+					"id_str": "3012324465",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"screen_name": "ReuniteMarbles",
+					"name": "Lost My Marbles",
+					"id": 1302681237497278500,
+					"id_str": "1302681237497278464",
+					"indices": [
+						226,
+						241
+					]
+				},
+				{
+					"screen_name": "elginism",
+					"name": "Elginism",
+					"id": 55548410,
+					"id_str": "55548410",
+					"indices": [
+						242,
+						251
+					]
+				},
+				{
+					"screen_name": "jimmellas",
+					"name": "Jim Mellas",
+					"id": 1357072916,
+					"id_str": "1357072916",
+					"indices": [
+						252,
+						262
+					]
+				},
+				{
+					"screen_name": "ellymariasymons",
+					"name": "🦋Elly Symons🦋",
+					"id": 2336403044,
+					"id_str": "2336403044",
+					"indices": [
+						263,
+						279
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r6qE7b5FBJ",
+					"expanded_url": "https://greekherald.com.au/opinion/george-vardas-says-greece-must-seize-the-day-after-unesco-decision-parthenon-sculptures/",
+					"display_url": "greekherald.com.au/opinion/george…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446457273149116400,
+					"id_str": "1446457273149116419",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FBLZOezVUAMfmxe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBLZOezVUAMfmxe.jpg",
+					"url": "https://t.co/wbPgnPsTb8",
+					"display_url": "pic.twitter.com/wbPgnPsTb8",
+					"expanded_url": "https://twitter.com/VardasGeorge/status/1446457277653737472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 696,
+							"h": 392,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446457273149116400,
+					"id_str": "1446457273149116419",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FBLZOezVUAMfmxe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBLZOezVUAMfmxe.jpg",
+					"url": "https://t.co/wbPgnPsTb8",
+					"display_url": "pic.twitter.com/wbPgnPsTb8",
+					"expanded_url": "https://twitter.com/VardasGeorge/status/1446457277653737472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 696,
+							"h": 392,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3134729586,
+			"id_str": "3134729586",
+			"name": "George Vardas",
+			"screen_name": "VardasGeorge",
+			"location": "Sydney Australia",
+			"description": "Fmr Sec International Association for Reunification of Parthenon Sculptures. Secretary Australian Hellenic Council. Cultural heritage writer. AEK Athens tragic",
+			"url": "https://t.co/zMXS8MB3Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zMXS8MB3Fy",
+							"expanded_url": "http://parthenonsculptures.blogspot.com.au",
+							"display_url": "parthenonsculptures.blogspot.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1943,
+			"friends_count": 1727,
+			"listed_count": 69,
+			"created_at": "Fri Apr 03 08:46:48 +0000 2015",
+			"favourites_count": 43578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/808929149846949888/8kT0XMa__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/808929149846949888/8kT0XMa__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3134729586/1431843977",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Greece must seize the day after UNESCO decision on Parthenon Sculptures https://t.co/r6qE7b5FBJ via @greek_herald #ParthenonSculptures #Parthenon #UNESCO #ICPRCP #BritishMuseum #Greece #AcropolisMuseum #restitution @cultureGR @ReuniteMarbles @elginism @jimmellas @ellymariasymons https://t.co/wbPgnPsTb8"
+	},
+	{
 		"created_at": "Thu Oct 07 19:40:07 +0000 2021",
 		"id": 1446198673004769300,
 		"id_str": "1446198673004769282",
