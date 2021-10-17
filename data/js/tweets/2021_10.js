@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 02:00:13 +0000 2021",
+		"id": 1449555819876470800,
+		"id_str": "1449555819876470786",
+		"full_text": "https://t.co/p35CySznXJ https://t.co/lV4A0yKBCf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p35CySznXJ",
+					"expanded_url": "https://twitter.com/mathonwy/status/1449537384274616324",
+					"display_url": "twitter.com/mathonwy/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449555811802493000,
+					"id_str": "1449555811802492933",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FB3bVKyXMAUbwMG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FB3bVKyXMAUbwMG.jpg",
+					"url": "https://t.co/lV4A0yKBCf",
+					"display_url": "pic.twitter.com/lV4A0yKBCf",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1449555819876470786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449555811802493000,
+					"id_str": "1449555811802492933",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FB3bVKyXMAUbwMG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FB3bVKyXMAUbwMG.jpg",
+					"url": "https://t.co/lV4A0yKBCf",
+					"display_url": "pic.twitter.com/lV4A0yKBCf",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1449555819876470786/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FB3bVKyXMAUbwMG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17771,
+			"friends_count": 2279,
+			"listed_count": 531,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1449537384274616300,
+		"quoted_status_id_str": "1449537384274616324",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p35CySznXJ",
+			"expanded": "https://twitter.com/mathonwy/status/1449537384274616324",
+			"display": "twitter.com/mathonwy/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 17 00:46:58 +0000 2021",
+			"id": 1449537384274616300,
+			"id_str": "1449537384274616324",
+			"full_text": "Post a character who has your vibe https://t.co/ni7NX86f7n https://t.co/FWAlKPkC3d",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ni7NX86f7n",
+						"expanded_url": "https://twitter.com/HaneMaung/status/1449535622679498752",
+						"display_url": "twitter.com/HaneMaung/stat…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1449537365962338300,
+						"id_str": "1449537365962338304",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FB3KjerXMAANW0s.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FB3KjerXMAANW0s.jpg",
+						"url": "https://t.co/FWAlKPkC3d",
+						"display_url": "pic.twitter.com/FWAlKPkC3d",
+						"expanded_url": "https://twitter.com/mathonwy/status/1449537384274616324/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1449537365962338300,
+						"id_str": "1449537365962338304",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FB3KjerXMAANW0s.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FB3KjerXMAANW0s.jpg",
+						"url": "https://t.co/FWAlKPkC3d",
+						"display_url": "pic.twitter.com/FWAlKPkC3d",
+						"expanded_url": "https://twitter.com/mathonwy/status/1449537384274616324/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 350,
+								"h": 350,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FB3KjerXMAANW0s.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 283740393,
+				"id_str": "283740393",
+				"name": "Dr. Mātōnya Gravenstein 🍎",
+				"screen_name": "mathonwy",
+				"location": "Abalnās",
+				"description": "Hi, I'm Mātōnya, Albiyū of Spring & Apple Blossom Maiden! | pomologist, musician, poetess, Yūnōna's second daughter, and your friendly Livonian apple maiden 🍎",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1416,
+				"friends_count": 519,
+				"listed_count": 10,
+				"created_at": "Sun Apr 17 22:57:09 +0000 2011",
+				"favourites_count": 118573,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 75777,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1441190774314577921/kqEn1Ow8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1441190774314577921/kqEn1Ow8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/283740393/1427857337",
+				"profile_link_color": "D55AF4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1449535622679498800,
+			"quoted_status_id_str": "1449535622679498752",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ni7NX86f7n",
+				"expanded": "https://twitter.com/HaneMaung/status/1449535622679498752",
+				"display": "twitter.com/HaneMaung/stat…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/p35CySznXJ https://t.co/lV4A0yKBCf"
+	},
+	{
 		"created_at": "Sat Oct 16 21:29:47 +0000 2021",
 		"id": 1449487762281873400,
 		"id_str": "1449487762281873416",
