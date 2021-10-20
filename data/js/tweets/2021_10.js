@@ -1,6 +1,950 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 22:49:58 +0000 2021",
+		"id": 1450595107275686000,
+		"id_str": "1450595107275685891",
+		"full_text": "\"taking such a vast, historic gamble with this country’s future was irresponsible enough, but doing it in the age of QAnon and Tommy Robinson was reckless beyond words.\" https://t.co/dlfqRtMDny by @johnharris1969 on @guardian",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnharris1969",
+					"name": "John Harris",
+					"id": 2831956616,
+					"id_str": "2831956616",
+					"indices": [
+						197,
+						212
+					]
+				},
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						216,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dlfqRtMDny",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2021/oct/18/brexit-promises-reality-voters-eu-public-trust",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17815,
+			"friends_count": 2280,
+			"listed_count": 532,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"taking such a vast, historic gamble with this country’s future was irresponsible enough, but doing it in the age of QAnon and Tommy Robinson was reckless beyond words.\" https://t.co/dlfqRtMDny by @johnharris1969 on @guardian"
+	},
+	{
+		"created_at": "Tue Oct 19 21:21:59 +0000 2021",
+		"id": 1450513218091294700,
+		"id_str": "1450572962277564425",
+		"full_text": "what are the most popular travel books these days? Who are your absolute favorite travel writers?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 247458453,
+			"id_str": "247458453",
+			"name": "Alexandra Hudson",
+			"screen_name": "LexiOHudson",
+			"location": "Indianapolis, IN",
+			"description": "Founder & Curator @CivicRen1 on beauty, goodness & truth • Author @StMartinsPress • Columns for @USAToday @WSJ @TIME • @NovakFellows • @IUphilanthropy",
+			"url": "https://t.co/J1LxDpmgUK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1LxDpmgUK",
+							"expanded_url": "http://alexandraohudson.com/",
+							"display_url": "alexandraohudson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24781,
+			"friends_count": 25820,
+			"listed_count": 92,
+			"created_at": "Fri Feb 04 21:02:21 +0000 2011",
+			"favourites_count": 5518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417586184306446337/MHwxe3cN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417586184306446337/MHwxe3cN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/247458453/1609892999",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "what are the most popular travel books these days? Who are your absolute favorite travel writers?"
+	},
+	{
+		"created_at": "Tue Oct 19 20:13:23 +0000 2021",
+		"id": 1450555700141179000,
+		"id_str": "1450555700141178880",
+		"full_text": "Appalling. https://t.co/R9QS4B1tBo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R9QS4B1tBo",
+					"expanded_url": "https://twitter.com/lucymirandaward/status/1450495088082227204",
+					"display_url": "twitter.com/lucymirandawar…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17815,
+			"friends_count": 2280,
+			"listed_count": 532,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450495088082227200,
+		"quoted_status_id_str": "1450495088082227204",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R9QS4B1tBo",
+			"expanded": "https://twitter.com/lucymirandaward/status/1450495088082227204",
+			"display": "twitter.com/lucymirandawar…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 19 16:12:32 +0000 2021",
+			"id": 1450495088082227200,
+			"id_str": "1450495088082227204",
+			"full_text": "The epidemic of drinks spiking targeting young women - students and not - in nightclubs has a horrific new variant: injecting women in the back or leg with the same drugs. I asked my daughter - first year at a UK uni - if she had heard of it and she sent me this: https://t.co/bWJmYRXfXi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1450494951826116600,
+						"id_str": "1450494951826116611",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FCExeUAX0AM2scB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCExeUAX0AM2scB.jpg",
+						"url": "https://t.co/bWJmYRXfXi",
+						"display_url": "pic.twitter.com/bWJmYRXfXi",
+						"expanded_url": "https://twitter.com/lucymirandaward/status/1450495088082227204/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 376,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 663,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 972,
+								"h": 1758,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1450494951826116600,
+						"id_str": "1450494951826116611",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FCExeUAX0AM2scB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCExeUAX0AM2scB.jpg",
+						"url": "https://t.co/bWJmYRXfXi",
+						"display_url": "pic.twitter.com/bWJmYRXfXi",
+						"expanded_url": "https://twitter.com/lucymirandaward/status/1450495088082227204/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 376,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 663,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 972,
+								"h": 1758,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1450494951935123500,
+						"id_str": "1450494951935123461",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FCExeUaXIAUw8Nf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCExeUaXIAUw8Nf.jpg",
+						"url": "https://t.co/bWJmYRXfXi",
+						"display_url": "pic.twitter.com/bWJmYRXfXi",
+						"expanded_url": "https://twitter.com/lucymirandaward/status/1450495088082227204/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 415,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 732,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1169,
+								"h": 1917,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1450494952035831800,
+						"id_str": "1450494952035831810",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FCExeUyX0AIoyrm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCExeUyX0AIoyrm.jpg",
+						"url": "https://t.co/bWJmYRXfXi",
+						"display_url": "pic.twitter.com/bWJmYRXfXi",
+						"expanded_url": "https://twitter.com/lucymirandaward/status/1450495088082227204/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1759,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 798,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23519050,
+				"id_str": "23519050",
+				"name": "Lucy Ward",
+				"screen_name": "lucymirandaward",
+				"location": "UK",
+				"description": "Writing a book on inoculation out Spring 2022. Worked in comms at Cambridge. Journalist, ex-Guardian. Governor @angliaruskin. Mother & partner. Bit northern.",
+				"url": "https://t.co/pfNi7wAwnx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pfNi7wAwnx",
+								"expanded_url": "https://www.theguardian.com/profile/lucyward",
+								"display_url": "theguardian.com/profile/lucywa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2576,
+				"friends_count": 4871,
+				"listed_count": 28,
+				"created_at": "Mon Mar 09 22:57:42 +0000 2009",
+				"favourites_count": 34642,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5643,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1288432044050087936/tCrcu5l0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288432044050087936/tCrcu5l0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23519050/1520293370",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4782,
+			"favorite_count": 9327,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Appalling. https://t.co/R9QS4B1tBo"
+	},
+	{
+		"created_at": "Tue Oct 19 16:21:03 +0000 2021",
+		"id": 1450497230167855000,
+		"id_str": "1450497230167855104",
+		"full_text": "@GreeneRobison A pineal gland",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GreeneRobison",
+					"name": "Rachel Robison Greene",
+					"id": 1113835494935154700,
+					"id_str": "1113835494935154689",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1450243048860909600,
+		"in_reply_to_status_id_str": "1450243048860909574",
+		"in_reply_to_user_id": 1113835494935154700,
+		"in_reply_to_user_id_str": "1113835494935154689",
+		"in_reply_to_screen_name": "GreeneRobison",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17815,
+			"friends_count": 2280,
+			"listed_count": 532,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GreeneRobison A pineal gland"
+	},
+	{
+		"created_at": "Tue Oct 19 12:58:47 +0000 2021",
+		"id": 1450446330531356700,
+		"id_str": "1450446330531356674",
+		"full_text": "Greta Thunberg's grandfather was the organist in Winter Light. Not a lot of people know that.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17815,
+			"friends_count": 2280,
+			"listed_count": 532,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Greta Thunberg's grandfather was the organist in Winter Light. Not a lot of people know that."
+	},
+	{
+		"created_at": "Tue Oct 19 11:54:25 +0000 2021",
+		"id": 1450430132716507100,
+		"id_str": "1450430132716507144",
+		"full_text": "@fustbariclation Thanks. This one was well east of the island -- I didn't even notice it!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fustbariclation",
+					"name": "Fustbariclation",
+					"id": 17705183,
+					"id_str": "17705183",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1450390558900461600,
+		"in_reply_to_status_id_str": "1450390558900461568",
+		"in_reply_to_user_id": 17705183,
+		"in_reply_to_user_id_str": "17705183",
+		"in_reply_to_screen_name": "fustbariclation",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17815,
+			"friends_count": 2280,
+			"listed_count": 532,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fustbariclation Thanks. This one was well east of the island -- I didn't even notice it!"
+	},
+	{
 		"created_at": "Mon Oct 18 21:51:33 +0000 2021",
 		"id": 1450218014792618000,
 		"id_str": "1450218014792617985",
