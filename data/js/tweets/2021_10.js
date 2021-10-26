@@ -1,6 +1,943 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 25 15:51:51 +0000 2021",
+		"id": 1452664208764686300,
+		"id_str": "1452664208764686338",
+		"full_text": "@vipin_sharma08 the way that leads you to flourish in the roles you choose to adopt -- citizen, parent, teacher, artist, etc.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vipin_sharma08",
+					"name": "Vipin Sharma",
+					"id": 1007323251977187300,
+					"id_str": "1007323251977187328",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1452662607400161300,
+		"in_reply_to_status_id_str": "1452662607400161287",
+		"in_reply_to_user_id": 1007323251977187300,
+		"in_reply_to_user_id_str": "1007323251977187328",
+		"in_reply_to_screen_name": "vipin_sharma08",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17876,
+			"friends_count": 2284,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@vipin_sharma08 the way that leads you to flourish in the roles you choose to adopt -- citizen, parent, teacher, artist, etc."
+	},
+	{
+		"created_at": "Mon Oct 25 15:37:38 +0000 2021",
+		"id": 1452660630335508500,
+		"id_str": "1452660630335508480",
+		"full_text": "@vipin_sharma08 Life itself has no meaning; it wasn't designed for some purpose. Organisms, however, can be thought as having been designed natural selection to secure the replication of their genes, and hence as having that purpose. Self-aware organisms can choose their own purposes.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vipin_sharma08",
+					"name": "Vipin Sharma",
+					"id": 1007323251977187300,
+					"id_str": "1007323251977187328",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1452657520523182000,
+		"in_reply_to_status_id_str": "1452657520523182080",
+		"in_reply_to_user_id": 1007323251977187300,
+		"in_reply_to_user_id_str": "1007323251977187328",
+		"in_reply_to_screen_name": "vipin_sharma08",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17876,
+			"friends_count": 2284,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@vipin_sharma08 Life itself has no meaning; it wasn't designed for some purpose. Organisms, however, can be thought as having been designed natural selection to secure the replication of their genes, and hence as having that purpose. Self-aware organisms can choose their own purposes."
+	},
+	{
+		"created_at": "Mon Oct 25 15:24:44 +0000 2021",
+		"id": 1452657383927332900,
+		"id_str": "1452657383927332867",
+		"full_text": "@vipin_sharma08 Of life in general or of your life?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vipin_sharma08",
+					"name": "Vipin Sharma",
+					"id": 1007323251977187300,
+					"id_str": "1007323251977187328",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1452657116741660700,
+		"in_reply_to_status_id_str": "1452657116741660679",
+		"in_reply_to_user_id": 1007323251977187300,
+		"in_reply_to_user_id_str": "1007323251977187328",
+		"in_reply_to_screen_name": "vipin_sharma08",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17876,
+			"friends_count": 2284,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@vipin_sharma08 Of life in general or of your life?"
+	},
+	{
+		"created_at": "Mon Oct 25 15:18:45 +0000 2021",
+		"id": 1452655878574952400,
+		"id_str": "1452655878574952453",
+		"full_text": "What a splendid idea of Farage's\nTo allow our MPs to take charge as \nThey vote to defile\nThe shores of our isle\nWith the nation's rectal discharges",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17876,
+			"friends_count": 2284,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "What a splendid idea of Farage's\nTo allow our MPs to take charge as \nThey vote to defile\nThe shores of our isle\nWith the nation's rectal discharges"
+	},
+	{
+		"created_at": "Mon Oct 25 13:41:56 +0000 2021",
+		"id": 1452631516324970500,
+		"id_str": "1452631516324970499",
+		"full_text": "Just sayin'. --&gt; 95.9% Of Greek Swimming Waters Are Of Perfect Quality - https://t.co/RyHAEtConT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RyHAEtConT",
+					"expanded_url": "https://greekcitytimes.com/?p=22847",
+					"display_url": "greekcitytimes.com/?p=22847",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17876,
+			"friends_count": 2284,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just sayin'. --&gt; 95.9% Of Greek Swimming Waters Are Of Perfect Quality - https://t.co/RyHAEtConT"
+	},
+	{
+		"created_at": "Mon Oct 25 12:33:15 +0000 2021",
+		"id": 1452614231896076300,
+		"id_str": "1452614231896076290",
+		"full_text": "Looks like a must-read paper! https://t.co/35Qce9JINn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/35Qce9JINn",
+					"expanded_url": "https://twitter.com/chrisnoessel/status/1452485464582017030",
+					"display_url": "twitter.com/chrisnoessel/s…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17876,
+			"friends_count": 2284,
+			"listed_count": 534,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1452485464582017000,
+		"quoted_status_id_str": "1452485464582017030",
+		"quoted_status_permalink": {
+			"url": "https://t.co/35Qce9JINn",
+			"expanded": "https://twitter.com/chrisnoessel/status/1452485464582017030",
+			"display": "twitter.com/chrisnoessel/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 25 04:01:35 +0000 2021",
+			"id": 1452485464582017000,
+			"id_str": "1452485464582017030",
+			"full_text": "Dimensions of Animal Consciousness: Unity,  Perceptual Richness, Selfhood, Evaluative Richness, and Temporality. From Trends in Cognitive Sciences, 2020. #sketchnotes Auth: @birchlse, Alexandra K. Schnell, and @nickyclayton22. @CellPressNews \n\nFull paper:\nhttps://t.co/ovRDOFtSSU https://t.co/4a3YuW2352 https://t.co/QlwDhJSI0N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				303
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sketchnotes",
+						"indices": [
+							154,
+							166
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "birchlse",
+						"name": "Jonathan Birch",
+						"id": 1177524519885594600,
+						"id_str": "1177524519885594624",
+						"indices": [
+							173,
+							182
+						]
+					},
+					{
+						"screen_name": "nickyclayton22",
+						"name": "Nicola Clayton",
+						"id": 168286576,
+						"id_str": "168286576",
+						"indices": [
+							210,
+							225
+						]
+					},
+					{
+						"screen_name": "CellPressNews",
+						"name": "Cell Press",
+						"id": 18477428,
+						"id_str": "18477428",
+						"indices": [
+							227,
+							241
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ovRDOFtSSU",
+						"expanded_url": "https://www.researchgate.net/publication/343792104_Dimensions_of_Animal_Consciousness/fulltext/5f3fc279458515b729396193/Dimensions-of-Animal-Consciousness.pdf",
+						"display_url": "researchgate.net/publication/34…",
+						"indices": [
+							256,
+							279
+						]
+					},
+					{
+						"url": "https://t.co/4a3YuW2352",
+						"expanded_url": "https://twitter.com/chrisnoessel/status/1235633373638352897",
+						"display_url": "twitter.com/chrisnoessel/s…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1452485460618473500,
+						"id_str": "1452485460618473474",
+						"indices": [
+							304,
+							327
+						],
+						"media_url": "http://pbs.twimg.com/media/FChD1LGVcAIn-CW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FChD1LGVcAIn-CW.jpg",
+						"url": "https://t.co/QlwDhJSI0N",
+						"display_url": "pic.twitter.com/QlwDhJSI0N",
+						"expanded_url": "https://twitter.com/chrisnoessel/status/1452485464582017030/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1448,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 848,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1452485460618473500,
+						"id_str": "1452485460618473474",
+						"indices": [
+							304,
+							327
+						],
+						"media_url": "http://pbs.twimg.com/media/FChD1LGVcAIn-CW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FChD1LGVcAIn-CW.jpg",
+						"url": "https://t.co/QlwDhJSI0N",
+						"display_url": "pic.twitter.com/QlwDhJSI0N",
+						"expanded_url": "https://twitter.com/chrisnoessel/status/1452485464582017030/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1448,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 848,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 182980233,
+				"id_str": "182980233",
+				"name": "ChristoOoOoopher Noessel 🏳️‍🌈🤖👻",
+				"screen_name": "chrisnoessel",
+				"location": "San Francisco, California",
+				"description": "…is: designer, author, speaker around the world. Gruntled. Opinions his, natch. Also: @scifiinterfaces @agentivetech @meaningmachines he|his",
+				"url": "https://t.co/W9VQiEo9mq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W9VQiEo9mq",
+								"expanded_url": "http://www.chrisnoessel.com/",
+								"display_url": "chrisnoessel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4887,
+				"friends_count": 922,
+				"listed_count": 307,
+				"created_at": "Wed Aug 25 21:37:52 +0000 2010",
+				"favourites_count": 15399,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11560,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1390156399905099776/OQOA577n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1390156399905099776/OQOA577n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/182980233/1493836344",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1235633373638353000,
+			"quoted_status_id_str": "1235633373638352897",
+			"quoted_status_permalink": {
+				"url": "https://t.co/4a3YuW2352",
+				"expanded": "https://twitter.com/chrisnoessel/status/1235633373638352897",
+				"display": "twitter.com/chrisnoessel/s…"
+			},
+			"retweet_count": 13,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks like a must-read paper! https://t.co/35Qce9JINn"
+	},
+	{
 		"created_at": "Mon Oct 25 00:13:02 +0000 2021",
 		"id": 1452427947038675000,
 		"id_str": "1452427947038674945",
