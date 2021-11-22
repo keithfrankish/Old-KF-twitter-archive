@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 00:46:08 +0000 2021",
+		"id": 1462579720327942100,
+		"id_str": "1462583137213558794",
+		"full_text": "If you have some free time take a look at my father’s photos of Greece in the sixties. https://t.co/2lzhuOcEvO https://t.co/kTmTRIr7ER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2lzhuOcEvO",
+					"expanded_url": "http://www.greecetravel.com/photos/sixties",
+					"display_url": "greecetravel.com/photos/sixties",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462579716800618500,
+					"id_str": "1462579716800618499",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FEwggNuXoAMnV7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEwggNuXoAMnV7h.jpg",
+					"url": "https://t.co/kTmTRIr7ER",
+					"display_url": "pic.twitter.com/kTmTRIr7ER",
+					"expanded_url": "https://twitter.com/MattinGreece/status/1462579720327942144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 656,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462579716800618500,
+					"id_str": "1462579716800618499",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FEwggNuXoAMnV7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEwggNuXoAMnV7h.jpg",
+					"url": "https://t.co/kTmTRIr7ER",
+					"display_url": "pic.twitter.com/kTmTRIr7ER",
+					"expanded_url": "https://twitter.com/MattinGreece/status/1462579720327942144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 656,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413917617,
+			"id_str": "1413917617",
+			"name": "Matt Barrett",
+			"screen_name": "MattinGreece",
+			"location": "",
+			"description": "Former rock musician now writes about eating, drinking, traveling and living in Greece.",
+			"url": "https://t.co/nEerDdggM8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nEerDdggM8",
+							"expanded_url": "http://www.greecetravel.com",
+							"display_url": "greecetravel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 642,
+			"friends_count": 594,
+			"listed_count": 6,
+			"created_at": "Wed May 08 21:45:54 +0000 2013",
+			"favourites_count": 653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/889106147050958848/FLzqrMgC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/889106147050958848/FLzqrMgC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you have some free time take a look at my father’s photos of Greece in the sixties. https://t.co/2lzhuOcEvO https://t.co/kTmTRIr7ER"
+	},
+	{
+		"created_at": "Sun Nov 21 20:22:29 +0000 2021",
+		"id": 1462516790836314000,
+		"id_str": "1462516790836314114",
+		"full_text": "Lord Bombulum always had Capes accompany him on his nightly walks, to flush out any curious villagers who might have secreted themselves by the wayside in hopes of catching him in the act of producing one of his now notorious effusions of flatus. #GirlsOwnCC https://t.co/bYEAHESgCY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOwnCC",
+					"indices": [
+						247,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bYEAHESgCY",
+					"expanded_url": "https://twitter.com/GirlsOwn/status/1462475450345734146",
+					"display_url": "twitter.com/GirlsOwn/statu…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18219,
+			"friends_count": 2294,
+			"listed_count": 540,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462475450345734100,
+		"quoted_status_id_str": "1462475450345734146",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bYEAHESgCY",
+			"expanded": "https://twitter.com/GirlsOwn/status/1462475450345734146",
+			"display": "twitter.com/GirlsOwn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 21 17:38:13 +0000 2021",
+			"id": 1462475450345734100,
+			"id_str": "1462475450345734146",
+			"full_text": "And now for this Sunday’s caption contest. Please quote tweet your caption, not forgetting #GirlsOwnCC and give away lots of ❤️s to your fellow competitors’ captions https://t.co/6HSKwkOQBO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GirlsOwnCC",
+						"indices": [
+							91,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1462475439734198300,
+						"id_str": "1462475439734198272",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/FEvBqfYXEAAyVrp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEvBqfYXEAAyVrp.jpg",
+						"url": "https://t.co/6HSKwkOQBO",
+						"display_url": "pic.twitter.com/6HSKwkOQBO",
+						"expanded_url": "https://twitter.com/GirlsOwn/status/1462475450345734146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2047,
+								"h": 1410,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 827,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 468,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1462475439734198300,
+						"id_str": "1462475439734198272",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/FEvBqfYXEAAyVrp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEvBqfYXEAAyVrp.jpg",
+						"url": "https://t.co/6HSKwkOQBO",
+						"display_url": "pic.twitter.com/6HSKwkOQBO",
+						"expanded_url": "https://twitter.com/GirlsOwn/status/1462475450345734146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2047,
+								"h": 1410,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 827,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 468,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2351494683,
+				"id_str": "2351494683",
+				"name": "Girls' Own advice",
+				"screen_name": "GirlsOwn",
+				"location": "",
+				"description": "Genuine replies from 1880s and 1890s problem pages. Captions encouraged on Sunday only #GirlsOwnCC and comment (sarcastic or sweet) the rest of the week",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33163,
+				"friends_count": 362,
+				"listed_count": 125,
+				"created_at": "Tue Feb 18 23:04:59 +0000 2014",
+				"favourites_count": 20780,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15910,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/436035798132338688/6JJnj8ka_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/436035798132338688/6JJnj8ka_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2351494683/1392794452",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lord Bombulum always had Capes accompany him on his nightly walks, to flush out any curious villagers who might have secreted themselves by the wayside in hopes of catching him in the act of producing one of his now notorious effusions of flatus. #GirlsOwnCC https://t.co/bYEAHESgCY"
+	},
+	{
+		"created_at": "Sun Nov 21 17:31:42 +0000 2021",
+		"id": 1462473809110438000,
+		"id_str": "1462473809110437894",
+		"full_text": "@ETVPod @jacyanthis I may have to rethink my entire life",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ETVPod",
+					"name": "Embrace the Void Pod",
+					"id": 839318427009417200,
+					"id_str": "839318427009417217",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "jacyanthis",
+					"name": "Jacy Reese Anthis",
+					"id": 1539866125,
+					"id_str": "1539866125",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462473179948064800,
+		"in_reply_to_status_id_str": "1462473179948064770",
+		"in_reply_to_user_id": 839318427009417200,
+		"in_reply_to_user_id_str": "839318427009417217",
+		"in_reply_to_screen_name": "ETVPod",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18219,
+			"friends_count": 2294,
+			"listed_count": 540,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ETVPod @jacyanthis I may have to rethink my entire life"
+	},
+	{
 		"created_at": "Sat Nov 20 19:18:33 +0000 2021",
 		"id": 1462137940398821400,
 		"id_str": "1462138311137497088",
