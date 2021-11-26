@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 25 23:43:42 +0000 2021",
+		"id": 1464016978251763700,
+		"id_str": "1464016978251763717",
+		"full_text": "Powerful motion effect. Does the seeming movement on the screen mean there a *moving seeming* in your mind? And if not, why should seeming colour mean there's a coloured seeming?  Moral: Seeming needn't be rendered phenomenally. https://t.co/y6LFiiyPYP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y6LFiiyPYP",
+					"expanded_url": "https://twitter.com/AkiyoshiKitaoka/status/1464014832881922107",
+					"display_url": "twitter.com/AkiyoshiKitaok…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18275,
+			"friends_count": 2294,
+			"listed_count": 541,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1464014832881922000,
+		"quoted_status_id_str": "1464014832881922107",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y6LFiiyPYP",
+			"expanded": "https://twitter.com/AkiyoshiKitaoka/status/1464014832881922107",
+			"display": "twitter.com/AkiyoshiKitaok…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 25 23:35:10 +0000 2021",
+			"id": 1464014832881922000,
+			"id_str": "1464014832881922107",
+			"full_text": "1限の授業がある日は厳しい。 https://t.co/2eGNmg2UHJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1464014771884535800,
+						"id_str": "1464014771884535809",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/FFE5ragaMAERJh6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFE5ragaMAERJh6.jpg",
+						"url": "https://t.co/2eGNmg2UHJ",
+						"display_url": "pic.twitter.com/2eGNmg2UHJ",
+						"expanded_url": "https://twitter.com/AkiyoshiKitaoka/status/1464014832881922107/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1464014771884535800,
+						"id_str": "1464014771884535809",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/FFE5ragaMAERJh6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFE5ragaMAERJh6.jpg",
+						"url": "https://t.co/2eGNmg2UHJ",
+						"display_url": "pic.twitter.com/2eGNmg2UHJ",
+						"expanded_url": "https://twitter.com/AkiyoshiKitaoka/status/1464014832881922107/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 433112513,
+				"id_str": "433112513",
+				"name": "Akiyoshi Kitaoka",
+				"screen_name": "AkiyoshiKitaoka",
+				"location": "Kyoto, Japan",
+				"description": "I am an experimental psychologist who studies visual illusions as well as makes illusion artworks. #illusion #opticalillusion #perception #錯視",
+				"url": "https://t.co/99VCRn7bRn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/99VCRn7bRn",
+								"expanded_url": "http://www.ritsumei.ac.jp/~akitaoka/index-e.html",
+								"display_url": "ritsumei.ac.jp/~akitaoka/inde…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49386,
+				"friends_count": 1672,
+				"listed_count": 507,
+				"created_at": "Sat Dec 10 04:50:54 +0000 2011",
+				"favourites_count": 30532,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22443,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084731935413260289/zcKsZ4eq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084731935413260289/zcKsZ4eq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/433112513/1547788768",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Powerful motion effect. Does the seeming movement on the screen mean there a *moving seeming* in your mind? And if not, why should seeming colour mean there's a coloured seeming?  Moral: Seeming needn't be rendered phenomenally. https://t.co/y6LFiiyPYP"
+	},
+	{
 		"created_at": "Wed Nov 24 21:47:17 +0000 2021",
 		"id": 1463625293122388000,
 		"id_str": "1463625293122387977",
