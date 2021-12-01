@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 30 17:04:48 +0000 2021",
+		"id": 1465680882182852600,
+		"id_str": "1465728530973609984",
+		"full_text": "NEW:\nNigel Warburton (@PhilosophyBites) selects five of the best public philosophy books published in 2021, including a defence of righteous rage, a critique of 'time management,' and an intellectual biography of Hannah Arendt.\n\nhttps://t.co/NAcaQGp91F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton 🧡 #RejoinEU",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						22,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NAcaQGp91F",
+					"expanded_url": "https://fivebooks.com/best-books/the-best-philosophy-books-of-2021-nigel-warburton/",
+					"display_url": "fivebooks.com/best-books/the…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 252166714,
+			"id_str": "252166714",
+			"name": "Five Books",
+			"screen_name": "five_books",
+			"location": "",
+			"description": "Five Books is a library of knowledge, curating book recommendations on any topic. Experts recommend the five best books in their subject. https://t.co/MzOKjuzP3t",
+			"url": "https://t.co/4xBjrs4tzo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4xBjrs4tzo",
+							"expanded_url": "http://www.fivebooks.com",
+							"display_url": "fivebooks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MzOKjuzP3t",
+							"expanded_url": "http://fivebooks.com",
+							"display_url": "fivebooks.com",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36395,
+			"friends_count": 929,
+			"listed_count": 756,
+			"created_at": "Mon Feb 14 16:43:00 +0000 2011",
+			"favourites_count": 13229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990922599302684672/0yX4qtqz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990922599302684672/0yX4qtqz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/252166714/1606167939",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW:\nNigel Warburton (@PhilosophyBites) selects five of the best public philosophy books published in 2021, including a defence of righteous rage, a critique of 'time management,' and an intellectual biography of Hannah Arendt.\n\nhttps://t.co/NAcaQGp91F"
+	},
+	{
+		"created_at": "Tue Nov 30 17:00:43 +0000 2021",
+		"id": 1465717637980250000,
+		"id_str": "1465727505676001290",
+		"full_text": "Meet the Greek fisherman cleaning up the Mediterranean Sea | Euronews https://t.co/YkJ7ShxrlR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YkJ7ShxrlR",
+					"expanded_url": "https://www.euronews.com/culture/2021/11/29/meet-the-greek-fisherman-cleaning-up-the-mediterranean-sea",
+					"display_url": "euronews.com/culture/2021/1…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748835671,
+			"id_str": "748835671",
+			"name": "yana",
+			"screen_name": "AthanasakiYana",
+			"location": "Thessaloniki Greece",
+			"description": "Flutist - Music and Economics -Aristotle University of Thessaloniki",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 933,
+			"friends_count": 1065,
+			"listed_count": 0,
+			"created_at": "Fri Aug 10 07:17:23 +0000 2012",
+			"favourites_count": 147940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072464653253529600/8zHBVxLZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072464653253529600/8zHBVxLZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meet the Greek fisherman cleaning up the Mediterranean Sea | Euronews https://t.co/YkJ7ShxrlR"
+	},
+	{
+		"created_at": "Tue Nov 30 13:57:22 +0000 2021",
+		"id": 1465681360941731800,
+		"id_str": "1465681360941731846",
+		"full_text": "Little ships sailed the Channel before\nTo rescue folk shattered by war.\n\"But those were our men!\"\nSo tell me again,\nWhen does Charity answer, \"No more!\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18331,
+			"friends_count": 2293,
+			"listed_count": 540,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Little ships sailed the Channel before\nTo rescue folk shattered by war.\n\"But those were our men!\"\nSo tell me again,\nWhen does Charity answer, \"No more!\""
+	},
+	{
 		"created_at": "Mon Nov 29 20:47:21 +0000 2021",
 		"id": 1465422148713996300,
 		"id_str": "1465422148713996293",
