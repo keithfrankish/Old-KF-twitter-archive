@@ -1,6 +1,1031 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 23:18:46 +0000 2021",
+		"id": 1466909806804021200,
+		"id_str": "1466909806804021248",
+		"full_text": "Two minutes with Kevin Eldon is more fun that two hours with most comedians. He even manages to get in a bit about consciousness. https://t.co/pI6QggMZxM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pI6QggMZxM",
+					"expanded_url": "https://twitter.com/ItsKevinEldon/status/1381230486354337798",
+					"display_url": "twitter.com/ItsKevinEldon/…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18358,
+			"friends_count": 2295,
+			"listed_count": 540,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1381230486354337800,
+		"quoted_status_id_str": "1381230486354337798",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pI6QggMZxM",
+			"expanded": "https://twitter.com/ItsKevinEldon/status/1381230486354337798",
+			"display": "twitter.com/ItsKevinEldon/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 11 12:59:44 +0000 2021",
+			"id": 1381230486354337800,
+			"id_str": "1381230486354337798",
+			"full_text": "Here's me talking rubbish with the lovely @MickFerry, thankfully for an almost bearably short time\nhttps://t.co/cdu2VMxsEG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MickFerry",
+						"name": "Mick Ferry",
+						"id": 23705701,
+						"id_str": "23705701",
+						"indices": [
+							42,
+							52
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1381194545929523200,
+						"id_str": "1381194545929523203",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1381194545929523203/pu/img/NhZF73O_O1n9J7WO.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1381194545929523203/pu/img/NhZF73O_O1n9J7WO.jpg",
+						"url": "https://t.co/cdu2VMxsEG",
+						"display_url": "pic.twitter.com/cdu2VMxsEG",
+						"expanded_url": "https://twitter.com/MickFerry/status/1381194618197438464/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1381194618197438500,
+						"source_status_id_str": "1381194618197438464",
+						"source_user_id": 23705701,
+						"source_user_id_str": "23705701"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1381194545929523200,
+						"id_str": "1381194545929523203",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1381194545929523203/pu/img/NhZF73O_O1n9J7WO.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1381194545929523203/pu/img/NhZF73O_O1n9J7WO.jpg",
+						"url": "https://t.co/cdu2VMxsEG",
+						"display_url": "pic.twitter.com/cdu2VMxsEG",
+						"expanded_url": "https://twitter.com/MickFerry/status/1381194618197438464/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1381194618197438500,
+						"source_status_id_str": "1381194618197438464",
+						"source_user_id": 23705701,
+						"source_user_id_str": "23705701",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 139533,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1381194545929523203/pu/vid/320x320/mRUqBlMyb7-1NNgX.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1381194545929523203/pu/pl/pX4PsgtTqCf3kKNq.m3u8?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1381194545929523203/pu/vid/480x480/zByi7WoTJk_rbCbr.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 23705701,
+								"id_str": "23705701",
+								"name": "Mick Ferry",
+								"screen_name": "MickFerry",
+								"location": "Oldham",
+								"description": "https://t.co/y00duOQj6E also if you can spare anything https://t.co/czVbfAd7zt also https://t.co/ber6hg4kZy",
+								"url": "https://t.co/0zuzQ6itj6",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/0zuzQ6itj6",
+												"expanded_url": "http://www.mickferry.co.uk",
+												"display_url": "mickferry.co.uk",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/y00duOQj6E",
+												"expanded_url": "https://m.youtube.com/channel/UCvfXXz-bw7ZObxhN4IABvWw/videos",
+												"display_url": "m.youtube.com/channel/UCvfXX…",
+												"indices": [
+													0,
+													23
+												]
+											},
+											{
+												"url": "https://t.co/czVbfAd7zt",
+												"expanded_url": "http://buymeacoff.ee/MickFerry",
+												"display_url": "buymeacoff.ee/MickFerry",
+												"indices": [
+													55,
+													78
+												]
+											},
+											{
+												"url": "https://t.co/ber6hg4kZy",
+												"expanded_url": "http://paypal.me/mickferry",
+												"display_url": "paypal.me/mickferry",
+												"indices": [
+													84,
+													107
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 11914,
+								"friends_count": 972,
+								"listed_count": 110,
+								"created_at": "Wed Mar 11 02:18:08 +0000 2009",
+								"favourites_count": 20737,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 29826,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1358480585505792004/XcjyJt68_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358480585505792004/XcjyJt68_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/23705701/1558691649",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1264028130,
+				"id_str": "1264028130",
+				"name": "Kevin Eldon",
+				"screen_name": "ItsKevinEldon",
+				"location": "London",
+				"description": "Official account for #TheActorKevinEldon™",
+				"url": "https://t.co/VWv4G6vaso",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VWv4G6vaso",
+								"expanded_url": "http://bit.ly/CBKEldon",
+								"display_url": "bit.ly/CBKEldon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14455,
+				"friends_count": 2103,
+				"listed_count": 74,
+				"created_at": "Wed Mar 13 09:47:11 +0000 2013",
+				"favourites_count": 2339,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1355,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEEEF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1167078675860328453/JASze3Vj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167078675860328453/JASze3Vj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1264028130/1567088215",
+				"profile_link_color": "BF0D2D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Two minutes with Kevin Eldon is more fun that two hours with most comedians. He even manages to get in a bit about consciousness. https://t.co/pI6QggMZxM"
+	},
+	{
+		"created_at": "Fri Dec 03 16:59:17 +0000 2021",
+		"id": 1466791278000152600,
+		"id_str": "1466814304754282499",
+		"full_text": "@keithfrankish If your heartstrings are strong enough, check out Sandy Denny's solo version on the John Peel show. https://t.co/TTN9Yb0BSD",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TTN9Yb0BSD",
+					"expanded_url": "https://www.youtube.com/watch?v=jsqztvHIB9Y",
+					"display_url": "youtube.com/watch?v=jsqztv…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1466781513182322700,
+		"in_reply_to_status_id_str": "1466781513182322697",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 14507705,
+			"id_str": "14507705",
+			"name": "Ragged Clown",
+			"screen_name": "Ragged__Clown",
+			"location": "Bristol, England",
+			"description": "Software Artificer. Used to live in California. Bristol now. Wherever next?",
+			"url": "https://t.co/Mn3ieYUUgV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mn3ieYUUgV",
+							"expanded_url": "http://www.raggedclown.com",
+							"display_url": "raggedclown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 123,
+			"friends_count": 120,
+			"listed_count": 4,
+			"created_at": "Thu Apr 24 06:00:12 +0000 2008",
+			"favourites_count": 4241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/659453371/raggedclown_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/659453371/raggedclown_normal.png",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@keithfrankish If your heartstrings are strong enough, check out Sandy Denny's solo version on the John Peel show. https://t.co/TTN9Yb0BSD"
+	},
+	{
+		"created_at": "Fri Dec 03 14:48:58 +0000 2021",
+		"id": 1466781513182322700,
+		"id_str": "1466781513182322697",
+		"full_text": "Where did it all go? https://t.co/7PDmPpUmTh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7PDmPpUmTh",
+					"expanded_url": "https://www.youtube.com/watch?v=OkOB57UcYk8",
+					"display_url": "youtube.com/watch?v=OkOB57…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18358,
+			"friends_count": 2295,
+			"listed_count": 540,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where did it all go? https://t.co/7PDmPpUmTh"
+	},
+	{
+		"created_at": "Fri Dec 03 14:02:27 +0000 2021",
+		"id": 1466769803377528800,
+		"id_str": "1466769803377528834",
+		"full_text": "A wonderful account of loss and re-creation. “I would say that what is missing is disappointment, criticism, judgment of others—what is missing are all of the dilemmas that made life so difficult” https://t.co/IRMqgj0Xmk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IRMqgj0Xmk",
+					"expanded_url": "https://twitter.com/qualiazombie/status/1466731916690956296",
+					"display_url": "twitter.com/qualiazombie/s…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18358,
+			"friends_count": 2295,
+			"listed_count": 540,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1466731916690956300,
+		"quoted_status_id_str": "1466731916690956296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IRMqgj0Xmk",
+			"expanded": "https://twitter.com/qualiazombie/status/1466731916690956296",
+			"display": "twitter.com/qualiazombie/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 03 11:31:54 +0000 2021",
+			"id": 1466731916690956300,
+			"id_str": "1466731916690956296",
+			"full_text": "@jos_b_mahoney This is fascinating cog-sci-wise: “It could be that traces of Martino’s identity left after the surgery were bound up with his procedural memory for guitar-playing.” \n\nHe lost 70% of his temporal lobe. \n\nBrain Damage Saved His Music - https://t.co/yTBEUBTqTd",
+			"truncated": false,
+			"display_text_range": [
+				15,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jos_b_mahoney",
+						"name": "joe mahoney",
+						"id": 1429966370205323300,
+						"id_str": "1429966370205323267",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yTBEUBTqTd",
+						"expanded_url": "http://m.nautil.us/issue/20/creativity/brain-damage-saved-his-music",
+						"display_url": "m.nautil.us/issue/20/creat…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1466547790251643000,
+			"in_reply_to_status_id_str": "1466547790251642883",
+			"in_reply_to_user_id": 1429966370205323300,
+			"in_reply_to_user_id_str": "1429966370205323267",
+			"in_reply_to_screen_name": "jos_b_mahoney",
+			"user": {
+				"id": 992146303814684700,
+				"id_str": "992146303814684680",
+				"name": "Sean Crawford",
+				"screen_name": "qualiazombie",
+				"location": "Manchester, England",
+				"description": "Philosopher of mind & language at Univ of Manchester | from Deep Cove, North Van | I was the shadow of the waxwing slain by the false azure in the windowpane",
+				"url": "https://t.co/bhENnTVMii",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bhENnTVMii",
+								"expanded_url": "https://philpeople.org/profiles/sean-crawford",
+								"display_url": "philpeople.org/profiles/sean-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1374,
+				"friends_count": 963,
+				"listed_count": 20,
+				"created_at": "Thu May 03 20:58:06 +0000 2018",
+				"favourites_count": 11176,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8573,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1354569092141879297/YbHv4Yks_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354569092141879297/YbHv4Yks_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992146303814684680/1611791383",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A wonderful account of loss and re-creation. “I would say that what is missing is disappointment, criticism, judgment of others—what is missing are all of the dilemmas that made life so difficult” https://t.co/IRMqgj0Xmk"
+	},
+	{
+		"created_at": "Fri Dec 03 12:47:30 +0000 2021",
+		"id": 1466750944012652500,
+		"id_str": "1466750944012652550",
+		"full_text": "Jenny Agutter talking about David Gulpilil, who died this week. https://t.co/4lFJytwK8i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4lFJytwK8i",
+					"expanded_url": "https://youtu.be/3JHjmTXbc3w",
+					"display_url": "youtu.be/3JHjmTXbc3w",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18358,
+			"friends_count": 2295,
+			"listed_count": 540,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jenny Agutter talking about David Gulpilil, who died this week. https://t.co/4lFJytwK8i"
+	},
+	{
 		"created_at": "Thu Dec 02 23:45:27 +0000 2021",
 		"id": 1466554134480363500,
 		"id_str": "1466554134480363522",
