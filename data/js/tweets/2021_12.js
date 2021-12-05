@@ -1,6 +1,1122 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 23:22:21 +0000 2021",
+		"id": 1467273095392206800,
+		"id_str": "1467273095392206849",
+		"full_text": "Behold superiority! https://t.co/gmWUnCYTVl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gmWUnCYTVl",
+					"expanded_url": "https://www.youtube.com/watch?v=RXUQ00YsArY",
+					"display_url": "youtube.com/watch?v=RXUQ00…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18366,
+			"friends_count": 2294,
+			"listed_count": 542,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Behold superiority! https://t.co/gmWUnCYTVl"
+	},
+	{
+		"created_at": "Sat Dec 04 22:48:57 +0000 2021",
+		"id": 1467264690904572000,
+		"id_str": "1467264690904571907",
+		"full_text": "Illusory sky columns https://t.co/cYfZMr3TMJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cYfZMr3TMJ",
+					"expanded_url": "https://twitter.com/Mikeachim/status/1466763517487370246",
+					"display_url": "twitter.com/Mikeachim/stat…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18366,
+			"friends_count": 2294,
+			"listed_count": 542,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1466763517487370200,
+		"quoted_status_id_str": "1466763517487370246",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cYfZMr3TMJ",
+			"expanded": "https://twitter.com/Mikeachim/status/1466763517487370246",
+			"display": "twitter.com/Mikeachim/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 03 13:37:28 +0000 2021",
+			"id": 1466763517487370200,
+			"id_str": "1466763517487370246",
+			"full_text": "In January of this year, photos started bouncing round the internet of this deeply weird thing happening in the sky above Glasgow. Photoshop trickery?\n\nThe bizarre truth: \n- yes, everyone really saw these\n- no, they're not faked or manmade\n- they absolutely don't exist.\n\n🧵\n\n1/ https://t.co/EMVFsTaplz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1466761880215732200,
+						"id_str": "1466761880215732234",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FFr8KKhXwAo7_Ac.png",
+						"media_url_https": "https://pbs.twimg.com/media/FFr8KKhXwAo7_Ac.png",
+						"url": "https://t.co/EMVFsTaplz",
+						"display_url": "pic.twitter.com/EMVFsTaplz",
+						"expanded_url": "https://twitter.com/Mikeachim/status/1466763517487370246/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 810,
+								"h": 539,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 810,
+								"h": 539,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1466761880215732200,
+						"id_str": "1466761880215732234",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FFr8KKhXwAo7_Ac.png",
+						"media_url_https": "https://pbs.twimg.com/media/FFr8KKhXwAo7_Ac.png",
+						"url": "https://t.co/EMVFsTaplz",
+						"display_url": "pic.twitter.com/EMVFsTaplz",
+						"expanded_url": "https://twitter.com/Mikeachim/status/1466763517487370246/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 810,
+								"h": 539,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 810,
+								"h": 539,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14926391,
+				"id_str": "14926391",
+				"name": "Mike Sowden",
+				"screen_name": "Mikeachim",
+				"location": "Orkney/Scotland/Greece",
+				"description": "Writer (on travel & curiosity), Yorkshireman, tedious enthusiast, professional overthinker, tweets big threads. Now: Scotland. Email: hunter.sowden AT Gmail",
+				"url": "https://t.co/CsNzdkGR6P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CsNzdkGR6P",
+								"expanded_url": "https://everythingisamazing.substack.com/about",
+								"display_url": "everythingisamazing.substack.com/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8658,
+				"friends_count": 2247,
+				"listed_count": 516,
+				"created_at": "Tue May 27 22:21:48 +0000 2008",
+				"favourites_count": 14496,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36979,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267823201238659072/iU_Se_qD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267823201238659072/iU_Se_qD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14926391/1636285240",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2263,
+			"favorite_count": 5918,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Illusory sky columns https://t.co/cYfZMr3TMJ"
+	},
+	{
+		"created_at": "Sat Dec 04 22:24:17 +0000 2021",
+		"id": 1467258482755838000,
+		"id_str": "1467258482755837963",
+		"full_text": "This thread makes a very important point. (I'd add that true-believerism can be localized to just one topic and that most of us display it to some degree in some area.) https://t.co/pVRZoQ8f1m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pVRZoQ8f1m",
+					"expanded_url": "https://twitter.com/egavactip/status/1467179728327131142",
+					"display_url": "twitter.com/egavactip/stat…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18366,
+			"friends_count": 2294,
+			"listed_count": 542,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1467179728327131100,
+		"quoted_status_id_str": "1467179728327131142",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pVRZoQ8f1m",
+			"expanded": "https://twitter.com/egavactip/status/1467179728327131142",
+			"display": "twitter.com/egavactip/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 04 17:11:20 +0000 2021",
+			"id": 1467179728327131100,
+			"id_str": "1467179728327131142",
+			"full_text": "I think it's important to understand that for so many true believers [of whatever], it is the conviction itself that comes first, and then facts are selectively chosen (or manipulated) to support the conviction. Presenting an argument against their views will typically result in https://t.co/1txnCGEAR9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1txnCGEAR9",
+						"expanded_url": "https://twitter.com/egavactip/status/1466992623760125962",
+						"display_url": "twitter.com/egavactip/stat…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87788695,
+				"id_str": "87788695",
+				"name": "Mark Pitcavage",
+				"screen_name": "egavactip",
+				"location": "Ohio",
+				"description": "Senior Research Fellow, Center on Extremism, Anti-Defamation League. Expert on right-wing extremism.  Views expressed here my own only. Retweets not my views.",
+				"url": "https://t.co/sCNM0hGZ5L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCNM0hGZ5L",
+								"expanded_url": "http://www.adl.org",
+								"display_url": "adl.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39723,
+				"friends_count": 4674,
+				"listed_count": 584,
+				"created_at": "Thu Nov 05 21:33:24 +0000 2009",
+				"favourites_count": 111246,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 70206,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/589180246051540992/qUtWvoE9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/589180246051540992/qUtWvoE9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87788695/1522807990",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1466992623760126000,
+			"quoted_status_id_str": "1466992623760125962",
+			"quoted_status_permalink": {
+				"url": "https://t.co/1txnCGEAR9",
+				"expanded": "https://twitter.com/egavactip/status/1466992623760125962",
+				"display": "twitter.com/egavactip/stat…"
+			},
+			"retweet_count": 17,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This thread makes a very important point. (I'd add that true-believerism can be localized to just one topic and that most of us display it to some degree in some area.) https://t.co/pVRZoQ8f1m"
+	},
+	{
+		"created_at": "Sat Dec 04 22:16:48 +0000 2021",
+		"id": 1467184302760894500,
+		"id_str": "1467256601455349767",
+		"full_text": "\"Research\" does not mean the same thing for the conspiracy-minded that it does for most others. Such a person encounters a theory--like 9/11 or flat earth or JFK assassinations--and becomes immediately attracted to it. They then naturally look for more materials like the initial",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87788695,
+			"id_str": "87788695",
+			"name": "Mark Pitcavage",
+			"screen_name": "egavactip",
+			"location": "Ohio",
+			"description": "Senior Research Fellow, Center on Extremism, Anti-Defamation League. Expert on right-wing extremism.  Views expressed here my own only. Retweets not my views.",
+			"url": "https://t.co/sCNM0hGZ5L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sCNM0hGZ5L",
+							"expanded_url": "http://www.adl.org",
+							"display_url": "adl.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39723,
+			"friends_count": 4674,
+			"listed_count": 584,
+			"created_at": "Thu Nov 05 21:33:24 +0000 2009",
+			"favourites_count": 111246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 70206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/589180246051540992/qUtWvoE9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/589180246051540992/qUtWvoE9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87788695/1522807990",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"Research\" does not mean the same thing for the conspiracy-minded that it does for most others. Such a person encounters a theory--like 9/11 or flat earth or JFK assassinations--and becomes immediately attracted to it. They then naturally look for more materials like the initial"
+	},
+	{
+		"created_at": "Sat Dec 04 19:15:33 +0000 2021",
+		"id": 1467091712447291400,
+		"id_str": "1467210987124232194",
+		"full_text": "Je sollicite l’aide de Monsieur STÉPHANE BERN de La Défense du Patrimoine, d’empêcher la destruction de ce joli petit théâtre de la Comedia d’ell’arte, 17 rue de la Gaieté à Paris. Il faut absolument le laisser et même faire un salon de thé avec des Musiciens https://t.co/dVBLqjKOrS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467091707581845500,
+					"id_str": "1467091707581845504",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FFwoIpNWUAA8Uo8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFwoIpNWUAA8Uo8.jpg",
+					"url": "https://t.co/dVBLqjKOrS",
+					"display_url": "pic.twitter.com/dVBLqjKOrS",
+					"expanded_url": "https://twitter.com/MGenevet/status/1467091712447291397/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467091707581845500,
+					"id_str": "1467091707581845504",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FFwoIpNWUAA8Uo8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFwoIpNWUAA8Uo8.jpg",
+					"url": "https://t.co/dVBLqjKOrS",
+					"display_url": "pic.twitter.com/dVBLqjKOrS",
+					"expanded_url": "https://twitter.com/MGenevet/status/1467091712447291397/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2407471587,
+			"id_str": "2407471587",
+			"name": "Martine genevet",
+			"screen_name": "MGenevet",
+			"location": "Dijon, Cote-d’Or , France !",
+			"description": "Musicienne ! j’ aime la Peinture, Yannick Nezet-Seguin , Jérémie Rhorer, Joseph Calleja, Venise, le Patrimoine, Eric Lederhandler , Monet, Renoir !",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5701,
+			"friends_count": 5234,
+			"listed_count": 57,
+			"created_at": "Thu Mar 13 12:57:51 +0000 2014",
+			"favourites_count": 174161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465856093070970882/iuzNNJPI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465856093070970882/iuzNNJPI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2407471587/1602663966",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 279,
+		"favorite_count": 762,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Je sollicite l’aide de Monsieur STÉPHANE BERN de La Défense du Patrimoine, d’empêcher la destruction de ce joli petit théâtre de la Comedia d’ell’arte, 17 rue de la Gaieté à Paris. Il faut absolument le laisser et même faire un salon de thé avec des Musiciens https://t.co/dVBLqjKOrS"
+	},
+	{
+		"created_at": "Sat Dec 04 13:48:32 +0000 2021",
+		"id": 1303360062665224200,
+		"id_str": "1467128692820385792",
+		"full_text": "Conservative administration. I've written a new anthem for you. You're welcome. https://t.co/XsLXLtde6w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303359859560190000,
+					"id_str": "1303359859560189955",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303359859560189955/pu/img/_MF17YwwcO2XN9Zf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303359859560189955/pu/img/_MF17YwwcO2XN9Zf.jpg",
+					"url": "https://t.co/XsLXLtde6w",
+					"display_url": "pic.twitter.com/XsLXLtde6w",
+					"expanded_url": "https://twitter.com/ItsKevinEldon/status/1303360062665224193/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303359859560190000,
+					"id_str": "1303359859560189955",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303359859560189955/pu/img/_MF17YwwcO2XN9Zf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303359859560189955/pu/img/_MF17YwwcO2XN9Zf.jpg",
+					"url": "https://t.co/XsLXLtde6w",
+					"display_url": "pic.twitter.com/XsLXLtde6w",
+					"expanded_url": "https://twitter.com/ItsKevinEldon/status/1303360062665224193/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 64815,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303359859560189955/pu/vid/480x270/56Eaezo5uFrhDLtx.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303359859560189955/pu/vid/1280x720/AFOPhpcSDG42M0DL.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303359859560189955/pu/vid/640x360/lLgnLKrAax6xjkGI.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1303359859560189955/pu/pl/dzx_Gds3M1AcmH7Z.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1264028130,
+			"id_str": "1264028130",
+			"name": "Kevin Eldon",
+			"screen_name": "ItsKevinEldon",
+			"location": "London",
+			"description": "Official account for #TheActorKevinEldon™",
+			"url": "https://t.co/VWv4G6vaso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VWv4G6vaso",
+							"expanded_url": "http://bit.ly/CBKEldon",
+							"display_url": "bit.ly/CBKEldon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14458,
+			"friends_count": 2103,
+			"listed_count": 74,
+			"created_at": "Wed Mar 13 09:47:11 +0000 2013",
+			"favourites_count": 2339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167078675860328453/JASze3Vj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167078675860328453/JASze3Vj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1264028130/1567088215",
+			"profile_link_color": "BF0D2D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Conservative administration. I've written a new anthem for you. You're welcome. https://t.co/XsLXLtde6w"
+	},
+	{
 		"created_at": "Fri Dec 03 23:18:46 +0000 2021",
 		"id": 1466909806804021200,
 		"id_str": "1466909806804021248",
