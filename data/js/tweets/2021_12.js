@@ -1,6 +1,955 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 23:18:15 +0000 2021",
+		"id": 1470425277935272000,
+		"id_str": "1470533555637915648",
+		"full_text": "Join us for the 𝗡𝗲𝘂𝗿𝗼𝘀𝗰𝗶𝗲𝗻𝗰𝗲 &amp; 𝗣𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝘆 𝗦𝗮𝗹𝗼𝗻 with William Bechtel discussing his new book with Linus Huang: cortico-centric views, mechanisms, heterarchical control, and lots more!\nFriday, Dec 17, at 12 pm EST-US\nhttps://t.co/JUmYNygrn4 https://t.co/ox1iCuCQrw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JUmYNygrn4",
+					"expanded_url": "https://umd.zoom.us/j/2741999816?pwd=WkU3S1c4UGhvY0lsTlA2LzByVjdWdz09",
+					"display_url": "umd.zoom.us/j/2741999816?p…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470423745487589400,
+					"id_str": "1470423745487589384",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/FGf-mxsWUAg9_ND.png",
+					"media_url_https": "https://pbs.twimg.com/media/FGf-mxsWUAg9_ND.png",
+					"url": "https://t.co/ox1iCuCQrw",
+					"display_url": "pic.twitter.com/ox1iCuCQrw",
+					"expanded_url": "https://twitter.com/PessoaBrain/status/1470425277935271945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 372,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 318,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470423745487589400,
+					"id_str": "1470423745487589384",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/FGf-mxsWUAg9_ND.png",
+					"media_url_https": "https://pbs.twimg.com/media/FGf-mxsWUAg9_ND.png",
+					"url": "https://t.co/ox1iCuCQrw",
+					"display_url": "pic.twitter.com/ox1iCuCQrw",
+					"expanded_url": "https://twitter.com/PessoaBrain/status/1470425277935271945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 372,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 318,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38265389,
+			"id_str": "38265389",
+			"name": "Luiz Pessoa",
+			"screen_name": "PessoaBrain",
+			"location": "University of Maryland",
+			"description": "Mentored by Leslie Ungerleider; Emotion+cognition=interactions and integrat; data+stats; philosophy/foundational issues; networks\nhttps://t.co/eR0cHKXrbq",
+			"url": "https://t.co/KzZ6ZD3NNQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KzZ6ZD3NNQ",
+							"expanded_url": "http://lce.umd.edu/",
+							"display_url": "lce.umd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eR0cHKXrbq",
+							"expanded_url": "http://cognitionemotion.wordpress.com",
+							"display_url": "cognitionemotion.wordpress.com",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6825,
+			"friends_count": 841,
+			"listed_count": 76,
+			"created_at": "Wed May 06 20:14:33 +0000 2009",
+			"favourites_count": 9921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1338247681890791431/kMQkRTDB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1338247681890791431/kMQkRTDB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38265389/1598398214",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us for the 𝗡𝗲𝘂𝗿𝗼𝘀𝗰𝗶𝗲𝗻𝗰𝗲 &amp; 𝗣𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝘆 𝗦𝗮𝗹𝗼𝗻 with William Bechtel discussing his new book with Linus Huang: cortico-centric views, mechanisms, heterarchical control, and lots more!\nFriday, Dec 17, at 12 pm EST-US\nhttps://t.co/JUmYNygrn4 https://t.co/ox1iCuCQrw"
+	},
+	{
+		"created_at": "Mon Dec 13 20:40:34 +0000 2021",
+		"id": 1470493874380497000,
+		"id_str": "1470493874380496897",
+		"full_text": "@sentientism @Philip_Goff Good question!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sentientism",
+					"name": "@Sentientism",
+					"id": 1012063120607645700,
+					"id_str": "1012063120607645697",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1470492860206227500,
+		"in_reply_to_status_id_str": "1470492860206227463",
+		"in_reply_to_user_id": 1012063120607645700,
+		"in_reply_to_user_id_str": "1012063120607645697",
+		"in_reply_to_screen_name": "sentientism",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18475,
+			"friends_count": 2296,
+			"listed_count": 542,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sentientism @Philip_Goff Good question!"
+	},
+	{
+		"created_at": "Mon Dec 13 20:31:52 +0000 2021",
+		"id": 1470491683842318300,
+		"id_str": "1470491683842318350",
+		"full_text": "Bertrand Russell on his meeting with Vladimir Lenin in 1920 - YouTube - https://t.co/ORwaIVU0Xw on @youtube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ORwaIVU0Xw",
+					"expanded_url": "https://www.youtube.com/watch?v=6TK9c-caEcw",
+					"display_url": "youtube.com/watch?v=6TK9c-…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18475,
+			"friends_count": 2296,
+			"listed_count": 542,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bertrand Russell on his meeting with Vladimir Lenin in 1920 - YouTube - https://t.co/ORwaIVU0Xw on @youtube"
+	},
+	{
+		"created_at": "Mon Dec 13 19:45:59 +0000 2021",
+		"id": 1470480136340488200,
+		"id_str": "1470480136340488202",
+		"full_text": "@ClaytonBurnsPhD @Dowellenough PEI, Greenland, Svalbard.  \nBut Heraklion's pretty nice, too.",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClaytonBurnsPhD",
+					"name": "Clayton Burns",
+					"id": 1036689644555886600,
+					"id_str": "1036689644555886597",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Dowellenough",
+					"name": "Julien Burcher",
+					"id": 1010898326,
+					"id_str": "1010898326",
+					"indices": [
+						17,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1470475755075387400,
+		"in_reply_to_status_id_str": "1470475755075387392",
+		"in_reply_to_user_id": 1036689644555886600,
+		"in_reply_to_user_id_str": "1036689644555886597",
+		"in_reply_to_screen_name": "ClaytonBurnsPhD",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18475,
+			"friends_count": 2296,
+			"listed_count": 542,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ClaytonBurnsPhD @Dowellenough PEI, Greenland, Svalbard.  \nBut Heraklion's pretty nice, too."
+	},
+	{
+		"created_at": "Mon Dec 13 19:43:21 +0000 2021",
+		"id": 1470479473451622400,
+		"id_str": "1470479473451622404",
+		"full_text": "@Dowellenough Yes, there is that",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dowellenough",
+					"name": "Julien Burcher",
+					"id": 1010898326,
+					"id_str": "1010898326",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1470475574116294700,
+		"in_reply_to_status_id_str": "1470475574116294662",
+		"in_reply_to_user_id": 1010898326,
+		"in_reply_to_user_id_str": "1010898326",
+		"in_reply_to_screen_name": "Dowellenough",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18475,
+			"friends_count": 2296,
+			"listed_count": 542,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dowellenough Yes, there is that"
+	},
+	{
+		"created_at": "Mon Dec 13 19:22:16 +0000 2021",
+		"id": 1470474167543812000,
+		"id_str": "1470474167543812102",
+		"full_text": "@Dowellenough With a warm house and a fast internet connection, I'd be fine there!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dowellenough",
+					"name": "Julien Burcher",
+					"id": 1010898326,
+					"id_str": "1010898326",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1470440139956670500,
+		"in_reply_to_status_id_str": "1470440139956670482",
+		"in_reply_to_user_id": 1010898326,
+		"in_reply_to_user_id_str": "1010898326",
+		"in_reply_to_screen_name": "Dowellenough",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18475,
+			"friends_count": 2296,
+			"listed_count": 542,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dowellenough With a warm house and a fast internet connection, I'd be fine there!"
+	},
+	{
+		"created_at": "Mon Dec 13 12:50:23 +0000 2021",
+		"id": 1470375547205210000,
+		"id_str": "1470375547205210118",
+		"full_text": "@BugRib @Philip_Goff https://t.co/wxiM5N11EF (I'm  De Niro)",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BugRib",
+					"name": "Your Everyday Anti-Physicalist Atheist",
+					"id": 2903956134,
+					"id_str": "2903956134",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wxiM5N11EF",
+					"expanded_url": "https://www.youtube.com/watch?v=1bQSOBJCPQE",
+					"display_url": "youtube.com/watch?v=1bQSOB…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1470374704783396900,
+		"in_reply_to_status_id_str": "1470374704783396866",
+		"in_reply_to_user_id": 2903956134,
+		"in_reply_to_user_id_str": "2903956134",
+		"in_reply_to_screen_name": "BugRib",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/ojilSvr5XP",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ojilSvr5XP",
+							"expanded_url": "https://www.youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18475,
+			"friends_count": 2296,
+			"listed_count": 542,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 46589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207775707839041538/osgc7L9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BugRib @Philip_Goff https://t.co/wxiM5N11EF (I'm  De Niro)"
+	},
+	{
 		"created_at": "Sun Dec 12 22:16:16 +0000 2021",
 		"id": 1470155569264832500,
 		"id_str": "1470155569264832513",
