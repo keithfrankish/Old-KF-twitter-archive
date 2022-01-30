@@ -1,6 +1,1199 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 29 23:17:50 +0000 2022",
+		"id": 1487565680681566200,
+		"id_str": "1487565680681566209",
+		"full_text": "Tricku Wordle 225 4/6\n\n⬜🟨⬜⬜⬜\n⬜🟩🟩🟩⬜\n⬜🟩🟩🟩⬜\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19497,
+			"friends_count": 2309,
+			"listed_count": 550,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Tricku Wordle 225 4/6\n\n⬜🟨⬜⬜⬜\n⬜🟩🟩🟩⬜\n⬜🟩🟩🟩⬜\n🟩🟩🟩🟩🟩"
+	},
+	{
+		"created_at": "Sat Jan 29 21:57:42 +0000 2022",
+		"id": 1487545513343864800,
+		"id_str": "1487545513343864838",
+		"full_text": "@NeuroYogacara Proud to be in there!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeuroYogacara",
+					"name": "👻 B 👻",
+					"id": 131644899,
+					"id_str": "131644899",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1487530996031316000,
+		"in_reply_to_status_id_str": "1487530996031315968",
+		"in_reply_to_user_id": 131644899,
+		"in_reply_to_user_id_str": "131644899",
+		"in_reply_to_screen_name": "NeuroYogacara",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19497,
+			"friends_count": 2309,
+			"listed_count": 550,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NeuroYogacara Proud to be in there!"
+	},
+	{
+		"created_at": "Sat Jan 29 21:53:34 +0000 2022",
+		"id": 1487544475735974000,
+		"id_str": "1487544475735973889",
+		"full_text": "This is no programmed world of matter shorn;\n'Tis base reality, and we base born",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19497,
+			"friends_count": 2309,
+			"listed_count": 550,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "This is no programmed world of matter shorn;\n'Tis base reality, and we base born"
+	},
+	{
+		"created_at": "Sat Jan 29 21:15:58 +0000 2022",
+		"id": 1487535010152435700,
+		"id_str": "1487535010152435712",
+		"full_text": "I'm amused by the notion of 'base reality' in discussions of the simulation hypothesis. It sounds so Shakesperean. \nFie, base reality, thy world I shun\nTo live my life under a virt'al sun",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19497,
+			"friends_count": 2309,
+			"listed_count": 550,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I'm amused by the notion of 'base reality' in discussions of the simulation hypothesis. It sounds so Shakesperean. \nFie, base reality, thy world I shun\nTo live my life under a virt'al sun"
+	},
+	{
+		"created_at": "Sat Jan 29 19:30:24 +0000 2022",
+		"id": 1487420160159977500,
+		"id_str": "1487508446643724294",
+		"full_text": "If anyone has any interest in my travels around the mysterious, mythical, Greek-speaking bit of Italy...\nI've written about them here...\nhttps://t.co/zWWyMxUQU2\n\n#Griko #MaganGrecia https://t.co/ULziagqfPT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Griko",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "MaganGrecia",
+					"indices": [
+						169,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zWWyMxUQU2",
+					"expanded_url": "https://worldofkemp.wordpress.com/griko/",
+					"display_url": "worldofkemp.wordpress.com/griko/",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/ULziagqfPT",
+					"expanded_url": "https://twitter.com/WorldofKemp/status/1444709507695792137",
+					"display_url": "twitter.com/WorldofKemp/st…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216684708,
+			"id_str": "216684708",
+			"name": "Alex Kemp",
+			"screen_name": "WorldofKemp",
+			"location": "",
+			"description": "Written a couple of books...\n'Here is Greece'\nhttps://t.co/4peaNAyIXo\nand 'There was Britain'\nhttps://t.co/lbK5f6YmnG",
+			"url": "https://t.co/DrYIMxj8Xh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DrYIMxj8Xh",
+							"expanded_url": "http://worldofkemp.wordpress.com",
+							"display_url": "worldofkemp.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4peaNAyIXo",
+							"expanded_url": "http://amzn.to/32PIIfD",
+							"display_url": "amzn.to/32PIIfD",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/lbK5f6YmnG",
+							"expanded_url": "http://amzn.to/2ToLkji",
+							"display_url": "amzn.to/2ToLkji",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 515,
+			"friends_count": 378,
+			"listed_count": 19,
+			"created_at": "Wed Nov 17 12:54:32 +0000 2010",
+			"favourites_count": 1041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1399825395134963712/JAOQCJlH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399825395134963712/JAOQCJlH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216684708/1518447914",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1444709507695792000,
+		"quoted_status_id_str": "1444709507695792137",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ULziagqfPT",
+			"expanded": "https://twitter.com/WorldofKemp/status/1444709507695792137",
+			"display": "twitter.com/WorldofKemp/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 03 17:02:42 +0000 2021",
+			"id": 1444709507695792000,
+			"id_str": "1444709507695792137",
+			"full_text": "I'm in Italy - or am I? - again...\n\nThis time I've come to the Greek villages on the other side of southern Italy, in the heel, Grecia Salentina.\nAnother fascinating area where the people have kept their roots from ancient Greek times. https://t.co/AM0jiApQIj https://t.co/M3Dnt9ctz8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AM0jiApQIj",
+						"expanded_url": "https://twitter.com/WorldofKemp/status/1311996383147241472",
+						"display_url": "twitter.com/WorldofKemp/st…",
+						"indices": [
+							236,
+							259
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1444709498229305300,
+						"id_str": "1444709498229305346",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/FAyjol2XMAIpBTz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAyjol2XMAIpBTz.jpg",
+						"url": "https://t.co/M3Dnt9ctz8",
+						"display_url": "pic.twitter.com/M3Dnt9ctz8",
+						"expanded_url": "https://twitter.com/WorldofKemp/status/1444709507695792137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1350,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1444709498229305300,
+						"id_str": "1444709498229305346",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/FAyjol2XMAIpBTz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAyjol2XMAIpBTz.jpg",
+						"url": "https://t.co/M3Dnt9ctz8",
+						"display_url": "pic.twitter.com/M3Dnt9ctz8",
+						"expanded_url": "https://twitter.com/WorldofKemp/status/1444709507695792137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1350,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1444709504701149200,
+						"id_str": "1444709504701149185",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/FAyjo99XsAE8KSo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAyjo99XsAE8KSo.jpg",
+						"url": "https://t.co/M3Dnt9ctz8",
+						"display_url": "pic.twitter.com/M3Dnt9ctz8",
+						"expanded_url": "https://twitter.com/WorldofKemp/status/1444709507695792137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216684708,
+				"id_str": "216684708",
+				"name": "Alex Kemp",
+				"screen_name": "WorldofKemp",
+				"location": "",
+				"description": "Written a couple of books...\n'Here is Greece'\nhttps://t.co/4peaNAyIXo\nand 'There was Britain'\nhttps://t.co/lbK5f6YmnG",
+				"url": "https://t.co/DrYIMxj8Xh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DrYIMxj8Xh",
+								"expanded_url": "http://worldofkemp.wordpress.com",
+								"display_url": "worldofkemp.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4peaNAyIXo",
+								"expanded_url": "http://amzn.to/32PIIfD",
+								"display_url": "amzn.to/32PIIfD",
+								"indices": [
+									46,
+									69
+								]
+							},
+							{
+								"url": "https://t.co/lbK5f6YmnG",
+								"expanded_url": "http://amzn.to/2ToLkji",
+								"display_url": "amzn.to/2ToLkji",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 515,
+				"friends_count": 378,
+				"listed_count": 19,
+				"created_at": "Wed Nov 17 12:54:32 +0000 2010",
+				"favourites_count": 1041,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1032,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1399825395134963712/JAOQCJlH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399825395134963712/JAOQCJlH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216684708/1518447914",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1311996383147241500,
+			"quoted_status_id_str": "1311996383147241472",
+			"quoted_status_permalink": {
+				"url": "https://t.co/AM0jiApQIj",
+				"expanded": "https://twitter.com/WorldofKemp/status/1311996383147241472",
+				"display": "twitter.com/WorldofKemp/st…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If anyone has any interest in my travels around the mysterious, mythical, Greek-speaking bit of Italy...\nI've written about them here...\nhttps://t.co/zWWyMxUQU2\n\n#Griko #MaganGrecia https://t.co/ULziagqfPT"
+	},
+	{
+		"created_at": "Sat Jan 29 18:17:07 +0000 2022",
+		"id": 1487490004309921800,
+		"id_str": "1487490004309921799",
+		"full_text": "@timcrane102 @Philip_Goff @philosopher1923 Yes, it's a lovely book -- clearly written, full of good examples, without a hint of pomposity, and driven by a desire to answer some big questions. A great advertisement for, and introduction to, philosophy.",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timcrane102",
+					"name": "Tim Crane",
+					"id": 235652202,
+					"id_str": "235652202",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "philosopher1923",
+					"name": "The Philosopher",
+					"id": 1098694317764460500,
+					"id_str": "1098694317764460544",
+					"indices": [
+						26,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1487488629379420200,
+		"in_reply_to_status_id_str": "1487488629379420164",
+		"in_reply_to_user_id": 235652202,
+		"in_reply_to_user_id_str": "235652202",
+		"in_reply_to_screen_name": "timcrane102",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19497,
+			"friends_count": 2309,
+			"listed_count": 550,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timcrane102 @Philip_Goff @philosopher1923 Yes, it's a lovely book -- clearly written, full of good examples, without a hint of pomposity, and driven by a desire to answer some big questions. A great advertisement for, and introduction to, philosophy."
+	},
+	{
+		"created_at": "Sat Jan 29 14:30:16 +0000 2022",
+		"id": 1487422693272338400,
+		"id_str": "1487432912085598221",
+		"full_text": "The Acropolis Museum in Athens  is simply stunning in the snow. #Athens #Parthenon #Acropolis #AcropolisMuseum #Snowfall #elpida (📷by Katerina Katopis-Lykiardopulo) https://t.co/LzoH6gC4w0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Athens",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "Parthenon",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"text": "Acropolis",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "AcropolisMuseum",
+					"indices": [
+						94,
+						110
+					]
+				},
+				{
+					"text": "Snowfall",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "elpida",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1487422686053933000,
+					"id_str": "1487422686053933056",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FKRjDWEaIAAQsCC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKRjDWEaIAAQsCC.jpg",
+					"url": "https://t.co/LzoH6gC4w0",
+					"display_url": "pic.twitter.com/LzoH6gC4w0",
+					"expanded_url": "https://twitter.com/VardasGeorge/status/1487422693272338432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1172,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1487422686053933000,
+					"id_str": "1487422686053933056",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FKRjDWEaIAAQsCC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKRjDWEaIAAQsCC.jpg",
+					"url": "https://t.co/LzoH6gC4w0",
+					"display_url": "pic.twitter.com/LzoH6gC4w0",
+					"expanded_url": "https://twitter.com/VardasGeorge/status/1487422693272338432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1172,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3134729586,
+			"id_str": "3134729586",
+			"name": "George Vardas",
+			"screen_name": "VardasGeorge",
+			"location": "Sydney Australia",
+			"description": "Fmr Sec International Association for Reunification of Parthenon Sculptures. Secretary Australian Hellenic Council. Cultural heritage writer. AEK Athens tragic",
+			"url": "https://t.co/sar5PiJlMR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sar5PiJlMR",
+							"expanded_url": "http://parthenonsculptures.blogspot.com.au",
+							"display_url": "parthenonsculptures.blogspot.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2022,
+			"friends_count": 1826,
+			"listed_count": 66,
+			"created_at": "Fri Apr 03 08:46:48 +0000 2015",
+			"favourites_count": 46923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/808929149846949888/8kT0XMa__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/808929149846949888/8kT0XMa__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3134729586/1431843977",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Acropolis Museum in Athens  is simply stunning in the snow. #Athens #Parthenon #Acropolis #AcropolisMuseum #Snowfall #elpida (📷by Katerina Katopis-Lykiardopulo) https://t.co/LzoH6gC4w0"
+	},
+	{
 		"created_at": "Fri Jan 28 22:35:02 +0000 2022",
 		"id": 1487107599841456000,
 		"id_str": "1487192521935572994",
@@ -25,7 +1218,7 @@ Grailbird.data.tweets_2022_01 =
 		"user": {
 			"id": 932805374,
 			"id_str": "932805374",
-			"name": "KordingLab 👨‍💻🧠∇🔬📈,🏋️‍♂️⛷️🏂🛹🕺⛰️☕🦖",
+			"name": "KordingLab 👨💻🧠∇🔬📈,🏋️♂️⛷️🏂🛹🕺⛰️☕🦖",
 			"screen_name": "KordingLab",
 			"location": "Philadelphia, PA",
 			"description": "@Penn Prof, deep learning, brains, #causality, data teaching, https://t.co/tTJW05zI12, Physicist, Collaborator, Transdisciplinary optimist, Dad, Loves outdoors, 🦖",
