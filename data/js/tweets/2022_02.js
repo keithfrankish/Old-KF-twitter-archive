@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 01:55:47 +0000 2022",
+		"id": 1489054981034553300,
+		"id_str": "1489054981034553346",
+		"full_text": "@danielfromearth @robotsneedpoems @LocoQf We can rule out the hypothesis that a stone is aware of things for the same reason we can rule out the hypothesis that it breathes -- viz that it doesn't have the structures required to support the process.",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danielfromearth",
+					"name": "daniel",
+					"id": 1112875069141741600,
+					"id_str": "1112875069141741568",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "robotsneedpoems",
+					"name": "poems for robots",
+					"id": 1172576241729364000,
+					"id_str": "1172576241729363968",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "LocoQf",
+					"name": "No Saint…",
+					"id": 1267945258207318000,
+					"id_str": "1267945258207318017",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1489052776759902200,
+		"in_reply_to_status_id_str": "1489052776759902211",
+		"in_reply_to_user_id": 1112875069141741600,
+		"in_reply_to_user_id_str": "1112875069141741568",
+		"in_reply_to_screen_name": "danielfromearth",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19563,
+			"friends_count": 2310,
+			"listed_count": 550,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@danielfromearth @robotsneedpoems @LocoQf We can rule out the hypothesis that a stone is aware of things for the same reason we can rule out the hypothesis that it breathes -- viz that it doesn't have the structures required to support the process."
+	},
+	{
 		"created_at": "Wed Feb 02 23:47:52 +0000 2022",
 		"id": 1489022789910769700,
 		"id_str": "1489022789910769668",
