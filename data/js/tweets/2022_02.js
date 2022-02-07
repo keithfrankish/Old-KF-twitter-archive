@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 01:05:19 +0000 2022",
+		"id": 1490350854184046600,
+		"id_str": "1490491832299577347",
+		"full_text": "@Nature @NewStatesman Support for eugenics was widespread though not universal. GK Chesterton saw it as a great evil on the poor, and campaigned against it for years. Here he is citing Dickens in his defence. https://t.co/wjoWPLd7wg",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nature",
+					"name": "nature",
+					"id": 15862891,
+					"id_str": "15862891",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "NewStatesman",
+					"name": "The New Statesman",
+					"id": 19906615,
+					"id_str": "19906615",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490350622700408800,
+					"id_str": "1490350622700408837",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FK7J_sDXEAURs0s.png",
+					"media_url_https": "https://pbs.twimg.com/media/FK7J_sDXEAURs0s.png",
+					"url": "https://t.co/wjoWPLd7wg",
+					"display_url": "pic.twitter.com/wjoWPLd7wg",
+					"expanded_url": "https://twitter.com/AdamRutherford/status/1490350854184046593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 778,
+							"h": 458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 778,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490350622700408800,
+					"id_str": "1490350622700408837",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FK7J_sDXEAURs0s.png",
+					"media_url_https": "https://pbs.twimg.com/media/FK7J_sDXEAURs0s.png",
+					"url": "https://t.co/wjoWPLd7wg",
+					"display_url": "pic.twitter.com/wjoWPLd7wg",
+					"expanded_url": "https://twitter.com/AdamRutherford/status/1490350854184046593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 778,
+							"h": 458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 778,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490350845694775300,
+					"id_str": "1490350845694775299",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FK7KMqxXEAMTALx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK7KMqxXEAMTALx.jpg",
+					"url": "https://t.co/wjoWPLd7wg",
+					"display_url": "pic.twitter.com/wjoWPLd7wg",
+					"expanded_url": "https://twitter.com/AdamRutherford/status/1490350854184046593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 582,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 582,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1490350374192095200,
+		"in_reply_to_status_id_str": "1490350374192095235",
+		"in_reply_to_user_id": 22419487,
+		"in_reply_to_user_id_str": "22419487",
+		"in_reply_to_screen_name": "AdamRutherford",
+		"user": {
+			"id": 22419487,
+			"id_str": "22419487",
+			"name": "Dr Adam Rutherford",
+			"screen_name": "AdamRutherford",
+			"location": "",
+			"description": "Back off man, I'm a scientist.  \nControl: the dark history and troubling present of eugenics. Out Feb 3rd 2022 https://t.co/jtTHTQtfqO",
+			"url": "https://t.co/fCvBrvemjh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fCvBrvemjh",
+							"expanded_url": "http://adamrutherford.com",
+							"display_url": "adamrutherford.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jtTHTQtfqO",
+							"expanded_url": "http://smarturl.it/RutherfordControl",
+							"display_url": "smarturl.it/RutherfordCont…",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 138498,
+			"friends_count": 2066,
+			"listed_count": 1659,
+			"created_at": "Sun Mar 01 23:04:31 +0000 2009",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608384474292846592/6HNevMZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608384474292846592/6HNevMZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22419487/1637760531",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Nature @NewStatesman Support for eugenics was widespread though not universal. GK Chesterton saw it as a great evil on the poor, and campaigned against it for years. Here he is citing Dickens in his defence. https://t.co/wjoWPLd7wg"
+	},
+	{
 		"created_at": "Mon Feb 07 00:19:07 +0000 2022",
 		"id": 1490480205118509000,
 		"id_str": "1490480205118509063",
