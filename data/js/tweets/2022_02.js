@@ -1,6 +1,2601 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 00:28:13 +0000 2022",
+		"id": 1490844885590544400,
+		"id_str": "1490844885590544386",
+		"full_text": "@Anya33440265 Wow!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Anya33440265",
+					"name": "Anya",
+					"id": 1266136466939355100,
+					"id_str": "1266136466939355136",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1490844671878172700,
+		"in_reply_to_status_id_str": "1490844671878172672",
+		"in_reply_to_user_id": 1266136466939355100,
+		"in_reply_to_user_id_str": "1266136466939355136",
+		"in_reply_to_screen_name": "Anya33440265",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@Anya33440265 Wow!"
+	},
+	{
+		"created_at": "Tue Feb 08 00:18:24 +0000 2022",
+		"id": 1490842413690425300,
+		"id_str": "1490842413690425347",
+		"full_text": "Only just Wordle 234 6/6*\n\n⬛⬛⬛⬛⬛\n🟨🟨🟨⬛⬛\n🟨⬛⬛🟨🟨\n🟨🟨⬛🟨⬛\n⬛⬛🟩🟨🟩\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Only just Wordle 234 6/6*\n\n⬛⬛⬛⬛⬛\n🟨🟨🟨⬛⬛\n🟨⬛⬛🟨🟨\n🟨🟨⬛🟨⬛\n⬛⬛🟩🟨🟩\n🟩🟩🟩🟩🟩"
+	},
+	{
+		"created_at": "Mon Feb 07 22:12:22 +0000 2022",
+		"id": 1490810697617449000,
+		"id_str": "1490810697617448963",
+		"full_text": "@ancientnmodern @ellieb334 If it does, you could have a publishing sensation on your hands!",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "Dame VictoriaG Esq (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ellieb334",
+					"name": "Ellie Bartleman",
+					"id": 27707241,
+					"id_str": "27707241",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1490808039158472700,
+		"in_reply_to_status_id_str": "1490808039158472715",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ancientnmodern @ellieb334 If it does, you could have a publishing sensation on your hands!"
+	},
+	{
+		"created_at": "Mon Feb 07 21:56:42 +0000 2022",
+		"id": 1490806754313216000,
+		"id_str": "1490806754313216009",
+		"full_text": "@ancientnmodern @ellieb334 More entries, please! This is gold!",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "Dame VictoriaG Esq (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ellieb334",
+					"name": "Ellie Bartleman",
+					"id": 27707241,
+					"id_str": "27707241",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1490805067657748500,
+		"in_reply_to_status_id_str": "1490805067657748480",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ancientnmodern @ellieb334 More entries, please! This is gold!"
+	},
+	{
+		"created_at": "Mon Feb 07 21:47:04 +0000 2022",
+		"id": 1490804330802434000,
+		"id_str": "1490804330802434052",
+		"full_text": "@annapjudson Μαλακήγηση maybe?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annapjudson",
+					"name": "Dr Anna P. Judson",
+					"id": 987377869214056400,
+					"id_str": "987377869214056448",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1490801665246642200,
+		"in_reply_to_status_id_str": "1490801665246642180",
+		"in_reply_to_user_id": 987377869214056400,
+		"in_reply_to_user_id_str": "987377869214056448",
+		"in_reply_to_screen_name": "annapjudson",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "el",
+		"text": "@annapjudson Μαλακήγηση maybe?"
+	},
+	{
+		"created_at": "Mon Feb 07 20:54:27 +0000 2022",
+		"id": 1490791086637342700,
+		"id_str": "1490791086637342730",
+		"full_text": "@WiringTheBrain @OSFramework @HenryDPotter Looks interesting!",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WiringTheBrain",
+					"name": "Kevin Mitchell",
+					"id": 325719227,
+					"id_str": "325719227",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "OSFramework",
+					"name": "Center for Open Science",
+					"id": 404946566,
+					"id_str": "404946566",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "HenryDPotter",
+					"name": "Henry Potter",
+					"id": 1455104069815705600,
+					"id_str": "1455104069815705603",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1490622464669503500,
+		"in_reply_to_status_id_str": "1490622464669503490",
+		"in_reply_to_user_id": 325719227,
+		"in_reply_to_user_id_str": "325719227",
+		"in_reply_to_screen_name": "WiringTheBrain",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WiringTheBrain @OSFramework @HenryDPotter Looks interesting!"
+	},
+	{
+		"created_at": "Mon Feb 07 20:34:08 +0000 2022",
+		"id": 1490785973319389200,
+		"id_str": "1490785973319389184",
+		"full_text": "I've found the perfect new job for Boris Johnson. https://t.co/75kdjnngVU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/75kdjnngVU",
+					"expanded_url": "https://www.bbc.com/news/uk-england-cumbria-60294853",
+					"display_url": "bbc.com/news/uk-englan…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've found the perfect new job for Boris Johnson. https://t.co/75kdjnngVU"
+	},
+	{
+		"created_at": "Mon Feb 07 20:19:58 +0000 2022",
+		"id": 1490766044948045800,
+		"id_str": "1490782408563732483",
+		"full_text": "This is the world that Boris Johnson wants us all to live in. \nhttps://t.co/IVNdJDRxiD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490754188573294600,
+					"id_str": "1490754188573294595",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1490754188573294595/img/PnGk48B4tG2xfbgW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1490754188573294595/img/PnGk48B4tG2xfbgW.jpg",
+					"url": "https://t.co/IVNdJDRxiD",
+					"display_url": "pic.twitter.com/IVNdJDRxiD",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1490754883724713987/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1490754883724714000,
+					"source_status_id_str": "1490754883724713987",
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490754188573294600,
+					"id_str": "1490754188573294595",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1490754188573294595/img/PnGk48B4tG2xfbgW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1490754188573294595/img/PnGk48B4tG2xfbgW.jpg",
+					"url": "https://t.co/IVNdJDRxiD",
+					"display_url": "pic.twitter.com/IVNdJDRxiD",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1490754883724713987/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1490754883724714000,
+					"source_status_id_str": "1490754883724713987",
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 140874,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1490754188573294595/vid/320x320/OP7GvO5He7z20wVR.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1490754188573294595/pl/mnSZDUvzGNwimB8h.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1490754188573294595/vid/720x720/G2tVTwCfW_r0ENux.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1490754188573294595/vid/540x540/09UDIaxsNbxufNrv.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Starmer chased by mob into police car",
+						"description": "Last week, Boris Johnson parroted a far-right conspiracy about Keir Starmer. \n\nToday, the Labour leader was hounded off the street by a mob shouting about Jimmy Savile. ",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1854580777,
+							"id_str": "1854580777",
+							"name": "JOE",
+							"screen_name": "JOE_co_uk",
+							"location": "United Kingdom",
+							"description": "@FootballJOE - @PoliticsJOE_UK - @SportsJOE_UK - @RugbyJOE_UK",
+							"url": "https://t.co/Icas2ov3WT",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Icas2ov3WT",
+											"expanded_url": "http://JOE.co.uk",
+											"display_url": "JOE.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 229186,
+							"friends_count": 1100,
+							"listed_count": 806,
+							"created_at": "Wed Sep 11 14:50:02 +0000 2013",
+							"favourites_count": 8979,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 124808,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1192034846442438656/sd7Y6qgd_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192034846442438656/sd7Y6qgd_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1854580777/1573571129",
+							"profile_link_color": "FAB81E",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43965658,
+			"id_str": "43965658",
+			"name": "Martin O'Neill",
+			"screen_name": "martin_oneill",
+			"location": "York, UK",
+			"description": "dad of four; professor of political philosophy @UoYPhilosophy @UniOfYork; board member @DemocracyCollab; thinking about how to create a more just society",
+			"url": "https://t.co/C4JPrHJ3zV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C4JPrHJ3zV",
+							"expanded_url": "http://bit.ly/oneillwriting",
+							"display_url": "bit.ly/oneillwriting",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10668,
+			"friends_count": 6848,
+			"listed_count": 158,
+			"created_at": "Mon Jun 01 20:33:14 +0000 2009",
+			"favourites_count": 33414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205784162730467328/81T2aV1u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205784162730467328/81T2aV1u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43965658/1596473907",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the world that Boris Johnson wants us all to live in. \nhttps://t.co/IVNdJDRxiD"
+	},
+	{
+		"created_at": "Mon Feb 07 19:02:19 +0000 2022",
+		"id": 1490762867821490200,
+		"id_str": "1490762867821490185",
+		"full_text": "Did the EU referendum divide the UK or was it more like a microbiological stain that revealed a preexisting division?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Did the EU referendum divide the UK or was it more like a microbiological stain that revealed a preexisting division?"
+	},
+	{
+		"created_at": "Mon Feb 07 14:53:34 +0000 2022",
+		"id": 1490700270275281000,
+		"id_str": "1490700270275280901",
+		"full_text": "In case you need some sun ...  https://t.co/1fjIv9ILKJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1fjIv9ILKJ",
+					"expanded_url": "https://www.youtube.com/watch?v=KQetemT1sWc",
+					"display_url": "youtube.com/watch?v=KQetem…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you need some sun ...  https://t.co/1fjIv9ILKJ"
+	},
+	{
+		"created_at": "Mon Feb 07 14:05:48 +0000 2022",
+		"id": 1490608955894255600,
+		"id_str": "1490688249538482179",
+		"full_text": "Charles Dickens was born #OTD 1812. Children's grave markers clustered by their parents at Cooling, Kent gave him the inspiration for poor Pip's dead brothers in 'Great Expectations'. In fact, they are to members of the wealthy Comport family of Cooling Castle. #MementoMoriMonday https://t.co/8oyXOJ2JKw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OTD",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "MementoMoriMonday",
+					"indices": [
+						262,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490608599546085400,
+					"id_str": "1490608599546085376",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-0n6sWQAAR9oo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-0n6sWQAAR9oo.jpg",
+					"url": "https://t.co/8oyXOJ2JKw",
+					"display_url": "pic.twitter.com/8oyXOJ2JKw",
+					"expanded_url": "https://twitter.com/last_of_england/status/1490608955894255619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1576,
+							"h": 1998,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 947,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490608599546085400,
+					"id_str": "1490608599546085376",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-0n6sWQAAR9oo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-0n6sWQAAR9oo.jpg",
+					"url": "https://t.co/8oyXOJ2JKw",
+					"display_url": "pic.twitter.com/8oyXOJ2JKw",
+					"expanded_url": "https://twitter.com/last_of_england/status/1490608955894255619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1576,
+							"h": 1998,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 947,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490608674859008000,
+					"id_str": "1490608674859008006",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-0sTQWQAYwgaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-0sTQWQAYwgaa.jpg",
+					"url": "https://t.co/8oyXOJ2JKw",
+					"display_url": "pic.twitter.com/8oyXOJ2JKw",
+					"expanded_url": "https://twitter.com/last_of_england/status/1490608955894255619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1982,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490608753472942000,
+					"id_str": "1490608753472942088",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-0w4HXsAg-f3M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-0w4HXsAg-f3M.jpg",
+					"url": "https://t.co/8oyXOJ2JKw",
+					"display_url": "pic.twitter.com/8oyXOJ2JKw",
+					"expanded_url": "https://twitter.com/last_of_england/status/1490608955894255619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2019,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1081921189583482900,
+			"id_str": "1081921189583482881",
+			"name": "Simon Knott",
+			"screen_name": "last_of_england",
+			"location": "East Anglia",
+			"description": "'dust in the air suspended,\nmarks the place where a story ended'",
+			"url": "https://t.co/3u9H9kd455",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3u9H9kd455",
+							"expanded_url": "http://simonknott.co.uk/",
+							"display_url": "simonknott.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5027,
+			"friends_count": 389,
+			"listed_count": 50,
+			"created_at": "Sun Jan 06 14:31:27 +0000 2019",
+			"favourites_count": 34265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354890709875257346/hIe5ZkUu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354890709875257346/hIe5ZkUu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1081921189583482881/1609948297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 213,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Charles Dickens was born #OTD 1812. Children's grave markers clustered by their parents at Cooling, Kent gave him the inspiration for poor Pip's dead brothers in 'Great Expectations'. In fact, they are to members of the wealthy Comport family of Cooling Castle. #MementoMoriMonday https://t.co/8oyXOJ2JKw"
+	},
+	{
+		"created_at": "Mon Feb 07 13:18:05 +0000 2022",
+		"id": 1490676240155652000,
+		"id_str": "1490676240155652102",
+		"full_text": "Well, thanks for that, ancestors. Why couldn't you have stayed in the south? https://t.co/DRuzYkMmBH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DRuzYkMmBH",
+					"expanded_url": "https://twitter.com/Qafzeh/status/1490494016479121408",
+					"display_url": "twitter.com/Qafzeh/status/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490494016479121400,
+		"quoted_status_id_str": "1490494016479121408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DRuzYkMmBH",
+			"expanded": "https://twitter.com/Qafzeh/status/1490494016479121408",
+			"display": "twitter.com/Qafzeh/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 07 01:14:00 +0000 2022",
+			"id": 1490494016479121400,
+			"id_str": "1490494016479121408",
+			"full_text": "The headache of adapting to the cold, literally - Eurasian human populations carry a genetic variant in the gene responsible for cold sensation that is associated with migraine headaches (2018) https://t.co/C0WCOjljEF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/C0WCOjljEF",
+						"expanded_url": "https://www.sciencedaily.com/releases/2018/05/180503142921.htm",
+						"display_url": "sciencedaily.com/releases/2018/…",
+						"indices": [
+							194,
+							217
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 302769804,
+				"id_str": "302769804",
+				"name": "PaleoAnthropology+",
+				"screen_name": "Qafzeh",
+				"location": "Pale Blue Dot",
+				"description": "Human Origins, Hominin Fossils, Biological Anthropology #Evolution #Fossils #HumanEvolution #Science",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52838,
+				"friends_count": 176,
+				"listed_count": 0,
+				"created_at": "Sat May 21 18:35:39 +0000 2011",
+				"favourites_count": 45395,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 53554,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027328002504327168/dcj_J89H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027328002504327168/dcj_J89H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/302769804/1435212208",
+				"profile_link_color": "AE323B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, thanks for that, ancestors. Why couldn't you have stayed in the south? https://t.co/DRuzYkMmBH"
+	},
+	{
+		"created_at": "Mon Feb 07 12:52:48 +0000 2022",
+		"id": 1490669876846936000,
+		"id_str": "1490669876846936067",
+		"full_text": "WORKING CLASS HERO. (Ultimate Mix, 2020) - John Lennon/Plastic Ono Band (official music video HD) - YouTube - https://t.co/WIp7AD87D0 on @youtube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						137,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WIp7AD87D0",
+					"expanded_url": "https://www.youtube.com/watch?v=iMewtlmkV6c",
+					"display_url": "youtube.com/watch?v=iMewtl…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WORKING CLASS HERO. (Ultimate Mix, 2020) - John Lennon/Plastic Ono Band (official music video HD) - YouTube - https://t.co/WIp7AD87D0 on @youtube"
+	},
+	{
+		"created_at": "Mon Feb 07 12:37:42 +0000 2022",
+		"id": 1490666076446892000,
+		"id_str": "1490666076446892032",
+		"full_text": "Nice explanation of the pole-barn-paradox https://t.co/xpop8QRhk2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xpop8QRhk2",
+					"expanded_url": "https://twitter.com/MarkusDeserno/status/1490395909192093701",
+					"display_url": "twitter.com/MarkusDeserno/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19662,
+			"friends_count": 2316,
+			"listed_count": 0,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1640775137",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490395909192093700,
+		"quoted_status_id_str": "1490395909192093701",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xpop8QRhk2",
+			"expanded": "https://twitter.com/MarkusDeserno/status/1490395909192093701",
+			"display": "twitter.com/MarkusDeserno/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 06 18:44:09 +0000 2022",
+			"id": 1490395909192093700,
+			"id_str": "1490395909192093701",
+			"full_text": "🧵 I was in the mood to write another thread on special relativity! Today I hope to introduce you to a very famous puzzle, known as the “pole-barn-paradox”, and its prescription strength version, the “stick-slit-paradox”. Intrigued? Buckle up! https://t.co/sJLDlLIg5Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1490390128736542700,
+						"id_str": "1490390128736542720",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/FK7t7PgXIAAuwpt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FK7t7PgXIAAuwpt.jpg",
+						"url": "https://t.co/sJLDlLIg5Y",
+						"display_url": "pic.twitter.com/sJLDlLIg5Y",
+						"expanded_url": "https://twitter.com/MarkusDeserno/status/1490395909192093701/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 587,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 691,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 691,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1490390128736542700,
+						"id_str": "1490390128736542720",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/FK7t7PgXIAAuwpt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FK7t7PgXIAAuwpt.jpg",
+						"url": "https://t.co/sJLDlLIg5Y",
+						"display_url": "pic.twitter.com/sJLDlLIg5Y",
+						"expanded_url": "https://twitter.com/MarkusDeserno/status/1490395909192093701/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 587,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 691,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 691,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1255479507940671500,
+				"id_str": "1255479507940671491",
+				"name": "Markus Deserno",
+				"screen_name": "MarkusDeserno",
+				"location": "Pittsburgh, PA",
+				"description": "Theoretical and computational biophysicist @CarnegieMellon. Loves lipid membranes. (he/him) 🇩🇪🇺🇸",
+				"url": "https://t.co/uvvJXJLXrG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uvvJXJLXrG",
+								"expanded_url": "https://www.cmu.edu/biolphys/deserno/",
+								"display_url": "cmu.edu/biolphys/deser…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2884,
+				"friends_count": 219,
+				"listed_count": 34,
+				"created_at": "Wed Apr 29 12:50:56 +0000 2020",
+				"favourites_count": 22188,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8024,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1255480532831518722/Cwt00TP5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255480532831518722/Cwt00TP5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1255479507940671491/1588218135",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 283,
+			"favorite_count": 1009,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice explanation of the pole-barn-paradox https://t.co/xpop8QRhk2"
+	},
+	{
+		"created_at": "Mon Feb 07 11:31:42 +0000 2022",
+		"id": 1490647253220233200,
+		"id_str": "1490649465014861830",
+		"full_text": "The amazing dexterity of the cockatoo's tongue https://t.co/RfLD6Rku2y https://t.co/kavU9PplZk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RfLD6Rku2y",
+					"expanded_url": "https://gfycat.com/partialqualifieditalianbrownbear",
+					"display_url": "gfycat.com/partialqualifi…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490647222127849500,
+					"id_str": "1490647222127849474",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1490647222127849474/pu/img/bn23F25SncPfTXZi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1490647222127849474/pu/img/bn23F25SncPfTXZi.jpg",
+					"url": "https://t.co/kavU9PplZk",
+					"display_url": "pic.twitter.com/kavU9PplZk",
+					"expanded_url": "https://twitter.com/SteveStuWill/status/1490647253220233216/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 338,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 338,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 338,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490647222127849500,
+					"id_str": "1490647222127849474",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1490647222127849474/pu/img/bn23F25SncPfTXZi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1490647222127849474/pu/img/bn23F25SncPfTXZi.jpg",
+					"url": "https://t.co/kavU9PplZk",
+					"display_url": "pic.twitter.com/kavU9PplZk",
+					"expanded_url": "https://twitter.com/SteveStuWill/status/1490647253220233216/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 338,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 338,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 338,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							169,
+							240
+						],
+						"duration_millis": 23866,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1490647222127849474/pu/pl/cP47VNznnsS96pVu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1490647222127849474/pu/vid/338x480/ZHIiHR8iSM6FDlyT.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1490647222127849474/pu/vid/320x454/25aZt7aAke5nQ-Zd.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33856936,
+			"id_str": "33856936",
+			"name": "Steve Stewart-Williams",
+			"screen_name": "SteveStuWill",
+			"location": "United Kingdom",
+			"description": "Psychology, evolution, science, etc. Author of \"The Ape That Understood the Universe\" (2018) and \"Darwin, God and the Meaning of Life\" (2010).",
+			"url": "https://t.co/CAbB9xvV6l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CAbB9xvV6l",
+							"expanded_url": "http://www.stevestewartwilliams.com/",
+							"display_url": "stevestewartwilliams.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117790,
+			"friends_count": 219,
+			"listed_count": 1655,
+			"created_at": "Tue Apr 21 09:08:54 +0000 2009",
+			"favourites_count": 52599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225912347849420800/39fqZKGW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225912347849420800/39fqZKGW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33856936/1492953630",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The amazing dexterity of the cockatoo's tongue https://t.co/RfLD6Rku2y https://t.co/kavU9PplZk"
+	},
+	{
+		"created_at": "Mon Feb 07 11:27:41 +0000 2022",
+		"id": 1490647281594478600,
+		"id_str": "1490648455802466307",
+		"full_text": "First ever photograph of the #Acropolis Parthenon dated 1839 #Greece #Daguerreotype https://t.co/YZsu7BWZM4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Acropolis",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"text": "Greece",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "Daguerreotype",
+					"indices": [
+						69,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YZsu7BWZM4",
+					"expanded_url": "https://www.keeptalkinggreece.com/2022/02/07/parthenon-acropolis-first-ever-photograph-daguerreotype-1839/#.YgEAu_8IHCw.twitter",
+					"display_url": "keeptalkinggreece.com/2022/02/07/par…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158044902,
+			"id_str": "158044902",
+			"name": "Keep Talking Greece",
+			"screen_name": "keeptalkingGR",
+			"location": "",
+			"description": "Greek News in English, Blog, Wit, Drama, Economic Crisis, Politics, Society. Tweets also in GR & GER. OhYeah! and cute Cats :)",
+			"url": "http://t.co/xtgtHKqF6I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xtgtHKqF6I",
+							"expanded_url": "http://www.keeptalkinggreece.com",
+							"display_url": "keeptalkinggreece.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19718,
+			"friends_count": 1907,
+			"listed_count": 634,
+			"created_at": "Mon Jun 21 16:37:50 +0000 2010",
+			"favourites_count": 102923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723260503884238850/gP0uXb0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723260503884238850/gP0uXb0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158044902/1460988746",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First ever photograph of the #Acropolis Parthenon dated 1839 #Greece #Daguerreotype https://t.co/YZsu7BWZM4"
+	},
+	{
 		"created_at": "Mon Feb 07 01:05:19 +0000 2022",
 		"id": 1490350854184046600,
 		"id_str": "1490491832299577347",
