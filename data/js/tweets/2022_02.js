@@ -1,6 +1,684 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 20:56:17 +0000 2022",
+		"id": 1494053039585570800,
+		"id_str": "1494053039585570825",
+		"full_text": "Swimming bunny! https://t.co/Oz9fIc50kE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Oz9fIc50kE",
+					"expanded_url": "https://twitter.com/Rainmaker1973/status/1493946261644394497",
+					"display_url": "twitter.com/Rainmaker1973/…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19825,
+			"friends_count": 2320,
+			"listed_count": 550,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1493946261644394500,
+		"quoted_status_id_str": "1493946261644394497",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Oz9fIc50kE",
+			"expanded": "https://twitter.com/Rainmaker1973/status/1493946261644394497",
+			"display": "twitter.com/Rainmaker1973/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 16 13:51:59 +0000 2022",
+			"id": 1493946261644394500,
+			"id_str": "1493946261644394497",
+			"full_text": "Some rabbits breeds adapted to live in wet environments, and regularly swim in their day-to-day lives. Domesticated rabbits also are able to swim, but not all of them might like it [read more: https://t.co/OViIQvy7Xv] [source: https://t.co/f2TVrhvscP] https://t.co/c6yLG3RFo8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OViIQvy7Xv",
+						"expanded_url": "https://buff.ly/3gNq0N5",
+						"display_url": "buff.ly/3gNq0N5",
+						"indices": [
+							193,
+							216
+						]
+					},
+					{
+						"url": "https://t.co/f2TVrhvscP",
+						"expanded_url": "https://buff.ly/3BnSGFE",
+						"display_url": "buff.ly/3BnSGFE",
+						"indices": [
+							227,
+							250
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1493858875149275100,
+						"id_str": "1493858875149275137",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493858875149275137/pu/img/RjUVaN76TnySIi_T.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493858875149275137/pu/img/RjUVaN76TnySIi_T.jpg",
+						"url": "https://t.co/c6yLG3RFo8",
+						"display_url": "pic.twitter.com/c6yLG3RFo8",
+						"expanded_url": "https://twitter.com/Haelle_/status/1493859006091304962/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 504,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 504,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 317,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1493859006091305000,
+						"source_status_id_str": "1493859006091304962",
+						"source_user_id": 1024918223479820300,
+						"source_user_id_str": "1024918223479820289"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1493858875149275100,
+						"id_str": "1493858875149275137",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493858875149275137/pu/img/RjUVaN76TnySIi_T.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493858875149275137/pu/img/RjUVaN76TnySIi_T.jpg",
+						"url": "https://t.co/c6yLG3RFo8",
+						"display_url": "pic.twitter.com/c6yLG3RFo8",
+						"expanded_url": "https://twitter.com/Haelle_/status/1493859006091304962/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 504,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 504,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 317,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1493859006091305000,
+						"source_status_id_str": "1493859006091304962",
+						"source_user_id": 1024918223479820300,
+						"source_user_id_str": "1024918223479820289",
+						"video_info": {
+							"aspect_ratio": [
+								7,
+								15
+							],
+							"duration_millis": 31400,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1493858875149275137/pu/vid/320x684/RSu47QfgV4B2Oa8_.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1493858875149275137/pu/pl/F6T_Jb8XxPdQAq7S.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1493858875149275137/pu/vid/504x1080/IGJmYO8utiQngzEy.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1024918223479820300,
+								"id_str": "1024918223479820289",
+								"name": "Haelle 👉🐍",
+								"screen_name": "Haelle_",
+								"location": "She/Her",
+								"description": "🎮 French content creator & Twitch Variety Streamer \n🗺️ @geoguessr enthusiast \n✉️ haelle.twitch@gmail.com \n🎨 Banner by @ChrisWTFern",
+								"url": "https://t.co/u9F53vGkWL",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/u9F53vGkWL",
+												"expanded_url": "https://linktr.ee/Haelle",
+												"display_url": "linktr.ee/Haelle",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1146,
+								"friends_count": 180,
+								"listed_count": 6,
+								"created_at": "Thu Aug 02 07:22:01 +0000 2018",
+								"favourites_count": 7625,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 2383,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1485539791773093890/wiJODdnu_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485539791773093890/wiJODdnu_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024918223479820289/1598564846",
+								"profile_link_color": "330066",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 177101260,
+				"id_str": "177101260",
+				"name": "Massimo",
+				"screen_name": "Rainmaker1973",
+				"location": "Italy, North by Northwest",
+				"description": "Astronomy, astronautics, meteorology, physics. Engineer, trying to build the big picture of #science via selected & curated pics, videos & links",
+				"url": "https://t.co/gbBU9j08Hh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gbBU9j08Hh",
+								"expanded_url": "https://linktr.ee/Rainmaker1973",
+								"display_url": "linktr.ee/Rainmaker1973",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 349378,
+				"friends_count": 311,
+				"listed_count": 2805,
+				"created_at": "Wed Aug 11 07:13:13 +0000 2010",
+				"favourites_count": 2550,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 193716,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/177101260/1422214939",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 141,
+			"favorite_count": 1023,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Swimming bunny! https://t.co/Oz9fIc50kE"
+	},
+	{
+		"created_at": "Wed Feb 16 18:29:55 +0000 2022",
+		"id": 1494016205283381200,
+		"id_str": "1494016205283381253",
+		"full_text": "@Katebfitz @YouTube I agree. Do you know Jonathan Miller's brilliant impersonation of him?  https://t.co/ENlcg5jmen",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Katebfitz",
+					"name": "Kate Fitzpatrick",
+					"id": 1106518882611687400,
+					"id_str": "1106518882611687424",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ENlcg5jmen",
+					"expanded_url": "https://www.youtube.com/watch?v=uKXHSfYm5wk",
+					"display_url": "youtube.com/watch?v=uKXHSf…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1494015274957172700,
+		"in_reply_to_status_id_str": "1494015274957172737",
+		"in_reply_to_user_id": 1106518882611687400,
+		"in_reply_to_user_id_str": "1106518882611687424",
+		"in_reply_to_screen_name": "Katebfitz",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19825,
+			"friends_count": 2320,
+			"listed_count": 550,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Katebfitz @YouTube I agree. Do you know Jonathan Miller's brilliant impersonation of him?  https://t.co/ENlcg5jmen"
+	},
+	{
+		"created_at": "Wed Feb 16 18:20:56 +0000 2022",
+		"id": 1494013943920140300,
+		"id_str": "1494013943920140294",
+		"full_text": "@Katebfitz @YouTube Actually, I rather like Shaw. He certainly was witty -- though Russell was right that he could be vain and silly too.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Katebfitz",
+					"name": "Kate Fitzpatrick",
+					"id": 1106518882611687400,
+					"id_str": "1106518882611687424",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1494009381108650000,
+		"in_reply_to_status_id_str": "1494009381108649985",
+		"in_reply_to_user_id": 1106518882611687400,
+		"in_reply_to_user_id_str": "1106518882611687424",
+		"in_reply_to_screen_name": "Katebfitz",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19825,
+			"friends_count": 2320,
+			"listed_count": 550,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Katebfitz @YouTube Actually, I rather like Shaw. He certainly was witty -- though Russell was right that he could be vain and silly too."
+	},
+	{
 		"created_at": "Tue Feb 15 21:39:50 +0000 2022",
 		"id": 1493701609725042700,
 		"id_str": "1493701609725042689",
