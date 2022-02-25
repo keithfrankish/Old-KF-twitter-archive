@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 01:39:55 +0000 2022",
+		"id": 1496977786745290800,
+		"id_str": "1497023521322684429",
+		"full_text": "Brexit came, in part, out of a false sense of security. A certainty that we could \"shake it up\" and all would be OK. 60 years of hard won peace and prosperity led us here. Many had simply come to take it all for granted. Ukraine shows us, very clearly, why we were fools to do so.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 310746442,
+			"id_str": "310746442",
+			"name": "Otto English",
+			"screen_name": "Otto_English",
+			"location": "London",
+			"description": "Born Andrew Scott. Journalist and professional irritant. Author of Fake History - out now. Want me to write/speak/etc. Well email me at theottoenglish@gmail.com",
+			"url": "https://t.co/rxlwWEO5UA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rxlwWEO5UA",
+							"expanded_url": "https://www.amazon.co.uk/gp/aw/d/1787396398/ref=tmm_hrd_swatch_0?ie=UTF8&qid=&sr=",
+							"display_url": "amazon.co.uk/gp/aw/d/178739…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100767,
+			"friends_count": 1793,
+			"listed_count": 545,
+			"created_at": "Sat Jun 04 08:34:34 +0000 2011",
+			"favourites_count": 182010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 212621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403301381230968834/oUfjbFEz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403301381230968834/oUfjbFEz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/310746442/1621500666",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 513,
+		"favorite_count": 2479,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Brexit came, in part, out of a false sense of security. A certainty that we could \"shake it up\" and all would be OK. 60 years of hard won peace and prosperity led us here. Many had simply come to take it all for granted. Ukraine shows us, very clearly, why we were fools to do so."
+	},
+	{
 		"created_at": "Fri Feb 25 00:03:52 +0000 2022",
 		"id": 1496999351314493400,
 		"id_str": "1496999351314493446",
