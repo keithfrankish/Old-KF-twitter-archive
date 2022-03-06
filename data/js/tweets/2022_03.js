@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 06 01:57:32 +0000 2022",
+		"id": 1500286907971948500,
+		"id_str": "1500289446901657603",
+		"full_text": "IDK how I missed it last week but, wow, this article is comedy gold! \n\nTeaching evaluations for Jesus which are so so horrifyingly accurate that they flip around to absolutely hilarious. \n\n#AcademicTwitter \n\nhttps://t.co/jlSZzrtQZr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AcademicTwitter",
+					"indices": [
+						189,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jlSZzrtQZr",
+					"expanded_url": "https://www.mcsweeneys.net/articles/selected-negative-teaching-evaluations-of-jesus-christ",
+					"display_url": "mcsweeneys.net/articles/selec…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1558406653,
+			"id_str": "1558406653",
+			"name": "Dr Ellie Murray, ScD 🇨🇦",
+			"screen_name": "EpiEllie",
+			"location": "She, her, Dr",
+			"description": "Epidemiology asst prof @BUSPH | SoMe editor @amjepi | cohost @casualinfer pod| @epiCOVIDCorps | #epitwitter | Monday COVID expert @BBCOS | github:eleanormurray",
+			"url": "https://t.co/Iw1seFJvZV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Iw1seFJvZV",
+							"expanded_url": "http://sites.bu.edu/causal",
+							"display_url": "sites.bu.edu/causal",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113114,
+			"friends_count": 1816,
+			"listed_count": 2345,
+			"created_at": "Sun Jun 30 16:11:58 +0000 2013",
+			"favourites_count": 115136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281356879172702208/3ht8pkGD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281356879172702208/3ht8pkGD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1558406653/1644549588",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IDK how I missed it last week but, wow, this article is comedy gold! \n\nTeaching evaluations for Jesus which are so so horrifyingly accurate that they flip around to absolutely hilarious. \n\n#AcademicTwitter \n\nhttps://t.co/jlSZzrtQZr"
+	},
+	{
 		"created_at": "Sat Mar 05 20:53:15 +0000 2022",
 		"id": 1496085600952369200,
 		"id_str": "1500212869241225221",
