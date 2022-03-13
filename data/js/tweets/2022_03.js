@@ -1,6 +1,983 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 13 00:53:36 +0000 2022",
+		"id": 1502810071633436700,
+		"id_str": "1502810071633436677",
+		"full_text": "@martinjanello @anitaleirfall I meant it as a bit of silliness inspired by the Windows 11 update, but I think I misjudged it. At any rate, I'd far rather delete a jokey post than risk hurting anyone's feelings. Covid is no joke.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martinjanello",
+					"name": "Martin Janello",
+					"id": 2681206494,
+					"id_str": "2681206494",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "anitaleirfall",
+					"name": "Anita Leirfall",
+					"id": 147637306,
+					"id_str": "147637306",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1502806822234706000,
+		"in_reply_to_status_id_str": "1502806822234705922",
+		"in_reply_to_user_id": 2681206494,
+		"in_reply_to_user_id_str": "2681206494",
+		"in_reply_to_screen_name": "martinjanello",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20158,
+			"friends_count": 2326,
+			"listed_count": 555,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@martinjanello @anitaleirfall I meant it as a bit of silliness inspired by the Windows 11 update, but I think I misjudged it. At any rate, I'd far rather delete a jokey post than risk hurting anyone's feelings. Covid is no joke."
+	},
+	{
+		"created_at": "Sat Mar 12 23:55:28 +0000 2022",
+		"id": 1502795440827379700,
+		"id_str": "1502795440827379717",
+		"full_text": "@fakehistoryhunt @thomaslvaughn I always get those two muddled up",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fakehistoryhunt",
+					"name": "Fake History Hunter",
+					"id": 878446695016800300,
+					"id_str": "878446695016800257",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "thomaslvaughn",
+					"name": "Thomas L Vaughn😎💰",
+					"id": 2844137696,
+					"id_str": "2844137696",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1502754316603568000,
+		"in_reply_to_status_id_str": "1502754316603568128",
+		"in_reply_to_user_id": 878446695016800300,
+		"in_reply_to_user_id_str": "878446695016800257",
+		"in_reply_to_screen_name": "fakehistoryhunt",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20158,
+			"friends_count": 2326,
+			"listed_count": 555,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fakehistoryhunt @thomaslvaughn I always get those two muddled up"
+	},
+	{
+		"created_at": "Sat Mar 12 22:56:17 +0000 2022",
+		"id": 1502780545478103000,
+		"id_str": "1502780545478103051",
+		"full_text": "@martinjanello @anitaleirfall I apologize. I will delete the tweet.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martinjanello",
+					"name": "Martin Janello",
+					"id": 2681206494,
+					"id_str": "2681206494",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "anitaleirfall",
+					"name": "Anita Leirfall",
+					"id": 147637306,
+					"id_str": "147637306",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1502774367930839000,
+		"in_reply_to_status_id_str": "1502774367930839040",
+		"in_reply_to_user_id": 2681206494,
+		"in_reply_to_user_id_str": "2681206494",
+		"in_reply_to_screen_name": "martinjanello",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20158,
+			"friends_count": 2326,
+			"listed_count": 555,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@martinjanello @anitaleirfall I apologize. I will delete the tweet."
+	},
+	{
+		"created_at": "Sat Mar 12 21:43:24 +0000 2022",
+		"id": 1502762207486128000,
+		"id_str": "1502762207486128133",
+		"full_text": "@xyzzy62759173 @seanmcarroll 7's orange!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xyzzy62759173",
+					"name": "res abstracta",
+					"id": 1155515265943330800,
+					"id_str": "1155515265943330816",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "seanmcarroll",
+					"name": "Sean Carroll",
+					"id": 21611239,
+					"id_str": "21611239",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1502761818892255200,
+		"in_reply_to_status_id_str": "1502761818892255238",
+		"in_reply_to_user_id": 1155515265943330800,
+		"in_reply_to_user_id_str": "1155515265943330816",
+		"in_reply_to_screen_name": "xyzzy62759173",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20158,
+			"friends_count": 2326,
+			"listed_count": 555,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@xyzzy62759173 @seanmcarroll 7's orange!"
+	},
+	{
+		"created_at": "Sat Mar 12 21:39:58 +0000 2022",
+		"id": 1502761342914158600,
+		"id_str": "1502761342914158593",
+		"full_text": "@seanmcarroll 9 yellow? No! It's deep blue. 2 is yellow.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seanmcarroll",
+					"name": "Sean Carroll",
+					"id": 21611239,
+					"id_str": "21611239",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1502740189461901300,
+		"in_reply_to_status_id_str": "1502740189461901315",
+		"in_reply_to_user_id": 21611239,
+		"in_reply_to_user_id_str": "21611239",
+		"in_reply_to_screen_name": "seanmcarroll",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20158,
+			"friends_count": 2326,
+			"listed_count": 555,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@seanmcarroll 9 yellow? No! It's deep blue. 2 is yellow."
+	},
+	{
+		"created_at": "Sat Mar 12 21:17:54 +0000 2022",
+		"id": 1502743071473258500,
+		"id_str": "1502755789500526597",
+		"full_text": "Archaeologists we can help with this surely? 👇🏽 pls RT @BAJRjobs @archaeologyuk @InstituteArch https://t.co/A2oxUo0KKP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BAJRjobs",
+					"name": "David Connolly",
+					"id": 39555151,
+					"id_str": "39555151",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"screen_name": "archaeologyuk",
+					"name": "ArchaeologyUK",
+					"id": 15384042,
+					"id_str": "15384042",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"screen_name": "InstituteArch",
+					"name": "CIfA",
+					"id": 38640485,
+					"id_str": "38640485",
+					"indices": [
+						80,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/A2oxUo0KKP",
+					"expanded_url": "https://twitter.com/conservators_uk/status/1501532899870654472",
+					"display_url": "twitter.com/conservators_u…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 434216488,
+			"id_str": "434216488",
+			"name": "Raksha Dave",
+			"screen_name": "Raksha_Digs",
+			"location": "London",
+			"description": "Public Archaeologist & Broadcaster. President @archaeologyuk Research Affiliate @Pitt_Rivers  Agent: https://t.co/ywPqxvMpT4 All views my own!",
+			"url": "https://t.co/kkLc5kStY7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kkLc5kStY7",
+							"expanded_url": "https://www.miradormanagement.co.uk/raksha-dave",
+							"display_url": "miradormanagement.co.uk/raksha-dave",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ywPqxvMpT4",
+							"expanded_url": "http://www.miradormanagement.co.uk",
+							"display_url": "miradormanagement.co.uk",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19544,
+			"friends_count": 924,
+			"listed_count": 186,
+			"created_at": "Sun Dec 11 15:36:51 +0000 2011",
+			"favourites_count": 9648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314160862085681157/HIQOqrnf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314160862085681157/HIQOqrnf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/434216488/1573730759",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1501532899870654500,
+		"quoted_status_id_str": "1501532899870654472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/A2oxUo0KKP",
+			"expanded": "https://twitter.com/conservators_uk/status/1501532899870654472",
+			"display": "twitter.com/conservators_u…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 09 12:18:35 +0000 2022",
+			"id": 1501532899870654500,
+			"id_str": "1501532899870654472",
+			"full_text": "🚨Urgent appeal from Lviv to receive materials for cultural heritage protection. You can find a list of the materials needed at the Center to Rescue Ukraine's Cultural Heritage in Lviv and details on how you can help here: https://t.co/iKcgqfguLP https://t.co/DORAwQWhmw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iKcgqfguLP",
+						"expanded_url": "http://icon.org.uk/resource/supplies-needed-to-protect-ukraine-s-cultural-heritage.html",
+						"display_url": "icon.org.uk/resource/suppl…",
+						"indices": [
+							222,
+							245
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1501532892958183400,
+						"id_str": "1501532892958183430",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FNaENe9WUAYDfA4.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNaENe9WUAYDfA4.jpg",
+						"url": "https://t.co/DORAwQWhmw",
+						"display_url": "pic.twitter.com/DORAwQWhmw",
+						"expanded_url": "https://twitter.com/Conservators_UK/status/1501532899870654472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1501532892958183400,
+						"id_str": "1501532892958183430",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FNaENe9WUAYDfA4.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNaENe9WUAYDfA4.jpg",
+						"url": "https://t.co/DORAwQWhmw",
+						"display_url": "pic.twitter.com/DORAwQWhmw",
+						"expanded_url": "https://twitter.com/Conservators_UK/status/1501532899870654472/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								140
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FNaENe9WUAYDfA4.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 234835156,
+				"id_str": "234835156",
+				"name": "Icon - The Institute of Conservation",
+				"screen_name": "Conservators_UK",
+				"location": "London",
+				"description": "Icon is the professional body and the lead voice for the conservation and restoration of cultural heritage (objects, collections and buildings) in the UK",
+				"url": "https://t.co/o0xwKvNIbY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o0xwKvNIbY",
+								"expanded_url": "http://www.icon.org.uk",
+								"display_url": "icon.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11269,
+				"friends_count": 1068,
+				"listed_count": 239,
+				"created_at": "Thu Jan 06 17:54:45 +0000 2011",
+				"favourites_count": 5545,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11795,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1448620529666121737/SniWgAb9_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448620529666121737/SniWgAb9_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234835156/1589201522",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "F9FCA6",
+				"profile_sidebar_fill_color": "DCA0E8",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 41,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Archaeologists we can help with this surely? 👇🏽 pls RT @BAJRjobs @archaeologyuk @InstituteArch https://t.co/A2oxUo0KKP"
+	},
+	{
 		"created_at": "Fri Mar 11 16:57:27 +0000 2022",
 		"id": 1502327858181587000,
 		"id_str": "1502327858181586944",
