@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 20 23:43:48 +0000 2022",
+		"id": 1505691609177985000,
+		"id_str": "1505691609177985024",
+		"full_text": "@petemandik @ericlinuskaplan hmm, interesting",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petemandik",
+					"name": "Pete Mandik",
+					"id": 61481161,
+					"id_str": "61481161",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ericlinuskaplan",
+					"name": "ericlinuskaplan",
+					"id": 13494642,
+					"id_str": "13494642",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1505672453485379600,
+		"in_reply_to_status_id_str": "1505672453485379585",
+		"in_reply_to_user_id": 61481161,
+		"in_reply_to_user_id_str": "61481161",
+		"in_reply_to_screen_name": "petemandik",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20271,
+			"friends_count": 2327,
+			"listed_count": 555,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@petemandik @ericlinuskaplan hmm, interesting"
+	},
+	{
+		"created_at": "Sun Mar 20 21:49:14 +0000 2022",
+		"id": 1505662777460994000,
+		"id_str": "1505662777460994049",
+		"full_text": "@petemandik @murraygabriel @DrJamesCooke It was for James's podcast. I think he'll post it towards the end of this week.",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petemandik",
+					"name": "Pete Mandik",
+					"id": 61481161,
+					"id_str": "61481161",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "murraygabriel",
+					"name": "Gabriel Murray",
+					"id": 126693455,
+					"id_str": "126693455",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "DrJamesCooke",
+					"name": "Dr. James Cooke",
+					"id": 1544385408,
+					"id_str": "1544385408",
+					"indices": [
+						27,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1505661321588715500,
+		"in_reply_to_status_id_str": "1505661321588715533",
+		"in_reply_to_user_id": 61481161,
+		"in_reply_to_user_id_str": "61481161",
+		"in_reply_to_screen_name": "petemandik",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20271,
+			"friends_count": 2327,
+			"listed_count": 555,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 47853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@petemandik @murraygabriel @DrJamesCooke It was for James's podcast. I think he'll post it towards the end of this week."
+	},
+	{
+		"created_at": "Sun Mar 20 18:16:20 +0000 2022",
+		"id": 1505310210025562000,
+		"id_str": "1505609197584588807",
+		"full_text": "I'm going to go out on a limb and say that, in times of crisis, when reasoned political wisdom is called for, it's probably not a good idea to have narcissists, incompetents, ignoramuses, and proven liars in charge of the country.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 532878662,
+			"id_str": "532878662",
+			"name": "Richard Littler",
+			"screen_name": "richard_littler",
+			"location": "",
+			"description": "Creator of @Scarfolk. \"This guy, who apparently saw the future\" - Edward Snowden.",
+			"url": "https://t.co/8ama1SkTy5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8ama1SkTy5",
+							"expanded_url": "https://www.richardlittler.com",
+							"display_url": "richardlittler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30656,
+			"friends_count": 6025,
+			"listed_count": 261,
+			"created_at": "Thu Mar 22 06:21:33 +0000 2012",
+			"favourites_count": 30227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 49577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0D0C08",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1360242354653982722/ZWNQkhOD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360242354653982722/ZWNQkhOD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532878662/1614772525",
+			"profile_link_color": "AD1111",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 165,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm going to go out on a limb and say that, in times of crisis, when reasoned political wisdom is called for, it's probably not a good idea to have narcissists, incompetents, ignoramuses, and proven liars in charge of the country."
+	},
+	{
 		"created_at": "Sun Mar 20 01:18:39 +0000 2022",
 		"id": 1505353088500121600,
 		"id_str": "1505353088500121603",
