@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 15 19:54:22 +0000 2022",
+		"id": 1515055955339321300,
+		"id_str": "1515055955339321346",
+		"full_text": "@epicciuto Imigran Towers",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "epicciuto",
+					"name": "Elizabeth Picciuto",
+					"id": 36651871,
+					"id_str": "36651871",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1515038985780973600,
+		"in_reply_to_status_id_str": "1515038985780973571",
+		"in_reply_to_user_id": 36651871,
+		"in_reply_to_user_id_str": "36651871",
+		"in_reply_to_screen_name": "epicciuto",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20771,
+			"friends_count": 2346,
+			"listed_count": 564,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 48187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@epicciuto Imigran Towers"
+	},
+	{
+		"created_at": "Fri Apr 15 18:51:47 +0000 2022",
+		"id": 1515040203580317700,
+		"id_str": "1515040203580317702",
+		"full_text": "@Philip_Goff You're not stealing letters from signs again, are you?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1514885219739836400,
+		"in_reply_to_status_id_str": "1514885219739836419",
+		"in_reply_to_user_id": 216809385,
+		"in_reply_to_user_id_str": "216809385",
+		"in_reply_to_screen_name": "Philip_Goff",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20771,
+			"friends_count": 2346,
+			"listed_count": 564,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 48187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Philip_Goff You're not stealing letters from signs again, are you?"
+	},
+	{
+		"created_at": "Fri Apr 15 17:54:19 +0000 2022",
+		"id": 1514972694814630000,
+		"id_str": "1515025744040185865",
+		"full_text": "CIL 4.5296 is an inscription of a poem graffitied in Pompeii. Discovered in 1888, it is 1 of the longest &amp; most elaborate graffiti from Pompeii, &amp; may be the only known love poem from one woman to another from the Latin world. Now a #GoodArticle! #WCCWiki https://t.co/LGMTo6TEPm https://t.co/cYV8hZFgrM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoodArticle",
+					"indices": [
+						241,
+						253
+					]
+				},
+				{
+					"text": "WCCWiki",
+					"indices": [
+						255,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LGMTo6TEPm",
+					"expanded_url": "https://en.wikipedia.org/wiki/CIL_4.5296",
+					"display_url": "en.wikipedia.org/wiki/CIL_4.5296",
+					"indices": [
+						264,
+						287
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514965520600158200,
+					"id_str": "1514965520600158209",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FQY9HUZWUAEsGCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQY9HUZWUAEsGCU.jpg",
+					"url": "https://t.co/cYV8hZFgrM",
+					"display_url": "pic.twitter.com/cYV8hZFgrM",
+					"expanded_url": "https://twitter.com/tigerlilyrocks/status/1514972694814629891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 266,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 751,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514965520600158200,
+					"id_str": "1514965520600158209",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FQY9HUZWUAEsGCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQY9HUZWUAEsGCU.jpg",
+					"url": "https://t.co/cYV8hZFgrM",
+					"display_url": "pic.twitter.com/cYV8hZFgrM",
+					"expanded_url": "https://twitter.com/tigerlilyrocks/status/1514972694814629891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 266,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 751,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514966315966124000,
+					"id_str": "1514966315966124038",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FQY91nXX0AYU_7y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQY91nXX0AYU_7y.jpg",
+					"url": "https://t.co/cYV8hZFgrM",
+					"display_url": "pic.twitter.com/cYV8hZFgrM",
+					"expanded_url": "https://twitter.com/tigerlilyrocks/status/1514972694814629891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1587,
+							"h": 1580,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1195,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1514972685427691500,
+		"in_reply_to_status_id_str": "1514972685427691530",
+		"in_reply_to_user_id": 3157888318,
+		"in_reply_to_user_id_str": "3157888318",
+		"in_reply_to_screen_name": "tigerlilyrocks",
+		"user": {
+			"id": 3157888318,
+			"id_str": "3157888318",
+			"name": "Dr Victoria Leonard",
+			"screen_name": "tigerlilyrocks",
+			"location": "Cardiff",
+			"description": "Ancient, late ancient, and later ancient historian \n\nResearch Fellow, Centre for Arts, Memory and Communities\nvictoria.leonard@coventry.ac.uk\n#FRHistS\n#WCCWiki",
+			"url": "https://t.co/QJj6u7UQ2I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QJj6u7UQ2I",
+							"expanded_url": "https://pureportal.coventry.ac.uk/en/persons/victoria-leonard",
+							"display_url": "pureportal.coventry.ac.uk/en/persons/vic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4266,
+			"friends_count": 4999,
+			"listed_count": 82,
+			"created_at": "Sat Apr 11 22:12:45 +0000 2015",
+			"favourites_count": 23289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027166700721065984/mRqWned__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027166700721065984/mRqWned__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3157888318/1476192858",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CIL 4.5296 is an inscription of a poem graffitied in Pompeii. Discovered in 1888, it is 1 of the longest &amp; most elaborate graffiti from Pompeii, &amp; may be the only known love poem from one woman to another from the Latin world. Now a #GoodArticle! #WCCWiki https://t.co/LGMTo6TEPm https://t.co/cYV8hZFgrM"
+	},
+	{
 		"created_at": "Thu Apr 14 19:45:00 +0000 2022",
 		"id": 1514691209775792000,
 		"id_str": "1514691209775792145",
@@ -1741,7 +2211,7 @@ Grailbird.data.tweets_2022_04 =
 			"created_at": "Wed Apr 13 17:59:53 +0000 2022",
 			"id": 1514302365742030800,
 			"id_str": "1514302365742030848",
-			"full_text": "On what would have been the 83rd birthday of #SeamusHeaney, a ⁦recording of “The Cure at Troy” for ⁦@BBCr4today⁩ during the pandemic .. thought of it often in #Kyiv. #UkraineRussianwar ⁦@seamusheaneyest⁩ https://t.co/TzbZfbiwX1",
+			"full_text": "On what would have been the 83rd birthday of #SeamusHeaney, a recording of “The Cure at Troy” for @BBCr4today during the pandemic .. thought of it often in #Kyiv. #UkraineRussianwar @seamusheaneyest https://t.co/TzbZfbiwX1",
 			"truncated": false,
 			"display_text_range": [
 				0,
