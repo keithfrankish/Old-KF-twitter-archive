@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 20 21:51:03 +0000 2022",
+		"id": 1516811617127698400,
+		"id_str": "1516897257173528576",
+		"full_text": "Anti-free-will people have to stop leaning on determinism. It's perhaps the most wrong that an argument can be.\n\n1) The world is not deterministic. Quantum mechanics exists. When there is hidden determinism (MWI, Bohm), it's hidden! Irrelevant to what people experience. (1/n)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21611239,
+			"id_str": "21611239",
+			"name": "Sean Carroll",
+			"screen_name": "seanmcarroll",
+			"location": "Los Angeles",
+			"description": "Physics, philosophy, complexity; thinking, writing, talking. @Caltech & @SFIscience. Host, #MindscapePodcast. Married to @JenLucPiquant. He/him.",
+			"url": "https://t.co/ibcrloCWhS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ibcrloCWhS",
+							"expanded_url": "http://preposterousuniverse.com/",
+							"display_url": "preposterousuniverse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302969,
+			"friends_count": 456,
+			"listed_count": 3528,
+			"created_at": "Sun Feb 22 23:35:54 +0000 2009",
+			"favourites_count": 24123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080212821831372800/kuD8Y01v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080212821831372800/kuD8Y01v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21611239/1620513763",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 546,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Anti-free-will people have to stop leaning on determinism. It's perhaps the most wrong that an argument can be.\n\n1) The world is not deterministic. Quantum mechanics exists. When there is hidden determinism (MWI, Bohm), it's hidden! Irrelevant to what people experience. (1/n)"
+	},
+	{
 		"created_at": "Tue Apr 19 23:31:15 +0000 2022",
 		"id": 1516560085903888400,
 		"id_str": "1516560085903888388",
