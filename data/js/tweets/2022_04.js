@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 01:20:55 +0000 2022",
+		"id": 1519486788678692900,
+		"id_str": "1519486788678692868",
+		"full_text": "@tealpajamas @Philip_Goff @WiringTheBrain So we can't be certain that our qualia aren't continually changing?",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tealpajamas",
+					"name": "tealpajamas",
+					"id": 1222591168367644700,
+					"id_str": "1222591168367644672",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "WiringTheBrain",
+					"name": "Kevin Mitchell",
+					"id": 325719227,
+					"id_str": "325719227",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1519481571119489000,
+		"in_reply_to_status_id_str": "1519481571119489024",
+		"in_reply_to_user_id": 1222591168367644700,
+		"in_reply_to_user_id_str": "1222591168367644672",
+		"in_reply_to_screen_name": "tealpajamas",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20916,
+			"friends_count": 2342,
+			"listed_count": 564,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 48332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476144027267387393/oJfSUngb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tealpajamas @Philip_Goff @WiringTheBrain So we can't be certain that our qualia aren't continually changing?"
+	},
+	{
 		"created_at": "Wed Apr 27 23:24:06 +0000 2022",
 		"id": 1519457390776754200,
 		"id_str": "1519457390776754184",
