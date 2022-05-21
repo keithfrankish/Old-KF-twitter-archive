@@ -1,6 +1,732 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 20 20:10:45 +0000 2022",
+		"id": 1527621755870793700,
+		"id_str": "1527743653464219649",
+		"full_text": "This is the most John Shuttleworth thing that ever happened. And it happened at a John Shuttleworth concert. Only to be read in his voice. https://t.co/a9DYsX6gga",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527621750535626800,
+					"id_str": "1527621750535626754",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FTMz42_WIAI628b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTMz42_WIAI628b.jpg",
+					"url": "https://t.co/a9DYsX6gga",
+					"display_url": "pic.twitter.com/a9DYsX6gga",
+					"expanded_url": "https://twitter.com/rufusjones1/status/1527621755870793728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1669,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 595,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527621750535626800,
+					"id_str": "1527621750535626754",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FTMz42_WIAI628b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTMz42_WIAI628b.jpg",
+					"url": "https://t.co/a9DYsX6gga",
+					"display_url": "pic.twitter.com/a9DYsX6gga",
+					"expanded_url": "https://twitter.com/rufusjones1/status/1527621755870793728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1669,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 595,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20315820,
+			"id_str": "20315820",
+			"name": "rufus jones",
+			"screen_name": "rufusjones1",
+			"location": "London",
+			"description": "Cattle. Independent Talent. Just Voices. Bernie Delfont in Stan & Ollie. Home for Channel 4. Camping, Hunderby, W1A, once vomited on Marcel Marceau.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26859,
+			"friends_count": 1749,
+			"listed_count": 151,
+			"created_at": "Sat Feb 07 15:51:27 +0000 2009",
+			"favourites_count": 4000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524101296969732097/GQHL79--_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524101296969732097/GQHL79--_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20315820/1576608326",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 332,
+		"favorite_count": 1199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the most John Shuttleworth thing that ever happened. And it happened at a John Shuttleworth concert. Only to be read in his voice. https://t.co/a9DYsX6gga"
+	},
+	{
+		"created_at": "Fri May 20 18:35:47 +0000 2022",
+		"id": 1527714564955156500,
+		"id_str": "1527719753011314688",
+		"full_text": "I'm thinking about strategies for teaching children about the importance of consent. Can people point me to any good reading on the topic, please?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek academic. Deputy Director, Metropolitan College, Heraklion (@Mitropolitiko) Tweeting in a personal capacity about philosophy, education, P4C etc.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 879,
+			"friends_count": 648,
+			"listed_count": 26,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 3855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1605987744",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm thinking about strategies for teaching children about the importance of consent. Can people point me to any good reading on the topic, please?"
+	},
+	{
+		"created_at": "Fri May 20 15:25:52 +0000 2022",
+		"id": 1527671960452403200,
+		"id_str": "1527671960452403206",
+		"full_text": "@profron I agree completely, but not everyone does. Some believe there are strongly emergent mental properties with causal powers that are not realized in more basic processes",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "profron",
+					"name": "Ron McClamrock",
+					"id": 56753973,
+					"id_str": "56753973",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1527669750926565400,
+		"in_reply_to_status_id_str": "1527669750926565378",
+		"in_reply_to_user_id": 56753973,
+		"in_reply_to_user_id_str": "56753973",
+		"in_reply_to_screen_name": "profron",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21356,
+			"friends_count": 2350,
+			"listed_count": 563,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 48606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@profron I agree completely, but not everyone does. Some believe there are strongly emergent mental properties with causal powers that are not realized in more basic processes"
+	},
+	{
+		"created_at": "Fri May 20 14:46:27 +0000 2022",
+		"id": 1527662040071950300,
+		"id_str": "1527662040071950338",
+		"full_text": "Spent a very pleasant hour chatting about Buddhism and illusionism with @WystanTBS, who is holidaying in Crete with his partner.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WystanTBS",
+					"name": "Wystan",
+					"id": 3742851378,
+					"id_str": "3742851378",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21356,
+			"friends_count": 2350,
+			"listed_count": 563,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 48606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Spent a very pleasant hour chatting about Buddhism and illusionism with @WystanTBS, who is holidaying in Crete with his partner."
+	},
+	{
+		"created_at": "Fri May 20 14:27:10 +0000 2022",
+		"id": 1527657188528881700,
+		"id_str": "1527657188528881665",
+		"full_text": "City status for my hometown! \"Famous people born in Doncaster include TV presenter Jeremy Clarkson and musicians Louis Tomlinson and Yungblud.\" https://t.co/NMkmWfEqZZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMkmWfEqZZ",
+					"expanded_url": "https://www.bbc.com/news/uk-england-south-yorkshire-61506519",
+					"display_url": "bbc.com/news/uk-englan…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21356,
+			"friends_count": 2350,
+			"listed_count": 563,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 48606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "City status for my hometown! \"Famous people born in Doncaster include TV presenter Jeremy Clarkson and musicians Louis Tomlinson and Yungblud.\" https://t.co/NMkmWfEqZZ"
+	},
+	{
+		"created_at": "Fri May 20 11:46:33 +0000 2022",
+		"id": 1527616764422635500,
+		"id_str": "1527616764422635522",
+		"full_text": "@DrTomFroese That would be true if the mental were not physically realized",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrTomFroese",
+					"name": "Tom Froese, Embodied Cognitive Science Unit (ECSU)",
+					"id": 1169492171881189400,
+					"id_str": "1169492171881189376",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1527616468086444000,
+		"in_reply_to_status_id_str": "1527616468086444034",
+		"in_reply_to_user_id": 1169492171881189400,
+		"in_reply_to_user_id_str": "1169492171881189376",
+		"in_reply_to_screen_name": "DrTomFroese",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Reader @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21356,
+			"friends_count": 2350,
+			"listed_count": 563,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 48606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrTomFroese That would be true if the mental were not physically realized"
+	},
+	{
 		"created_at": "Thu May 19 22:43:34 +0000 2022",
 		"id": 1527419720407957500,
 		"id_str": "1527419720407957520",
@@ -7000,7 +7726,7 @@ Grailbird.data.tweets_2022_05 =
 				"name": "Rachel Clarke",
 				"screen_name": "doctor_oxford",
 				"location": "The NHS (VMO)",
-				"description": "Palliative care doctor 👩🏻‍⚕️ Writer 📚 NHS 💙 She/her 🌈 Rep: @AitkenAlexander 📝 Pub: @LittleBrownUK 🩺 Books: Your Life in My Hands, Dear Life, Breathtaking",
+				"description": "Palliative care doctor 👩🏻⚕️ Writer 📚 NHS 💙 She/her 🌈 Rep: @AitkenAlexander 📝 Pub: @LittleBrownUK 🩺 Books: Your Life in My Hands, Dear Life, Breathtaking",
 				"url": "https://t.co/pIzwNrdZEE",
 				"entities": {
 					"url": {
