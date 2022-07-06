@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 01:19:23 +0000 2022",
+		"id": 1544491166195908600,
+		"id_str": "1544491166195908614",
+		"full_text": "When your rooster crows at the break of dawn\nLook out your window and I'll be gone\nYou're the reason I'm a-traveling on\nBut don't think twice, it's all right https://t.co/Be7Xo5JS94",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Be7Xo5JS94",
+					"expanded_url": "https://twitter.com/pinkopog/status/1543840156293074945",
+					"display_url": "twitter.com/pinkopog/statu…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22415,
+			"friends_count": 2377,
+			"listed_count": 570,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 49521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1543840156293075000,
+		"quoted_status_id_str": "1543840156293074945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Be7Xo5JS94",
+			"expanded": "https://twitter.com/pinkopog/status/1543840156293074945",
+			"display": "twitter.com/pinkopog/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 04 06:12:31 +0000 2022",
+			"id": 1543840156293075000,
+			"id_str": "1543840156293074945",
+			"full_text": "https://t.co/efgcURQZHu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1543840130015772700,
+						"id_str": "1543840130015772672",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543840130015772672/pu/img/kSfcut0QoCSAA55t.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543840130015772672/pu/img/kSfcut0QoCSAA55t.jpg",
+						"url": "https://t.co/efgcURQZHu",
+						"display_url": "pic.twitter.com/efgcURQZHu",
+						"expanded_url": "https://twitter.com/pinkopog/status/1543840156293074945/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1543840130015772700,
+						"id_str": "1543840130015772672",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543840130015772672/pu/img/kSfcut0QoCSAA55t.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543840130015772672/pu/img/kSfcut0QoCSAA55t.jpg",
+						"url": "https://t.co/efgcURQZHu",
+						"display_url": "pic.twitter.com/efgcURQZHu",
+						"expanded_url": "https://twitter.com/pinkopog/status/1543840156293074945/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 960,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 7765,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1543840130015772672/pu/vid/320x568/gDNQrAI6ugqndpzl.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1543840130015772672/pu/vid/480x852/mf3e8BquWx0yGp7F.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1543840130015772672/pu/pl/8zWY5VIWEIn5ftIH.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1543840130015772672/pu/vid/540x960/bH7dgA1CZSZFNjg2.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1334295812310896600,
+				"id_str": "1334295812310896640",
+				"name": "𝕡𝕚𝕟𝕜𝕠 🐬👽",
+				"screen_name": "pinkopog",
+				"location": "cashapp: $captainpink0",
+				"description": "ᕕ( ᐛ ) ᕗ҈͚͛͘҉ͨ͟͝҉̦̾ͬ҉͚́ͅ҉͟͝͠҉͙͚͝҈̢̦͠҉̹͂ͅ҈͉͊͆҉̲̈́ͅ҉͚͛͟҉͢͟͡҈͖͙͗҈͓͟͡҉͍͉͛ͣ҈͓͐̾҉ͪ͟͞҉͉͋ͭ҈͖͗ͯ҈͙ͭ͘҈͎͐҈͉͊͋҉͇͉͊҈̧̤̿҉̦̈́͑҉̀̈͌҉͍͋͌҉̵̼̽҉̻̻̽҉͚̻̽҉͚͝͠҈̧̢͂҈͓͑͒͑ส็็ give me $1000",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2864,
+				"friends_count": 1389,
+				"listed_count": 24,
+				"created_at": "Thu Dec 03 00:38:19 +0000 2020",
+				"favourites_count": 207013,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30344,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1534428104734543873/zkhcy3DD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534428104734543873/zkhcy3DD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1334295812310896640/1637732248",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7827,
+			"favorite_count": 37651,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zxx"
+		},
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When your rooster crows at the break of dawn\nLook out your window and I'll be gone\nYou're the reason I'm a-traveling on\nBut don't think twice, it's all right https://t.co/Be7Xo5JS94"
+	},
+	{
 		"created_at": "Wed Jul 06 00:25:21 +0000 2022",
 		"id": 1544477566815412200,
 		"id_str": "1544477566815412225",
