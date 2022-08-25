@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 13:31:24 +0000 2022",
+		"id": 1562432388894199800,
+		"id_str": "1562432388894199810",
+		"full_text": "A suggestion for @vizcomic: A strip called \"Philip Larkin's Parallel Parking\", which shows the Hull-based poet attempting to parallel park his Humber Super Snipe, accidently squashing a hedgehog, rabbit, or other small mammal, and then writing a wistful poem about the incident.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vizcomic",
+					"name": "Viz Comic",
+					"id": 43876479,
+					"id_str": "43876479",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23104,
+			"friends_count": 2385,
+			"listed_count": 571,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A suggestion for @vizcomic: A strip called \"Philip Larkin's Parallel Parking\", which shows the Hull-based poet attempting to parallel park his Humber Super Snipe, accidently squashing a hedgehog, rabbit, or other small mammal, and then writing a wistful poem about the incident."
+	},
+	{
+		"created_at": "Wed Aug 24 09:16:19 +0000 2022",
+		"id": 1561690539505885200,
+		"id_str": "1562368192818855936",
+		"full_text": "Not enough people are aware of Elizabethan fMRI technology. https://t.co/ttCjYH2U0X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1561690504554741800,
+					"id_str": "1561690504554741763",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Faw9PV0WAAMQxs7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Faw9PV0WAAMQxs7.jpg",
+					"url": "https://t.co/ttCjYH2U0X",
+					"display_url": "pic.twitter.com/ttCjYH2U0X",
+					"expanded_url": "https://twitter.com/JackLynch000/status/1561690539505885186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 889,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1561690504554741800,
+					"id_str": "1561690504554741763",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Faw9PV0WAAMQxs7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Faw9PV0WAAMQxs7.jpg",
+					"url": "https://t.co/ttCjYH2U0X",
+					"display_url": "pic.twitter.com/ttCjYH2U0X",
+					"expanded_url": "https://twitter.com/JackLynch000/status/1561690539505885186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 889,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 605721235,
+			"id_str": "605721235",
+			"name": "Jack Lynch",
+			"screen_name": "JackLynch000",
+			"location": "New Jersey, USA",
+			"description": "Extinguished Perfesser of English at Ruckers–Nork; dix-huitiemiste; author of many books, some of them readable; wine-guzzler; mooseophile; harmless eccentric.",
+			"url": "https://t.co/7TAKKhDF58",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7TAKKhDF58",
+							"expanded_url": "http://JackLynch.net",
+							"display_url": "JackLynch.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2505,
+			"friends_count": 2021,
+			"listed_count": 28,
+			"created_at": "Mon Jun 11 20:21:52 +0000 2012",
+			"favourites_count": 100803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070338771462217733/wV3j4DZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070338771462217733/wV3j4DZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/605721235/1656387625",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 1265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not enough people are aware of Elizabethan fMRI technology. https://t.co/ttCjYH2U0X"
+	},
+	{
 		"created_at": "Tue Aug 23 21:46:38 +0000 2022",
 		"id": 1562194628899926000,
 		"id_str": "1562194628899926022",
@@ -751,7 +1043,7 @@ Grailbird.data.tweets_2022_08 =
 				},
 				{
 					"screen_name": "xriskology",
-					"name": "Émile P. Torres 🏳️‍⚧️",
+					"name": "Émile P. Torres 🏳️⚧️",
 					"id": 192737798,
 					"id_str": "192737798",
 					"indices": [
