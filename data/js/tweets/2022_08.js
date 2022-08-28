@@ -1,6 +1,915 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 27 20:27:10 +0000 2022",
+		"id": 1563624181312458800,
+		"id_str": "1563624181312458756",
+		"full_text": "An bravura exercise in shaping your methodology to your desired results. No doubt it could be applied to show Prince Charles wrote the songs of Bob Dylan. https://t.co/0QSDr8MlCa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0QSDr8MlCa",
+					"expanded_url": "https://www.youtube.com/watch?v=XGn6eJkQlig",
+					"display_url": "youtube.com/watch?v=XGn6eJ…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23144,
+			"friends_count": 2386,
+			"listed_count": 572,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An bravura exercise in shaping your methodology to your desired results. No doubt it could be applied to show Prince Charles wrote the songs of Bob Dylan. https://t.co/0QSDr8MlCa"
+	},
+	{
+		"created_at": "Sat Aug 27 17:51:52 +0000 2022",
+		"id": 1563585099953606700,
+		"id_str": "1563585099953606656",
+		"full_text": "@ancientnmodern You mock now, but you'll wish you'd paid attention to this when you find yourself in Boulogne with your lappets all rumpled.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "Dame VictoriaG Esq (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1561109106118770700,
+		"in_reply_to_status_id_str": "1561109106118770688",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23144,
+			"friends_count": 2386,
+			"listed_count": 572,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ancientnmodern You mock now, but you'll wish you'd paid attention to this when you find yourself in Boulogne with your lappets all rumpled."
+	},
+	{
+		"created_at": "Sat Aug 27 15:42:02 +0000 2022",
+		"id": 1563394627021029400,
+		"id_str": "1563552426279391232",
+		"full_text": "Life in a Boarding House, Eric Ravilious, 1930. A now lost mural: one of several painted by Ravilious and Edward Bawden at Morley College in #London. It was destroyed in the Blitz during #WW2. https://t.co/sXXo2Tksz6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "London",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "WW2",
+					"indices": [
+						187,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559632508811092000,
+					"id_str": "1559632508811091971",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FaTtgOPWIAMuV_4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaTtgOPWIAMuV_4.jpg",
+					"url": "https://t.co/sXXo2Tksz6",
+					"display_url": "pic.twitter.com/sXXo2Tksz6",
+					"expanded_url": "https://twitter.com/Ravilious1942/status/1563394627021029376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559632508811092000,
+					"id_str": "1559632508811091971",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FaTtgOPWIAMuV_4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaTtgOPWIAMuV_4.jpg",
+					"url": "https://t.co/sXXo2Tksz6",
+					"display_url": "pic.twitter.com/sXXo2Tksz6",
+					"expanded_url": "https://twitter.com/Ravilious1942/status/1563394627021029376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1164253063789600800,
+			"id_str": "1164253063789600768",
+			"name": "Ravilious",
+			"screen_name": "Ravilious1942",
+			"location": "Yorkshire",
+			"description": "A tribute to the work of British artist Eric Ravilious (1903-1942) & with it so many other things in the natural world around us.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36027,
+			"friends_count": 167,
+			"listed_count": 216,
+			"created_at": "Wed Aug 21 19:09:12 +0000 2019",
+			"favourites_count": 26998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180740258004131845/Vo9bMiDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180740258004131845/Vo9bMiDc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1164253063789600768/1571686898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 256,
+		"favorite_count": 1803,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Life in a Boarding House, Eric Ravilious, 1930. A now lost mural: one of several painted by Ravilious and Edward Bawden at Morley College in #London. It was destroyed in the Blitz during #WW2. https://t.co/sXXo2Tksz6"
+	},
+	{
+		"created_at": "Sat Aug 27 14:32:35 +0000 2022",
+		"id": 1563521295362719700,
+		"id_str": "1563534950447857664",
+		"full_text": "\"Kerameikos\" by Nikolaos Xenos, 1939 https://t.co/24y7IG7hyJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1563521135387369500,
+					"id_str": "1563521135387369472",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FbK-MFGUYAAfcm0.png",
+					"media_url_https": "https://pbs.twimg.com/media/FbK-MFGUYAAfcm0.png",
+					"url": "https://t.co/24y7IG7hyJ",
+					"display_url": "pic.twitter.com/24y7IG7hyJ",
+					"expanded_url": "https://twitter.com/KalliopiNikita/status/1563521295362719752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563521135387369500,
+					"id_str": "1563521135387369472",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FbK-MFGUYAAfcm0.png",
+					"media_url_https": "https://pbs.twimg.com/media/FbK-MFGUYAAfcm0.png",
+					"url": "https://t.co/24y7IG7hyJ",
+					"display_url": "pic.twitter.com/24y7IG7hyJ",
+					"expanded_url": "https://twitter.com/KalliopiNikita/status/1563521295362719752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2980387305,
+			"id_str": "2980387305",
+			"name": "Dr Kalliopi Nikita",
+			"screen_name": "KalliopiNikita",
+			"location": "Athens, Greece",
+			"description": "Aegean and Mediterranean Archaeology - Ancient Glass, Beads and Ornaments - Greek Culture, Language and Heritage Awareness - Art lover - Sphinx",
+			"url": "https://t.co/ORyOslS1oZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ORyOslS1oZ",
+							"expanded_url": "https://culture.academia.edu/KalliopiNikita",
+							"display_url": "culture.academia.edu/KalliopiNikita",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3788,
+			"friends_count": 4523,
+			"listed_count": 65,
+			"created_at": "Thu Jan 15 21:35:10 +0000 2015",
+			"favourites_count": 7991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260597741220253696/HfehPc3Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260597741220253696/HfehPc3Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2980387305/1660915852",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "lt",
+		"text": "\"Kerameikos\" by Nikolaos Xenos, 1939 https://t.co/24y7IG7hyJ"
+	},
+	{
+		"created_at": "Sat Aug 27 11:59:29 +0000 2022",
+		"id": 1563088700028092400,
+		"id_str": "1563496420153249793",
+		"full_text": "I’m obsessed with the ending of this episode of corrie https://t.co/d2BVaIloQ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1563088561573970000,
+					"id_str": "1563088561573969920",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1563088561573969920/pu/img/4KxY2qQ_Nq6NRo4x.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1563088561573969920/pu/img/4KxY2qQ_Nq6NRo4x.jpg",
+					"url": "https://t.co/d2BVaIloQ3",
+					"display_url": "pic.twitter.com/d2BVaIloQ3",
+					"expanded_url": "https://twitter.com/RussellHayward/status/1563088700028092416/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563088561573970000,
+					"id_str": "1563088561573969920",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1563088561573969920/pu/img/4KxY2qQ_Nq6NRo4x.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1563088561573969920/pu/img/4KxY2qQ_Nq6NRo4x.jpg",
+					"url": "https://t.co/d2BVaIloQ3",
+					"display_url": "pic.twitter.com/d2BVaIloQ3",
+					"expanded_url": "https://twitter.com/RussellHayward/status/1563088700028092416/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							7,
+							5
+						],
+						"duration_millis": 17675,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1563088561573969920/pu/pl/pGCFjmBEmXjC6Ia-.m3u8?tag=12&container=fmp4&v=7db"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1563088561573969920/pu/vid/378x270/RelbAnvYFmyn98Ti.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1563088561573969920/pu/vid/504x360/FH2DWnnL0odBpy3-.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1563088561573969920/pu/vid/672x480/20zi3yBUGSp2E6kg.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19465488,
+			"id_str": "19465488",
+			"name": "Russell 🍹",
+			"screen_name": "RussellHayward",
+			"location": "Manchester, England",
+			"description": "Coronation Street. EastEnders. The Simpsons. Eurovision. #BeMoreMartyn #UequalsU he/him 💋 (A friend of Phil & Ian)",
+			"url": "https://t.co/SjnkCOlXjT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SjnkCOlXjT",
+							"expanded_url": "https://linktr.ee/RussellHayward",
+							"display_url": "linktr.ee/RussellHayward",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14184,
+			"friends_count": 915,
+			"listed_count": 15,
+			"created_at": "Sat Jan 24 22:00:41 +0000 2009",
+			"favourites_count": 12553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E0F17",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1557765705071747072/Rj5wWEtQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1557765705071747072/Rj5wWEtQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19465488/1659207252",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "DECF2F",
+			"profile_sidebar_fill_color": "616660",
+			"profile_text_color": "1C3D37",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 344,
+		"favorite_count": 3079,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m obsessed with the ending of this episode of corrie https://t.co/d2BVaIloQ3"
+	},
+	{
+		"created_at": "Sat Aug 27 08:22:06 +0000 2022",
+		"id": 1563441715255869400,
+		"id_str": "1563441715255869440",
+		"full_text": "@GirlsOwn Uh-oh",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsOwn",
+					"name": "Girls' Own advice",
+					"id": 2351494683,
+					"id_str": "2351494683",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1563246825595093000,
+		"in_reply_to_status_id_str": "1563246825595092998",
+		"in_reply_to_user_id": 2351494683,
+		"in_reply_to_user_id_str": "2351494683",
+		"in_reply_to_screen_name": "GirlsOwn",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23144,
+			"friends_count": 2386,
+			"listed_count": 572,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GirlsOwn Uh-oh"
+	},
+	{
 		"created_at": "Fri Aug 26 19:05:49 +0000 2022",
 		"id": 1563241320788816000,
 		"id_str": "1563241320788815872",
@@ -655,7 +1564,7 @@ Grailbird.data.tweets_2022_08 =
 				},
 				{
 					"screen_name": "QuillRKukla",
-					"name": "Quill Κουκλα 🏳️‍🌈🦄🥊🏋️🦔🦔🦔",
+					"name": "Quill Κουκλα 🏳️🌈🦄🥊🏋️🦔🦔🦔",
 					"id": 614320813,
 					"id_str": "614320813",
 					"indices": [
@@ -1143,7 +2052,7 @@ Grailbird.data.tweets_2022_08 =
 				},
 				{
 					"screen_name": "QuillRKukla",
-					"name": "Quill Κουκλα 🏳️‍🌈🦄🥊🏋️🦔🦔🦔",
+					"name": "Quill Κουκλα 🏳️🌈🦄🥊🏋️🦔🦔🦔",
 					"id": 614320813,
 					"id_str": "614320813",
 					"indices": [
