@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 28 17:10:05 +0000 2022",
+		"id": 1563926893942001700,
+		"id_str": "1563936972250415104",
+		"full_text": "The denial of the existence of consciousness is likely nonsense, wrote @BernardoKastrup. But, we needn't reject the existence of consciousness, only the view that it consists in private mental qualities - this is more plausible, argues @keithfrankish. https://t.co/8EcKtBc8LK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BernardoKastrup",
+					"name": "Bernardo Kastrup 🇱🇹🇪🇪🇱🇻",
+					"id": 2616900355,
+					"id_str": "2616900355",
+					"indices": [
+						71,
+						87
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						236,
+						250
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8EcKtBc8LK",
+					"expanded_url": "https://iai.tv/articles/the-demystification-of-consciousness-auid-1381",
+					"display_url": "iai.tv/articles/the-d…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101720224,
+			"id_str": "101720224",
+			"name": "Institute of Art and Ideas",
+			"screen_name": "IAI_TV",
+			"location": "London and Hay-on-Wye",
+			"description": "Bringing you the ideas that matter. \nSubscribe here: https://t.co/ztuIE60xr1\nHosts the philosophy and music @HTLGIFestival: https://t.co/eQmPCaa5r4",
+			"url": "https://t.co/ygQx1oluWD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ygQx1oluWD",
+							"expanded_url": "http://www.iai.tv/player",
+							"display_url": "iai.tv/player",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ztuIE60xr1",
+							"expanded_url": "https://iai.tv/subscribe",
+							"display_url": "iai.tv/subscribe",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/eQmPCaa5r4",
+							"expanded_url": "https://howthelightgetsin.org/",
+							"display_url": "howthelightgetsin.org",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21822,
+			"friends_count": 2554,
+			"listed_count": 604,
+			"created_at": "Mon Jan 04 10:17:17 +0000 2010",
+			"favourites_count": 4555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758343441432645634/sGGN6b3B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758343441432645634/sGGN6b3B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101720224/1571396025",
+			"profile_link_color": "3D4447",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The denial of the existence of consciousness is likely nonsense, wrote @BernardoKastrup. But, we needn't reject the existence of consciousness, only the view that it consists in private mental qualities - this is more plausible, argues @keithfrankish. https://t.co/8EcKtBc8LK"
+	},
+	{
 		"created_at": "Sat Aug 27 20:27:10 +0000 2022",
 		"id": 1563624181312458800,
 		"id_str": "1563624181312458756",
