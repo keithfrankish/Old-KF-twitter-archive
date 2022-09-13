@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 09:20:14 +0000 2022",
+		"id": 1569239210783129600,
+		"id_str": "1569254549503852544",
+		"full_text": "On a somewhat related theme, is there any serious work on the declassified files on \"Unidentified Aerial Phenomena\". E.g., any good reviews of explanations, or maybe applied epistemology? 🛸 https://t.co/gAFs6TY2St",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gAFs6TY2St",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1568917735396069381",
+					"display_url": "twitter.com/keithfrankish/…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1337444084886220800,
+			"id_str": "1337444084886220802",
+			"name": "Jonny Lee 🌱🧠",
+			"screen_name": "Jonny_CW_Lee",
+			"location": "",
+			"description": "Postdoc @UMU | Philosopher working on plant intelligence | Player of games |  Explorer of speculative fiction | Fan of spooks | Cybernetic Communard | He/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1042,
+			"friends_count": 893,
+			"listed_count": 15,
+			"created_at": "Fri Dec 11 17:08:16 +0000 2020",
+			"favourites_count": 7566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425840091344384005/TtyJFPtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425840091344384005/TtyJFPtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1337444084886220802/1636746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1568917735396069400,
+		"quoted_status_id_str": "1568917735396069381",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gAFs6TY2St",
+			"expanded": "https://twitter.com/keithfrankish/status/1568917735396069381",
+			"display": "twitter.com/keithfrankish/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 11 11:01:51 +0000 2022",
+			"id": 1568917735396069400,
+			"id_str": "1568917735396069381",
+			"full_text": "A request, please: What are some good things to read about first contact with aliens? I'm looking for serious treatments, either fictional or scholarly.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52522040,
+				"id_str": "52522040",
+				"name": "Keith Frankish",
+				"screen_name": "keithfrankish",
+				"location": "Heraklion, Crete, Greece",
+				"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+				"url": "https://t.co/B6jDJHNZ04",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B6jDJHNZ04",
+								"expanded_url": "https://www.keithfrankish.com",
+								"display_url": "keithfrankish.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kyMR0mA01M",
+								"expanded_url": "http://youtube.com/c/MindChat",
+								"display_url": "youtube.com/c/MindChat",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23390,
+				"friends_count": 2395,
+				"listed_count": 571,
+				"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+				"favourites_count": 50342,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 73021,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "304075",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C0C6CC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On a somewhat related theme, is there any serious work on the declassified files on \"Unidentified Aerial Phenomena\". E.g., any good reviews of explanations, or maybe applied epistemology? 🛸 https://t.co/gAFs6TY2St"
+	},
+	{
 		"created_at": "Sun Sep 11 20:41:41 +0000 2022",
 		"id": 1569063655601225700,
 		"id_str": "1569063655601225730",
