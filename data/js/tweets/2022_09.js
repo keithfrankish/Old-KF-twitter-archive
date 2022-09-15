@@ -1,6 +1,748 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 16:53:33 +0000 2022",
+		"id": 1569655610748043300,
+		"id_str": "1570093406273081344",
+		"full_text": "What’s wrong with saying that ALL possibilities are epistemic? Do we really need objective/worldly possibility?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369837085,
+			"id_str": "369837085",
+			"name": "Samuel",
+			"screen_name": "KimptonNye",
+			"location": "",
+			"description": "Research Associate on the @MetaScienceEU project at the University of Bristol. I work on metaphysics and the philosophy of science. Views are from nowhere.",
+			"url": "https://t.co/222QQtw2Fz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/222QQtw2Fz",
+							"expanded_url": "http://samuelkimpton-nye.com",
+							"display_url": "samuelkimpton-nye.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3536,
+			"friends_count": 3163,
+			"listed_count": 84,
+			"created_at": "Thu Sep 08 01:16:46 +0000 2011",
+			"favourites_count": 9070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1338490117749661697/QQDVKSjx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1338490117749661697/QQDVKSjx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369837085/1545585232",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What’s wrong with saying that ALL possibilities are epistemic? Do we really need objective/worldly possibility?"
+	},
+	{
+		"created_at": "Wed Sep 14 14:53:48 +0000 2022",
+		"id": 1570063268454011000,
+		"id_str": "1570063268454010880",
+		"full_text": "Mind Chat Season 3 starts tomorrow with an interview with Noam Chomsky. Live at 6.00pm UK time. Pizzazz guaranteed. Don't miss it!  @Philip_Goff  https://t.co/JeWHUrwLyZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						132,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JeWHUrwLyZ",
+					"expanded_url": "https://www.youtube.com/watch?v=c70AgpfOxzI",
+					"display_url": "youtube.com/watch?v=c70Agp…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23415,
+			"friends_count": 2397,
+			"listed_count": 571,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mind Chat Season 3 starts tomorrow with an interview with Noam Chomsky. Live at 6.00pm UK time. Pizzazz guaranteed. Don't miss it!  @Philip_Goff  https://t.co/JeWHUrwLyZ"
+	},
+	{
+		"created_at": "Wed Sep 14 10:49:33 +0000 2022",
+		"id": 1570001800505311200,
+		"id_str": "1570001800505311232",
+		"full_text": "Here is @birchlse's summary of the talk I linked. https://t.co/RI7dYGJuuA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "birchlse",
+					"name": "Jonathan Birch",
+					"id": 1177524519885594600,
+					"id_str": "1177524519885594624",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RI7dYGJuuA",
+					"expanded_url": "https://twitter.com/birchlse/status/1569710611847602177",
+					"display_url": "twitter.com/birchlse/statu…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23415,
+			"friends_count": 2397,
+			"listed_count": 571,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569710611847602200,
+		"quoted_status_id_str": "1569710611847602177",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RI7dYGJuuA",
+			"expanded": "https://twitter.com/birchlse/status/1569710611847602177",
+			"display": "twitter.com/birchlse/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 13 15:32:28 +0000 2022",
+			"id": 1569710611847602200,
+			"id_str": "1569710611847602177",
+			"full_text": "Hiro has kindly shared a video of my talk on \"Theories of consciousness: beyond the first/higher-order distinction\". Here is quick thread explaining the main point of the talk. (1/5) https://t.co/XRWH84zbhl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XRWH84zbhl",
+						"expanded_url": "https://twitter.com/HiroTaiyoHamada/status/1569334768528916483",
+						"display_url": "twitter.com/HiroTaiyoHamad…",
+						"indices": [
+							183,
+							206
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1177524519885594600,
+				"id_str": "1177524519885594624",
+				"name": "Jonathan Birch",
+				"screen_name": "birchlse",
+				"location": "London, UK",
+				"description": "Associate Professor, LSE. Philosophy of science, evolution of altruism, animal consciousness. PI, Foundations of Animal Sentience project.",
+				"url": "https://t.co/ZSKhtuI7oY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZSKhtuI7oY",
+								"expanded_url": "https://www.lse.ac.uk/cpnss/research/ASENT",
+								"display_url": "lse.ac.uk/cpnss/research…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8156,
+				"friends_count": 896,
+				"listed_count": 114,
+				"created_at": "Fri Sep 27 10:05:05 +0000 2019",
+				"favourites_count": 11157,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1712,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1177524662059843584/cOZz8FoJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177524662059843584/cOZz8FoJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1177524519885594624/1656880715",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1569334768528916500,
+			"quoted_status_id_str": "1569334768528916483",
+			"quoted_status_permalink": {
+				"url": "https://t.co/XRWH84zbhl",
+				"expanded": "https://twitter.com/HiroTaiyoHamada/status/1569334768528916483",
+				"display": "twitter.com/HiroTaiyoHamad…"
+			},
+			"retweet_count": 11,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is @birchlse's summary of the talk I linked. https://t.co/RI7dYGJuuA"
+	},
+	{
+		"created_at": "Wed Sep 14 10:48:34 +0000 2022",
+		"id": 1570001553184141300,
+		"id_str": "1570001553184141315",
+		"full_text": "Here's a video of a recent talk on animal consciousness by @birchlse. I heard the talk live and can vouch for its excellence! https://t.co/fNjDOICeTG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "birchlse",
+					"name": "Jonathan Birch",
+					"id": 1177524519885594600,
+					"id_str": "1177524519885594624",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fNjDOICeTG",
+					"expanded_url": "https://twitter.com/HiroTaiyoHamada/status/1569334768528916483",
+					"display_url": "twitter.com/HiroTaiyoHamad…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23415,
+			"friends_count": 2397,
+			"listed_count": 571,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569334768528916500,
+		"quoted_status_id_str": "1569334768528916483",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fNjDOICeTG",
+			"expanded": "https://twitter.com/HiroTaiyoHamada/status/1569334768528916483",
+			"display": "twitter.com/HiroTaiyoHamad…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 12 14:39:00 +0000 2022",
+			"id": 1569334768528916500,
+			"id_str": "1569334768528916483",
+			"full_text": "【CC Tokyo】\nGlad to share the talk by Associate Prof. Jonathan Birch @birchlse \n\nTheories of consciousness: Beyond the first/higher-order distinction \n\n👇Movie\nhttps://t.co/XoQAAwaxIu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "birchlse",
+						"name": "Jonathan Birch",
+						"id": 1177524519885594600,
+						"id_str": "1177524519885594624",
+						"indices": [
+							68,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XoQAAwaxIu",
+						"expanded_url": "https://youtu.be/f7Cf3TbT4m8",
+						"display_url": "youtu.be/f7Cf3TbT4m8",
+						"indices": [
+							158,
+							181
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1221017677105229800,
+				"id_str": "1221017677105229824",
+				"name": "Hiro Hamada",
+				"screen_name": "HiroTaiyoHamada",
+				"location": "Tokyo",
+				"description": "A neuroscientist at Araya Inc., Japan. https://t.co/9dPQreds0m\nI organize Consciousness Club Tokyo🌃🧠, https://t.co/Ysr03C4AKE \nJapanese account @HiroTHamadaJP",
+				"url": "https://t.co/ACsEUjGEux",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ACsEUjGEux",
+								"expanded_url": "https://www.youtube.com/channel/UC83SNfiL0XQoiF1yrHCrW_w",
+								"display_url": "youtube.com/channel/UC83SN…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9dPQreds0m",
+								"expanded_url": "http://skuldnet.org",
+								"display_url": "skuldnet.org",
+								"indices": [
+									39,
+									62
+								]
+							},
+							{
+								"url": "https://t.co/Ysr03C4AKE",
+								"expanded_url": "http://conscious-machine.org/club/",
+								"display_url": "conscious-machine.org/club/",
+								"indices": [
+									102,
+									125
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 297,
+				"friends_count": 262,
+				"listed_count": 8,
+				"created_at": "Sat Jan 25 10:31:19 +0000 2020",
+				"favourites_count": 674,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 437,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1562683903999356928/uwTrdLpD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562683903999356928/uwTrdLpD_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's a video of a recent talk on animal consciousness by @birchlse. I heard the talk live and can vouch for its excellence! https://t.co/fNjDOICeTG"
+	},
+	{
 		"created_at": "Tue Sep 13 12:02:56 +0000 2022",
 		"id": 1569657883628896300,
 		"id_str": "1569657883628896256",
