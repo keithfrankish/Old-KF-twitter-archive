@@ -1,6 +1,1244 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 21:13:48 +0000 2022",
+		"id": 1570875679239196700,
+		"id_str": "1570883676065628161",
+		"full_text": "Integrated Information Theory has a logical flaw that probably cannot be repaired without turning it into a variant of bog standard Global Workspace Theory. What makes IIT special are not its \"axioms\" (which are not axioms) but its specific version of anti-functionalism.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28131948,
+			"id_str": "28131948",
+			"name": "Joscha Bach",
+			"screen_name": "Plinz",
+			"location": "San Francisco, CA",
+			"description": "FOLLOWS YOU. Artificial Intelligence, Cognitive Architectures, Computation. The goal is integrity, not conformity.",
+			"url": "https://t.co/zaZnPNwmKs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zaZnPNwmKs",
+							"expanded_url": "http://bach.ai",
+							"display_url": "bach.ai",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64268,
+			"friends_count": 705,
+			"listed_count": 935,
+			"created_at": "Wed Apr 01 15:59:34 +0000 2009",
+			"favourites_count": 12314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A4345",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565902500514779137/pmk7s4Xv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565902500514779137/pmk7s4Xv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28131948/1452654142",
+			"profile_link_color": "415366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "BDC6BD",
+			"profile_text_color": "898182",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Integrated Information Theory has a logical flaw that probably cannot be repaired without turning it into a variant of bog standard Global Workspace Theory. What makes IIT special are not its \"axioms\" (which are not axioms) but its specific version of anti-functionalism."
+	},
+	{
+		"created_at": "Fri Sep 16 14:55:18 +0000 2022",
+		"id": 1570664477745610800,
+		"id_str": "1570788420947185665",
+		"full_text": "@keithfrankish @Philip_Goff Philip and Keith. I have to say your Mind Chat project had all manner of risks. You both come from such distinct and opposing positions, and at times it's been tense. But this is exactly your strength!  Genius.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570516702001254400,
+		"in_reply_to_status_id_str": "1570516702001254400",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 920939461785026600,
+			"id_str": "920939461785026560",
+			"name": "Eri Mountbatten-O'Malley (PhD, FHEA)",
+			"screen_name": "EriMOMalley",
+			"location": "",
+			"description": "Snr lecturer in Education policy, Bath Spa University. My PhD is a conceptual analysis of human flourishing. Tweets own opinion. Retweets are not endorsements.",
+			"url": "https://t.co/uxlEk8u4S5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uxlEk8u4S5",
+							"expanded_url": "http://www.bathspa.ac.uk/our-people/eri-mountbatten-omalley/",
+							"display_url": "bathspa.ac.uk/our-people/eri…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 994,
+			"friends_count": 1111,
+			"listed_count": 16,
+			"created_at": "Thu Oct 19 09:07:32 +0000 2017",
+			"favourites_count": 30333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550211589739102209/pAZq3xIa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550211589739102209/pAZq3xIa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/920939461785026560/1620812249",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@keithfrankish @Philip_Goff Philip and Keith. I have to say your Mind Chat project had all manner of risks. You both come from such distinct and opposing positions, and at times it's been tense. But this is exactly your strength!  Genius."
+	},
+	{
+		"created_at": "Fri Sep 16 14:51:05 +0000 2022",
+		"id": 1570765411297415200,
+		"id_str": "1570787361621180419",
+		"full_text": "in which noam chomsky seems to endorse both russellian monism (not so far from panpsychism?) and hard-problem eliminativism (not so far from illusionism?).\nhttps://t.co/qjo2ZuEoEy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qjo2ZuEoEy",
+					"expanded_url": "https://www.youtube.com/watch?v=g2Vx5Ze_p8s",
+					"display_url": "youtube.com/watch?v=g2Vx5Z…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58318231,
+			"id_str": "58318231",
+			"name": "David Chalmers",
+			"screen_name": "davidchalmers42",
+			"location": "New York City",
+			"description": "philosopher@NYU. consciousness, reality+, life, the universe, and everything.",
+			"url": "https://t.co/oinPa2rqON",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oinPa2rqON",
+							"expanded_url": "http://consc.net/chalmers/",
+							"display_url": "consc.net/chalmers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5698,
+			"friends_count": 530,
+			"listed_count": 42,
+			"created_at": "Sun Jul 19 22:59:09 +0000 2009",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1561373096132722690/s7Xjqpwk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1561373096132722690/s7Xjqpwk_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "in which noam chomsky seems to endorse both russellian monism (not so far from panpsychism?) and hard-problem eliminativism (not so far from illusionism?).\nhttps://t.co/qjo2ZuEoEy"
+	},
+	{
+		"created_at": "Fri Sep 16 14:44:08 +0000 2022",
+		"id": 1570785612126617600,
+		"id_str": "1570785612126617601",
+		"full_text": "@ae_stallings KW was a fantastic actor, whose talents were criminally underappreciated",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ae_stallings",
+					"name": "Alicia E. Stallings",
+					"id": 3098836397,
+					"id_str": "3098836397",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1570722953171710000,
+		"in_reply_to_status_id_str": "1570722953171709953",
+		"in_reply_to_user_id": 3098836397,
+		"in_reply_to_user_id_str": "3098836397",
+		"in_reply_to_screen_name": "ae_stallings",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23440,
+			"friends_count": 2397,
+			"listed_count": 571,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ae_stallings KW was a fantastic actor, whose talents were criminally underappreciated"
+	},
+	{
+		"created_at": "Fri Sep 16 14:42:18 +0000 2022",
+		"id": 1570722953171710000,
+		"id_str": "1570785149301956609",
+		"full_text": "Wow--this is fascinating (and a fantastic reading): https://t.co/56wjCkmYuF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/56wjCkmYuF",
+					"expanded_url": "https://twitter.com/JamesAHogg2/status/1570645117668827138",
+					"display_url": "twitter.com/JamesAHogg2/st…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3098836397,
+			"id_str": "3098836397",
+			"name": "Alicia E. Stallings",
+			"screen_name": "ae_stallings",
+			"location": "",
+			"description": "docta puella (poet, translator, essayist, speaker, knitter, metic living in Athens): \"A Poet is the most unpoetical of any thing in existence.\" Overeducated.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8061,
+			"friends_count": 2250,
+			"listed_count": 110,
+			"created_at": "Fri Mar 20 09:52:04 +0000 2015",
+			"favourites_count": 107466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582979766745243649/2jAswhzf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582979766745243649/2jAswhzf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3098836397/1535970932",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570645117668827100,
+		"quoted_status_id_str": "1570645117668827138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/56wjCkmYuF",
+			"expanded": "https://twitter.com/JamesAHogg2/status/1570645117668827138",
+			"display": "twitter.com/JamesAHogg2/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 16 05:25:51 +0000 2022",
+			"id": 1570645117668827100,
+			"id_str": "1570645117668827138",
+			"full_text": "Maggie Smith and Kenneth Williams read the first poem Sir John Betjeman ever had published, Death in Leamington, to Sir John Betjeman. Spellbinding. https://t.co/NjdxIX90oE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1570644996801306600,
+						"id_str": "1570644996801306624",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570644996801306624/pu/img/X__jsFl4jlSLw0aN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570644996801306624/pu/img/X__jsFl4jlSLw0aN.jpg",
+						"url": "https://t.co/NjdxIX90oE",
+						"display_url": "pic.twitter.com/NjdxIX90oE",
+						"expanded_url": "https://twitter.com/JamesAHogg2/status/1570645117668827138/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 384,
+								"h": 288,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 384,
+								"h": 288,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 384,
+								"h": 288,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1570644996801306600,
+						"id_str": "1570644996801306624",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570644996801306624/pu/img/X__jsFl4jlSLw0aN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570644996801306624/pu/img/X__jsFl4jlSLw0aN.jpg",
+						"url": "https://t.co/NjdxIX90oE",
+						"display_url": "pic.twitter.com/NjdxIX90oE",
+						"expanded_url": "https://twitter.com/JamesAHogg2/status/1570645117668827138/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 384,
+								"h": 288,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 384,
+								"h": 288,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 384,
+								"h": 288,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 124389,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1570644996801306624/pu/pl/Liwv47aL9HW3fbos.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1570644996801306624/pu/vid/384x288/akCX1u9qahzlt0yM.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1570644996801306624/pu/vid/360x270/Or0b9WUmh98E4KW6.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1240595148872048600,
+				"id_str": "1240595148872048641",
+				"name": "James Hogg",
+				"screen_name": "JamesAHogg2",
+				"location": "Leeds. Leeds. Leeds",
+				"description": "Ghostwriter & collaborater with an eclectic CV and official biographer of Kenny Everett, Ernie Wise, Richard Briers and James Robertson Justice. Rep @PFDagents.",
+				"url": "https://t.co/jZ9fGlun3q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jZ9fGlun3q",
+								"expanded_url": "https://petersfraserdunlop.com/clients/james-hogg/",
+								"display_url": "petersfraserdunlop.com/clients/james-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4185,
+				"friends_count": 576,
+				"listed_count": 10,
+				"created_at": "Thu Mar 19 11:05:17 +0000 2020",
+				"favourites_count": 39175,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13025,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1461996033047773198/7cupadjB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461996033047773198/7cupadjB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1240595148872048641/1659078513",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1109,
+			"favorite_count": 5572,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 68,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow--this is fascinating (and a fantastic reading): https://t.co/56wjCkmYuF"
+	},
+	{
+		"created_at": "Fri Sep 16 13:41:48 +0000 2022",
+		"id": 1570769924590817300,
+		"id_str": "1570769924590817284",
+		"full_text": "@Philip_Goff *to think *qualia* are nowhere",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1570769438785572900,
+		"in_reply_to_status_id_str": "1570769438785572866",
+		"in_reply_to_user_id": 216809385,
+		"in_reply_to_user_id_str": "216809385",
+		"in_reply_to_screen_name": "Philip_Goff",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23440,
+			"friends_count": 2397,
+			"listed_count": 571,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Philip_Goff *to think *qualia* are nowhere"
+	},
+	{
+		"created_at": "Fri Sep 16 13:39:31 +0000 2022",
+		"id": 1570454373280682000,
+		"id_str": "1570769353200771072",
+		"full_text": "Thread 1/4\nI find myself being drawn to the Fens again and a tale I’d heard of a derelict pub by the Little Ouse river that has no roads leading to it, as during its heyday it served only passing Bargemen and ‘those from Southery’ who would walk across the fen to drink there ... https://t.co/cx6W2AuIPl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570453958983917600,
+					"id_str": "1570453958983917568",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FctfjhlXoAAJP-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FctfjhlXoAAJP-w.jpg",
+					"url": "https://t.co/cx6W2AuIPl",
+					"display_url": "pic.twitter.com/cx6W2AuIPl",
+					"expanded_url": "https://twitter.com/acambridgediary/status/1570454373280681984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570453958983917600,
+					"id_str": "1570453958983917568",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FctfjhlXoAAJP-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FctfjhlXoAAJP-w.jpg",
+					"url": "https://t.co/cx6W2AuIPl",
+					"display_url": "pic.twitter.com/cx6W2AuIPl",
+					"expanded_url": "https://twitter.com/acambridgediary/status/1570454373280681984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1323340710,
+			"id_str": "1323340710",
+			"name": "A Cambridge Diary",
+			"screen_name": "acambridgediary",
+			"location": "Cambridge",
+			"description": "The original Cambridge Diary.\nA picture every day since 2010. #cambridge",
+			"url": "https://t.co/XSIc0tKRCB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSIc0tKRCB",
+							"expanded_url": "http://www.acambridgediary.co.uk",
+							"display_url": "acambridgediary.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28780,
+			"friends_count": 65,
+			"listed_count": 145,
+			"created_at": "Tue Apr 02 22:01:39 +0000 2013",
+			"favourites_count": 23561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "444444",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405106427362828290/x22Cx7av_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405106427362828290/x22Cx7av_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323340710/1653755340",
+			"profile_link_color": "768494",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread 1/4\nI find myself being drawn to the Fens again and a tale I’d heard of a derelict pub by the Little Ouse river that has no roads leading to it, as during its heyday it served only passing Bargemen and ‘those from Southery’ who would walk across the fen to drink there ... https://t.co/cx6W2AuIPl"
+	},
+	{
+		"created_at": "Fri Sep 16 13:39:04 +0000 2022",
+		"id": 1570768490377932800,
+		"id_str": "1570769237505081345",
+		"full_text": "My prediction (that I hope is wrong): Keir Starmer wins next election, changes very little and thereby destroys the last bit of hope for positive political change, then we get fascists in parliament. https://t.co/hgYr8if45H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hgYr8if45H",
+					"expanded_url": "https://twitter.com/stephenlaw60/status/1570761446396678148",
+					"display_url": "twitter.com/stephenlaw60/s…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216809385,
+			"id_str": "216809385",
+			"name": "Philip Goff",
+			"screen_name": "Philip_Goff",
+			"location": "Durham, England",
+			"description": "Associate Professor of Philosophy, author of 'Galileo's Error' & co-host of 'Mind Chat.' I research consciousness. Panpsychist, socialist, practicing agnostic.",
+			"url": "https://t.co/08S5UaFPTV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/08S5UaFPTV",
+							"expanded_url": "http://www.philipgoffphilosophy.com",
+							"display_url": "philipgoffphilosophy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19764,
+			"friends_count": 1279,
+			"listed_count": 289,
+			"created_at": "Wed Nov 17 19:46:56 +0000 2010",
+			"favourites_count": 19122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440999315074338817/dO8B4lo0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440999315074338817/dO8B4lo0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216809385/1574435202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570761446396678100,
+		"quoted_status_id_str": "1570761446396678148",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hgYr8if45H",
+			"expanded": "https://twitter.com/stephenlaw60/status/1570761446396678148",
+			"display": "twitter.com/stephenlaw60/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 16 13:08:06 +0000 2022",
+			"id": 1570761446396678100,
+			"id_str": "1570761446396678148",
+			"full_text": "What's the probability of the UK drifting into something like fascism within the next decade?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98470340,
+				"id_str": "98470340",
+				"name": "Stephen Law",
+				"screen_name": "stephenlaw60",
+				"location": "Oxford, England",
+				"description": "Philosopher and author. Director Philosophy and Cert HE, Oxford University Dept. Continuing Education.",
+				"url": "https://t.co/JSmh6G6tC1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JSmh6G6tC1",
+								"expanded_url": "http://stephenlaw4schools.blogspot.co.uk",
+								"display_url": "stephenlaw4schools.blogspot.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12116,
+				"friends_count": 5823,
+				"listed_count": 329,
+				"created_at": "Mon Dec 21 21:02:53 +0000 2009",
+				"favourites_count": 19481,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20584,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1268231630226948098/V4v3jfC6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268231630226948098/V4v3jfC6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98470340/1607608719",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My prediction (that I hope is wrong): Keir Starmer wins next election, changes very little and thereby destroys the last bit of hope for positive political change, then we get fascists in parliament. https://t.co/hgYr8if45H"
+	},
+	{
 		"created_at": "Thu Sep 15 21:50:45 +0000 2022",
 		"id": 1570530588221898800,
 		"id_str": "1570530588221898759",
