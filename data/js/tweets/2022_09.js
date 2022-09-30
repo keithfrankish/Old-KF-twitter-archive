@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 14:48:53 +0000 2022",
+		"id": 1575497851404025900,
+		"id_str": "1575497851404025856",
+		"full_text": "Word https://t.co/nvVU6sAlAl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575497848640090000,
+					"id_str": "1575497848640090114",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd1K8iyVsAIY3zm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd1K8iyVsAIY3zm.jpg",
+					"url": "https://t.co/nvVU6sAlAl",
+					"display_url": "pic.twitter.com/nvVU6sAlAl",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1575497851404025856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575497848640090000,
+					"id_str": "1575497848640090114",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd1K8iyVsAIY3zm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd1K8iyVsAIY3zm.jpg",
+					"url": "https://t.co/nvVU6sAlAl",
+					"display_url": "pic.twitter.com/nvVU6sAlAl",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1575497851404025856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23671,
+			"friends_count": 2398,
+			"listed_count": 575,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Word https://t.co/nvVU6sAlAl"
+	},
+	{
+		"created_at": "Thu Sep 29 14:22:40 +0000 2022",
+		"id": 1575491254355300400,
+		"id_str": "1575491254355300352",
+		"full_text": "Dan Dennett on underprivileged introspective access https://t.co/lz5geTTKXE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575491250744045600,
+					"id_str": "1575491250744045568",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd1E8ftVsAAFKEH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd1E8ftVsAAFKEH.jpg",
+					"url": "https://t.co/lz5geTTKXE",
+					"display_url": "pic.twitter.com/lz5geTTKXE",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1575491254355300352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575491250744045600,
+					"id_str": "1575491250744045568",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd1E8ftVsAAFKEH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd1E8ftVsAAFKEH.jpg",
+					"url": "https://t.co/lz5geTTKXE",
+					"display_url": "pic.twitter.com/lz5geTTKXE",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1575491254355300352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23671,
+			"friends_count": 2398,
+			"listed_count": 575,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dan Dennett on underprivileged introspective access https://t.co/lz5geTTKXE"
+	},
+	{
+		"created_at": "Thu Sep 29 12:59:00 +0000 2022",
+		"id": 1575430568401059800,
+		"id_str": "1575470198827663362",
+		"full_text": "Ukraine aside, UK media and political voices are increasingly insular, parochial even. The mounting threats against Greece are indeed worrying. Good to see this piece in the @FT. https://t.co/OzwkSTAYm3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FT",
+					"name": "Financial Times",
+					"id": 18949452,
+					"id_str": "18949452",
+					"indices": [
+						174,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OzwkSTAYm3",
+					"expanded_url": "https://twitter.com/Elbarbie/status/1575423466442047488",
+					"display_url": "twitter.com/Elbarbie/statu…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 847892022,
+			"id_str": "847892022",
+			"name": "John Kittmer 🇬🇧🇬🇷🇪🇺",
+			"screen_name": "JohnKittmer",
+			"location": "Scarborough, Yorkshire",
+			"description": "Chair @AngHellenLeague @GMTru. NED in shipping. Former dip & civil servant. Interests in Christian faith, Greece, ecology, equality, gardens, JRTs. Northerner.",
+			"url": "https://t.co/wEJHVNFqIt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wEJHVNFqIt",
+							"expanded_url": "https://antapokriseiscorrespondences.blogspot.com",
+							"display_url": "…pokriseiscorrespondences.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6092,
+			"friends_count": 175,
+			"listed_count": 140,
+			"created_at": "Wed Sep 26 18:34:08 +0000 2012",
+			"favourites_count": 15787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "98A5AB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559278078156734465/KhPPNGUu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559278078156734465/KhPPNGUu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/847892022/1664268005",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1575423466442047500,
+		"quoted_status_id_str": "1575423466442047488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OzwkSTAYm3",
+			"expanded": "https://twitter.com/Elbarbie/status/1575423466442047488",
+			"display": "twitter.com/Elbarbie/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 29 09:53:19 +0000 2022",
+			"id": 1575423466442047500,
+			"id_str": "1575423466442047488",
+			"full_text": "Turkey’s tough talk on Greece fuels Aegean tensions with ⁦@laurapitel⁩\n https://t.co/1hIhXcpx7g",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "laurapitel",
+						"name": "Laura Pitel",
+						"id": 20006549,
+						"id_str": "20006549",
+						"indices": [
+							58,
+							69
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1hIhXcpx7g",
+						"expanded_url": "https://enterprise-sharing.ft.com/redeem/c196bec8-d21b-4546-b425-48ae9ca69eb0",
+						"display_url": "enterprise-sharing.ft.com/redeem/c196bec…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69002929,
+				"id_str": "69002929",
+				"name": "Eleni Varvitsioti",
+				"screen_name": "Elbarbie",
+				"location": "Athens, Greece",
+				"description": "Covering 🇬🇷 & 🇨🇾 @FT, @antennanews, co-author \"The Last Bluff: How Greece came face-to-face w financial catastrophe & the secret plan for its euro exit\"",
+				"url": "https://t.co/sIIcqXgY4b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sIIcqXgY4b",
+								"expanded_url": "https://www.amazon.com/Last-Bluff-face-face-catastrophe-ebook/dp/B07SXCRNZB",
+								"display_url": "amazon.com/Last-Bluff-fac…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38009,
+				"friends_count": 2124,
+				"listed_count": 789,
+				"created_at": "Wed Aug 26 14:57:43 +0000 2009",
+				"favourites_count": 7749,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7259,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1187501331885502465/O6bdyje4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187501331885502465/O6bdyje4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69002929/1413539928",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ukraine aside, UK media and political voices are increasingly insular, parochial even. The mounting threats against Greece are indeed worrying. Good to see this piece in the @FT. https://t.co/OzwkSTAYm3"
+	},
+	{
 		"created_at": "Tue Sep 27 20:30:02 +0000 2022",
 		"id": 1574858929040986000,
 		"id_str": "1574858929040986112",
