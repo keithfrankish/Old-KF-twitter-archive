@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 19:57:34 +0000 2022",
+		"id": 1575919743936082000,
+		"id_str": "1575937921483673600",
+		"full_text": "All the illusionists in the world in one photo? @danieldennett @krysdolega @keithfrankish @davidpapineau https://t.co/RcByJIgLUr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danieldennett",
+					"name": "Daniel Dennett",
+					"id": 997629601,
+					"id_str": "997629601",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "krysdolega",
+					"name": "l'homme frustré",
+					"id": 901023297579745300,
+					"id_str": "901023297579745280",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						75,
+						89
+					]
+				},
+				{
+					"screen_name": "davidpapineau",
+					"name": "David Papineau",
+					"id": 72796877,
+					"id_str": "72796877",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575919724164268000,
+					"id_str": "1575919724164268043",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd7Ko7lXwAs1jWk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd7Ko7lXwAs1jWk.jpg",
+					"url": "https://t.co/RcByJIgLUr",
+					"display_url": "pic.twitter.com/RcByJIgLUr",
+					"expanded_url": "https://twitter.com/TobiasSchlicht4/status/1575919743936081920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1814,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1063,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575919724164268000,
+					"id_str": "1575919724164268043",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd7Ko7lXwAs1jWk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd7Ko7lXwAs1jWk.jpg",
+					"url": "https://t.co/RcByJIgLUr",
+					"display_url": "pic.twitter.com/RcByJIgLUr",
+					"expanded_url": "https://twitter.com/TobiasSchlicht4/status/1575919743936081920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1814,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1063,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1482319526331134000,
+			"id_str": "1482319526331133959",
+			"name": "Tobias Schlicht",
+			"screen_name": "TobiasSchlicht4",
+			"location": "Köln, Deutschland",
+			"description": "Philosopher @ Ruhr-Universität Bochum, lorem ipsum etcetera.",
+			"url": "https://t.co/2iveTe0dKp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2iveTe0dKp",
+							"expanded_url": "http://tobiasschlicht.com",
+							"display_url": "tobiasschlicht.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 883,
+			"friends_count": 403,
+			"listed_count": 11,
+			"created_at": "Sat Jan 15 11:51:46 +0000 2022",
+			"favourites_count": 2013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1535168420177752065/tawfXq6W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1535168420177752065/tawfXq6W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482319526331133959/1649102616",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All the illusionists in the world in one photo? @danieldennett @krysdolega @keithfrankish @davidpapineau https://t.co/RcByJIgLUr"
+	},
+	{
 		"created_at": "Thu Sep 29 14:48:53 +0000 2022",
 		"id": 1575497851404025900,
 		"id_str": "1575497851404025856",
@@ -491,7 +707,7 @@ Grailbird.data.tweets_2022_09 =
 			"created_at": "Thu Sep 29 09:53:19 +0000 2022",
 			"id": 1575423466442047500,
 			"id_str": "1575423466442047488",
-			"full_text": "Turkey’s tough talk on Greece fuels Aegean tensions with ⁦@laurapitel⁩\n https://t.co/1hIhXcpx7g",
+			"full_text": "Turkey’s tough talk on Greece fuels Aegean tensions with @laurapitel\n https://t.co/1hIhXcpx7g",
 			"truncated": false,
 			"display_text_range": [
 				0,
