@@ -1,6 +1,1178 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 17 16:19:53 +0000 2022",
+		"id": 1582043733029421000,
+		"id_str": "1582043733029421056",
+		"full_text": "@BartJConnelly No, we are very real indeed",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BartJConnelly",
+					"name": "Bart J Connelly",
+					"id": 28578877,
+					"id_str": "28578877",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1582042996144738300,
+		"in_reply_to_status_id_str": "1582042996144738304",
+		"in_reply_to_user_id": 28578877,
+		"in_reply_to_user_id_str": "28578877",
+		"in_reply_to_screen_name": "BartJConnelly",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24150,
+			"friends_count": 2399,
+			"listed_count": 581,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BartJConnelly No, we are very real indeed"
+	},
+	{
+		"created_at": "Mon Oct 17 15:26:38 +0000 2022",
+		"id": 1582030331984904200,
+		"id_str": "1582030331984904192",
+		"full_text": "The political scene is grotesque\nIt's a farce, a lampoon, a burlesque\nThe Chancellor's u-turning \nBackbenchers are squirming\nAnd the PM's hiding under her desk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24150,
+			"friends_count": 2399,
+			"listed_count": 581,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The political scene is grotesque\nIt's a farce, a lampoon, a burlesque\nThe Chancellor's u-turning \nBackbenchers are squirming\nAnd the PM's hiding under her desk"
+	},
+	{
+		"created_at": "Mon Oct 17 14:35:37 +0000 2022",
+		"id": 1582017493119295500,
+		"id_str": "1582017493119295488",
+		"full_text": "Hold on to each other. It's all we've got. https://t.co/4e8PvqImN5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4e8PvqImN5",
+					"expanded_url": "https://twitter.com/STU_ACTOR/status/1577926951376912384",
+					"display_url": "twitter.com/STU_ACTOR/stat…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24150,
+			"friends_count": 2399,
+			"listed_count": 581,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577926951376912400,
+		"quoted_status_id_str": "1577926951376912384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4e8PvqImN5",
+			"expanded": "https://twitter.com/STU_ACTOR/status/1577926951376912384",
+			"display": "twitter.com/STU_ACTOR/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 06 07:41:16 +0000 2022",
+			"id": 1577926951376912400,
+			"id_str": "1577926951376912384",
+			"full_text": "A man wanting to jump off a bridge in London was talked down by strangers who held him for an hour until help arrived. Look at that grip. Look at the care, compassion, selflessness, and determination shown by strangers to a hurting human being.\n\nWe need more of this in the world. https://t.co/8T1dE01ZcF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1577926946687750100,
+						"id_str": "1577926946687750144",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FeXsMqLXEAAlMbH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeXsMqLXEAAlMbH.jpg",
+						"url": "https://t.co/8T1dE01ZcF",
+						"display_url": "pic.twitter.com/8T1dE01ZcF",
+						"expanded_url": "https://twitter.com/STU_ACTOR/status/1577926951376912384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 647,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 914,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 914,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1577926946687750100,
+						"id_str": "1577926946687750144",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FeXsMqLXEAAlMbH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeXsMqLXEAAlMbH.jpg",
+						"url": "https://t.co/8T1dE01ZcF",
+						"display_url": "pic.twitter.com/8T1dE01ZcF",
+						"expanded_url": "https://twitter.com/STU_ACTOR/status/1577926951376912384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 647,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 914,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 914,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 351541320,
+				"id_str": "351541320",
+				"name": "Stuart Antony",
+				"screen_name": "STU_ACTOR",
+				"location": "London, England",
+				"description": "🎬 British Actor - @Iris_TV_ (Filming) - Previously The Bill, EastEnders, Holby City, The Bar, Silent Witness, & Cockney & Scouse - PR @cannycomms",
+				"url": "https://t.co/qSrBpkCuYj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qSrBpkCuYj",
+								"expanded_url": "http://www.instagram.com/stu_actor_",
+								"display_url": "instagram.com/stu_actor_",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 347702,
+				"friends_count": 61132,
+				"listed_count": 155,
+				"created_at": "Tue Aug 09 11:49:15 +0000 2011",
+				"favourites_count": 79206,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16611,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1579920036164165649/-xEevDox_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1579920036164165649/-xEevDox_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/351541320/1664275087",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54223,
+			"favorite_count": 309281,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hold on to each other. It's all we've got. https://t.co/4e8PvqImN5"
+	},
+	{
+		"created_at": "Mon Oct 17 14:22:02 +0000 2022",
+		"id": 1581980889772269600,
+		"id_str": "1582014076288262144",
+		"full_text": "\"Lesis is sending a letter to Xenocles... I have been handed over to a thoroughly wicked man; I am perishing from being whipped; I am tied up; I am treated like dirt.\"\nThis is the only Ancient Greek text where a slave describes his own pain and suffering:\nhttps://t.co/HJelleUSbd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HJelleUSbd",
+					"expanded_url": "https://antigonejournal.com/2021/05/greek-slavery-frederick-douglass/",
+					"display_url": "antigonejournal.com/2021/05/greek-…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1327617272266039300,
+			"id_str": "1327617272266039297",
+			"name": "Antigone Journal",
+			"screen_name": "AntigoneJournal",
+			"location": "Thebes",
+			"description": "An open forum for Classics—Ancient Greece, Rome, and their influence.\n\nWe publish 3 articles a week by academics, students, & enthusiasts on https://t.co/ZDKcleUyzu",
+			"url": "https://t.co/ZDKcleUyzu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZDKcleUyzu",
+							"expanded_url": "http://antigonejournal.com",
+							"display_url": "antigonejournal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZDKcleUyzu",
+							"expanded_url": "http://antigonejournal.com",
+							"display_url": "antigonejournal.com",
+							"indices": [
+								141,
+								164
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10964,
+			"friends_count": 53,
+			"listed_count": 110,
+			"created_at": "Sat Nov 14 14:20:09 +0000 2020",
+			"favourites_count": 14261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369393449347280901/4T9ZVIVW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369393449347280901/4T9ZVIVW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1327617272266039297/1663757340",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Lesis is sending a letter to Xenocles... I have been handed over to a thoroughly wicked man; I am perishing from being whipped; I am tied up; I am treated like dirt.\"\nThis is the only Ancient Greek text where a slave describes his own pain and suffering:\nhttps://t.co/HJelleUSbd"
+	},
+	{
+		"created_at": "Mon Oct 17 14:18:46 +0000 2022",
+		"id": 1582013253819191300,
+		"id_str": "1582013253819191298",
+		"full_text": "@BCRPM @bruceclark7 Συγχαρητήρια!",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BCRPM",
+					"name": "British Committee",
+					"id": 52358452,
+					"id_str": "52358452",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "bruceclark7",
+					"name": "bruce clark",
+					"id": 425819622,
+					"id_str": "425819622",
+					"indices": [
+						7,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1582008958100742100,
+		"in_reply_to_status_id_str": "1582008958100742147",
+		"in_reply_to_user_id": 52358452,
+		"in_reply_to_user_id_str": "52358452",
+		"in_reply_to_screen_name": "BCRPM",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24150,
+			"friends_count": 2399,
+			"listed_count": 581,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "el",
+		"text": "@BCRPM @bruceclark7 Συγχαρητήρια!"
+	},
+	{
+		"created_at": "Mon Oct 17 14:04:03 +0000 2022",
+		"id": 1581944118665613300,
+		"id_str": "1582009550575919105",
+		"full_text": "The #Theban Mapping Project provides a phantastic website with descriptions, maps, drawings, images, bibliography and more links to the tombs in the Valley of the Kings.\n\nhttps://t.co/XPIT2aJgtT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Theban",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XPIT2aJgtT",
+					"expanded_url": "https://thebanmappingproject.com/",
+					"display_url": "thebanmappingproject.com",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 203953892,
+			"id_str": "203953892",
+			"name": "Dr. Kirsten D. Dzwiza",
+			"screen_name": "antikemagie",
+			"location": "Bad Hersfeld",
+			"description": "I’m an archaeologist posting about ancient magic and ritual practice. Love Dinosaurs. Current project: Books about ancient magic signs.",
+			"url": "https://t.co/2xToS6GtHM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2xToS6GtHM",
+							"expanded_url": "https://www.charakteres.com",
+							"display_url": "charakteres.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2843,
+			"friends_count": 572,
+			"listed_count": 57,
+			"created_at": "Sun Oct 17 15:44:52 +0000 2010",
+			"favourites_count": 2500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498341346104561664/zSxQ2eZs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498341346104561664/zSxQ2eZs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/203953892/1645205810",
+			"profile_link_color": "035D91",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #Theban Mapping Project provides a phantastic website with descriptions, maps, drawings, images, bibliography and more links to the tombs in the Valley of the Kings.\n\nhttps://t.co/XPIT2aJgtT"
+	},
+	{
+		"created_at": "Mon Oct 17 13:35:21 +0000 2022",
+		"id": 1581797317522657300,
+		"id_str": "1582002325048111107",
+		"full_text": "Thomas Neale was born in 1891 to William &amp; Eliza Neale.\nThe family originated from Aspenden, Hertfordshire.\nHis mum died from exhaustion in 1897.\nLike his brothers Thomas fought in the first world war.\nHe was killed on the battlefield on 9 October 1917.\nPhotograph: Horace Warner https://t.co/ROh2XDDqta",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581793247755632600,
+					"id_str": "1581793247755632642",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/FfOolACWAAIZgVn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfOolACWAAIZgVn.jpg",
+					"url": "https://t.co/ROh2XDDqta",
+					"display_url": "pic.twitter.com/ROh2XDDqta",
+					"expanded_url": "https://twitter.com/fakehistoryhunt/status/1581797317522657280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581793247755632600,
+					"id_str": "1581793247755632642",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/FfOolACWAAIZgVn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfOolACWAAIZgVn.jpg",
+					"url": "https://t.co/ROh2XDDqta",
+					"display_url": "pic.twitter.com/ROh2XDDqta",
+					"expanded_url": "https://twitter.com/fakehistoryhunt/status/1581797317522657280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878446695016800300,
+			"id_str": "878446695016800257",
+			"name": "Fake History Hunter",
+			"screen_name": "fakehistoryhunt",
+			"location": "The past.",
+			"description": "I hunt fake history and correct it, but also post amazing real history stuff.   Rude, obscene, vulgar, racist people who can't act like grown-ups get blocked.",
+			"url": "https://t.co/jtzcW7B7nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jtzcW7B7nn",
+							"expanded_url": "http://www.fakehistoryhunter.net",
+							"display_url": "fakehistoryhunter.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193527,
+			"friends_count": 4564,
+			"listed_count": 946,
+			"created_at": "Sat Jun 24 02:56:27 +0000 2017",
+			"favourites_count": 106679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 148661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576554860547395584/O_tovUze_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576554860547395584/O_tovUze_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878446695016800257/1568129918",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thomas Neale was born in 1891 to William &amp; Eliza Neale.\nThe family originated from Aspenden, Hertfordshire.\nHis mum died from exhaustion in 1897.\nLike his brothers Thomas fought in the first world war.\nHe was killed on the battlefield on 9 October 1917.\nPhotograph: Horace Warner https://t.co/ROh2XDDqta"
+	},
+	{
+		"created_at": "Mon Oct 17 09:50:03 +0000 2022",
+		"id": 1581945626732134400,
+		"id_str": "1581945626732134407",
+		"full_text": "@portraitinflesh FPTP only works well if it's used to do what it was designed to do -- namely to elect personal representatives. Once it's combined with a party system, it undermines fair representation and gives parties far too much power and stability",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "portraitinflesh",
+					"name": "Tomb Doran 🎃🇺🇦🏴󠁧󠁢󠁷󠁬󠁳󠁿🇬🇧🎃",
+					"id": 26410697,
+					"id_str": "26410697",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1581944512242659300,
+		"in_reply_to_status_id_str": "1581944512242659328",
+		"in_reply_to_user_id": 26410697,
+		"in_reply_to_user_id_str": "26410697",
+		"in_reply_to_screen_name": "portraitinflesh",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24150,
+			"friends_count": 2399,
+			"listed_count": 581,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@portraitinflesh FPTP only works well if it's used to do what it was designed to do -- namely to elect personal representatives. Once it's combined with a party system, it undermines fair representation and gives parties far too much power and stability"
+	},
+	{
 		"created_at": "Sun Oct 16 20:25:54 +0000 2022",
 		"id": 1581743257444266000,
 		"id_str": "1581743257444265984",
