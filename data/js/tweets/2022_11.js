@@ -1,6 +1,2372 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 12 21:35:46 +0000 2022",
+		"id": 1591545312883413000,
+		"id_str": "1591545312883412992",
+		"full_text": "@BartJConnelly Illusionists don't deny that suffering exists; they merely reject a particular view of what suffering *is*.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BartJConnelly",
+					"name": "Bart J Connelly",
+					"id": 28578877,
+					"id_str": "28578877",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1591506870673498000,
+		"in_reply_to_status_id_str": "1591506870673498112",
+		"in_reply_to_user_id": 28578877,
+		"in_reply_to_user_id_str": "28578877",
+		"in_reply_to_screen_name": "BartJConnelly",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24392,
+			"friends_count": 2385,
+			"listed_count": 582,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BartJConnelly Illusionists don't deny that suffering exists; they merely reject a particular view of what suffering *is*."
+	},
+	{
+		"created_at": "Sat Nov 12 21:33:18 +0000 2022",
+		"id": 1591397257697722400,
+		"id_str": "1591544689777602561",
+		"full_text": "Philosophers &amp; psychologists: can anybody recommend any recent (past decade) psychology/x-phi papers on utilitarians &amp; the utilitarian mind-set?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1490439596,
+			"id_str": "1490439596",
+			"name": "David Edmonds",
+			"screen_name": "DavidEdmonds100",
+			"location": "at home",
+			"description": "Writer-Prof Schlick/Wittgenstein’s Poker/Fat Man \nPhilosopher-Oxford Uehiro\nPodcaster-Philosophy Bites/Philosophy 247 \nAte 1/37th of world’s largest Jaffa Cake",
+			"url": "https://t.co/XXIehiTqYW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XXIehiTqYW",
+							"expanded_url": "http://davidedmonds.info",
+							"display_url": "davidedmonds.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7893,
+			"friends_count": 774,
+			"listed_count": 196,
+			"created_at": "Fri Jun 07 13:44:15 +0000 2013",
+			"favourites_count": 5081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1310521759758721024/YAneFfDk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310521759758721024/YAneFfDk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1490439596/1593517920",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Philosophers &amp; psychologists: can anybody recommend any recent (past decade) psychology/x-phi papers on utilitarians &amp; the utilitarian mind-set?"
+	},
+	{
+		"created_at": "Sat Nov 12 21:29:43 +0000 2022",
+		"id": 1591543788211953700,
+		"id_str": "1591543788211953664",
+		"full_text": "Wait, God's German? https://t.co/WZIuO7JDmf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WZIuO7JDmf",
+					"expanded_url": "https://twitter.com/TheTweetOfGod/status/1591446010353459200",
+					"display_url": "twitter.com/TheTweetOfGod/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24392,
+			"friends_count": 2385,
+			"listed_count": 582,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1591446010353459200,
+		"quoted_status_id_str": "1591446010353459200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WZIuO7JDmf",
+			"expanded": "https://twitter.com/TheTweetOfGod/status/1591446010353459200",
+			"display": "twitter.com/TheTweetOfGod/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 12 15:01:11 +0000 2022",
+			"id": 1591446010353459200,
+			"id_str": "1591446010353459200",
+			"full_text": "THIS got reported? Really?\n\nMaybe it's a parody report? \n\nIf so, touché. https://t.co/8h7sWvwWQW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1591445852106633200,
+						"id_str": "1591445852106633217",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/FhXzkhYVsAEcko4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FhXzkhYVsAEcko4.jpg",
+						"url": "https://t.co/8h7sWvwWQW",
+						"display_url": "pic.twitter.com/8h7sWvwWQW",
+						"expanded_url": "https://twitter.com/TheTweetOfGod/status/1591446010353459200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 647,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1034,
+								"h": 1086,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1034,
+								"h": 1086,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1591445852106633200,
+						"id_str": "1591445852106633217",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/FhXzkhYVsAEcko4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FhXzkhYVsAEcko4.jpg",
+						"url": "https://t.co/8h7sWvwWQW",
+						"display_url": "pic.twitter.com/8h7sWvwWQW",
+						"expanded_url": "https://twitter.com/TheTweetOfGod/status/1591446010353459200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 647,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1034,
+								"h": 1086,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1034,
+								"h": 1086,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 204832963,
+				"id_str": "204832963",
+				"name": "God (Not a Parody, Actually God)",
+				"screen_name": "TheTweetOfGod",
+				"location": "Heaven",
+				"description": "Pronouns: Thee/Thy.\nI'll pay $8 a month for a blue tick when monkeys come out of My heavenly butt.\nMy book \"The Book of Pslams\" out now: https://t.co/3h3qRb4eT4",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3h3qRb4eT4",
+								"expanded_url": "http://tinyurl.com/yckjn828",
+								"display_url": "tinyurl.com/yckjn828",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6245923,
+				"friends_count": 1,
+				"listed_count": 14897,
+				"created_at": "Tue Oct 19 15:26:05 +0000 2010",
+				"favourites_count": 229,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12355,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1513636967090917378/u3n2blUC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513636967090917378/u3n2blUC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/204832963/1650034367",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 926,
+			"favorite_count": 14688,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wait, God's German? https://t.co/WZIuO7JDmf"
+	},
+	{
+		"created_at": "Sat Nov 12 21:28:44 +0000 2022",
+		"id": 1591541111801188400,
+		"id_str": "1591543543142973441",
+		"full_text": "Revealed: working class people paid thousands less than middle class peers despite doing same jobs https://t.co/ynXrBoWRGO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ynXrBoWRGO",
+					"expanded_url": "https://www.theguardian.com/inequality/2022/nov/12/revealed-working-class-people-paid-thousands-less-than-middle-class-peers-despite-doing-same-jobs?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1668287861",
+					"display_url": "theguardian.com/inequality/202…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87818409,
+			"id_str": "87818409",
+			"name": "The Guardian",
+			"screen_name": "guardian",
+			"location": "London",
+			"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+			"url": "https://t.co/c53pnmnuIT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c53pnmnuIT",
+							"expanded_url": "https://www.theguardian.com",
+							"display_url": "theguardian.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gWyuUVlObq",
+							"expanded_url": "https://support.theguardian.com",
+							"display_url": "support.theguardian.com",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10821090,
+			"friends_count": 1056,
+			"listed_count": 70501,
+			"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 786436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1620214786",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAE3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Revealed: working class people paid thousands less than middle class peers despite doing same jobs https://t.co/ynXrBoWRGO"
+	},
+	{
+		"created_at": "Sat Nov 12 16:19:16 +0000 2022",
+		"id": 1591463938641870800,
+		"id_str": "1591465662031224832",
+		"full_text": "The late great Alistair Cooke shares his fondness for San Francisco in the first of the thirteen episodes that formed the wonderful \n\nAMERICA: A PERSONAL HISTORY OF THE UNITED STATES (1972) \n\n https://t.co/qVbPChxSGX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591082451962515500,
+					"id_str": "1591082451962515456",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FhStVWvagAM2ule.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhStVWvagAM2ule.jpg",
+					"url": "https://t.co/qVbPChxSGX",
+					"display_url": "pic.twitter.com/qVbPChxSGX",
+					"expanded_url": "https://twitter.com/BBCArchive/status/1591437911538499587/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 788,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 621,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1591437911538499600,
+					"source_status_id_str": "1591437911538499587",
+					"source_user_id": 51023770,
+					"source_user_id_str": "51023770"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591082451962515500,
+					"id_str": "1591082451962515456",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FhStVWvagAM2ule.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhStVWvagAM2ule.jpg",
+					"url": "https://t.co/qVbPChxSGX",
+					"display_url": "pic.twitter.com/qVbPChxSGX",
+					"expanded_url": "https://twitter.com/BBCArchive/status/1591437911538499587/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 788,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 621,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1591437911538499600,
+					"source_status_id_str": "1591437911538499587",
+					"source_user_id": 51023770,
+					"source_user_id_str": "51023770",
+					"video_info": {
+						"aspect_ratio": [
+							540,
+							493
+						],
+						"duration_millis": 224720,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1591082451962515456/pl/CHchcoHXTasCyKDd.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1591082451962515456/vid/788x720/kwhj7gTClsu24dUG.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1591082451962515456/vid/394x360/xP7LlNYE9Nbq5Zmn.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1591082451962515456/vid/294x270/35MAYwY0lVpuFIQZ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "1972: America: A Personal History of the United States",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 51023770,
+							"id_str": "51023770",
+							"name": "BBC Archive",
+							"screen_name": "BBCArchive",
+							"location": "",
+							"description": "Official Twitter presence of the @BBC Archive. Unless otherwise stated images are ©BBC.",
+							"url": "https://t.co/aKsJgRpRGv",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/aKsJgRpRGv",
+											"expanded_url": "https://www.bbc.co.uk/archive",
+											"display_url": "bbc.co.uk/archive",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 286107,
+							"friends_count": 7150,
+							"listed_count": 2683,
+							"created_at": "Fri Jun 26 11:40:26 +0000 2009",
+							"favourites_count": 3304,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 17662,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "9AE4E8",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1582100885722759181/TUSUWmNu_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1582100885722759181/TUSUWmNu_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/51023770/1666037221",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "BDDCAD",
+							"profile_sidebar_fill_color": "DDFFCC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1390558489915842600,
+			"id_str": "1390558489915842567",
+			"name": "Michael Warburton",
+			"screen_name": "MichaelWarbur17",
+			"location": "Support Me At",
+			"description": "Actor (All About Eve to Coronation Street), Cinephile, Drummer. Posting stuff I like, no pandering. Weekly column on Movies at https://t.co/FitXwVCTqK",
+			"url": "https://t.co/L3OMgM36Ra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L3OMgM36Ra",
+							"expanded_url": "https://ko-fi.com/michaelwarburton",
+							"display_url": "ko-fi.com/michaelwarburt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FitXwVCTqK",
+							"expanded_url": "http://michaelwarburton.substack.com",
+							"display_url": "michaelwarburton.substack.com",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 107395,
+			"friends_count": 189,
+			"listed_count": 687,
+			"created_at": "Fri May 07 06:46:49 +0000 2021",
+			"favourites_count": 45042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555908878352760835/_vem3N4__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555908878352760835/_vem3N4__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390558489915842567/1656619876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 64,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The late great Alistair Cooke shares his fondness for San Francisco in the first of the thirteen episodes that formed the wonderful \n\nAMERICA: A PERSONAL HISTORY OF THE UNITED STATES (1972) \n\n https://t.co/qVbPChxSGX"
+	},
+	{
+		"created_at": "Sat Nov 12 15:05:29 +0000 2022",
+		"id": 1591447094065508400,
+		"id_str": "1591447094065508357",
+		"full_text": "This isn't over till Ed Balls toots his own name",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24392,
+			"friends_count": 2385,
+			"listed_count": 582,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "This isn't over till Ed Balls toots his own name"
+	},
+	{
+		"created_at": "Sat Nov 12 15:03:25 +0000 2022",
+		"id": 1591446574022160400,
+		"id_str": "1591446574022160384",
+		"full_text": "@margari_vicky I no longer know where I am ...",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "margari_vicky",
+					"name": "Vicky Margari",
+					"id": 1044153000,
+					"id_str": "1044153000",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1591444487913574400,
+		"in_reply_to_status_id_str": "1591444487913574402",
+		"in_reply_to_user_id": 1044153000,
+		"in_reply_to_user_id_str": "1044153000",
+		"in_reply_to_screen_name": "margari_vicky",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24392,
+			"friends_count": 2385,
+			"listed_count": 582,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@margari_vicky I no longer know where I am ..."
+	},
+	{
+		"created_at": "Sat Nov 12 12:39:16 +0000 2022",
+		"id": 1591114469136273400,
+		"id_str": "1591410297092378625",
+		"full_text": "I’ve posted this before I’ve even got a print now but I still see it named as by Edward Hopper on my travels.    It’s by Phil Lockwood former Sheffield Art Teacher.  He’s a big tease   Bottom left his name https://t.co/0FLfMe7k8d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591114461313736700,
+					"id_str": "1591114461313736721",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FhTGLCeXoBEXtl0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhTGLCeXoBEXtl0.jpg",
+					"url": "https://t.co/0FLfMe7k8d",
+					"display_url": "pic.twitter.com/0FLfMe7k8d",
+					"expanded_url": "https://twitter.com/HWarlow/status/1591114469136273409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 858,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591114461313736700,
+					"id_str": "1591114461313736721",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FhTGLCeXoBEXtl0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhTGLCeXoBEXtl0.jpg",
+					"url": "https://t.co/0FLfMe7k8d",
+					"display_url": "pic.twitter.com/0FLfMe7k8d",
+					"expanded_url": "https://twitter.com/HWarlow/status/1591114469136273409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 858,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2328834820,
+			"id_str": "2328834820",
+			"name": "helen warlow",
+			"screen_name": "HWarlow",
+			"location": "",
+			"description": "Book snob, former optimist, collector of pretty pottery and colourful artwork. No television,no need . Retired bookseller still collecting noble tomes Well fed.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84064,
+			"friends_count": 25211,
+			"listed_count": 1228,
+			"created_at": "Thu Feb 06 20:50:29 +0000 2014",
+			"favourites_count": 182875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 189993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1573646994635104257/6p4u_ejG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1573646994635104257/6p4u_ejG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2328834820/1668288583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 271,
+		"favorite_count": 1906,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve posted this before I’ve even got a print now but I still see it named as by Edward Hopper on my travels.    It’s by Phil Lockwood former Sheffield Art Teacher.  He’s a big tease   Bottom left his name https://t.co/0FLfMe7k8d"
+	},
+	{
+		"created_at": "Sat Nov 12 11:21:01 +0000 2022",
+		"id": 1591390604088512500,
+		"id_str": "1591390604088512512",
+		"full_text": "6. If ordinary tweeps feel respected and safe, free speech will flourish on Twitter.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1591390599835684900,
+		"in_reply_to_status_id_str": "1591390599835684864",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24392,
+			"friends_count": 2385,
+			"listed_count": 582,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "6. If ordinary tweeps feel respected and safe, free speech will flourish on Twitter."
+	},
+	{
+		"created_at": "Sat Nov 12 11:21:00 +0000 2022",
+		"id": 1591390599835684900,
+		"id_str": "1591390599835684864",
+		"full_text": "5. You need make ordinary users feel safe on the platform. Weeding out bots would help.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1591390595553333200,
+		"in_reply_to_status_id_str": "1591390595553333249",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24392,
+			"friends_count": 2385,
+			"listed_count": 582,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "5. You need make ordinary users feel safe on the platform. Weeding out bots would help."
+	},
+	{
+		"created_at": "Sat Nov 12 11:20:59 +0000 2022",
+		"id": 1591390595553333200,
+		"id_str": "1591390595553333249",
+		"full_text": "4. If you want to allow people to buy verification, then you need to give free verification to famous and influential people, so that verification isn't devalued. No one will value a badge that signifies nothing more than that they pay you a few dollars a month.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1591390590633406500,
+		"in_reply_to_status_id_str": "1591390590633406466",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24392,
+			"friends_count": 2385,
+			"listed_count": 582,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "4. If you want to allow people to buy verification, then you need to give free verification to famous and influential people, so that verification isn't devalued. No one will value a badge that signifies nothing more than that they pay you a few dollars a month."
+	},
+	{
+		"created_at": "Sat Nov 12 11:20:58 +0000 2022",
+		"id": 1591390590633406500,
+		"id_str": "1591390590633406466",
+		"full_text": "3. Ordinary tweeps won't pay to use Twitter, and you need to find a way of making money out of them and their activity that won't alienate them. You need to think creatively.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1591390584727638000,
+		"in_reply_to_status_id_str": "1591390584727638020",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24392,
+			"friends_count": 2385,
+			"listed_count": 582,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "3. Ordinary tweeps won't pay to use Twitter, and you need to find a way of making money out of them and their activity that won't alienate them. You need to think creatively."
+	},
+	{
+		"created_at": "Sat Nov 12 11:20:56 +0000 2022",
+		"id": 1591390584727638000,
+		"id_str": "1591390584727638020",
+		"full_text": "2. You need to focus on these ordinary users, since they freely create immensely valuable content, and without them the platform will die.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1591390580336398300,
+		"in_reply_to_status_id_str": "1591390580336398337",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24392,
+			"friends_count": 2385,
+			"listed_count": 582,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "2. You need to focus on these ordinary users, since they freely create immensely valuable content, and without them the platform will die."
+	},
+	{
+		"created_at": "Sat Nov 12 11:20:55 +0000 2022",
+		"id": 1591390580336398300,
+		"id_str": "1591390580336398337",
+		"full_text": "Advice for @elonmusk. A thread.\n1. You have bought a community. At its heart are millions of ordinary, unverified tweeps, who use the platform in a responsible and creative way.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elonmusk",
+					"name": "Elon Musk",
+					"id": 44196397,
+					"id_str": "44196397",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24392,
+			"friends_count": 2385,
+			"listed_count": 582,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Advice for @elonmusk. A thread.\n1. You have bought a community. At its heart are millions of ordinary, unverified tweeps, who use the platform in a responsible and creative way."
+	},
+	{
+		"created_at": "Sat Nov 12 10:40:03 +0000 2022",
+		"id": 1591380295109984300,
+		"id_str": "1591380295109984258",
+		"full_text": "@csandis Alea iacta est",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "csandis",
+					"name": "Constantine Sandis",
+					"id": 175423518,
+					"id_str": "175423518",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1591374083203088400,
+		"in_reply_to_status_id_str": "1591374083203088384",
+		"in_reply_to_user_id": 175423518,
+		"in_reply_to_user_id_str": "175423518",
+		"in_reply_to_screen_name": "csandis",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mA01M",
+			"url": "https://t.co/B6jDJHNZ04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJHNZ04",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mA01M",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24392,
+			"friends_count": 2385,
+			"listed_count": 582,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1644622839",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ro",
+		"text": "@csandis Alea iacta est"
+	},
+	{
+		"created_at": "Sat Nov 12 09:29:02 +0000 2022",
+		"id": 1591358499933622300,
+		"id_str": "1591362423771889664",
+		"full_text": "Lullaby My Daddio by Jake Thackray. A real rarity with a darkly comic edge to it. https://t.co/Sib1MwETxw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sib1MwETxw",
+					"expanded_url": "https://youtu.be/LW3PwcS2ju8",
+					"display_url": "youtu.be/LW3PwcS2ju8",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 182932585,
+			"id_str": "182932585",
+			"name": "Paul Thompson",
+			"screen_name": "jakethackrayfan",
+			"location": "",
+			"description": "Co-author of ‘Beware of the Bull - The Enigmatic Genius of Jake Thackray’, available from Scratching Shed Publishing.",
+			"url": "https://t.co/lzuqCV2tQK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lzuqCV2tQK",
+							"expanded_url": "http://www.jakethackray.com",
+							"display_url": "jakethackray.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 853,
+			"friends_count": 532,
+			"listed_count": 7,
+			"created_at": "Wed Aug 25 19:11:29 +0000 2010",
+			"favourites_count": 6951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1561965870343143424/3sJesfv0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1561965870343143424/3sJesfv0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/182932585/1511019167",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lullaby My Daddio by Jake Thackray. A real rarity with a darkly comic edge to it. https://t.co/Sib1MwETxw"
+	},
+	{
+		"created_at": "Sat Nov 12 09:24:29 +0000 2022",
+		"id": 1591040793909006300,
+		"id_str": "1591361277229641730",
+		"full_text": "Some long term Mastodon users are *very* unhappy about Twitter people turning up there. \n\nhttps://t.co/RGAOAZQXW5\n\n(via @feelinglistless) https://t.co/Rwuk9sF9Y2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "feelinglistless",
+					"name": "Stuart Ian Burns",
+					"id": 6524022,
+					"id_str": "6524022",
+					"indices": [
+						120,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RGAOAZQXW5",
+					"expanded_url": "https://www.hughrundle.net/home-invasion/",
+					"display_url": "hughrundle.net/home-invasion/",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1591040789534097400,
+					"id_str": "1591040789534097410",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDKxtWQAIBzCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDKxtWQAIBzCU.jpg",
+					"url": "https://t.co/Rwuk9sF9Y2",
+					"display_url": "pic.twitter.com/Rwuk9sF9Y2",
+					"expanded_url": "https://twitter.com/brokenbottleboy/status/1591040793909006337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 620,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591040789534097400,
+					"id_str": "1591040789534097410",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDKxtWQAIBzCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDKxtWQAIBzCU.jpg",
+					"url": "https://t.co/Rwuk9sF9Y2",
+					"display_url": "pic.twitter.com/Rwuk9sF9Y2",
+					"expanded_url": "https://twitter.com/brokenbottleboy/status/1591040793909006337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 620,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16288901,
+			"id_str": "16288901",
+			"name": "Mic Wright",
+			"screen_name": "brokenbottleboy",
+			"location": "Norwich, England",
+			"description": "“The sad part is I'm a very good tailor.\" Mastodon: @brokenbottleboy@journa.host Writer of things including a media criticism newsletter. Sign up below👇🏻",
+			"url": "https://t.co/3N2GVBzF8v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3N2GVBzF8v",
+							"expanded_url": "http://brokenbottleboy.substack.com",
+							"display_url": "brokenbottleboy.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40564,
+			"friends_count": 16953,
+			"listed_count": 700,
+			"created_at": "Sun Sep 14 23:37:58 +0000 2008",
+			"favourites_count": 190924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 102919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1591485966501429248/YXA8uKCC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1591485966501429248/YXA8uKCC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16288901/1619339462",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some long term Mastodon users are *very* unhappy about Twitter people turning up there. \n\nhttps://t.co/RGAOAZQXW5\n\n(via @feelinglistless) https://t.co/Rwuk9sF9Y2"
+	},
+	{
 		"created_at": "Fri Nov 11 22:23:11 +0000 2022",
 		"id": 1591194858357928000,
 		"id_str": "1591194858357927936",
