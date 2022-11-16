@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 15 10:11:06 +0000 2022",
+		"id": 1592171886313894000,
+		"id_str": "1592460173217771521",
+		"full_text": "@janeschoenbrun have you seen the don hertzfeldt couch gag\nhttps://t.co/gncsffldoq",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janeschoenbrun",
+					"name": "Jane Schoenbrun",
+					"id": 64003665,
+					"id_str": "64003665",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gncsffldoq",
+					"expanded_url": "https://www.youtube.com/watch?v=6i2l-LQ-dXI",
+					"display_url": "youtube.com/watch?v=6i2l-L…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1592168043240915000,
+		"in_reply_to_status_id_str": "1592168043240914945",
+		"in_reply_to_user_id": 64003665,
+		"in_reply_to_user_id_str": "64003665",
+		"in_reply_to_screen_name": "janeschoenbrun",
+		"user": {
+			"id": 925896104,
+			"id_str": "925896104",
+			"name": "𝐃𝐨𝐦𝐞𝐧𝐢𝐜",
+			"screen_name": "Mubi_Dick",
+			"location": "hidden cenote basecamp",
+			"description": "I’m the best boy, just ask IMDb",
+			"url": "https://t.co/nmFivEn8dH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nmFivEn8dH",
+							"expanded_url": "https://domenic.website",
+							"display_url": "domenic.website",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 424,
+			"listed_count": 0,
+			"created_at": "Sun Nov 04 18:38:47 +0000 2012",
+			"favourites_count": 24268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1592271416153575424/i783YI2D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1592271416153575424/i783YI2D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/925896104/1668456091",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@janeschoenbrun have you seen the don hertzfeldt couch gag\nhttps://t.co/gncsffldoq"
+	},
+	{
+		"created_at": "Tue Nov 15 10:05:10 +0000 2022",
+		"id": 1592279847954681900,
+		"id_str": "1592458679185731586",
+		"full_text": "Iranian Govt is planning to execute nearly 15,000 protestors. Utterly disgusting.  https://t.co/LLqPsbTPGu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LLqPsbTPGu",
+					"expanded_url": "https://www.newsweek.com/iran-votes-execute-protesters-says-rebels-need-hard-lesson-1757931",
+					"display_url": "newsweek.com/iran-votes-exe…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34247411,
+			"id_str": "34247411",
+			"name": "Dr Mike Galsworthy",
+			"screen_name": "mikegalsworthy",
+			"location": "London, UK",
+			"description": "Founder of @Scientists4EU & Bylines Network. Ambassador for @euromove. Presenter at @BylineTV. See: https://t.co/93o6a4Xe3P.  Join me on Mastodon via link below.",
+			"url": "https://t.co/x9rPfZdRoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x9rPfZdRoE",
+							"expanded_url": "https://mas.to/invite/qD7sXKT2",
+							"display_url": "mas.to/invite/qD7sXKT2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/93o6a4Xe3P",
+							"expanded_url": "http://BrexitDocumentary.com",
+							"display_url": "BrexitDocumentary.com",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 272616,
+			"friends_count": 55948,
+			"listed_count": 1454,
+			"created_at": "Wed Apr 22 11:41:40 +0000 2009",
+			"favourites_count": 67622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 77643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489358721079721990/GinbO0zo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489358721079721990/GinbO0zo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34247411/1635941461",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1251,
+		"favorite_count": 2275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Iranian Govt is planning to execute nearly 15,000 protestors. Utterly disgusting.  https://t.co/LLqPsbTPGu"
+	},
+	{
 		"created_at": "Mon Nov 14 21:29:54 +0000 2022",
 		"id": 1592268611653189600,
 		"id_str": "1592268611653189632",
