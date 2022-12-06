@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 02:05:06 +0000 2022",
+		"id": 1599674945457438700,
+		"id_str": "1599948012591386624",
+		"full_text": "There is something about this lovely, worried pig that fills me with delight. Happy 5th Dec, pig. \nThis star of #AncientAnimalAdvent can be found at Heraklion Archeological Museum, picture my own. https://t.co/X1wYMecATy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AncientAnimalAdvent",
+					"indices": [
+						112,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1599561114496426000,
+					"id_str": "1599561114496425993",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FjLIW9oWYAkz9OO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjLIW9oWYAkz9OO.jpg",
+					"url": "https://t.co/X1wYMecATy",
+					"display_url": "pic.twitter.com/X1wYMecATy",
+					"expanded_url": "https://twitter.com/officialnhaynes/status/1599674945457438722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599561114496426000,
+					"id_str": "1599561114496425993",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FjLIW9oWYAkz9OO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjLIW9oWYAkz9OO.jpg",
+					"url": "https://t.co/X1wYMecATy",
+					"display_url": "pic.twitter.com/X1wYMecATy",
+					"expanded_url": "https://twitter.com/officialnhaynes/status/1599674945457438722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230140374468976600,
+			"id_str": "1230140374468976645",
+			"name": "Natalie Haynes",
+			"screen_name": "officialnhaynes",
+			"location": "",
+			"description": "Author, broadcaster and classicist. #StoneBlind out now! Tweets by N and team.",
+			"url": "https://t.co/gZuMxrCyHz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gZuMxrCyHz",
+							"expanded_url": "https://nataliehaynes.com/tour/",
+							"display_url": "nataliehaynes.com/tour/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20737,
+			"friends_count": 545,
+			"listed_count": 87,
+			"created_at": "Wed Feb 19 14:41:49 +0000 2020",
+			"favourites_count": 9997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1533032732284133378/gJNv7ebP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1533032732284133378/gJNv7ebP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230140374468976645/1663227662",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is something about this lovely, worried pig that fills me with delight. Happy 5th Dec, pig. \nThis star of #AncientAnimalAdvent can be found at Heraklion Archeological Museum, picture my own. https://t.co/X1wYMecATy"
+	},
+	{
 		"created_at": "Mon Dec 05 21:11:35 +0000 2022",
 		"id": 1599874147642769400,
 		"id_str": "1599874147642769410",
