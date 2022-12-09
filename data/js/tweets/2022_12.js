@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 21:44:32 +0000 2022",
+		"id": 1600969604406182000,
+		"id_str": "1600969604406181888",
+		"full_text": "@flowhypno I love it!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flowhypno",
+					"name": "James Harrison",
+					"id": 887435495516495900,
+					"id_str": "887435495516495872",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1600678958416416800,
+		"in_reply_to_status_id_str": "1600678958416416768",
+		"in_reply_to_user_id": 887435495516495900,
+		"in_reply_to_user_id_str": "887435495516495872",
+		"in_reply_to_screen_name": "flowhypno",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish (@keithfrankish@mastodon.social)",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24580,
+			"friends_count": 2383,
+			"listed_count": 586,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 50869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@flowhypno I love it!"
+	},
+	{
+		"created_at": "Thu Dec 08 19:16:47 +0000 2022",
+		"id": 1600858004030734300,
+		"id_str": "1600932420106477568",
+		"full_text": "The reality of Brexit is horrific - and lasting.\n\nMust-read letter in the @guardian by Neil Kinnock 👇 https://t.co/UUy0MAX9ip",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1600857983176659000,
+					"id_str": "1600857983176658944",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjdj2p8X0AA4rDN.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fjdj2p8X0AA4rDN.png",
+					"url": "https://t.co/UUy0MAX9ip",
+					"display_url": "pic.twitter.com/UUy0MAX9ip",
+					"expanded_url": "https://twitter.com/BestForBritain/status/1600858004030734338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 641,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 641,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 641,
+							"h": 501,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600857983176659000,
+					"id_str": "1600857983176658944",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjdj2p8X0AA4rDN.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fjdj2p8X0AA4rDN.png",
+					"url": "https://t.co/UUy0MAX9ip",
+					"display_url": "pic.twitter.com/UUy0MAX9ip",
+					"expanded_url": "https://twitter.com/BestForBritain/status/1600858004030734338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 641,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 641,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 641,
+							"h": 501,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 846037320667217900,
+			"id_str": "846037320667217921",
+			"name": "Best for Britain",
+			"screen_name": "BestForBritain",
+			"location": "London",
+			"description": "UK's leading cross-party advocacy group upholding internationalist values \n▪️CEO: @pimlicat \n▪️Guest tweets: @sturdyAlex ~AA \n▪️Mastodon: https://t.co/o8LNpzAS4C",
+			"url": "https://t.co/Y4WeBKTXCF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y4WeBKTXCF",
+							"expanded_url": "http://bestforbritain.org",
+							"display_url": "bestforbritain.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/o8LNpzAS4C",
+							"expanded_url": "http://mas.to/@bestforbritain",
+							"display_url": "mas.to/@bestforbritain",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 163727,
+			"friends_count": 6207,
+			"listed_count": 830,
+			"created_at": "Sun Mar 26 16:33:10 +0000 2017",
+			"favourites_count": 25418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 52166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572122277407342595/hZn_Qr3F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572122277407342595/hZn_Qr3F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/846037320667217921/1619425353",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 688,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The reality of Brexit is horrific - and lasting.\n\nMust-read letter in the @guardian by Neil Kinnock 👇 https://t.co/UUy0MAX9ip"
+	},
+	{
 		"created_at": "Wed Dec 07 23:44:28 +0000 2022",
 		"id": 1600637395430690800,
 		"id_str": "1600637395430690816",
