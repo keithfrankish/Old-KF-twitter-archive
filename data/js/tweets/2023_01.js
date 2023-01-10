@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 09 20:20:30 +0000 2023",
+		"id": 1612544868248879000,
+		"id_str": "1612544868248879104",
+		"full_text": "This is exactly how the rest of the world thinks about the US https://t.co/vjuybf39C5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vjuybf39C5",
+					"expanded_url": "https://twitter.com/QasimRashid/status/1611777783490924545",
+					"display_url": "twitter.com/QasimRashid/st…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25017,
+			"friends_count": 2374,
+			"listed_count": 595,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1611777783490924500,
+		"quoted_status_id_str": "1611777783490924545",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vjuybf39C5",
+			"expanded": "https://twitter.com/QasimRashid/status/1611777783490924545",
+			"display": "twitter.com/QasimRashid/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 07 17:32:23 +0000 2023",
+			"id": 1611777783490924500,
+			"id_str": "1611777783490924545",
+			"full_text": "“The problem is the bloody guns. I’m only here because my husband is in the military. Otherwise I would not have chosen to come to this country.” \n\nOutraged mother at Richneck Elementary School in Virginia after a 6-year-old shot a teacher\n\n https://t.co/Q5pNSrUdPf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1611555965156966400,
+						"id_str": "1611555965156966400",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1611555965156966400/img/bun1o6HlWHTTydLI.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1611555965156966400/img/bun1o6HlWHTTydLI.jpg",
+						"url": "https://t.co/Q5pNSrUdPf",
+						"display_url": "pic.twitter.com/Q5pNSrUdPf",
+						"expanded_url": "https://twitter.com/Tim_Tweeted/status/1611556011705356289/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 888,
+								"h": 492,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 888,
+								"h": 492,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1611556011705356300,
+						"source_status_id_str": "1611556011705356289",
+						"source_user_id": 425298674,
+						"source_user_id_str": "425298674"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1611555965156966400,
+						"id_str": "1611555965156966400",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1611555965156966400/img/bun1o6HlWHTTydLI.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1611555965156966400/img/bun1o6HlWHTTydLI.jpg",
+						"url": "https://t.co/Q5pNSrUdPf",
+						"display_url": "pic.twitter.com/Q5pNSrUdPf",
+						"expanded_url": "https://twitter.com/Tim_Tweeted/status/1611556011705356289/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 888,
+								"h": 492,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 888,
+								"h": 492,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1611556011705356300,
+						"source_status_id_str": "1611556011705356289",
+						"source_user_id": 425298674,
+						"source_user_id_str": "425298674",
+						"video_info": {
+							"aspect_ratio": [
+								74,
+								41
+							],
+							"duration_millis": 36580,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1611555965156966400/pl/wwx3C7zEz-Z3rZw6.m3u8?tag=16&container=fmp4"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1611555965156966400/vid/486x270/QO7qeOW3v8qoSENU.mp4?tag=16"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1611555965156966400/vid/888x492/-_lTsF_3gLnn2kuY.mp4?tag=16"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1611555965156966400/vid/648x360/k-JAGW2w0HEi2Rso.mp4?tag=16"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 425298674,
+								"id_str": "425298674",
+								"name": "Marjorie Gaylor Queen 🏳️‍🌈",
+								"screen_name": "Tim_Tweeted",
+								"location": "NYC/LI",
+								"description": "On really romantic evenings of self, I go salsa dancing with my confusion",
+								"url": "https://t.co/LcirLUfoFL",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/LcirLUfoFL",
+												"expanded_url": "https://mobile.twitter.com/search?q=(from%3Atim_tweeted)%20-filter%3Areplies&src=typed_query",
+												"display_url": "mobile.twitter.com/search?q=(from…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 16605,
+								"friends_count": 5511,
+								"listed_count": 47,
+								"created_at": "Wed Nov 30 20:41:51 +0000 2011",
+								"favourites_count": 2619,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 4197,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1502063803281944612/tmrOQu1u_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502063803281944612/tmrOQu1u_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/425298674/1621399978",
+								"profile_link_color": "ABB8C2",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 85583894,
+				"id_str": "85583894",
+				"name": "Qasim Rashid, Esq.",
+				"screen_name": "QasimRashid",
+				"location": "Chicago, IL",
+				"description": "Human Rights Lawyer • Author • Dad Jokes • Host of The Qasim Rashid Show on Sirius XM Channel 126 Sundays @ 10am EST",
+				"url": "https://t.co/AGXhIK2XaP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AGXhIK2XaP",
+								"expanded_url": "http://linktree.com/qasimrashid",
+								"display_url": "linktree.com/qasimrashid",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 349143,
+				"friends_count": 336,
+				"listed_count": 2285,
+				"created_at": "Tue Oct 27 14:47:28 +0000 2009",
+				"favourites_count": 70295,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13129,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1562223336813371392/YfIh_qHn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562223336813371392/YfIh_qHn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85583894/1661298043",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15548,
+			"favorite_count": 106774,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is exactly how the rest of the world thinks about the US https://t.co/vjuybf39C5"
+	},
+	{
+		"created_at": "Mon Jan 09 19:53:36 +0000 2023",
+		"id": 1612538095781421000,
+		"id_str": "1612538095781421071",
+		"full_text": "@prgmtc_basho_ Thank you! I'm pleased you found the videos interesting",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prgmtc_basho_",
+					"name": "pragmatic ばしょ",
+					"id": 1505972326109786000,
+					"id_str": "1505972326109786117",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1612524197787361300,
+		"in_reply_to_status_id_str": "1612524197787361287",
+		"in_reply_to_user_id": 1505972326109786000,
+		"in_reply_to_user_id_str": "1505972326109786117",
+		"in_reply_to_screen_name": "prgmtc_basho_",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25017,
+			"friends_count": 2374,
+			"listed_count": 595,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@prgmtc_basho_ Thank you! I'm pleased you found the videos interesting"
+	},
+	{
 		"created_at": "Sun Jan 08 18:57:32 +0000 2023",
 		"id": 1612161598080032800,
 		"id_str": "1612161598080032770",
