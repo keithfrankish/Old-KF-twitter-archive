@@ -1,6 +1,854 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 19:11:18 +0000 2023",
+		"id": 1613614616914821000,
+		"id_str": "1613614616914821161",
+		"full_text": "@CartesianWhy @Philip_Goff I *think* there will, but I'm not absolutely sure",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CartesianWhy",
+					"name": "🦆 John Langley 🐝",
+					"id": 16499558,
+					"id_str": "16499558",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1613613840322658300,
+		"in_reply_to_status_id_str": "1613613840322658306",
+		"in_reply_to_user_id": 16499558,
+		"in_reply_to_user_id_str": "16499558",
+		"in_reply_to_screen_name": "CartesianWhy",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25046,
+			"friends_count": 2378,
+			"listed_count": 595,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CartesianWhy @Philip_Goff I *think* there will, but I'm not absolutely sure"
+	},
+	{
+		"created_at": "Thu Jan 12 19:07:08 +0000 2023",
+		"id": 1613613567273468000,
+		"id_str": "1613613567273467914",
+		"full_text": "Correction! Tomorrow's talk by @Philip_Goff and me will start at *10.00 UK time* (not 12.00 as I originally said) https://t.co/nogDnFAFba",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nogDnFAFba",
+					"expanded_url": "https://www.helsinki.fi/en/mind-and-matter/mind-and-matter-talks-2022",
+					"display_url": "helsinki.fi/en/mind-and-ma…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25046,
+			"friends_count": 2378,
+			"listed_count": 595,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Correction! Tomorrow's talk by @Philip_Goff and me will start at *10.00 UK time* (not 12.00 as I originally said) https://t.co/nogDnFAFba"
+	},
+	{
+		"created_at": "Thu Jan 12 17:39:06 +0000 2023",
+		"id": 1613588648049479700,
+		"id_str": "1613591410988519426",
+		"full_text": "A favourite joke brilliantly told by legendary Trinidadian stand-up JOHN AGITATION.\n\n“A 9yr old boy asks his Father…what is Politics?”\n\n https://t.co/HOU3Ah5Pdu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440718870143123500,
+					"id_str": "1440718870143123461",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440718870143123461/pu/img/oKeYFA4J0RNvPtGg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440718870143123461/pu/img/oKeYFA4J0RNvPtGg.jpg",
+					"url": "https://t.co/HOU3Ah5Pdu",
+					"display_url": "pic.twitter.com/HOU3Ah5Pdu",
+					"expanded_url": "https://twitter.com/MichaelWarbur17/status/1440718982105812995/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1440718982105813000,
+					"source_status_id_str": "1440718982105812995",
+					"source_user_id": 1390558489915842600,
+					"source_user_id_str": "1390558489915842567"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440718870143123500,
+					"id_str": "1440718870143123461",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440718870143123461/pu/img/oKeYFA4J0RNvPtGg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440718870143123461/pu/img/oKeYFA4J0RNvPtGg.jpg",
+					"url": "https://t.co/HOU3Ah5Pdu",
+					"display_url": "pic.twitter.com/HOU3Ah5Pdu",
+					"expanded_url": "https://twitter.com/MichaelWarbur17/status/1440718982105812995/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1440718982105813000,
+					"source_status_id_str": "1440718982105812995",
+					"source_user_id": 1390558489915842600,
+					"source_user_id_str": "1390558489915842567",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1440718870143123461/pu/vid/480x360/EASn5X5TDfcVu_Mm.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1440718870143123461/pu/vid/360x270/MO8BdwZeBHy3hVdz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1440718870143123461/pu/pl/mCHGmBC2tuoaqaKH.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1390558489915842600,
+							"id_str": "1390558489915842567",
+							"name": "Michael Warburton",
+							"screen_name": "MichaelWarbur17",
+							"location": "Support Me At",
+							"description": "Actor (All About Eve to Coronation Street), Cinephile, Drummer. Posting stuff I like, no pandering. Weekly column on Movies at https://t.co/FitXwVCTqK",
+							"url": "https://t.co/L3OMgM36Ra",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/L3OMgM36Ra",
+											"expanded_url": "https://ko-fi.com/michaelwarburton",
+											"display_url": "ko-fi.com/michaelwarburt…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/FitXwVCTqK",
+											"expanded_url": "http://michaelwarburton.substack.com",
+											"display_url": "michaelwarburton.substack.com",
+											"indices": [
+												127,
+												150
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 140499,
+							"friends_count": 184,
+							"listed_count": 885,
+							"created_at": "Fri May 07 06:46:49 +0000 2021",
+							"favourites_count": 51480,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 67444,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1555908878352760835/_vem3N4__normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555908878352760835/_vem3N4__normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390558489915842567/1656619876",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1390558489915842600,
+			"id_str": "1390558489915842567",
+			"name": "Michael Warburton",
+			"screen_name": "MichaelWarbur17",
+			"location": "Support Me At",
+			"description": "Actor (All About Eve to Coronation Street), Cinephile, Drummer. Posting stuff I like, no pandering. Weekly column on Movies at https://t.co/FitXwVCTqK",
+			"url": "https://t.co/L3OMgM36Ra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L3OMgM36Ra",
+							"expanded_url": "https://ko-fi.com/michaelwarburton",
+							"display_url": "ko-fi.com/michaelwarburt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FitXwVCTqK",
+							"expanded_url": "http://michaelwarburton.substack.com",
+							"display_url": "michaelwarburton.substack.com",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 140499,
+			"friends_count": 184,
+			"listed_count": 885,
+			"created_at": "Fri May 07 06:46:49 +0000 2021",
+			"favourites_count": 51480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555908878352760835/_vem3N4__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555908878352760835/_vem3N4__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390558489915842567/1656619876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 407,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A favourite joke brilliantly told by legendary Trinidadian stand-up JOHN AGITATION.\n\n“A 9yr old boy asks his Father…what is Politics?”\n\n https://t.co/HOU3Ah5Pdu"
+	},
+	{
+		"created_at": "Thu Jan 12 17:36:03 +0000 2023",
+		"id": 1613588604088979500,
+		"id_str": "1613590644169084931",
+		"full_text": ".@ShakeelHashim How can anyone take this seriously? 1-of-1-million examples: Ord, Bostrom, Yudkowsky, MacAskill are all buddies with Sam Harris. MacAskill even *got a blurb* from Harris for his book. Harris' views on race are *the same* as Bostrom's:\n\nhttps://t.co/Hlo0BYFQBe https://t.co/cTLRExzA1g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShakeelHashim",
+					"name": "Shakeel",
+					"id": 79571866,
+					"id_str": "79571866",
+					"indices": [
+						1,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hlo0BYFQBe",
+					"expanded_url": "https://forum.effectivealtruism.org/posts/ALzE9JixLLEexTKSq/cea-statement-on-nick-bostrom-s-email",
+					"display_url": "forum.effectivealtruism.org/posts/ALzE9Jix…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1613587887689273300,
+					"id_str": "1613587887689273350",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FmSdonuXkAY_tto.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmSdonuXkAY_tto.jpg",
+					"url": "https://t.co/cTLRExzA1g",
+					"display_url": "pic.twitter.com/cTLRExzA1g",
+					"expanded_url": "https://twitter.com/xriskology/status/1613588604088979472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 943,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 943,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613587887689273300,
+					"id_str": "1613587887689273350",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FmSdonuXkAY_tto.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmSdonuXkAY_tto.jpg",
+					"url": "https://t.co/cTLRExzA1g",
+					"display_url": "pic.twitter.com/cTLRExzA1g",
+					"expanded_url": "https://twitter.com/xriskology/status/1613588604088979472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 943,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 943,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192737798,
+			"id_str": "192737798",
+			"name": "Émile P. Torres @xriskology@mastodon.bida.im",
+			"screen_name": "xriskology",
+			"location": "Germany",
+			"description": "Forthcoming book: \"Human Extinction: A History of the Science and Ethics of Annihilation\" (Routledge). Philosopher, but MS in Neuroscience. Survivor. They/them.",
+			"url": "https://t.co/POqWV1jQYd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/POqWV1jQYd",
+							"expanded_url": "http://www.xriskology.com",
+							"display_url": "xriskology.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13141,
+			"friends_count": 2554,
+			"listed_count": 176,
+			"created_at": "Mon Sep 20 00:52:18 +0000 2010",
+			"favourites_count": 56286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "009DEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1609635045337079809/YuDbCAHA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609635045337079809/YuDbCAHA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192737798/1648469810",
+			"profile_link_color": "DB0909",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F8FF75",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@ShakeelHashim How can anyone take this seriously? 1-of-1-million examples: Ord, Bostrom, Yudkowsky, MacAskill are all buddies with Sam Harris. MacAskill even *got a blurb* from Harris for his book. Harris' views on race are *the same* as Bostrom's:\n\nhttps://t.co/Hlo0BYFQBe https://t.co/cTLRExzA1g"
+	},
+	{
+		"created_at": "Thu Jan 12 14:02:08 +0000 2023",
+		"id": 1613536810939940900,
+		"id_str": "1613536810939940870",
+		"full_text": "Reading philosophy of consciousness often makes me feel like Captain Mainwaring listening to one of Corporal Jones's ideas: \"I think you're getting into the realms of fantasy again, Jones.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25046,
+			"friends_count": 2378,
+			"listed_count": 595,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Reading philosophy of consciousness often makes me feel like Captain Mainwaring listening to one of Corporal Jones's ideas: \"I think you're getting into the realms of fantasy again, Jones.\""
+	},
+	{
 		"created_at": "Mon Jan 09 20:20:30 +0000 2023",
 		"id": 1612544868248879000,
 		"id_str": "1612544868248879104",
@@ -248,7 +1096,7 @@ Grailbird.data.tweets_2023_01 =
 							"source_user": {
 								"id": 425298674,
 								"id_str": "425298674",
-								"name": "Marjorie Gaylor Queen 🏳️‍🌈",
+								"name": "Marjorie Gaylor Queen 🏳️🌈",
 								"screen_name": "Tim_Tweeted",
 								"location": "NYC/LI",
 								"description": "On really romantic evenings of self, I go salsa dancing with my confusion",
