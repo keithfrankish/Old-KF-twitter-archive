@@ -1,6 +1,752 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 26 21:24:02 +0000 2023",
+		"id": 1618721449463914500,
+		"id_str": "1618721449463914496",
+		"full_text": "@mediasres @Philip_Goff I think that's an astute comment",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mediasres",
+					"name": "Medias Res",
+					"id": 144358368,
+					"id_str": "144358368",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1618717497326444500,
+		"in_reply_to_status_id_str": "1618717497326444544",
+		"in_reply_to_user_id": 144358368,
+		"in_reply_to_user_id_str": "144358368",
+		"in_reply_to_screen_name": "mediasres",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25473,
+			"friends_count": 2385,
+			"listed_count": 598,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mediasres @Philip_Goff I think that's an astute comment"
+	},
+	{
+		"created_at": "Thu Jan 26 18:04:27 +0000 2023",
+		"id": 1618671220404420600,
+		"id_str": "1618671220404420609",
+		"full_text": "@lordbonkers :)",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lordbonkers",
+					"name": "Jonathan Calder",
+					"id": 20262783,
+					"id_str": "20262783",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1618608964698271700,
+		"in_reply_to_status_id_str": "1618608964698271749",
+		"in_reply_to_user_id": 20262783,
+		"in_reply_to_user_id_str": "20262783",
+		"in_reply_to_screen_name": "lordbonkers",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25473,
+			"friends_count": 2385,
+			"listed_count": 598,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "qam",
+		"text": "@lordbonkers :)"
+	},
+	{
+		"created_at": "Thu Jan 26 16:25:41 +0000 2023",
+		"id": 1618646368511484000,
+		"id_str": "1618646368511483904",
+		"full_text": "@EkinErkan4 Then it's not delight in seeing them hurt -- it's delight in seeing them learn",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EkinErkan4",
+					"name": "Ekin Erkan",
+					"id": 1164706883841732600,
+					"id_str": "1164706883841732608",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1618641784099467300,
+		"in_reply_to_status_id_str": "1618641784099467270",
+		"in_reply_to_user_id": 1164706883841732600,
+		"in_reply_to_user_id_str": "1164706883841732608",
+		"in_reply_to_screen_name": "EkinErkan4",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25473,
+			"friends_count": 2385,
+			"listed_count": 598,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EkinErkan4 Then it's not delight in seeing them hurt -- it's delight in seeing them learn"
+	},
+	{
+		"created_at": "Thu Jan 26 14:32:30 +0000 2023",
+		"id": 1618538647736979500,
+		"id_str": "1618617881352368129",
+		"full_text": "This https://t.co/GNG5JHkxR5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1618538645211725800,
+					"id_str": "1618538645211725824",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/FnY0UosWQAAWQ9H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnY0UosWQAAWQ9H.jpg",
+					"url": "https://t.co/GNG5JHkxR5",
+					"display_url": "pic.twitter.com/GNG5JHkxR5",
+					"expanded_url": "https://twitter.com/TheMeldrew/status/1618538647736979457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 386,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 386,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 386,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1618538645211725800,
+					"id_str": "1618538645211725824",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/FnY0UosWQAAWQ9H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnY0UosWQAAWQ9H.jpg",
+					"url": "https://t.co/GNG5JHkxR5",
+					"display_url": "pic.twitter.com/GNG5JHkxR5",
+					"expanded_url": "https://twitter.com/TheMeldrew/status/1618538647736979457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 386,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 386,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 386,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1545847383812186000,
+			"id_str": "1545847383812186113",
+			"name": "The Yorkshire Victor Meldrew and His Dog",
+			"screen_name": "TheMeldrew",
+			"location": "Yorkshire and The Humber, Engl",
+			"description": "Disabled,anti Tory,Darkness cannot drive out darkness,only light can do that.Hate cannot drive out hate,only love can do that.MLK. Just Be kind",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1611,
+			"friends_count": 1990,
+			"listed_count": 3,
+			"created_at": "Sat Jul 09 19:08:48 +0000 2022",
+			"favourites_count": 31224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1614299667847647234/gkWyD_p1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1614299667847647234/gkWyD_p1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1545847383812186113/1673714042",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 44,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This https://t.co/GNG5JHkxR5"
+	},
+	{
+		"created_at": "Thu Jan 26 14:25:31 +0000 2023",
+		"id": 1618616124672999400,
+		"id_str": "1618616124672999424",
+		"full_text": "@tetranomos I don't think that true. Years of bullying at school did not make me stronger.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tetranomos",
+					"name": "⚫ epigone 🂡",
+					"id": 1582460231418019800,
+					"id_str": "1582460231418019840",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1618615446433038300,
+		"in_reply_to_status_id_str": "1618615446433038336",
+		"in_reply_to_user_id": 1582460231418019800,
+		"in_reply_to_user_id_str": "1582460231418019840",
+		"in_reply_to_screen_name": "tetranomos",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25473,
+			"friends_count": 2385,
+			"listed_count": 598,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tetranomos I don't think that true. Years of bullying at school did not make me stronger."
+	},
+	{
+		"created_at": "Thu Jan 26 14:20:22 +0000 2023",
+		"id": 1618614831241912300,
+		"id_str": "1618614831241912320",
+		"full_text": "I can understand how people come to upset and hurt each other. Heaven knows, I have upset and hurt people myself, including those I love. But I will never, ever understand how they can take delight in doing it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25473,
+			"friends_count": 2385,
+			"listed_count": 598,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I can understand how people come to upset and hurt each other. Heaven knows, I have upset and hurt people myself, including those I love. But I will never, ever understand how they can take delight in doing it."
+	},
+	{
 		"created_at": "Wed Jan 25 23:10:02 +0000 2023",
 		"id": 1618385736138653700,
 		"id_str": "1618385736138653697",
