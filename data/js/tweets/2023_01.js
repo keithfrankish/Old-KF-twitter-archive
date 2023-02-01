@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 31 17:04:29 +0000 2023",
+		"id": 1618223423305707500,
+		"id_str": "1620468070082023425",
+		"full_text": "Nepotism in the UK differs to nepotism in the US in the same way that Ricky Gervais’ The Office differs to Steve Carrell’s: It’s subtler, nastier, and arguably more effective in achieving its aims https://t.co/lsFAEz9NN1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lsFAEz9NN1",
+					"expanded_url": "https://www.vice.com/en/article/3adgnk/american-nepo-babies-have-nothing-on-the-british",
+					"display_url": "vice.com/en/article/3ad…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14247591,
+			"id_str": "14247591",
+			"name": "Elle Hunt",
+			"screen_name": "elle_hunt",
+			"location": "Norwich, England",
+			"description": "Freelance journalist, mostly @guardian, Brit/NZer, she/her. Studying fiction writing at @uealdc. elle.hunt.freelance@theguardian.com, DMs open",
+			"url": "https://t.co/qj3Brge2uB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qj3Brge2uB",
+							"expanded_url": "http://www.ellehunt.net",
+							"display_url": "ellehunt.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25679,
+			"friends_count": 4577,
+			"listed_count": 242,
+			"created_at": "Fri Mar 28 22:36:49 +0000 2008",
+			"favourites_count": 31071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030303",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1507447263609688077/0kueBzq__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507447263609688077/0kueBzq__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14247591/1618795709",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1379,
+		"favorite_count": 7549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nepotism in the UK differs to nepotism in the US in the same way that Ricky Gervais’ The Office differs to Steve Carrell’s: It’s subtler, nastier, and arguably more effective in achieving its aims https://t.co/lsFAEz9NN1"
+	},
+	{
+		"created_at": "Tue Jan 31 12:11:03 +0000 2023",
+		"id": 1620394224956113000,
+		"id_str": "1620394224956112898",
+		"full_text": "@hf47vbVtv4tgpG4 @NeilDaviesArt @Philip_Goff Illusionists accept 1 and 2",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hf47vbVtv4tgpG4",
+					"name": "reoerubnwow",
+					"id": 1607136781291380700,
+					"id_str": "1607136781291380745",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "NeilDaviesArt",
+					"name": "Neil Davies Illustration",
+					"id": 69319975,
+					"id_str": "69319975",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						32,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1620389762384404500,
+		"in_reply_to_status_id_str": "1620389762384404480",
+		"in_reply_to_user_id": 1607136781291380700,
+		"in_reply_to_user_id_str": "1607136781291380745",
+		"in_reply_to_screen_name": "hf47vbVtv4tgpG4",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25536,
+			"friends_count": 2385,
+			"listed_count": 597,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hf47vbVtv4tgpG4 @NeilDaviesArt @Philip_Goff Illusionists accept 1 and 2"
+	},
+	{
 		"created_at": "Mon Jan 30 17:14:36 +0000 2023",
 		"id": 1620108226640613400,
 		"id_str": "1620108226640613376",
