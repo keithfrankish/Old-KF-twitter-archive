@@ -1,6 +1,834 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 22:53:14 +0000 2023",
+		"id": 1633601797733449700,
+		"id_str": "1633601797733449728",
+		"full_text": "@danfalk it's the Ministry of Silly Arguments",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danfalk",
+					"name": "Dan Falk",
+					"id": 16469647,
+					"id_str": "16469647",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1633598951835455500,
+		"in_reply_to_status_id_str": "1633598951835455489",
+		"in_reply_to_user_id": 16469647,
+		"in_reply_to_user_id_str": "16469647",
+		"in_reply_to_screen_name": "danfalk",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26108,
+			"friends_count": 2390,
+			"listed_count": 596,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@danfalk it's the Ministry of Silly Arguments"
+	},
+	{
+		"created_at": "Wed Mar 08 22:12:27 +0000 2023",
+		"id": 1633591534250520600,
+		"id_str": "1633591534250520576",
+		"full_text": "The black dog https://t.co/AvsBo0tVt5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1633591524607836200,
+					"id_str": "1633591524607836166",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Fquu1iRWwAYu9IM.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fquu1iRWwAYu9IM.png",
+					"url": "https://t.co/AvsBo0tVt5",
+					"display_url": "pic.twitter.com/AvsBo0tVt5",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1633591534250520576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 805,
+							"h": 396,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 805,
+							"h": 396,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1633591524607836200,
+					"id_str": "1633591524607836166",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Fquu1iRWwAYu9IM.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fquu1iRWwAYu9IM.png",
+					"url": "https://t.co/AvsBo0tVt5",
+					"display_url": "pic.twitter.com/AvsBo0tVt5",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1633591534250520576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 805,
+							"h": 396,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 805,
+							"h": 396,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26108,
+			"friends_count": 2390,
+			"listed_count": 596,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The black dog https://t.co/AvsBo0tVt5"
+	},
+	{
+		"created_at": "Wed Mar 08 19:00:21 +0000 2023",
+		"id": 1633271341632860200,
+		"id_str": "1633543191994458115",
+		"full_text": "Which famous #philosopher was or is the greatest BSer? https://t.co/KNwdZHuv0L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "philosopher",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1633271181544689700,
+					"id_str": "1633271181544689664",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FqqLfHXakAAfy2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqqLfHXakAAfy2R.jpg",
+					"url": "https://t.co/KNwdZHuv0L",
+					"display_url": "pic.twitter.com/KNwdZHuv0L",
+					"expanded_url": "https://twitter.com/martinjanello/status/1633271341632860161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 393,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1633271181544689700,
+					"id_str": "1633271181544689664",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FqqLfHXakAAfy2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqqLfHXakAAfy2R.jpg",
+					"url": "https://t.co/KNwdZHuv0L",
+					"display_url": "pic.twitter.com/KNwdZHuv0L",
+					"expanded_url": "https://twitter.com/martinjanello/status/1633271341632860161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 393,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2681206494,
+			"id_str": "2681206494",
+			"name": "Martin Janello",
+			"screen_name": "martinjanello",
+			"location": "All rights reserved ©",
+			"description": "Normative philosopher. Pleading individual philosophy. Professional philosophy and #AI critic. Awards: \"The Andy Kaufman of Philosophy\" YT: https://t.co/ifZsRIxFp0",
+			"url": "https://t.co/h0M4qqkmou",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h0M4qqkmou",
+							"expanded_url": "https://www.philosophyofhappiness.com/index.html",
+							"display_url": "philosophyofhappiness.com/index.html",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ifZsRIxFp0",
+							"expanded_url": "http://tinyurl.com/t5vjs7f",
+							"display_url": "tinyurl.com/t5vjs7f",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11120,
+			"friends_count": 5545,
+			"listed_count": 233,
+			"created_at": "Sat Jul 26 03:48:27 +0000 2014",
+			"favourites_count": 46381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/492885676124168192/8-fUplh0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/492885676124168192/8-fUplh0_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2681206494/1594594732",
+			"profile_link_color": "319422",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Which famous #philosopher was or is the greatest BSer? https://t.co/KNwdZHuv0L"
+	},
+	{
+		"created_at": "Wed Mar 08 15:53:54 +0000 2023",
+		"id": 1633453755403321300,
+		"id_str": "1633496272697999360",
+		"full_text": "How brain cells communicate: https://t.co/I7cLbbXLVz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1633453685861671000,
+					"id_str": "1633453685861670916",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1633453685861670916/pu/img/0jUUIiiE1328lclG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1633453685861670916/pu/img/0jUUIiiE1328lclG.jpg",
+					"url": "https://t.co/I7cLbbXLVz",
+					"display_url": "pic.twitter.com/I7cLbbXLVz",
+					"expanded_url": "https://twitter.com/slava__bobrov/status/1633453755403321344/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1633453685861671000,
+					"id_str": "1633453685861670916",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1633453685861670916/pu/img/0jUUIiiE1328lclG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1633453685861670916/pu/img/0jUUIiiE1328lclG.jpg",
+					"url": "https://t.co/I7cLbbXLVz",
+					"display_url": "pic.twitter.com/I7cLbbXLVz",
+					"expanded_url": "https://twitter.com/slava__bobrov/status/1633453755403321344/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21066,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1633453685861670916/pu/vid/540x540/vgEE5f1alr3cfGz_.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1633453685861670916/pu/vid/640x640/FQQP7TX49BJ7Ze5u.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1633453685861670916/pu/vid/320x320/W0XZt3nIweTijgNo.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1633453685861670916/pu/pl/MsT2Zh2aDJHAhZaX.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130005901140811800,
+			"id_str": "1130005901140811777",
+			"name": "Slava Bobrov",
+			"screen_name": "slava__bobrov",
+			"location": "",
+			"description": "I share intuitive animations about biology & nature\n\nCo-Founder of @BrainBridger\n\nWorking on Brain-Computer Interfaces",
+			"url": "https://t.co/4OLVpjIvlV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4OLVpjIvlV",
+							"expanded_url": "https://www.instagram.com/slava__bobrov/",
+							"display_url": "instagram.com/slava__bobrov/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99030,
+			"friends_count": 697,
+			"listed_count": 773,
+			"created_at": "Sun May 19 07:02:56 +0000 2019",
+			"favourites_count": 2854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424024153900912640/r0Zr3_qX_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424024153900912640/r0Zr3_qX_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130005901140811777/1635947270",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 442,
+		"favorite_count": 2216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How brain cells communicate: https://t.co/I7cLbbXLVz"
+	},
+	{
+		"created_at": "Wed Mar 08 14:46:52 +0000 2023",
+		"id": 1633479400199970800,
+		"id_str": "1633479400199970818",
+		"full_text": "@AaronBergman18 @ESYudkowsky :)",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AaronBergman18",
+					"name": "Aaron Bergman🔍",
+					"id": 1103008113144287200,
+					"id_str": "1103008113144287232",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ESYudkowsky",
+					"name": "Eliezer Yudkowsky",
+					"id": 2595244026,
+					"id_str": "2595244026",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1633479267173429200,
+		"in_reply_to_status_id_str": "1633479267173429248",
+		"in_reply_to_user_id": 1103008113144287200,
+		"in_reply_to_user_id_str": "1103008113144287232",
+		"in_reply_to_screen_name": "AaronBergman18",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26108,
+			"friends_count": 2390,
+			"listed_count": 596,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "qam",
+		"text": "@AaronBergman18 @ESYudkowsky :)"
+	},
+	{
 		"created_at": "Tue Mar 07 22:16:44 +0000 2023",
 		"id": 1633230225461981200,
 		"id_str": "1633230225461981185",
