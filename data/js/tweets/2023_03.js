@@ -1,6 +1,754 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 10 21:50:18 +0000 2023",
+		"id": 1634310736884256800,
+		"id_str": "1634310736884256768",
+		"full_text": "@petemandik works for me",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petemandik",
+					"name": "Pete Mandik",
+					"id": 61481161,
+					"id_str": "61481161",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1634265269026672600,
+		"in_reply_to_status_id_str": "1634265269026672640",
+		"in_reply_to_user_id": 61481161,
+		"in_reply_to_user_id_str": "61481161",
+		"in_reply_to_screen_name": "petemandik",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26146,
+			"friends_count": 2391,
+			"listed_count": 597,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@petemandik works for me"
+	},
+	{
+		"created_at": "Fri Mar 10 16:49:04 +0000 2023",
+		"id": 1634234718852923400,
+		"id_str": "1634234928261939210",
+		"full_text": "Me, @davidchalmers42 , @cpassosf, Derk Pereboom,  and some other philosophers searching for consciousness in the arctic in 2014. Picture taken by @keithfrankish (just before he threw rocks at our boat...) https://t.co/956aBxpnuC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidchalmers42",
+					"name": "David Chalmers",
+					"id": 58318231,
+					"id_str": "58318231",
+					"indices": [
+						4,
+						20
+					]
+				},
+				{
+					"screen_name": "cpassosf",
+					"name": "Claudia Passos",
+					"id": 2836785507,
+					"id_str": "2836785507",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						146,
+						160
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1634234080022675500,
+					"id_str": "1634234080022675473",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/Fq33PLuWwBE3tL-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fq33PLuWwBE3tL-.jpg",
+					"url": "https://t.co/956aBxpnuC",
+					"display_url": "pic.twitter.com/956aBxpnuC",
+					"expanded_url": "https://twitter.com/Philip_Goff/status/1634234718852923410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1634234080022675500,
+					"id_str": "1634234080022675473",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/Fq33PLuWwBE3tL-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fq33PLuWwBE3tL-.jpg",
+					"url": "https://t.co/956aBxpnuC",
+					"display_url": "pic.twitter.com/956aBxpnuC",
+					"expanded_url": "https://twitter.com/Philip_Goff/status/1634234718852923410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216809385,
+			"id_str": "216809385",
+			"name": "Philip Goff",
+			"screen_name": "Philip_Goff",
+			"location": "Durham, England",
+			"description": "Associate Professor of Philosophy, author of 'Galileo's Error' & co-host of 'Mind Chat.' I research consciousness. Panpsychist, socialist, practicing agnostic.",
+			"url": "https://t.co/08S5UaFPTV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/08S5UaFPTV",
+							"expanded_url": "http://www.philipgoffphilosophy.com",
+							"display_url": "philipgoffphilosophy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23293,
+			"friends_count": 1400,
+			"listed_count": 333,
+			"created_at": "Wed Nov 17 19:46:56 +0000 2010",
+			"favourites_count": 21665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440999315074338817/dO8B4lo0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440999315074338817/dO8B4lo0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216809385/1574435202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 63,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me, @davidchalmers42 , @cpassosf, Derk Pereboom,  and some other philosophers searching for consciousness in the arctic in 2014. Picture taken by @keithfrankish (just before he threw rocks at our boat...) https://t.co/956aBxpnuC"
+	},
+	{
+		"created_at": "Fri Mar 10 14:57:14 +0000 2023",
+		"id": 1634206787313315800,
+		"id_str": "1634206787313315841",
+		"full_text": "@ancientnmodern Congratulations! When's your due date?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "Dame VictoriaG Esq (MPhil (failed))",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1633407967633588200,
+		"in_reply_to_status_id_str": "1633407967633588224",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26146,
+			"friends_count": 2391,
+			"listed_count": 597,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ancientnmodern Congratulations! When's your due date?"
+	},
+	{
+		"created_at": "Fri Mar 10 14:49:04 +0000 2023",
+		"id": 1634204732460769300,
+		"id_str": "1634204732460769281",
+		"full_text": "It was self-defence, acksherley! https://t.co/v9k9uFNWdp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v9k9uFNWdp",
+					"expanded_url": "https://twitter.com/lordbonkers/status/1634198469152743425",
+					"display_url": "twitter.com/lordbonkers/st…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26146,
+			"friends_count": 2391,
+			"listed_count": 597,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1634198469152743400,
+		"quoted_status_id_str": "1634198469152743425",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v9k9uFNWdp",
+			"expanded": "https://twitter.com/lordbonkers/status/1634198469152743425",
+			"display": "twitter.com/lordbonkers/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 10 14:24:11 +0000 2023",
+			"id": 1634198469152743400,
+			"id_str": "1634198469152743425",
+			"full_text": "Liberal England: Boy who appeared in radio dramatisation of a Malcolm Saville story was later tried for murder at the Old Bailey https://t.co/uiHMgyelPQ https://t.co/GX0k48YG4w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uiHMgyelPQ",
+						"expanded_url": "https://bit.ly/41Ya7JV",
+						"display_url": "bit.ly/41Ya7JV",
+						"indices": [
+							129,
+							152
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1634198318451392500,
+						"id_str": "1634198318451392512",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/Fq3WtlfWAAAnii-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fq3WtlfWAAAnii-.jpg",
+						"url": "https://t.co/GX0k48YG4w",
+						"display_url": "pic.twitter.com/GX0k48YG4w",
+						"expanded_url": "https://twitter.com/lordbonkers/status/1634198469152743425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 672,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 672,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1634198318451392500,
+						"id_str": "1634198318451392512",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/Fq3WtlfWAAAnii-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fq3WtlfWAAAnii-.jpg",
+						"url": "https://t.co/GX0k48YG4w",
+						"display_url": "pic.twitter.com/GX0k48YG4w",
+						"expanded_url": "https://twitter.com/lordbonkers/status/1634198469152743425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 672,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 672,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20262783,
+				"id_str": "20262783",
+				"name": "Jonathan Calder",
+				"screen_name": "lordbonkers",
+				"location": "Market Harborough",
+				"description": "England is a palimpsest of Medieval churches, abandoned mineral railways, ruinous Gothic institutions and follies built by mad aristocrats.",
+				"url": "https://t.co/xoU2049nB1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xoU2049nB1",
+								"expanded_url": "http://liberalengland.blogspot.com/",
+								"display_url": "liberalengland.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7277,
+				"friends_count": 3401,
+				"listed_count": 353,
+				"created_at": "Fri Feb 06 19:21:51 +0000 2009",
+				"favourites_count": 65963,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 410105,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/470306934780743680/sw8Zrens_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/470306934780743680/sw8Zrens_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20262783/1525809241",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was self-defence, acksherley! https://t.co/v9k9uFNWdp"
+	},
+	{
 		"created_at": "Thu Mar 09 21:42:59 +0000 2023",
 		"id": 1633946510374187000,
 		"id_str": "1633946510374187013",
