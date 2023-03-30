@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 29 19:34:32 +0000 2023",
+		"id": 1641149041932374000,
+		"id_str": "1641161938326437892",
+		"full_text": "OK, weird question: Does anyone know of good discussions of the **placebo effect** from a Buddhist perspective? Something Yogācāra perspective would be super awesome...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131644899,
+			"id_str": "131644899",
+			"name": "𖤐B𖤐 (probably just an LLM)",
+			"screen_name": "NeuroYogacara",
+			"location": "Nacotchtank & Piscataway land",
+			"description": "Metal, horror, Buddhist philosophy, theoretical neurobiology. Grumpy GenXer. he/his B/Bs https://t.co/E6iCOcZM66 https://t.co/tj0DmOeLOd",
+			"url": "https://t.co/hlfwboBLbq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hlfwboBLbq",
+							"expanded_url": "http://brycehuebner.weebly.com",
+							"display_url": "brycehuebner.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/E6iCOcZM66",
+							"expanded_url": "http://letterboxd.com/brycehuebner/",
+							"display_url": "letterboxd.com/brycehuebner/",
+							"indices": [
+								89,
+								112
+							]
+						},
+						{
+							"url": "https://t.co/tj0DmOeLOd",
+							"expanded_url": "http://bandcamp.com/bryce_huebner",
+							"display_url": "bandcamp.com/bryce_huebner",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9322,
+			"friends_count": 1816,
+			"listed_count": 177,
+			"created_at": "Sat Apr 10 22:32:59 +0000 2010",
+			"favourites_count": 118519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1612505670397591552/bC5ifKnw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1612505670397591552/bC5ifKnw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131644899/1658840847",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "OK, weird question: Does anyone know of good discussions of the **placebo effect** from a Buddhist perspective? Something Yogācāra perspective would be super awesome..."
+	},
+	{
+		"created_at": "Wed Mar 29 10:51:09 +0000 2023",
+		"id": 1641030228234436600,
+		"id_str": "1641030228234436608",
+		"full_text": "Removing legacy blue ticks is an incredibly stupid business move. They are what give the symbol its value.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26392,
+			"friends_count": 2393,
+			"listed_count": 602,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Removing legacy blue ticks is an incredibly stupid business move. They are what give the symbol its value."
+	},
+	{
+		"created_at": "Wed Mar 29 09:29:58 +0000 2023",
+		"id": 1641009795581747200,
+		"id_str": "1641009795581747201",
+		"full_text": "@EriMOMalley Judgmental? On Twitter? Never!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EriMOMalley",
+					"name": "Eri Mountbatten-O'Malley (PhD, FHEA)",
+					"id": 920939461785026600,
+					"id_str": "920939461785026560",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1641008324605780000,
+		"in_reply_to_status_id_str": "1641008324605779970",
+		"in_reply_to_user_id": 920939461785026600,
+		"in_reply_to_user_id_str": "920939461785026560",
+		"in_reply_to_screen_name": "EriMOMalley",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26392,
+			"friends_count": 2393,
+			"listed_count": 602,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EriMOMalley Judgmental? On Twitter? Never!"
+	},
+	{
 		"created_at": "Tue Mar 28 20:36:28 +0000 2023",
 		"id": 1640815138990174200,
 		"id_str": "1640815138990174210",
