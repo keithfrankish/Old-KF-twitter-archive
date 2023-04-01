@@ -1,6 +1,1021 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 31 21:48:31 +0000 2023",
+		"id": 1641804257627189200,
+		"id_str": "1641920433686552578",
+		"full_text": "Wishing a happy and rational birthday to René Descartes (b. March 31. 1596)! https://t.co/cx8JrVby5V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1641804254112358400,
+					"id_str": "1641804254112358401",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FsjcRT0XoAE4jLl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsjcRT0XoAE4jLl.jpg",
+					"url": "https://t.co/cx8JrVby5V",
+					"display_url": "pic.twitter.com/cx8JrVby5V",
+					"expanded_url": "https://twitter.com/petemandik/status/1641804257627189250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 232,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1641804254112358400,
+					"id_str": "1641804254112358401",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FsjcRT0XoAE4jLl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsjcRT0XoAE4jLl.jpg",
+					"url": "https://t.co/cx8JrVby5V",
+					"display_url": "pic.twitter.com/cx8JrVby5V",
+					"expanded_url": "https://twitter.com/petemandik/status/1641804257627189250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 232,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61481161,
+			"id_str": "61481161",
+			"name": "Pete Mandik",
+			"screen_name": "petemandik",
+			"location": "Dying Earth",
+			"description": "Freestanding utility protein. https://t.co/apJUV1Do1J",
+			"url": "https://t.co/GppFs5u5eB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GppFs5u5eB",
+							"expanded_url": "http://www.petemandik.net",
+							"display_url": "petemandik.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apJUV1Do1J",
+							"expanded_url": "https://twitter.com/search?q=from%3Apetemandik%20-%20exclude%3Areplies&src=typd",
+							"display_url": "twitter.com/search?q=from%…",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5781,
+			"friends_count": 1258,
+			"listed_count": 211,
+			"created_at": "Thu Jul 30 13:02:43 +0000 2009",
+			"favourites_count": 55217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559988563231506434/gMwaDcRx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559988563231506434/gMwaDcRx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61481161/1613524222",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wishing a happy and rational birthday to René Descartes (b. March 31. 1596)! https://t.co/cx8JrVby5V"
+	},
+	{
+		"created_at": "Fri Mar 31 15:58:11 +0000 2023",
+		"id": 1641832269349281800,
+		"id_str": "1641832269349281792",
+		"full_text": "@SyzygyMonkey Yes -- and all the more concerning in coming from someone so well informed",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SyzygyMonkey",
+					"name": "SyzygyMonkey",
+					"id": 920288187855130600,
+					"id_str": "920288187855130624",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1641831801260847000,
+		"in_reply_to_status_id_str": "1641831801260847104",
+		"in_reply_to_user_id": 920288187855130600,
+		"in_reply_to_user_id_str": "920288187855130624",
+		"in_reply_to_screen_name": "SyzygyMonkey",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26407,
+			"friends_count": 2395,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SyzygyMonkey Yes -- and all the more concerning in coming from someone so well informed"
+	},
+	{
+		"created_at": "Fri Mar 31 15:56:35 +0000 2023",
+		"id": 1641831868965216300,
+		"id_str": "1641831868965216259",
+		"full_text": "This should be fantastic! I'm very keen on philosophical science fiction, and Rachel writes it very well. Read some sample for free, then get the book! https://t.co/yI2ZxlHUpU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yI2ZxlHUpU",
+					"expanded_url": "https://twitter.com/_RachelHandley/status/1641807527653285888",
+					"display_url": "twitter.com/_RachelHandley…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26407,
+			"friends_count": 2395,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1641807527653286000,
+		"quoted_status_id_str": "1641807527653285888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yI2ZxlHUpU",
+			"expanded": "https://twitter.com/_RachelHandley/status/1641807527653285888",
+			"display": "twitter.com/_RachelHandley…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 31 14:19:52 +0000 2023",
+			"id": 1641807527653286000,
+			"id_str": "1641807527653285888",
+			"full_text": "💫 POSSIBLE WORLDS AND OTHER STORIES 💫\n\nMy debut short story collection!\n\n🦉You can read some of the stories in the collection for free here: https://t.co/YjJkP4XjGb\n\n🦉Purchasing links: https://t.co/VZYHqcMwKk\n\n🦉Check out Possible Worlds on Goodreads; https://t.co/cZS9U0j1bG https://t.co/yO1gMliQvq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YjJkP4XjGb",
+						"expanded_url": "https://rachelhandleywriting.wordpress.com/short-stories-2/",
+						"display_url": "rachelhandleywriting.wordpress.com/short-stories-…",
+						"indices": [
+							140,
+							163
+						]
+					},
+					{
+						"url": "https://t.co/VZYHqcMwKk",
+						"expanded_url": "https://linktr.ee/_rachelhandley",
+						"display_url": "linktr.ee/_rachelhandley",
+						"indices": [
+							184,
+							207
+						]
+					},
+					{
+						"url": "https://t.co/cZS9U0j1bG",
+						"expanded_url": "https://www.goodreads.com/book/show/58971577-possible-worlds-and-other-stories",
+						"display_url": "goodreads.com/book/show/5897…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1641800886249816000,
+						"id_str": "1641800886249816065",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FsjZNRjXgAEbvs3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FsjZNRjXgAEbvs3.jpg",
+						"url": "https://t.co/yO1gMliQvq",
+						"display_url": "pic.twitter.com/yO1gMliQvq",
+						"expanded_url": "https://twitter.com/_RachelHandley/status/1641807527653285888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1641800886249816000,
+						"id_str": "1641800886249816065",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FsjZNRjXgAEbvs3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FsjZNRjXgAEbvs3.jpg",
+						"url": "https://t.co/yO1gMliQvq",
+						"display_url": "pic.twitter.com/yO1gMliQvq",
+						"expanded_url": "https://twitter.com/_RachelHandley/status/1641807527653285888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1641804961687249000,
+						"id_str": "1641804961687248897",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/Fsjc6fvXoAEd_pz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fsjc6fvXoAEd_pz.jpg",
+						"url": "https://t.co/yO1gMliQvq",
+						"display_url": "pic.twitter.com/yO1gMliQvq",
+						"expanded_url": "https://twitter.com/_RachelHandley/status/1641807527653285888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142387540,
+				"id_str": "142387540",
+				"name": "Rachel Handley 🏳️‍🌈",
+				"screen_name": "_RachelHandley",
+				"location": "Dublin, Ireland",
+				"description": "Philosopher @TCDphilosophy. Poet. SF Author. @BSFA Longlisted.\n\nPossible Worlds and Other Stories (2022, @EllipsisImprint).\n\n#BiVisibility\n\n(They/She)",
+				"url": "https://t.co/cWUlPI7c0G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cWUlPI7c0G",
+								"expanded_url": "https://linktr.ee/_rachelhandley",
+								"display_url": "linktr.ee/_rachelhandley",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7598,
+				"friends_count": 5694,
+				"listed_count": 92,
+				"created_at": "Mon May 10 19:11:55 +0000 2010",
+				"favourites_count": 101471,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 80369,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C9CDCF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1633532962074513408/jo-nr5Lu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1633532962074513408/jo-nr5Lu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142387540/1680273947",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6E6DD",
+				"profile_text_color": "222224",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This should be fantastic! I'm very keen on philosophical science fiction, and Rachel writes it very well. Read some sample for free, then get the book! https://t.co/yI2ZxlHUpU"
+	},
+	{
+		"created_at": "Fri Mar 31 15:55:54 +0000 2023",
+		"id": 1641831694272430000,
+		"id_str": "1641831694272430080",
+		"full_text": "@milhouselala The phrase didn't pull me up me, but *it should have done*, so thank you.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "milhouselala",
+					"name": "hi",
+					"id": 1477404290285281300,
+					"id_str": "1477404290285281288",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1641828639703531500,
+		"in_reply_to_status_id_str": "1641828639703531520",
+		"in_reply_to_user_id": 1477404290285281300,
+		"in_reply_to_user_id_str": "1477404290285281288",
+		"in_reply_to_screen_name": "milhouselala",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26407,
+			"friends_count": 2395,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@milhouselala The phrase didn't pull me up me, but *it should have done*, so thank you."
+	},
+	{
+		"created_at": "Fri Mar 31 15:46:31 +0000 2023",
+		"id": 1641829334179611000,
+		"id_str": "1641829334179610764",
+		"full_text": "@milhouselala Totally fair comment. As you say, he's an older generation and may not have realized -- which is why its important to bring it up.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "milhouselala",
+					"name": "hi",
+					"id": 1477404290285281300,
+					"id_str": "1477404290285281288",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1641828639703531500,
+		"in_reply_to_status_id_str": "1641828639703531520",
+		"in_reply_to_user_id": 1477404290285281300,
+		"in_reply_to_user_id_str": "1477404290285281288",
+		"in_reply_to_screen_name": "milhouselala",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26407,
+			"friends_count": 2395,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@milhouselala Totally fair comment. As you say, he's an older generation and may not have realized -- which is why its important to bring it up."
+	},
+	{
+		"created_at": "Fri Mar 31 15:29:24 +0000 2023",
+		"id": 1641825025782161400,
+		"id_str": "1641825025782161409",
+		"full_text": "In the welter of comment on LLMs this interview with Geoffrey Hinton stands out as essential listening. https://t.co/kd7ZCnABbB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kd7ZCnABbB",
+					"expanded_url": "https://www.youtube.com/watch?v=qpoRO378qRY",
+					"display_url": "youtube.com/watch?v=qpoRO3…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26407,
+			"friends_count": 2395,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527010620079493122/d61-0NYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the welter of comment on LLMs this interview with Geoffrey Hinton stands out as essential listening. https://t.co/kd7ZCnABbB"
+	},
+	{
 		"created_at": "Thu Mar 30 20:55:32 +0000 2023",
 		"id": 1641544713907114000,
 		"id_str": "1641544713907113994",
