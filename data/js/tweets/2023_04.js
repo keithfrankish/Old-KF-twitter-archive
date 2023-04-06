@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 18:03:15 +0000 2023",
+		"id": 1643675681602117600,
+		"id_str": "1643675681602117639",
+		"full_text": "Nah then. https://t.co/BK7GXtPz0y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BK7GXtPz0y",
+					"expanded_url": "https://twitter.com/pipmadeley/status/1643538974785556481",
+					"display_url": "twitter.com/pipmadeley/sta…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26482,
+			"friends_count": 2395,
+			"listed_count": 602,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1643538974785556500,
+		"quoted_status_id_str": "1643538974785556481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BK7GXtPz0y",
+			"expanded": "https://twitter.com/pipmadeley/status/1643538974785556481",
+			"display": "twitter.com/pipmadeley/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 05 09:00:01 +0000 2023",
+			"id": 1643538974785556500,
+			"id_str": "1643538974785556481",
+			"full_text": "Indoor League with Fred Trueman: 50th Anniversary Supercut https://t.co/sFFLHQAhT1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1643379704571764700,
+						"id_str": "1643379704571764737",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1643379704571764737/pu/img/0YiqzDPAkO5IB0tp.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1643379704571764737/pu/img/0YiqzDPAkO5IB0tp.jpg",
+						"url": "https://t.co/sFFLHQAhT1",
+						"display_url": "pic.twitter.com/sFFLHQAhT1",
+						"expanded_url": "https://twitter.com/pipmadeley/status/1643538974785556481/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1643379704571764700,
+						"id_str": "1643379704571764737",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1643379704571764737/pu/img/0YiqzDPAkO5IB0tp.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1643379704571764737/pu/img/0YiqzDPAkO5IB0tp.jpg",
+						"url": "https://t.co/sFFLHQAhT1",
+						"display_url": "pic.twitter.com/sFFLHQAhT1",
+						"expanded_url": "https://twitter.com/pipmadeley/status/1643538974785556481/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								180,
+								101
+							],
+							"duration_millis": 129301,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1643379704571764737/pu/pl/odBP-JmBkmIwWeBV.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1643379704571764737/pu/vid/480x270/0m0CR8X_NgkQme2I.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1643379704571764737/pu/vid/720x404/Z67SZowjDNgXbyin.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3167037875,
+				"id_str": "3167037875",
+				"name": "Pip",
+				"screen_name": "pipmadeley",
+				"location": "",
+				"description": "Common person. Comedy fan. Colossal nerd. Occasional @dwmtweets reviewer. Half-decent video editor. New stuff on YouTube every couple of days (or so).",
+				"url": "https://t.co/IaCPB6yvHQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IaCPB6yvHQ",
+								"expanded_url": "https://www.youtube.com/pipmadeley",
+								"display_url": "youtube.com/pipmadeley",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14020,
+				"friends_count": 328,
+				"listed_count": 84,
+				"created_at": "Tue Apr 14 20:16:21 +0000 2015",
+				"favourites_count": 36344,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26610,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1523803640103845888/zk1PyTqc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1523803640103845888/zk1PyTqc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3167037875/1660086146",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 217,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nah then. https://t.co/BK7GXtPz0y"
+	},
+	{
 		"created_at": "Mon Apr 03 20:13:27 +0000 2023",
 		"id": 1642983671887016000,
 		"id_str": "1642983671887015937",
