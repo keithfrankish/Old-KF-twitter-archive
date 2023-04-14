@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 13:15:27 +0000 2023",
+		"id": 1646499263289995300,
+		"id_str": "1646502360238137344",
+		"full_text": "Ever wondered about the The Ethical Implications of Illusionism? @keithfrankish shares his thoughts as part of the interdisciplinary #Consciousness workshop taking place today. Recordings will be available soon. @WEH_Oxford @metteleonard https://t.co/tE064Ft11n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Consciousness",
+					"indices": [
+						133,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"screen_name": "WEH_Oxford",
+					"name": "WEH Oxford",
+					"id": 915174150490263600,
+					"id_str": "915174150490263552",
+					"indices": [
+						212,
+						223
+					]
+				},
+				{
+					"screen_name": "metteleonard",
+					"name": "Mette Leonard Høeg",
+					"id": 756841407818637300,
+					"id_str": "756841407818637313",
+					"indices": [
+						224,
+						237
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646497694347567000,
+					"id_str": "1646497694347567104",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FtmI7fMWIAAAAs-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtmI7fMWIAAAAs-.jpg",
+					"url": "https://t.co/tE064Ft11n",
+					"display_url": "pic.twitter.com/tE064Ft11n",
+					"expanded_url": "https://twitter.com/ethicsinthenews/status/1646499263289995265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1051,
+							"h": 687,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1051,
+							"h": 687,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646497694347567000,
+					"id_str": "1646497694347567104",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FtmI7fMWIAAAAs-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtmI7fMWIAAAAs-.jpg",
+					"url": "https://t.co/tE064Ft11n",
+					"display_url": "pic.twitter.com/tE064Ft11n",
+					"expanded_url": "https://twitter.com/ethicsinthenews/status/1646499263289995265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1051,
+							"h": 687,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1051,
+							"h": 687,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1646497694276370400,
+					"id_str": "1646497694276370438",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FtmI7e7XwAYN-H9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtmI7e7XwAYN-H9.jpg",
+					"url": "https://t.co/tE064Ft11n",
+					"display_url": "pic.twitter.com/tE064Ft11n",
+					"expanded_url": "https://twitter.com/ethicsinthenews/status/1646499263289995265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142821259,
+			"id_str": "142821259",
+			"name": "Practical Ethics",
+			"screen_name": "ethicsinthenews",
+			"location": "Oxford, UK",
+			"description": "Oxford Uehiro Centre for Practical Ethics at the Faculty of Philosophy, University of Oxford. Exploring ethical questions for the twenty-first century.",
+			"url": "https://t.co/KrUVQBgPj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KrUVQBgPj1",
+							"expanded_url": "https://www.practicalethics.ox.ac.uk/",
+							"display_url": "practicalethics.ox.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13083,
+			"friends_count": 248,
+			"listed_count": 372,
+			"created_at": "Tue May 11 21:21:49 +0000 2010",
+			"favourites_count": 278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210351148/Untitled-1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210351148/Untitled-1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142821259/1496837582",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever wondered about the The Ethical Implications of Illusionism? @keithfrankish shares his thoughts as part of the interdisciplinary #Consciousness workshop taking place today. Recordings will be available soon. @WEH_Oxford @metteleonard https://t.co/tE064Ft11n"
+	},
+	{
 		"created_at": "Wed Apr 12 20:33:56 +0000 2023",
 		"id": 1646250319276306400,
 		"id_str": "1646250319276306437",
