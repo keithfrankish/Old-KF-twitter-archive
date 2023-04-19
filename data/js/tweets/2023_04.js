@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 16:42:24 +0000 2023",
+		"id": 1648359123967197200,
+		"id_str": "1648366377328058368",
+		"full_text": "\"Whatcha reading?\"\n\nMinotaur Reading (2022) by Beth Carter. Resin\n54 x 23 x 30 in. M Fine Arts Galerie. Photo: Artsy. net\n\nLink: https://t.co/Pnwr6NuXgv via @artsy https://t.co/fxw6raDquu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "artsy",
+					"name": "Artsy",
+					"id": 81783051,
+					"id_str": "81783051",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pnwr6NuXgv",
+					"expanded_url": "https://www.artsy.net/artwork/beth-carter-minotaur-reading-giant",
+					"display_url": "artsy.net/artwork/beth-c…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1648357679302156300,
+					"id_str": "1648357679302156301",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FuAkk3GXoA092XY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuAkk3GXoA092XY.jpg",
+					"url": "https://t.co/fxw6raDquu",
+					"display_url": "pic.twitter.com/fxw6raDquu",
+					"expanded_url": "https://twitter.com/ClassicalMyths/status/1648359123967197184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648357679302156300,
+					"id_str": "1648357679302156301",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FuAkk3GXoA092XY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuAkk3GXoA092XY.jpg",
+					"url": "https://t.co/fxw6raDquu",
+					"display_url": "pic.twitter.com/fxw6raDquu",
+					"expanded_url": "https://twitter.com/ClassicalMyths/status/1648359123967197184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1020781144491593700,
+			"id_str": "1020781144491593728",
+			"name": "Classical Mythology",
+			"screen_name": "ClassicalMyths",
+			"location": "",
+			"description": "Art. History. Classical Mythology. Best of Greek & Roman Myths (and a little Near East, too). Co-host @MythologyMonday.📜🏺⚡️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41806,
+			"friends_count": 853,
+			"listed_count": 524,
+			"created_at": "Sat Jul 21 21:22:44 +0000 2018",
+			"favourites_count": 2846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020783467146170368/0r6IsGUp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020783467146170368/0r6IsGUp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1020781144491593728/1595275765",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Whatcha reading?\"\n\nMinotaur Reading (2022) by Beth Carter. Resin\n54 x 23 x 30 in. M Fine Arts Galerie. Photo: Artsy. net\n\nLink: https://t.co/Pnwr6NuXgv via @artsy https://t.co/fxw6raDquu"
+	},
+	{
+		"created_at": "Tue Apr 18 15:24:08 +0000 2023",
+		"id": 1648346681778356200,
+		"id_str": "1648346681778356224",
+		"full_text": "My Food Disgust Sensitivity is average (40.88%). https://t.co/e5gfgTNd8B via @idr_labs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "idr_labs",
+					"name": "IDR Labs",
+					"id": 868831876315848700,
+					"id_str": "868831876315848705",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e5gfgTNd8B",
+					"expanded_url": "https://www.idrlabs.com/food-disgust/69-44-38-44-13-50-44-25/result.php",
+					"display_url": "idrlabs.com/food-disgust/6…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26696,
+			"friends_count": 2399,
+			"listed_count": 599,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 51680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My Food Disgust Sensitivity is average (40.88%). https://t.co/e5gfgTNd8B via @idr_labs"
+	},
+	{
 		"created_at": "Mon Apr 17 20:36:58 +0000 2023",
 		"id": 1648063020923342800,
 		"id_str": "1648063020923342867",
