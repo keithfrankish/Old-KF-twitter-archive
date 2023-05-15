@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sun May 14 18:24:29 +0000 2023",
+		"id": 1657810825564807200,
+		"id_str": "1657814155162681344",
+		"full_text": "1/Months in the making, here's the final cut of my story on the long-awaited wealth transfer, no longer in the future tense:\nWe're closer to 2053 than 1992.\nElites are already disbursing to heirs while alive.\nThe masses likely need luck or a paradigm shift\nhttps://t.co/FDKNafpCyV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FDKNafpCyV",
+					"expanded_url": "https://www.nytimes.com/2023/05/14/business/economy/wealth-generations.html",
+					"display_url": "nytimes.com/2023/05/14/bus…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3721009813,
+			"id_str": "3721009813",
+			"name": "talmon joseph smith",
+			"screen_name": "talmonsmith",
+			"location": "NYC via NOLA⚜️",
+			"description": "economics reporter @NYTimes for @nytimesbusiness || formerly @GQmagazine, @tufts || newyorleanian || talmon.smith@nytimes.com|| rep’d by @aevitascreative",
+			"url": "https://t.co/zEUCGxdsm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zEUCGxdsm5",
+							"expanded_url": "https://www.nytimes.com/by/talmon-joseph-smith",
+							"display_url": "nytimes.com/by/talmon-jose…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10891,
+			"friends_count": 3022,
+			"listed_count": 172,
+			"created_at": "Tue Sep 29 02:11:09 +0000 2015",
+			"favourites_count": 19891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1588850510945292288/HqEAQqlf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1588850510945292288/HqEAQqlf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3721009813/1671142441",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 220,
+		"favorite_count": 715,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/Months in the making, here's the final cut of my story on the long-awaited wealth transfer, no longer in the future tense:\nWe're closer to 2053 than 1992.\nElites are already disbursing to heirs while alive.\nThe masses likely need luck or a paradigm shift\nhttps://t.co/FDKNafpCyV"
+	},
+	{
+		"created_at": "Sun May 14 17:56:15 +0000 2023",
+		"id": 1657807046371160000,
+		"id_str": "1657807046371160065",
+		"full_text": "The big annual philosophy conference https://t.co/WtNVKjh6uf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WtNVKjh6uf",
+					"expanded_url": "https://twitter.com/MichaelWarbur17/status/1657805908544565248",
+					"display_url": "twitter.com/MichaelWarbur1…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27071,
+			"friends_count": 2405,
+			"listed_count": 602,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1657805908544565200,
+		"quoted_status_id_str": "1657805908544565248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WtNVKjh6uf",
+			"expanded": "https://twitter.com/MichaelWarbur17/status/1657805908544565248",
+			"display": "twitter.com/MichaelWarbur1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 14 17:51:43 +0000 2023",
+			"id": 1657805908544565200,
+			"id_str": "1657805908544565248",
+			"full_text": "One of the best PIE FIGHTS in movie history.\n\nTHE GREAT RACE (1965)\n\n#TonyCurtis #NatalieWood #JackLemmon #PeterFalk\n\n https://t.co/QeA5n2BW6T",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TonyCurtis",
+						"indices": [
+							69,
+							80
+						]
+					},
+					{
+						"text": "NatalieWood",
+						"indices": [
+							81,
+							93
+						]
+					},
+					{
+						"text": "JackLemmon",
+						"indices": [
+							94,
+							105
+						]
+					},
+					{
+						"text": "PeterFalk",
+						"indices": [
+							106,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1638932130091638800,
+						"id_str": "1638932130091638784",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1638932130091638784/img/5L6G1qkO-6RB3Mpv.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1638932130091638784/img/5L6G1qkO-6RB3Mpv.jpg",
+						"url": "https://t.co/QeA5n2BW6T",
+						"display_url": "pic.twitter.com/QeA5n2BW6T",
+						"expanded_url": "https://twitter.com/MichaelWarbur17/status/1638932550805770247/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 842,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 842,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 388,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1638932550805770200,
+						"source_status_id_str": "1638932550805770247",
+						"source_user_id": 1390558489915842600,
+						"source_user_id_str": "1390558489915842567"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1638932130091638800,
+						"id_str": "1638932130091638784",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1638932130091638784/img/5L6G1qkO-6RB3Mpv.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1638932130091638784/img/5L6G1qkO-6RB3Mpv.jpg",
+						"url": "https://t.co/QeA5n2BW6T",
+						"display_url": "pic.twitter.com/QeA5n2BW6T",
+						"expanded_url": "https://twitter.com/MichaelWarbur17/status/1638932550805770247/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 842,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 842,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 388,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1638932550805770200,
+						"source_status_id_str": "1638932550805770247",
+						"source_user_id": 1390558489915842600,
+						"source_user_id_str": "1390558489915842567",
+						"video_info": {
+							"aspect_ratio": [
+								421,
+								240
+							],
+							"duration_millis": 217564,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1638932130091638784/vid/630x360/lX3Tc5WiJ34zrDHj.mp4?tag=16"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1638932130091638784/vid/842x480/7JI53sIXG9tEdnzt.mp4?tag=16"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1638932130091638784/pl/JXdjsZp8aTNaLg38.m3u8?tag=16&container=fmp4"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1638932130091638784/vid/472x270/3PocIusCXoeL8V5R.mp4?tag=16"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1390558489915842600,
+								"id_str": "1390558489915842567",
+								"name": "Michael Warburton",
+								"screen_name": "MichaelWarbur17",
+								"location": "Support Me At",
+								"description": "Actor (The Strays, All About Eve, Coronation Street etc) Cinephile, Drummer. Posting stuff I like, no pandering. Backup account @TheMonologist.",
+								"url": "https://t.co/L3OMgM2z1C",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/L3OMgM2z1C",
+												"expanded_url": "https://ko-fi.com/michaelwarburton",
+												"display_url": "ko-fi.com/michaelwarburt…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 188404,
+								"friends_count": 131,
+								"listed_count": 1254,
+								"created_at": "Fri May 07 06:46:49 +0000 2021",
+								"favourites_count": 54979,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 78769,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1655626513859981330/6IhXoR25_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1655626513859981330/6IhXoR25_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390558489915842567/1656619876",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": true,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1390558489915842600,
+				"id_str": "1390558489915842567",
+				"name": "Michael Warburton",
+				"screen_name": "MichaelWarbur17",
+				"location": "Support Me At",
+				"description": "Actor (The Strays, All About Eve, Coronation Street etc) Cinephile, Drummer. Posting stuff I like, no pandering. Backup account @TheMonologist.",
+				"url": "https://t.co/L3OMgM2z1C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L3OMgM2z1C",
+								"expanded_url": "https://ko-fi.com/michaelwarburton",
+								"display_url": "ko-fi.com/michaelwarburt…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 188404,
+				"friends_count": 131,
+				"listed_count": 1254,
+				"created_at": "Fri May 07 06:46:49 +0000 2021",
+				"favourites_count": 54979,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 78769,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1655626513859981330/6IhXoR25_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1655626513859981330/6IhXoR25_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390558489915842567/1656619876",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 208,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The big annual philosophy conference https://t.co/WtNVKjh6uf"
+	},
+	{
 		"created_at": "Sat May 13 11:26:37 +0000 2023",
 		"id": 1657346606411153400,
 		"id_str": "1657346606411153409",
