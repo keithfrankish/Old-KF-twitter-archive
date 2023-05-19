@@ -1,6 +1,837 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Thu May 18 21:26:23 +0000 2023",
+		"id": 1659309481543581700,
+		"id_str": "1659309481543581697",
+		"full_text": "@fustbariclation all illusionism 'puts to bed' are the metaphysical worries surrounding consciousness; the scientific explanatory task remains. the sense of the numinous would be investigated as a natural phenomenon with complex neurological, psychological, and cultural origins",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fustbariclation",
+					"name": "Fustbariclation",
+					"id": 17705183,
+					"id_str": "17705183",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1659307272617570300,
+		"in_reply_to_status_id_str": "1659307272617570306",
+		"in_reply_to_user_id": 17705183,
+		"in_reply_to_user_id_str": "17705183",
+		"in_reply_to_screen_name": "fustbariclation",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27106,
+			"friends_count": 2407,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fustbariclation all illusionism 'puts to bed' are the metaphysical worries surrounding consciousness; the scientific explanatory task remains. the sense of the numinous would be investigated as a natural phenomenon with complex neurological, psychological, and cultural origins"
+	},
+	{
+		"created_at": "Thu May 18 19:00:41 +0000 2023",
+		"id": 1659272813142843400,
+		"id_str": "1659272813142843407",
+		"full_text": "earthquake just now in Heraklion -- not too strong",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27106,
+			"friends_count": 2407,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "earthquake just now in Heraklion -- not too strong"
+	},
+	{
+		"created_at": "Thu May 18 18:44:07 +0000 2023",
+		"id": 1659268647192260600,
+		"id_str": "1659268647192260608",
+		"full_text": "@aresteanu @sentientism Well, let's at least stop hyperanthropomorphising them",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aresteanu",
+					"name": "The Artist Formerly Known",
+					"id": 1537648639077716000,
+					"id_str": "1537648639077715970",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "sentientism",
+					"name": "@Sentientism",
+					"id": 1012063120607645700,
+					"id_str": "1012063120607645697",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1659267457259913200,
+		"in_reply_to_status_id_str": "1659267457259913217",
+		"in_reply_to_user_id": 1537648639077716000,
+		"in_reply_to_user_id_str": "1537648639077715970",
+		"in_reply_to_screen_name": "aresteanu",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27106,
+			"friends_count": 2407,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aresteanu @sentientism Well, let's at least stop hyperanthropomorphising them"
+	},
+	{
+		"created_at": "Thu May 18 18:37:21 +0000 2023",
+		"id": 1659266941301792800,
+		"id_str": "1659266941301792777",
+		"full_text": "@sentientism Yes!!!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sentientism",
+					"name": "@Sentientism",
+					"id": 1012063120607645700,
+					"id_str": "1012063120607645697",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1659256377418694700,
+		"in_reply_to_status_id_str": "1659256377418694657",
+		"in_reply_to_user_id": 1012063120607645700,
+		"in_reply_to_user_id_str": "1012063120607645697",
+		"in_reply_to_screen_name": "sentientism",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27106,
+			"friends_count": 2407,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@sentientism Yes!!!"
+	},
+	{
+		"created_at": "Thu May 18 18:36:58 +0000 2023",
+		"id": 1659256377418694700,
+		"id_str": "1659266844442632193",
+		"full_text": "#Illusionism doesn't say #sentience &amp; pain don't exist! They are some of the processing brains/nervous systems are doing. They matter!\n\nAs w/denying souls, illusionism destroys the #anthropocentric denial of sentience in non-human animals.\n\nhttps://t.co/QQhO0xMLeN @keithfrankish",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Illusionism",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "sentience",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "anthropocentric",
+					"indices": [
+						185,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						269,
+						283
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QQhO0xMLeN",
+					"expanded_url": "https://www.youtube.com/live/xZxcair9oNk",
+					"display_url": "youtube.com/live/xZxcair9o…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012063120607645700,
+			"id_str": "1012063120607645697",
+			"name": "@Sentientism",
+			"screen_name": "sentientism",
+			"location": "Earth mostly",
+			"description": "Let's try evidence, reason + compassion for all sentient beings.\n\n#Sentientist 🌱\n\nYTube: https://t.co/tKjM4hC7Oc\nPod: https://t.co/H02dPmmiag\nGroup ✊: https://t.co/gEwa0ecA4o",
+			"url": "https://t.co/2yHqvuEVkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2yHqvuEVkP",
+							"expanded_url": "https://sentientism.info",
+							"display_url": "sentientism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tKjM4hC7Oc",
+							"expanded_url": "http://bit.ly/3sggbvB",
+							"display_url": "bit.ly/3sggbvB",
+							"indices": [
+								89,
+								112
+							]
+						},
+						{
+							"url": "https://t.co/H02dPmmiag",
+							"expanded_url": "http://bit.ly/3nzlt1E",
+							"display_url": "bit.ly/3nzlt1E",
+							"indices": [
+								118,
+								141
+							]
+						},
+						{
+							"url": "https://t.co/gEwa0ecA4o",
+							"expanded_url": "http://bit.ly/35tnZxH",
+							"display_url": "bit.ly/35tnZxH",
+							"indices": [
+								151,
+								174
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4763,
+			"friends_count": 2069,
+			"listed_count": 46,
+			"created_at": "Wed Jun 27 20:00:25 +0000 2018",
+			"favourites_count": 27101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159781978968940544/hMdCPnv2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159781978968940544/hMdCPnv2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012063120607645697/1658936241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Illusionism doesn't say #sentience &amp; pain don't exist! They are some of the processing brains/nervous systems are doing. They matter!\n\nAs w/denying souls, illusionism destroys the #anthropocentric denial of sentience in non-human animals.\n\nhttps://t.co/QQhO0xMLeN @keithfrankish"
+	},
+	{
+		"created_at": "Thu May 18 14:47:14 +0000 2023",
+		"id": 1659208894407917600,
+		"id_str": "1659209030362091520",
+		"full_text": "Check out my latest article based on my conversation with @keithfrankish.\n\nThe article is divided into two parts. 1) the story of how I met Keith on Twitter, 2) a concise introduction to illusionism as I understand it. More at the below link!\n\nhttps://t.co/8PO6Itf5iE https://t.co/PWZv1xkv9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						58,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8PO6Itf5iE",
+					"expanded_url": "https://decafquest.substack.com/p/the-illusionists-quest",
+					"display_url": "decafquest.substack.com/p/the-illusion…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1659208055027019800,
+					"id_str": "1659208055027019783",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/Fwaw72haMAcsiGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fwaw72haMAcsiGs.jpg",
+					"url": "https://t.co/PWZv1xkv9o",
+					"display_url": "pic.twitter.com/PWZv1xkv9o",
+					"expanded_url": "https://twitter.com/Decafquest/status/1659208894407917587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1659208055027019800,
+					"id_str": "1659208055027019783",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/Fwaw72haMAcsiGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fwaw72haMAcsiGs.jpg",
+					"url": "https://t.co/PWZv1xkv9o",
+					"display_url": "pic.twitter.com/PWZv1xkv9o",
+					"expanded_url": "https://twitter.com/Decafquest/status/1659208894407917587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994962820872785900,
+			"id_str": "994962820872785922",
+			"name": "Mahmoud Rasmi",
+			"screen_name": "Decafquest",
+			"location": "Salamanca, Spain",
+			"description": "Asking questions.",
+			"url": "https://t.co/BR5Mr2yTlh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BR5Mr2yTlh",
+							"expanded_url": "https://mahmoudrasmi.com/",
+							"display_url": "mahmoudrasmi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6585,
+			"friends_count": 950,
+			"listed_count": 79,
+			"created_at": "Fri May 11 15:29:56 +0000 2018",
+			"favourites_count": 95970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1621163348799651842/0h46QN5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1621163348799651842/0h46QN5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994962820872785922/1662125861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out my latest article based on my conversation with @keithfrankish.\n\nThe article is divided into two parts. 1) the story of how I met Keith on Twitter, 2) a concise introduction to illusionism as I understand it. More at the below link!\n\nhttps://t.co/8PO6Itf5iE https://t.co/PWZv1xkv9o"
+	},
+	{
 		"created_at": "Wed May 17 18:53:41 +0000 2023",
 		"id": 1657675586490323000,
 		"id_str": "1658908666311974924",
