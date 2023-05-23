@@ -1,6 +1,2031 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Mon May 22 18:22:29 +0000 2023",
+		"id": 1660712754666152000,
+		"id_str": "1660712754666151945",
+		"full_text": "My kind of party. --&gt; Maverick party picks up just one vote https://t.co/NR2YzGhFFE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NR2YzGhFFE",
+					"expanded_url": "https://www.ekathimerini.com/news/1211585/maverick-party-picks-up-just-one-vote/",
+					"display_url": "ekathimerini.com/news/1211585/m…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My kind of party. --&gt; Maverick party picks up just one vote https://t.co/NR2YzGhFFE"
+	},
+	{
+		"created_at": "Mon May 22 16:02:43 +0000 2023",
+		"id": 1660677473493737500,
+		"id_str": "1660677578217123840",
+		"full_text": "About to go live! https://t.co/heoa2ohzem",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/heoa2ohzem",
+					"expanded_url": "https://twitter.com/Philip_Goff/status/1660581245586227200",
+					"display_url": "twitter.com/Philip_Goff/st…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216809385,
+			"id_str": "216809385",
+			"name": "Philip Goff",
+			"screen_name": "Philip_Goff",
+			"location": "Durham, England",
+			"description": "Associate Professor of Philosophy, author of 'Galileo's Error' & co-host of 'Mind Chat.' I research consciousness. Panpsychist, socialist, practicing agnostic.",
+			"url": "https://t.co/08S5UaFPTV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/08S5UaFPTV",
+							"expanded_url": "http://www.philipgoffphilosophy.com",
+							"display_url": "philipgoffphilosophy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24256,
+			"friends_count": 1436,
+			"listed_count": 345,
+			"created_at": "Wed Nov 17 19:46:56 +0000 2010",
+			"favourites_count": 22626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440999315074338817/dO8B4lo0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440999315074338817/dO8B4lo0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216809385/1574435202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1660581245586227200,
+		"quoted_status_id_str": "1660581245586227200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/heoa2ohzem",
+			"expanded": "https://twitter.com/Philip_Goff/status/1660581245586227200",
+			"display": "twitter.com/Philip_Goff/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 22 09:39:55 +0000 2023",
+			"id": 1660581245586227200,
+			"id_str": "1660581245586227200",
+			"full_text": "What is Reality? @keithfrankish and I hope to find out when we Mind Chat with @donalddhoffman today 5pm UK time.  \nhttps://t.co/PNxa50McLH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "keithfrankish",
+						"name": "Keith Frankish",
+						"id": 52522040,
+						"id_str": "52522040",
+						"indices": [
+							17,
+							31
+						]
+					},
+					{
+						"screen_name": "donalddhoffman",
+						"name": "Donald Hoffman",
+						"id": 143851319,
+						"id_str": "143851319",
+						"indices": [
+							78,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PNxa50McLH",
+						"expanded_url": "https://www.youtube.com/watch?v=icY3Fuik2W4",
+						"display_url": "youtube.com/watch?v=icY3Fu…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216809385,
+				"id_str": "216809385",
+				"name": "Philip Goff",
+				"screen_name": "Philip_Goff",
+				"location": "Durham, England",
+				"description": "Associate Professor of Philosophy, author of 'Galileo's Error' & co-host of 'Mind Chat.' I research consciousness. Panpsychist, socialist, practicing agnostic.",
+				"url": "https://t.co/08S5UaFPTV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/08S5UaFPTV",
+								"expanded_url": "http://www.philipgoffphilosophy.com",
+								"display_url": "philipgoffphilosophy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24256,
+				"friends_count": 1436,
+				"listed_count": 345,
+				"created_at": "Wed Nov 17 19:46:56 +0000 2010",
+				"favourites_count": 22626,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23221,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1440999315074338817/dO8B4lo0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440999315074338817/dO8B4lo0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216809385/1574435202",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "About to go live! https://t.co/heoa2ohzem"
+	},
+	{
+		"created_at": "Mon May 22 15:32:31 +0000 2023",
+		"id": 1660669981313360000,
+		"id_str": "1660669981313359873",
+		"full_text": "Going to do this shortly https://t.co/xnGU2p7dtu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xnGU2p7dtu",
+					"expanded_url": "https://twitter.com/Philip_Goff/status/1660581245586227200",
+					"display_url": "twitter.com/Philip_Goff/st…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1660581245586227200,
+		"quoted_status_id_str": "1660581245586227200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xnGU2p7dtu",
+			"expanded": "https://twitter.com/Philip_Goff/status/1660581245586227200",
+			"display": "twitter.com/Philip_Goff/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 22 09:39:55 +0000 2023",
+			"id": 1660581245586227200,
+			"id_str": "1660581245586227200",
+			"full_text": "What is Reality? @keithfrankish and I hope to find out when we Mind Chat with @donalddhoffman today 5pm UK time.  \nhttps://t.co/PNxa50McLH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "keithfrankish",
+						"name": "Keith Frankish",
+						"id": 52522040,
+						"id_str": "52522040",
+						"indices": [
+							17,
+							31
+						]
+					},
+					{
+						"screen_name": "donalddhoffman",
+						"name": "Donald Hoffman",
+						"id": 143851319,
+						"id_str": "143851319",
+						"indices": [
+							78,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PNxa50McLH",
+						"expanded_url": "https://www.youtube.com/watch?v=icY3Fuik2W4",
+						"display_url": "youtube.com/watch?v=icY3Fu…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216809385,
+				"id_str": "216809385",
+				"name": "Philip Goff",
+				"screen_name": "Philip_Goff",
+				"location": "Durham, England",
+				"description": "Associate Professor of Philosophy, author of 'Galileo's Error' & co-host of 'Mind Chat.' I research consciousness. Panpsychist, socialist, practicing agnostic.",
+				"url": "https://t.co/08S5UaFPTV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/08S5UaFPTV",
+								"expanded_url": "http://www.philipgoffphilosophy.com",
+								"display_url": "philipgoffphilosophy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24256,
+				"friends_count": 1436,
+				"listed_count": 345,
+				"created_at": "Wed Nov 17 19:46:56 +0000 2010",
+				"favourites_count": 22626,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23221,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1440999315074338817/dO8B4lo0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440999315074338817/dO8B4lo0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216809385/1574435202",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Going to do this shortly https://t.co/xnGU2p7dtu"
+	},
+	{
+		"created_at": "Mon May 22 15:31:23 +0000 2023",
+		"id": 1660669692099326000,
+		"id_str": "1660669692099325953",
+		"full_text": "@petemandik @GhostCoase @Philip_Goff @donalddhoffman Woahism ftw!",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petemandik",
+					"name": "Pete Mandik",
+					"id": 61481161,
+					"id_str": "61481161",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "GhostCoase",
+					"name": "Coase’s Ghost 🏴🌱🧟🪷",
+					"id": 1491210019206930400,
+					"id_str": "1491210019206930435",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "Philip_Goff",
+					"name": "Philip Goff",
+					"id": 216809385,
+					"id_str": "216809385",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "donalddhoffman",
+					"name": "Donald Hoffman",
+					"id": 143851319,
+					"id_str": "143851319",
+					"indices": [
+						37,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1660669185502896000,
+		"in_reply_to_status_id_str": "1660669185502896129",
+		"in_reply_to_user_id": 61481161,
+		"in_reply_to_user_id_str": "61481161",
+		"in_reply_to_screen_name": "petemandik",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@petemandik @GhostCoase @Philip_Goff @donalddhoffman Woahism ftw!"
+	},
+	{
+		"created_at": "Mon May 22 15:10:28 +0000 2023",
+		"id": 1660664429858439200,
+		"id_str": "1660664429858439168",
+		"full_text": "@garethsouthwell @NeilDaviesArt I think @petemandik may have a patent on Hmmism",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "garethsouthwell",
+					"name": "Gareth Southwell",
+					"id": 80937864,
+					"id_str": "80937864",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "NeilDaviesArt",
+					"name": "Neil Davies Illustration",
+					"id": 69319975,
+					"id_str": "69319975",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "petemandik",
+					"name": "Pete Mandik",
+					"id": 61481161,
+					"id_str": "61481161",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1660663923031396400,
+		"in_reply_to_status_id_str": "1660663923031396354",
+		"in_reply_to_user_id": 80937864,
+		"in_reply_to_user_id_str": "80937864",
+		"in_reply_to_screen_name": "garethsouthwell",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@garethsouthwell @NeilDaviesArt I think @petemandik may have a patent on Hmmism"
+	},
+	{
+		"created_at": "Mon May 22 14:01:58 +0000 2023",
+		"id": 1660647190975373300,
+		"id_str": "1660647190975373314",
+		"full_text": "Thinking of rechristening illusionism 'head-banging-realism-about-all-aspects-of-consciousness-except-the-one-that-presents-a-hard problem-ISM'",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Thinking of rechristening illusionism 'head-banging-realism-about-all-aspects-of-consciousness-except-the-one-that-presents-a-hard problem-ISM'"
+	},
+	{
+		"created_at": "Mon May 22 13:50:20 +0000 2023",
+		"id": 1660644263053410300,
+		"id_str": "1660644263053410308",
+		"full_text": "@tomwelcomeclark @anilkseth @danieldennett @DrSueSchneider what exactly do you mean by 'qualitative'?",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomwelcomeclark",
+					"name": "Tom Clark",
+					"id": 1092112738061611000,
+					"id_str": "1092112738061611009",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "anilkseth",
+					"name": "Anil Seth",
+					"id": 202573676,
+					"id_str": "202573676",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "danieldennett",
+					"name": "Daniel Dennett",
+					"id": 997629601,
+					"id_str": "997629601",
+					"indices": [
+						28,
+						42
+					]
+				},
+				{
+					"screen_name": "DrSueSchneider",
+					"name": "Susan Schneider",
+					"id": 975058405848158200,
+					"id_str": "975058405848158208",
+					"indices": [
+						43,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1660624476701180000,
+		"in_reply_to_status_id_str": "1660624476701179904",
+		"in_reply_to_user_id": 1092112738061611000,
+		"in_reply_to_user_id_str": "1092112738061611009",
+		"in_reply_to_screen_name": "tomwelcomeclark",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tomwelcomeclark @anilkseth @danieldennett @DrSueSchneider what exactly do you mean by 'qualitative'?"
+	},
+	{
+		"created_at": "Mon May 22 13:49:38 +0000 2023",
+		"id": 1660644088322957300,
+		"id_str": "1660644088322957315",
+		"full_text": "@garethsouthwell and I'm not arguing that consciousness doesn't either!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "garethsouthwell",
+					"name": "Gareth Southwell",
+					"id": 80937864,
+					"id_str": "80937864",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1660633102023114800,
+		"in_reply_to_status_id_str": "1660633102023114753",
+		"in_reply_to_user_id": 80937864,
+		"in_reply_to_user_id_str": "80937864",
+		"in_reply_to_screen_name": "garethsouthwell",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@garethsouthwell and I'm not arguing that consciousness doesn't either!"
+	},
+	{
+		"created_at": "Mon May 22 11:58:44 +0000 2023",
+		"id": 1660616179017306000,
+		"id_str": "1660616179017306113",
+		"full_text": "@tomwelcomeclark @anilkseth @danieldennett @DrSueSchneider There is definitely some property by which we recognize it. We don't recognize it by magic! It's what I call a quasi phenomenal property. But its nature isn't directly revealed to us in the way that the nature of a quale is supposed to be",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			297
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomwelcomeclark",
+					"name": "Tom Clark",
+					"id": 1092112738061611000,
+					"id_str": "1092112738061611009",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "anilkseth",
+					"name": "Anil Seth",
+					"id": 202573676,
+					"id_str": "202573676",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "danieldennett",
+					"name": "Daniel Dennett",
+					"id": 997629601,
+					"id_str": "997629601",
+					"indices": [
+						28,
+						42
+					]
+				},
+				{
+					"screen_name": "DrSueSchneider",
+					"name": "Susan Schneider",
+					"id": 975058405848158200,
+					"id_str": "975058405848158208",
+					"indices": [
+						43,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1660606964135542800,
+		"in_reply_to_status_id_str": "1660606964135542785",
+		"in_reply_to_user_id": 1092112738061611000,
+		"in_reply_to_user_id_str": "1092112738061611009",
+		"in_reply_to_screen_name": "tomwelcomeclark",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tomwelcomeclark @anilkseth @danieldennett @DrSueSchneider There is definitely some property by which we recognize it. We don't recognize it by magic! It's what I call a quasi phenomenal property. But its nature isn't directly revealed to us in the way that the nature of a quale is supposed to be"
+	},
+	{
+		"created_at": "Mon May 22 09:06:44 +0000 2023",
+		"id": 1660572895624528000,
+		"id_str": "1660572895624527872",
+		"full_text": "@musicalcolin Maybe you're thinking that illusionism makes a broader claim than it does. Claim isn't that experience is illusory, only that certain supposed properties of it are (viz the intrinsic what-it-is-likenesses or qualia that are said to pose a hard problem).",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "musicalcolin",
+					"name": "Colin is tormented by the nothingness",
+					"id": 765919446166798300,
+					"id_str": "765919446166798336",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1660570617442369500,
+		"in_reply_to_status_id_str": "1660570617442369541",
+		"in_reply_to_user_id": 765919446166798300,
+		"in_reply_to_user_id_str": "765919446166798336",
+		"in_reply_to_screen_name": "musicalcolin",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@musicalcolin Maybe you're thinking that illusionism makes a broader claim than it does. Claim isn't that experience is illusory, only that certain supposed properties of it are (viz the intrinsic what-it-is-likenesses or qualia that are said to pose a hard problem)."
+	},
+	{
+		"created_at": "Mon May 22 08:52:03 +0000 2023",
+		"id": 1660569196927897600,
+		"id_str": "1660569196927897601",
+		"full_text": "@musicalcolin I agree completely",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "musicalcolin",
+					"name": "Colin is tormented by the nothingness",
+					"id": 765919446166798300,
+					"id_str": "765919446166798336",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1660563591823790000,
+		"in_reply_to_status_id_str": "1660563591823790081",
+		"in_reply_to_user_id": 765919446166798300,
+		"in_reply_to_user_id_str": "765919446166798336",
+		"in_reply_to_screen_name": "musicalcolin",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@musicalcolin I agree completely"
+	},
+	{
+		"created_at": "Mon May 22 08:21:44 +0000 2023",
+		"id": 1660561567941898200,
+		"id_str": "1660561567941898240",
+		"full_text": "@musicalcolin Same with introspection",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "musicalcolin",
+					"name": "Colin is tormented by the nothingness",
+					"id": 765919446166798300,
+					"id_str": "765919446166798336",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1660483002441568300,
+		"in_reply_to_status_id_str": "1660483002441568257",
+		"in_reply_to_user_id": 765919446166798300,
+		"in_reply_to_user_id_str": "765919446166798336",
+		"in_reply_to_screen_name": "musicalcolin",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@musicalcolin Same with introspection"
+	},
+	{
+		"created_at": "Mon May 22 03:04:41 +0000 2023",
+		"id": 1660481782863605800,
+		"id_str": "1660481782863605760",
+		"full_text": "@tomwelcomeclark @anilkseth @danieldennett @DrSueSchneider pain has characteristic properties by which we recognize it, but these properties aren't known to us in the way qualia are supposed to be known",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomwelcomeclark",
+					"name": "Tom Clark",
+					"id": 1092112738061611000,
+					"id_str": "1092112738061611009",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "anilkseth",
+					"name": "Anil Seth",
+					"id": 202573676,
+					"id_str": "202573676",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "danieldennett",
+					"name": "Daniel Dennett",
+					"id": 997629601,
+					"id_str": "997629601",
+					"indices": [
+						28,
+						42
+					]
+				},
+				{
+					"screen_name": "DrSueSchneider",
+					"name": "Susan Schneider",
+					"id": 975058405848158200,
+					"id_str": "975058405848158208",
+					"indices": [
+						43,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1660418315427127300,
+		"in_reply_to_status_id_str": "1660418315427127296",
+		"in_reply_to_user_id": 1092112738061611000,
+		"in_reply_to_user_id_str": "1092112738061611009",
+		"in_reply_to_screen_name": "tomwelcomeclark",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tomwelcomeclark @anilkseth @danieldennett @DrSueSchneider pain has characteristic properties by which we recognize it, but these properties aren't known to us in the way qualia are supposed to be known"
+	},
+	{
+		"created_at": "Mon May 22 03:00:43 +0000 2023",
+		"id": 1660480781100232700,
+		"id_str": "1660480781100232705",
+		"full_text": "@mattsigl I don't believe that introspection is necessary for experience",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattsigl",
+					"name": "Matt Sigl",
+					"id": 24967313,
+					"id_str": "24967313",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1660462889789161500,
+		"in_reply_to_status_id_str": "1660462889789161472",
+		"in_reply_to_user_id": 24967313,
+		"in_reply_to_user_id_str": "24967313",
+		"in_reply_to_screen_name": "mattsigl",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27158,
+			"friends_count": 2406,
+			"listed_count": 601,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mattsigl I don't believe that introspection is necessary for experience"
+	},
+	{
 		"created_at": "Sun May 21 20:23:38 +0000 2023",
 		"id": 1660380852927201300,
 		"id_str": "1660380852927201280",
