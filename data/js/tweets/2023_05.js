@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Mon May 29 17:15:27 +0000 2023",
+		"id": 1663149428184588300,
+		"id_str": "1663232599114891264",
+		"full_text": "A conference #TSC2023 was held last week — an important event for contemporary philosophy of mind. Our latest issue also addresses this area: Maxim Gorbachev reflected on the book “Illusionism” by @keithfrankish : https://t.co/GiHnxzbnMr \n#PhilsophyTwitter #AcademicTwitter https://t.co/YT2dDdMsCC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TSC2023",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"text": "PhilsophyTwitter",
+					"indices": [
+						239,
+						256
+					]
+				},
+				{
+					"text": "AcademicTwitter",
+					"indices": [
+						257,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						197,
+						211
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GiHnxzbnMr",
+					"expanded_url": "https://goo.su/bFZlE",
+					"display_url": "goo.su/bFZlE",
+					"indices": [
+						214,
+						237
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1663149423218552800,
+					"id_str": "1663149423218552832",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FxSxlrNWcAA65Cw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxSxlrNWcAA65Cw.jpg",
+					"url": "https://t.co/YT2dDdMsCC",
+					"display_url": "pic.twitter.com/YT2dDdMsCC",
+					"expanded_url": "https://twitter.com/philosophy_hse/status/1663149428184588295/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1663149423218552800,
+					"id_str": "1663149423218552832",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FxSxlrNWcAA65Cw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxSxlrNWcAA65Cw.jpg",
+					"url": "https://t.co/YT2dDdMsCC",
+					"display_url": "pic.twitter.com/YT2dDdMsCC",
+					"expanded_url": "https://twitter.com/philosophy_hse/status/1663149428184588295/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1568518219723427800,
+			"id_str": "1568518219723427842",
+			"name": "Philosophy. Journal of the HSE",
+			"screen_name": "philosophy_hse",
+			"location": "",
+			"description": "Philosophy. Journal of the HSE builds bridges between different areas of philosophical research. Subscribe to be aware of current trends in philosophy!",
+			"url": "https://t.co/mjPWNZGpdN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjPWNZGpdN",
+							"expanded_url": "https://philosophy.hse.ru/index.php/philosophy/",
+							"display_url": "philosophy.hse.ru/index.php/phil…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 492,
+			"friends_count": 423,
+			"listed_count": 4,
+			"created_at": "Sat Sep 10 08:34:37 +0000 2022",
+			"favourites_count": 233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1616111419132416002/WsImtV0G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1616111419132416002/WsImtV0G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1568518219723427842/1674148463",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A conference #TSC2023 was held last week — an important event for contemporary philosophy of mind. Our latest issue also addresses this area: Maxim Gorbachev reflected on the book “Illusionism” by @keithfrankish : https://t.co/GiHnxzbnMr \n#PhilsophyTwitter #AcademicTwitter https://t.co/YT2dDdMsCC"
+	},
+	{
 		"created_at": "Sun May 28 15:42:48 +0000 2023",
 		"id": 1662846895348150300,
 		"id_str": "1662846895348150272",
