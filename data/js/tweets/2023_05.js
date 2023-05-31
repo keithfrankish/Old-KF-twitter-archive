@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Tue May 30 21:31:04 +0000 2023",
+		"id": 1663659314219831300,
+		"id_str": "1663659314219831297",
+		"full_text": "A bit of advice to myself I've just found in an old diary: \"Remember the good things you have made happen. Act so as to have such things to remember.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27259,
+			"friends_count": 2409,
+			"listed_count": 602,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A bit of advice to myself I've just found in an old diary: \"Remember the good things you have made happen. Act so as to have such things to remember.\""
+	},
+	{
+		"created_at": "Tue May 30 14:13:36 +0000 2023",
+		"id": 1663549222690627600,
+		"id_str": "1663549222690627585",
+		"full_text": "@danfalk I made it up",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danfalk",
+					"name": "Dan Falk",
+					"id": 16469647,
+					"id_str": "16469647",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1663547935387455500,
+		"in_reply_to_status_id_str": "1663547935387455488",
+		"in_reply_to_user_id": 16469647,
+		"in_reply_to_user_id_str": "16469647",
+		"in_reply_to_screen_name": "danfalk",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27259,
+			"friends_count": 2409,
+			"listed_count": 602,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@danfalk I made it up"
+	},
+	{
+		"created_at": "Tue May 30 14:04:50 +0000 2023",
+		"id": 1663215912831586300,
+		"id_str": "1663547016285409281",
+		"full_text": "The Major Functions of Consciousness:\n\n1. Definition and Frame-setting\n2. Adaptation and learning\n3. Editing, Flagging, and Debugging\n4. Recruiting and Control Function\n5. Prioritizing and Access-control\n6. Decision-making or Executive Function\n7. Analogy-forming Function\n8.… https://t.co/Nm0tAjRnf4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			300
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nm0tAjRnf4",
+					"expanded_url": "https://twitter.com/i/web/status/1663215912831586304",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1042140010227617800,
+			"id_str": "1042140010227617793",
+			"name": "Bernard J. Baars, PhD",
+			"screen_name": "BernardJBaars",
+			"location": "San Diego, CA",
+			"description": "Author in psychobiology, originator of Global Workspace Theory #GWT, a theory of human cognitive architecture, cortex & consciousness. Podcast #OnConsciousness",
+			"url": "https://t.co/pOlQsCAzt5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pOlQsCAzt5",
+							"expanded_url": "https://bernardbaars.com/podcast-baars-on-consciousness/",
+							"display_url": "bernardbaars.com/podcast-baars-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2549,
+			"friends_count": 1617,
+			"listed_count": 48,
+			"created_at": "Tue Sep 18 19:55:15 +0000 2018",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363157037274697730/wUdAuzp0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363157037274697730/wUdAuzp0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1042140010227617793/1676006943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 84,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Major Functions of Consciousness:\n\n1. Definition and Frame-setting\n2. Adaptation and learning\n3. Editing, Flagging, and Debugging\n4. Recruiting and Control Function\n5. Prioritizing and Access-control\n6. Decision-making or Executive Function\n7. Analogy-forming Function\n8.… https://t.co/Nm0tAjRnf4"
+	},
+	{
 		"created_at": "Mon May 29 17:15:27 +0000 2023",
 		"id": 1663149428184588300,
 		"id_str": "1663232599114891264",
