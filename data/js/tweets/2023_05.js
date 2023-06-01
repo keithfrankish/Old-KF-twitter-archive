@@ -1,6 +1,809 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Wed May 31 21:47:20 +0000 2023",
+		"id": 1664025796141281300,
+		"id_str": "1664025796141281281",
+		"full_text": "@Vekica It'll be interesting to see what happens. Will we tire of our omniscient AI penpals or will we let them rewrite our lives?",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vekica",
+					"name": "Vekica",
+					"id": 18205567,
+					"id_str": "18205567",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1664020887266529300,
+		"in_reply_to_status_id_str": "1664020887266529281",
+		"in_reply_to_user_id": 18205567,
+		"in_reply_to_user_id_str": "18205567",
+		"in_reply_to_screen_name": "Vekica",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27264,
+			"friends_count": 2411,
+			"listed_count": 602,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Vekica It'll be interesting to see what happens. Will we tire of our omniscient AI penpals or will we let them rewrite our lives?"
+	},
+	{
+		"created_at": "Wed May 31 18:48:56 +0000 2023",
+		"id": 1663980901536022500,
+		"id_str": "1663980901536022547",
+		"full_text": "@TobiasSchlicht4 Yes, that's why I went into philosophy instead. Much less of the arm-in-cow business. And none at all some weeks!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TobiasSchlicht4",
+					"name": "Tobias Schlicht",
+					"id": 1482319526331134000,
+					"id_str": "1482319526331133959",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1663980050402746400,
+		"in_reply_to_status_id_str": "1663980050402746368",
+		"in_reply_to_user_id": 1482319526331134000,
+		"in_reply_to_user_id_str": "1482319526331133959",
+		"in_reply_to_screen_name": "TobiasSchlicht4",
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27264,
+			"friends_count": 2411,
+			"listed_count": 602,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TobiasSchlicht4 Yes, that's why I went into philosophy instead. Much less of the arm-in-cow business. And none at all some weeks!"
+	},
+	{
+		"created_at": "Wed May 31 18:10:45 +0000 2023",
+		"id": 1663971292079374300,
+		"id_str": "1663971292079374348",
+		"full_text": "AI 'godfather' Yoshua Bengio feels 'lost' over life's work - BBC News https://t.co/6BKMdBFpIQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6BKMdBFpIQ",
+					"expanded_url": "https://www.bbc.com/news/technology-65760449",
+					"display_url": "bbc.com/news/technolog…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27264,
+			"friends_count": 2411,
+			"listed_count": 602,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AI 'godfather' Yoshua Bengio feels 'lost' over life's work - BBC News https://t.co/6BKMdBFpIQ"
+	},
+	{
+		"created_at": "Wed May 31 16:10:59 +0000 2023",
+		"id": 1663941148971286500,
+		"id_str": "1663941148971286531",
+		"full_text": "https://t.co/Y0qj0os1DT https://t.co/52t7z9WghF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0qj0os1DT",
+					"expanded_url": "https://twitter.com/Ljiljana1972/status/1661828786290040885",
+					"display_url": "twitter.com/Ljiljana1972/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1663941097372934100,
+					"id_str": "1663941097372934144",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FxeBnLQWYAA4ZFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxeBnLQWYAA4ZFq.jpg",
+					"url": "https://t.co/52t7z9WghF",
+					"display_url": "pic.twitter.com/52t7z9WghF",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1663941148971286531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 310,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 310,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 328,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1663941097372934100,
+					"id_str": "1663941097372934144",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FxeBnLQWYAA4ZFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxeBnLQWYAA4ZFq.jpg",
+					"url": "https://t.co/52t7z9WghF",
+					"display_url": "pic.twitter.com/52t7z9WghF",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1663941148971286531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 310,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 310,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 328,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1663941124359090200,
+					"id_str": "1663941124359090177",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FxeBovyWcAEl36q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxeBovyWcAEl36q.jpg",
+					"url": "https://t.co/52t7z9WghF",
+					"display_url": "pic.twitter.com/52t7z9WghF",
+					"expanded_url": "https://twitter.com/keithfrankish/status/1663941148971286531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 758,
+							"h": 717,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 643,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 758,
+							"h": 717,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher, writer, Ελληνοβρετανός. Hon Professor @sheffielduni. Mind, consciousness, illusionism, cog-sci, Ελλάδα. Podcast: https://t.co/kyMR0mRBqm",
+			"url": "https://t.co/B6jDJI5AoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6jDJI5AoE",
+							"expanded_url": "https://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kyMR0mRBqm",
+							"expanded_url": "http://youtube.com/c/MindChat",
+							"display_url": "youtube.com/c/MindChat",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27264,
+			"friends_count": 2411,
+			"listed_count": 602,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 52103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642127300199063553/5C6XMZ7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1668875289",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1661828786290040800,
+		"quoted_status_id_str": "1661828786290040885",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y0qj0os1DT",
+			"expanded": "https://twitter.com/Ljiljana1972/status/1661828786290040885",
+			"display": "twitter.com/Ljiljana1972/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 25 20:17:12 +0000 2023",
+			"id": 1661828786290040800,
+			"id_str": "1661828786290040885",
+			"full_text": "Show me the movie or television character you wanted to be growing up vs the one you feel like you became. https://t.co/abMRibaNPy https://t.co/AAC0PL72a6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/abMRibaNPy",
+						"expanded_url": "https://twitter.com/sjggraham/status/1661822141241622531",
+						"display_url": "twitter.com/sjggraham/stat…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1661824096835870700,
+						"id_str": "1661824096835870791",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/Fw_8NhsWIEcK6Mr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fw_8NhsWIEcK6Mr.jpg",
+						"url": "https://t.co/AAC0PL72a6",
+						"display_url": "pic.twitter.com/AAC0PL72a6",
+						"expanded_url": "https://twitter.com/Ljiljana1972/status/1661828786290040885/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 694,
+								"h": 938,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 694,
+								"h": 938,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 503,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1661824096835870700,
+						"id_str": "1661824096835870791",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/Fw_8NhsWIEcK6Mr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fw_8NhsWIEcK6Mr.jpg",
+						"url": "https://t.co/AAC0PL72a6",
+						"display_url": "pic.twitter.com/AAC0PL72a6",
+						"expanded_url": "https://twitter.com/Ljiljana1972/status/1661828786290040885/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 694,
+								"h": 938,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 694,
+								"h": 938,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 503,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1661828233031983000,
+						"id_str": "1661828233031983112",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/Fw__-SOWIAgjI20.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fw__-SOWIAgjI20.jpg",
+						"url": "https://t.co/AAC0PL72a6",
+						"display_url": "pic.twitter.com/AAC0PL72a6",
+						"expanded_url": "https://twitter.com/Ljiljana1972/status/1661828786290040885/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 418,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 418,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823096814895239200,
+				"id_str": "823096814895239168",
+				"name": "Pelagia",
+				"screen_name": "Ljiljana1972",
+				"location": "",
+				"description": "Professor of philosophy, becoming a nun is not off the table yet",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7527,
+				"friends_count": 1510,
+				"listed_count": 94,
+				"created_at": "Sun Jan 22 09:15:47 +0000 2017",
+				"favourites_count": 111278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40038,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1645762872801214471/A7jm_z6F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645762872801214471/A7jm_z6F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823096814895239168/1615305388",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1661822141241622500,
+			"quoted_status_id_str": "1661822141241622531",
+			"quoted_status_permalink": {
+				"url": "https://t.co/abMRibaNPy",
+				"expanded": "https://twitter.com/sjggraham/status/1661822141241622531",
+				"display": "twitter.com/sjggraham/stat…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/Y0qj0os1DT https://t.co/52t7z9WghF"
+	},
+	{
 		"created_at": "Tue May 30 21:31:04 +0000 2023",
 		"id": 1663659314219831300,
 		"id_str": "1663659314219831297",
